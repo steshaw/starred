@@ -3203,7 +3203,6 @@
 ## Oz 
 
 - [mozart/mozart2](https://github.com/mozart/mozart2) - Mozart Programming System v2
-- [yjaradin/mozart2](https://github.com/yjaradin/mozart2) - 
 
 ## PHP 
 
