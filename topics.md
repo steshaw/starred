@@ -5290,7 +5290,6 @@
 - [steshaw/haskell-amuse-bouche](https://github.com/steshaw/haskell-amuse-bouche) - A short technical talk about some fun things in Haskell
 - [NICTA/scoobi](https://github.com/NICTA/scoobi) - A Scala productivity framework for Hadoop.
 - [toji/building-the-game](https://github.com/toji/building-the-game) - Source for the series of blog posts "Building the Game" on Tojicode
-- [yjaradin/mozart2](https://github.com/yjaradin/mozart2) - 
 - [steshaw/blue](https://github.com/steshaw/blue) - Matt Stall's C# compiler in C# http://blogs.msdn.com/b/jmstall/archive/2005/02/06/368192.aspx
 - [valotrading/zeromq-scala-binding](https://github.com/valotrading/zeromq-scala-binding) - Scala binding for ZeroMQ
 - [mzero/haskell-amuse-bouche](https://github.com/mzero/haskell-amuse-bouche) - A short technical talk about some fun things in Haskell
