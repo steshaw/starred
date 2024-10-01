@@ -61,6 +61,7 @@
 - [LiveScript](#livescript)
 - [Lua](#lua)
 - [MATLAB](#matlab)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mercury](#mercury)
@@ -225,9 +226,9 @@
 - [gittup/tup](https://github.com/gittup/tup) - Tup is a file-based build system.
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [systemd/casync](https://github.com/systemd/casync) - Content-Addressable Data Synchronization Tool
-- [Hirrolot/interface99](https://github.com/Hirrolot/interface99) - Full-featured interfaces for C99
-- [Hirrolot/datatype99](https://github.com/Hirrolot/datatype99) - Algebraic data types for C99
-- [Hirrolot/metalang99](https://github.com/Hirrolot/metalang99) - Full-blown preprocessor metaprogramming
+- [hirrolot/interface99](https://github.com/hirrolot/interface99) - Full-featured interfaces for C99
+- [hirrolot/datatype99](https://github.com/hirrolot/datatype99) - Algebraic data types for C99
+- [hirrolot/metalang99](https://github.com/hirrolot/metalang99) - Full-blown preprocessor metaprogramming
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
 - [eulerto/wal2json](https://github.com/eulerto/wal2json) - JSON output plugin for changeset extraction
 - [kozross/diablerie](https://github.com/kozross/diablerie) - All the byte bashing you didn't know you wanted in Haskell.
@@ -2716,6 +2717,10 @@
 
 - [scheinerman/InvitationToDynamicalSystems](https://github.com/scheinerman/InvitationToDynamicalSystems) - Download my book "Invitation to Dynamical Systems" and its solution manual.
 
+## MDX 
+
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+
 ## Makefile 
 
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
@@ -3542,6 +3547,7 @@
 
 ## Rust 
 
+- [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [Marwes/haskell-compiler](https://github.com/Marwes/haskell-compiler) - A mostly functional haskell compiler written in rust
@@ -3770,6 +3776,7 @@
 
 ## Scala 
 
+- [softwaremill/bootzooka](https://github.com/softwaremill/bootzooka) - Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc.
 - [opalj/opal](https://github.com/opalj/opal) - 
 - [b-studios/java-effekt](https://github.com/b-studios/java-effekt) - Effect Handlers for Java / the JVM
 - [effekt-lang/effekt](https://github.com/effekt-lang/effekt) - A language with lexical effect handlers and lightweight effect polymorphism
@@ -3849,7 +3856,6 @@
 - [spray/spray-json](https://github.com/spray/spray-json) - A lightweight, clean and simple JSON implementation in Scala
 - [adamw/veripacks](https://github.com/adamw/veripacks) - Verify Package Specifications
 - [softwaremill/elasticmq](https://github.com/softwaremill/elasticmq) - In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.
-- [softwaremill/bootzooka](https://github.com/softwaremill/bootzooka) - Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc.
 - [softwaremill/macwire](https://github.com/softwaremill/macwire) - Zero-cost, compile-time, type-safe dependency injection library.
 - [typelevel/scala](https://github.com/typelevel/scala) - Typelevel Scala, a fork of Scala
 - [Philippus/elastic4s](https://github.com/Philippus/elastic4s) - 🔍 Elasticsearch Scala Client - Reactive, Non Blocking, Type Safe, HTTP Client
@@ -4211,6 +4217,8 @@
 
 ## TypeScript 
 
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [swordev/suid](https://github.com/swordev/suid) - A port of Material-UI (MUI) built with SolidJS.
 - [sst/ion](https://github.com/sst/ion) - SST v3
 - [sst/sst](https://github.com/sst/sst) - SST v2
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
