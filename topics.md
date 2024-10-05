@@ -1644,6 +1644,7 @@
 - [javalin/javalin](https://github.com/javalin/javalin) - A simple and modern Java and Kotlin web framework
 - [jqwik-team/jqwik](https://github.com/jqwik-team/jqwik) - Property-Based Testing on the JUnit Platform
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - The complete Authentication and User Management solution for developers.
+- [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [dlang/dmd](https://github.com/dlang/dmd) - dmd D Programming Language compiler
 - [redeclipse/base](https://github.com/redeclipse/base) - Base environment for Red Eclipse and associated source files.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
@@ -1754,7 +1755,6 @@
 - [diku-dk/futhark](https://github.com/diku-dk/futhark) - :boom::computer::boom: A data-parallel functional programming language
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [ember-bootstrap/ember-bootstrap](https://github.com/ember-bootstrap/ember-bootstrap) - Ember-cli addon for using Bootstrap as native Ember components.
-- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [stackbuilders/dotenv-hs](https://github.com/stackbuilders/dotenv-hs) - Load environment variables from dotenv files for Haskell
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [opencats/OpenCATS](https://github.com/opencats/OpenCATS) - Applicant Tracking System (maintained code base)
@@ -3002,6 +3002,8 @@
 
 ## others 
 
+- [basecamp/kamal-proxy](https://github.com/basecamp/kamal-proxy) - Lightweight proxy server for Kamal
+- [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [TypeFox/chevrotain-allstar](https://github.com/TypeFox/chevrotain-allstar) - Plugin module for the ALL(*) lookahead algorithm in Chevrotain
 - [slevithan/xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions
 - [slevithan/regex](https://github.com/slevithan/regex) - Regex template tag for readable, high-performance, native JS regexes, with context-aware interpolation and always-on best practices
