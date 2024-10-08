@@ -651,7 +651,7 @@
 - [hasura/graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools for building production-grade applications in TypeScript.
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [gitless-vcs/gitless](https://github.com/gitless-vcs/gitless) - A simple version control system built on top of Git
 - [killercup/cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line.
@@ -1791,6 +1791,7 @@
 - [Philippus/elastic4s](https://github.com/Philippus/elastic4s) - 🔍 Elasticsearch Scala Client - Reactive, Non Blocking, Type Safe, HTTP Client
 - [JabRef/jabref](https://github.com/JabRef/jabref) - Graphical Java application for managing BibTeX and biblatex (.bib) databases
 - [internetarchive/bookreader](https://github.com/internetarchive/bookreader) - The Internet Archive BookReader
+- [undertow-io/undertow](https://github.com/undertow-io/undertow) - High performance non-blocking webserver
 - [voxpupuli/puppet-elasticsearch](https://github.com/voxpupuli/puppet-elasticsearch) - Elasticsearch Puppet module
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
@@ -2149,6 +2150,7 @@
 - [agrafix/Spock](https://github.com/agrafix/Spock) - Another Haskell web framework for rapid development
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [Philippus/elastic4s](https://github.com/Philippus/elastic4s) - 🔍 Elasticsearch Scala Client - Reactive, Non Blocking, Type Safe, HTTP Client
+- [undertow-io/undertow](https://github.com/undertow-io/undertow) - High performance non-blocking webserver
 - [twitter/finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system
 
 ## https 
@@ -2236,6 +2238,7 @@
 - [JabRef/jabref](https://github.com/JabRef/jabref) - Graphical Java application for managing BibTeX and biblatex (.bib) databases
 - [DigitalPebble/behemoth](https://github.com/DigitalPebble/behemoth) - Behemoth is an open source platform for large scale document analysis based on Apache Hadoop.
 - [apache/mahout](https://github.com/apache/mahout) - Mirror of Apache Mahout
+- [undertow-io/undertow](https://github.com/undertow-io/undertow) - High performance non-blocking webserver
 - [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [facebook/buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
@@ -2278,7 +2281,7 @@
 - [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 5 components
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools for building production-grade applications in TypeScript.
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
@@ -3002,6 +3005,7 @@
 
 ## others 
 
+- [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [basecamp/kamal-proxy](https://github.com/basecamp/kamal-proxy) - Lightweight proxy server for Kamal
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [TypeFox/chevrotain-allstar](https://github.com/TypeFox/chevrotain-allstar) - Plugin module for the ALL(*) lookahead algorithm in Chevrotain
@@ -4961,7 +4965,6 @@
 - [mitro-co/mitro](https://github.com/mitro-co/mitro) - Repository for all Mitro client & server code
 - [Matt-Esch/virtual-dom](https://github.com/Matt-Esch/virtual-dom) - A Virtual DOM and diffing algorithm
 - [sweirich/pi-forall](https://github.com/sweirich/pi-forall) - A demo implementation of a simple dependently-typed language
-- [undertow-io/undertow](https://github.com/undertow-io/undertow) - High performance non-blocking webserver
 - [johnclaus/algorithms](https://github.com/johnclaus/algorithms) - A repository of assorted algorithms and data structures.
 - [seL4/seL4](https://github.com/seL4/seL4) - The seL4 microkernel
 - [seL4/l4v](https://github.com/seL4/l4v) - seL4 specification and proofs
@@ -6404,7 +6407,7 @@
 - [devias-io/material-kit-react](https://github.com/devias-io/material-kit-react) - React Dashboard made with Material UI’s components. Our pro template contains features like TypeScript version, authentication system with Firebase and Auth0 plus many other
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools for building production-grade applications in TypeScript.
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript
 - [pulumi/pulumi-kubernetes](https://github.com/pulumi/pulumi-kubernetes) - A Pulumi resource provider for Kubernetes to manage API resources and workloads in running clusters
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
@@ -6543,6 +6546,7 @@
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [agrafix/Spock](https://github.com/agrafix/Spock) - Another Haskell web framework for rapid development
 - [valderman/haste-compiler](https://github.com/valderman/haste-compiler) - A GHC-based Haskell to JavaScript compiler
+- [undertow-io/undertow](https://github.com/undertow-io/undertow) - High performance non-blocking webserver
 
 ## web-components 
 
