@@ -1709,6 +1709,7 @@
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [kowainik/type-errors-pretty](https://github.com/kowainik/type-errors-pretty) - 💄🐞 Combinators for writing pretty type errors easily
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
+- [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - The Rust package registry
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [input-output-hk/haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
