@@ -212,6 +212,7 @@
 
 ## C 
 
+- [dirkwhoffmann/vAmiga](https://github.com/dirkwhoffmann/vAmiga) - vAmiga is a user-friendly Amiga 500, 1000, 2000 emulator for macOS
 - [jart/sectorlisp](https://github.com/jart/sectorlisp) - Bootstrapping LISP in a Boot Sector
 - [koka-lang/libmprompt](https://github.com/koka-lang/libmprompt) - Robust multi-prompt delimited control and effect handlers in C/C++
 - [axboe/liburing](https://github.com/axboe/liburing) - Library providing helpers for the Linux kernel io_uring support
@@ -449,6 +450,7 @@
 
 ## C++ 
 
+- [dirkwhoffmann/virtualc64](https://github.com/dirkwhoffmann/virtualc64) - VirtualC64 is a cycle-accurate C64 emulator for macOS
 - [Gecode/gecode](https://github.com/Gecode/gecode) - Generic Constraint Development Environment
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [redeclipse/base](https://github.com/redeclipse/base) - Base environment for Red Eclipse and associated source files.
@@ -817,12 +819,13 @@
 
 ## Go 
 
+- [scionproto/scion](https://github.com/scionproto/scion) - SCION Internet Architecture
 - [basecamp/kamal-proxy](https://github.com/basecamp/kamal-proxy) - Lightweight proxy server for Kamal
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications.
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - The complete Authentication and User Management solution for developers.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and User Management solution for developers. Open source alternative to Clerk & Auth0.
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
@@ -1167,6 +1170,9 @@
 
 ## Haskell 
 
+- [haskell-effectful/effectful](https://github.com/haskell-effectful/effectful) - An easy to use, fast extensible effects library with seamless integration with the existing Haskell ecosystem.
+- [tomjaguarpaw/bluefin](https://github.com/tomjaguarpaw/bluefin) - 
+- [graninas/Pragmatic-Type-Level-Design](https://github.com/graninas/Pragmatic-Type-Level-Design) - Code and materials for my book "Pragmatic Type Level Design"
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [UnkindPartition/regex-applicative](https://github.com/UnkindPartition/regex-applicative) - Regex-based parsing with an applicative interface
 - [UnkindPartition/lexer-applicative](https://github.com/UnkindPartition/lexer-applicative) - Applicative lexer
@@ -1575,7 +1581,7 @@
 - [ocharles/haskell-opentracing](https://github.com/ocharles/haskell-opentracing) - Haskell libraries for OpenTracing.io
 - [ChrisCoffey/haskell-opentracing-light](https://github.com/ChrisCoffey/haskell-opentracing-light) - A minimalist approach to an OpenTracing for Haskell
 - [eborden/language-edn](https://github.com/eborden/language-edn) - A Haskell representation of Clojure's EDN
-- [L0neGamer/ekg-statsd](https://github.com/L0neGamer/ekg-statsd) - Flush system metrics to statsd
+- [haskell-github-trust/ekg-statsd](https://github.com/haskell-github-trust/ekg-statsd) - Flush system metrics to statsd
 - [philopon/helics](https://github.com/philopon/helics) - New Relic® agent SDK wrapper for Haskell
 - [TomMD/oauth2-simple](https://github.com/TomMD/oauth2-simple) - A simple Haskell OAuth2 library
 - [jmitchell/idris-elixir](https://github.com/jmitchell/idris-elixir) - Idris backend targeting Elixir (Work in progress)
@@ -1947,7 +1953,7 @@
 - [fpco/rdr2tls](https://github.com/fpco/rdr2tls) - Haskell web service that redirects all traffic from HTTP to HTTPS
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
 - [caiorss/Functional-Programming](https://github.com/caiorss/Functional-Programming) - Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python
-- [L0neGamer/ekg-core](https://github.com/L0neGamer/ekg-core) - Library for tracking system metrics
+- [haskell-github-trust/ekg-core](https://github.com/haskell-github-trust/ekg-core) - Library for tracking system metrics
 - [haskell-servant/servant](https://github.com/haskell-servant/servant) - Servat is a Haskell DSL for describing, serving, querying, mocking, documenting web applications and more!
 - [mikeizbicki/HLearn](https://github.com/mikeizbicki/HLearn) - Homomorphic machine learning
 - [jaspervdj/hakyll](https://github.com/jaspervdj/hakyll) - A static website compiler library in Haskell
@@ -2265,6 +2271,7 @@
 - [HdrHistogram/HdrHistogram](https://github.com/HdrHistogram/HdrHistogram) - A High Dynamic Range (HDR) Histogram
 - [addthis/hydra](https://github.com/addthis/hydra) - 
 - [undertow-io/undertow](https://github.com/undertow-io/undertow) - High performance non-blocking webserver
+- [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [nathanmarz/storm](https://github.com/nathanmarz/storm) - Distributed and fault-tolerant realtime computation: stream processing, continuous computation, distributed RPC, and more
 - [dynjs/dynjs](https://github.com/dynjs/dynjs) - ECMAScript runtime for the JVM
@@ -2285,7 +2292,6 @@
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [kaiwaehner/camel-infoq](https://github.com/kaiwaehner/camel-infoq) - Introduction Demo of Apache Camel (InfoQ article)
 - [lightbend/config](https://github.com/lightbend/config) - configuration library for JVM languages using HOCON files
-- [VoltDB/voltdb](https://github.com/VoltDB/voltdb) - Volt Active Data
 - [scalagwt/scalagwt-gwt](https://github.com/scalagwt/scalagwt-gwt) - Temporary fork of GWT where we add hooks to support Scala
 - [devxzero/blogpost_files](https://github.com/devxzero/blogpost_files) - 
 - [qmx/jitescript](https://github.com/qmx/jitescript) - Jitescript - Java API for Bytecode
@@ -2489,7 +2495,7 @@
 - [wereHamster/nauva](https://github.com/wereHamster/nauva) - 
 - [fpco/ghcjs-react](https://github.com/fpco/ghcjs-react) - React bindings for GHCJS
 - [vuejs/vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0) - HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering
-- [L0neGamer/ekg](https://github.com/L0neGamer/ekg) - Remote monitoring of running processes over HTTP
+- [haskell-github-trust/ekg](https://github.com/haskell-github-trust/ekg) - Remote monitoring of running processes over HTTP
 - [elm-community/elm-webpack-starter](https://github.com/elm-community/elm-webpack-starter) - Boilerplate for developing Elm apps on Webpack
 - [WardCunningham/remodeling](https://github.com/WardCunningham/remodeling) - The original wiki rewritten as a single page application
 - [maxtaco/oneshallpass](https://github.com/maxtaco/oneshallpass) - A little self-contained web-page for making secure Web passwords.  Works offline.
@@ -2787,7 +2793,7 @@
 - [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [morganthomas/nixos](https://github.com/morganthomas/nixos) - My nixos configuration.
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
-- [cmacrae/config](https://github.com/cmacrae/config) - A collection of machine configurations, expressed in Nix
+- [cmacrae/config](https://github.com/cmacrae/config) - A collection of system configurations, expressed in Nix
 - [LnL7/nix-docker](https://github.com/LnL7/nix-docker) - Docker images for the Nix package manager
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [codygman/haskell-nix-stack-workflow](https://github.com/codygman/haskell-nix-stack-workflow) - 
@@ -2815,7 +2821,7 @@
 - [infinisil/all-hies](https://github.com/infinisil/all-hies) - Cached Haskell IDE Engine Nix builds for all GHC versions
 - [nh2/static-haskell-nix](https://github.com/nh2/static-haskell-nix) - easily build most Haskell programs into fully static Linux executables
 - [nix-community/rnix-parser](https://github.com/nix-community/rnix-parser) - A Nix parser written in Rust [maintainer=@oberblastmeister]
-- [matthewbauer/nix-bundle](https://github.com/matthewbauer/nix-bundle) - Bundle Nix derivations to run anywhere!
+- [nix-community/nix-bundle](https://github.com/nix-community/nix-bundle) - Bundle Nix derivations to run anywhere!
 - [svanderburg/node2nix](https://github.com/svanderburg/node2nix) - Generate Nix expressions to build NPM packages
 - [yurrriq/dotfiles](https://github.com/yurrriq/dotfiles) - My (semi-)literate dotfiles for Nix, Emacs, fish, etc, managed with home-manager and GNU Stow
 - [input-output-hk/haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
@@ -3526,7 +3532,6 @@
 - [TEA-ebook/teabook-open-reader](https://github.com/TEA-ebook/teabook-open-reader) - TeaBook Open Reader - EPUB web reader, with offline access
 - [CrossRef/pdfextract](https://github.com/CrossRef/pdfextract) - MOVED TO https://gitlab.com/crossref/pdfextract
 - [voxpupuli/puppet-elasticsearch](https://github.com/voxpupuli/puppet-elasticsearch) - Elasticsearch Puppet module
-- [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [cloudfoundry-community-attic/bosh-cloudfoundry](https://github.com/cloudfoundry-community-attic/bosh-cloudfoundry) - Create, scale and upgrade your company's own Cloud Foundry
 - [vjoel/tupelo](https://github.com/vjoel/tupelo) - A distributed, transactional tuplespace for polyglot computation and storage.
 - [haileys/rustboot](https://github.com/haileys/rustboot) - A tiny 32 bit kernel written in Rust
@@ -3552,6 +3557,7 @@
 
 ## Rust 
 
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -3587,7 +3593,7 @@
 - [zesterer/tao](https://github.com/zesterer/tao) - A statically-typed functional language with generics, typeclasses, sum types, pattern-matching, first-class functions, currying, algebraic effects, associated types, good diagnostics, etc.
 - [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
-- [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [rkuhn/acto](https://github.com/rkuhn/acto) - Actor library for Rust
 - [facebookincubator/superconsole](https://github.com/facebookincubator/superconsole) - The superconsole crate provides a handler and building blocks for powerful, yet minimally intrusive TUIs.  It is cross platform, supporting Windows 7+, Linux, and MacOS.  Rustaceans who want to create
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
@@ -4223,6 +4229,7 @@
 
 ## TypeScript 
 
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [TypeFox/chevrotain-allstar](https://github.com/TypeFox/chevrotain-allstar) - Plugin module for the ALL(*) lookahead algorithm in Chevrotain
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [Chevrotain/chevrotain](https://github.com/Chevrotain/chevrotain) - Parser Building Toolkit for JavaScript
