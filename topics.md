@@ -639,7 +639,7 @@
 
 ## cli 
 
-- [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [chshersh/iris](https://github.com/chshersh/iris) - 🌈 Haskell CLI Framework supporting Command Line Interface Guidelines
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
@@ -704,6 +704,7 @@
 
 ## compiler 
 
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [grain-lang/grain](https://github.com/grain-lang/grain) - The Grain compiler toolchain and CLI. Home of the modern web staple. 🌾
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
@@ -1182,7 +1183,7 @@
 
 - [steshaw/shelly](https://github.com/steshaw/shelly) - 🐚 Dotfiles and shell utilities
 - [alhassy/next-700-module-systems](https://github.com/alhassy/next-700-module-systems) - PhD research ;; What's the difference between a typeclass/trait and a record/class/struct? Nothing really, or so I argue.
-- [cmacrae/config](https://github.com/cmacrae/config) - A collection of machine configurations, expressed in Nix
+- [cmacrae/config](https://github.com/cmacrae/config) - A collection of system configurations, expressed in Nix
 - [Anton-Latukha/Fundamental-Haskell](https://github.com/Anton-Latukha/Fundamental-Haskell) - Fundamental Haskell book, to the point terse statements on Haskell, Category theory, and related fields. Encyclopedic pocketbook of meaning. Zen kōan-like meditations of understanding. For quick or me
 - [Alexander-Miller/treemacs](https://github.com/Alexander-Miller/treemacs) - 
 - [haskell/haskell-mode](https://github.com/haskell/haskell-mode) - Emacs mode for Haskell
@@ -1232,6 +1233,8 @@
 
 ## emulator 
 
+- [dirkwhoffmann/virtualc64](https://github.com/dirkwhoffmann/virtualc64) - VirtualC64 is a cycle-accurate C64 emulator for macOS
+- [dirkwhoffmann/vAmiga](https://github.com/dirkwhoffmann/vAmiga) - vAmiga is a user-friendly Amiga 500, 1000, 2000 emulator for macOS
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 
 ## es6 
@@ -1326,6 +1329,7 @@
 
 ## frontend 
 
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
 - [openfl/openfl](https://github.com/openfl/openfl) - The Open Flash Library for creative expression on the web, desktop, mobile and consoles.
@@ -1406,7 +1410,7 @@
 
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [petersalomonsen/wasm-git](https://github.com/petersalomonsen/wasm-git) - GIT for nodejs and the browser using https://libgit2.org compiled to WebAssembly with https://emscripten.org
-- [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [mirage/irmin](https://github.com/mirage/irmin) - Irmin is a distributed database that follows the same design principles as Git
@@ -1639,11 +1643,12 @@
 
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
+- [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [javalin/javalin](https://github.com/javalin/javalin) - A simple and modern Java and Kotlin web framework
 - [jqwik-team/jqwik](https://github.com/jqwik-team/jqwik) - Property-Based Testing on the JUnit Platform
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - The complete Authentication and User Management solution for developers.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and User Management solution for developers. Open source alternative to Clerk & Auth0.
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [dlang/dmd](https://github.com/dlang/dmd) - dmd D Programming Language compiler
 - [redeclipse/base](https://github.com/redeclipse/base) - Base environment for Red Eclipse and associated source files.
@@ -1811,6 +1816,7 @@
 
 ## haskell 
 
+- [haskell-effectful/effectful](https://github.com/haskell-effectful/effectful) - An easy to use, fast extensible effects library with seamless integration with the existing Haskell ecosystem.
 - [mrcjkb/haskell-tools.nvim](https://github.com/mrcjkb/haskell-tools.nvim) - 🦥 Supercharge your Haskell experience in neovim!
 - [cardano-scaling/hydra](https://github.com/cardano-scaling/hydra) - Implementation of the Hydra Head protocol
 - [chshersh/iris](https://github.com/chshersh/iris) - 🌈 Haskell CLI Framework supporting Command Line Interface Guidelines
@@ -2258,6 +2264,7 @@
 
 ## javascript 
 
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [Chevrotain/chevrotain](https://github.com/Chevrotain/chevrotain) - Parser Building Toolkit for JavaScript
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [sst/sst](https://github.com/sst/sst) - SST v2
@@ -3006,6 +3013,9 @@
 
 ## others 
 
+- [tomjaguarpaw/bluefin](https://github.com/tomjaguarpaw/bluefin) - 
+- [graninas/Pragmatic-Type-Level-Design](https://github.com/graninas/Pragmatic-Type-Level-Design) - Code and materials for my book "Pragmatic Type Level Design"
+- [scionproto/scion](https://github.com/scionproto/scion) - SCION Internet Architecture
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [basecamp/kamal-proxy](https://github.com/basecamp/kamal-proxy) - Lightweight proxy server for Kamal
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
@@ -3615,7 +3625,7 @@
 - [commonmark/commonmark.js](https://github.com/commonmark/commonmark.js) - CommonMark parser and renderer in JavaScript
 - [rust-analyzer/rowan](https://github.com/rust-analyzer/rowan) - 
 - [expipiplus1/update-nix-fetchgit](https://github.com/expipiplus1/update-nix-fetchgit) - A program to automatically update fetchgit values in Nix expressions
-- [matthewbauer/nix-bundle](https://github.com/matthewbauer/nix-bundle) - Bundle Nix derivations to run anywhere!
+- [nix-community/nix-bundle](https://github.com/nix-community/nix-bundle) - Bundle Nix derivations to run anywhere!
 - [hmemcpy/cv](https://github.com/hmemcpy/cv) - My CV / Resume
 - [steshaw/zendesk-hs](https://github.com/steshaw/zendesk-hs) - Zendesk client library
 - [mortberg/yacctt](https://github.com/mortberg/yacctt) - yacctt: Yet Another Cartesian Cubical Type Theory
@@ -4011,7 +4021,7 @@
 - [ChrisCoffey/haskell-opentracing-light](https://github.com/ChrisCoffey/haskell-opentracing-light) - A minimalist approach to an OpenTracing for Haskell
 - [eborden/language-edn](https://github.com/eborden/language-edn) - A Haskell representation of Clojure's EDN
 - [stedolan/mlsub](https://github.com/stedolan/mlsub) - Prototype type inference engine
-- [L0neGamer/ekg-statsd](https://github.com/L0neGamer/ekg-statsd) - Flush system metrics to statsd
+- [haskell-github-trust/ekg-statsd](https://github.com/haskell-github-trust/ekg-statsd) - Flush system metrics to statsd
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [benmanns/goworker](https://github.com/benmanns/goworker) - goworker is a Go-based background worker that runs 10 to 100,000* times faster than Ruby-based workers.
 - [jrallison/go-workers](https://github.com/jrallison/go-workers) - Sidekiq compatible background workers in golang
@@ -4532,7 +4542,7 @@
 - [lukasmartinelli/hwk](https://github.com/lukasmartinelli/hwk) - A Haskell based awk and sed alternative
 - [ndmitchell/shake](https://github.com/ndmitchell/shake) - Shake build system
 - [vuejs/vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0) - HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering
-- [L0neGamer/ekg](https://github.com/L0neGamer/ekg) - Remote monitoring of running processes over HTTP
+- [haskell-github-trust/ekg](https://github.com/haskell-github-trust/ekg) - Remote monitoring of running processes over HTTP
 - [jekor/redo](https://github.com/jekor/redo) - djb's redo implementation in Haskell (for Haskell from Scratch video series)
 - [serras/cat-theory-lambdaconf-wr-2017](https://github.com/serras/cat-theory-lambdaconf-wr-2017) - 
 - [janakiramm/Kubernetes-dev-env](https://github.com/janakiramm/Kubernetes-dev-env) - Scripts for the Kubernetes Dev Environment Tutorial
@@ -4781,7 +4791,7 @@
 - [reignite/burnout.io](https://github.com/reignite/burnout.io) - Burnout.io is a site that provides resources to prevent work-related burnout.
 - [caiorss/Functional-Programming](https://github.com/caiorss/Functional-Programming) - Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python
 - [tibbe/haskell-style-guide](https://github.com/tibbe/haskell-style-guide) - A style guide for Haskell code.
-- [L0neGamer/ekg-core](https://github.com/L0neGamer/ekg-core) - Library for tracking system metrics
+- [haskell-github-trust/ekg-core](https://github.com/haskell-github-trust/ekg-core) - Library for tracking system metrics
 - [anchor/haskell-cheat-sheets](https://github.com/anchor/haskell-cheat-sheets) - High level library cheat sheets for the working Haskell programmer.
 - [thoughtbot/Argo](https://github.com/thoughtbot/Argo) - Functional JSON parsing library for Swift
 - [mietek/haskell-on-heroku](https://github.com/mietek/haskell-on-heroku) - Buildpack for deploying Haskell apps
@@ -5320,7 +5330,6 @@
 - [steshaw/blue](https://github.com/steshaw/blue) - Matt Stall's C# compiler in C# http://blogs.msdn.com/b/jmstall/archive/2005/02/06/368192.aspx
 - [valotrading/zeromq-scala-binding](https://github.com/valotrading/zeromq-scala-binding) - Scala binding for ZeroMQ
 - [mzero/haskell-amuse-bouche](https://github.com/mzero/haskell-amuse-bouche) - A short technical talk about some fun things in Haskell
-- [VoltDB/voltdb](https://github.com/VoltDB/voltdb) - Volt Active Data
 - [tonymorris/command](https://github.com/tonymorris/command) - A nicer System.Process
 - [dozed/fink](https://github.com/dozed/fink) - fink -- a scala based cms
 - [manuel/schampignon](https://github.com/manuel/schampignon) - Lisp interpreter with fexprs and delimited control written in JavaScript
@@ -5900,6 +5909,7 @@
 
 ## rust 
 
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
@@ -6389,6 +6399,7 @@
 
 ## typescript 
 
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [Chevrotain/chevrotain](https://github.com/Chevrotain/chevrotain) - Parser Building Toolkit for JavaScript
 - [eclipse-langium/langium](https://github.com/eclipse-langium/langium) - Next-gen language engineering / DSL framework
 - [swordev/suid](https://github.com/swordev/suid) - A port of Material-UI (MUI) built with SolidJS.
