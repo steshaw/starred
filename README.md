@@ -109,6 +109,7 @@
 - [Vala](#vala)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+- [WebAssembly](#webassembly)
 - [Wren](#wren)
 - [XSLT](#xslt)
 - [Zig](#zig)
@@ -450,6 +451,7 @@
 
 ## C++ 
 
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [dirkwhoffmann/virtualc64](https://github.com/dirkwhoffmann/virtualc64) - VirtualC64 is a cycle-accurate C64 emulator for macOS
 - [Gecode/gecode](https://github.com/Gecode/gecode) - Generic Constraint Development Environment
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
@@ -2500,7 +2502,6 @@
 - [WardCunningham/remodeling](https://github.com/WardCunningham/remodeling) - The original wiki rewritten as a single page application
 - [maxtaco/oneshallpass](https://github.com/maxtaco/oneshallpass) - A little self-contained web-page for making secure Web passwords.  Works offline.
 - [jgthms/juketube](https://github.com/jgthms/juketube) - A YouTube jukebox built with AngularJS
-- [Netflix/falcor](https://github.com/Netflix/falcor) - A JavaScript library for efficient data fetching
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
 - [pusher/atom-pair](https://github.com/pusher/atom-pair) - An Atom package that allows for epic pair programming
 - [MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
@@ -2978,6 +2979,7 @@
 
 ## Others 
 
+- [TheNumbat/Lists](https://github.com/TheNumbat/Lists) - Bookmarks in graphics, algorithms, low level programming, math, languages
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [zackify/cli.rs](https://github.com/zackify/cli.rs) - use {yourproject}.cli.rs!
@@ -3172,7 +3174,7 @@
 - [denizk/genome-maps](https://github.com/denizk/genome-maps) - HTML5 genomic browser
 - [augustl/js-epub](https://github.com/augustl/js-epub) - EPUB library for Javascript
 - [webcrank/webcrank](https://github.com/webcrank/webcrank) - Webmachine inspired toolkit for building http applications and services.
-- [mesosphere/kubernetes-mesos](https://github.com/mesosphere/kubernetes-mesos) - A Kubernetes Framework for Apache Mesos
+- [d2iq-archive/kubernetes-mesos](https://github.com/d2iq-archive/kubernetes-mesos) - A Kubernetes Framework for Apache Mesos
 - [trevorlinton/webkit.js](https://github.com/trevorlinton/webkit.js) - Pure JavaScript Port of WebKit
 - [aliceml/aliceml](https://github.com/aliceml/aliceml) - A functional programming language based on Standard ML, extended with support for concurrent, distributed, and constraint programming
 - [mn200/JSON-SML](https://github.com/mn200/JSON-SML) - JSON parsing in SML (from SML/NJ's svn repo)
@@ -3436,6 +3438,9 @@
 
 ## Racket 
 
+- [racket/redex](https://github.com/racket/redex) - 
+- [racket/typed-racket](https://github.com/racket/typed-racket) - Typed Racket
+- [racket/rhombus](https://github.com/racket/rhombus) - Rhombus programming language
 - [emina/rosette](https://github.com/emina/rosette) - The Rosette solver-aided host language, sample solver-aided DSLs, and demos
 - [mbutterick/quad](https://github.com/mbutterick/quad) - document processor in Racket
 - [the-little-typer/pie](https://github.com/the-little-typer/pie) - The Pie language, which accompanies The Little Typer by Friedman and Christiansen
@@ -3557,6 +3562,9 @@
 
 ## Rust 
 
+- [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
+- [rustwasm/walrus](https://github.com/rustwasm/walrus) - Walrus is a WebAssembly transformation library 🌊🐘
+- [jfecher/ante](https://github.com/jfecher/ante) - A safe, easy systems language
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -3568,7 +3576,7 @@
 - [rosefromthedead/effing-mad](https://github.com/rosefromthedead/effing-mad) - Algebraic effects for Rust
 - [paritytech/polkadot-sdk](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
@@ -3977,6 +3985,7 @@
 
 ## Shell 
 
+- [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [titzer/virgil](https://github.com/titzer/virgil) - A fast and lightweight native programming language
 - [steshaw/shelly](https://github.com/steshaw/shelly) - 🐚 Dotfiles and shell utilities
 - [3noch/nix-bundle-exe](https://github.com/3noch/nix-bundle-exe) - Simple Nix derivations to bundle executables
@@ -4400,6 +4409,10 @@
 - [budgetzero/budgetzero](https://github.com/budgetzero/budgetzero) - Open-source, self-hosted, zero-based budgeting.
 - [palant/pfp](https://github.com/palant/pfp) - A simple and secure browser extension to be used with KeePass databases.
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
+
+## WebAssembly 
+
+- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly
 
 ## Wren 
 
