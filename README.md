@@ -213,6 +213,7 @@
 
 ## C 
 
+- [neovim/libvterm](https://github.com/neovim/libvterm) - 
 - [dirkwhoffmann/vAmiga](https://github.com/dirkwhoffmann/vAmiga) - vAmiga is a user-friendly Amiga 500, 1000, 2000 emulator for macOS
 - [jart/sectorlisp](https://github.com/jart/sectorlisp) - Bootstrapping LISP in a Boot Sector
 - [koka-lang/libmprompt](https://github.com/koka-lang/libmprompt) - Robust multi-prompt delimited control and effect handlers in C/C++
@@ -732,6 +733,8 @@
 
 ## Emacs Lisp 
 
+- [emacs-mirror/emacs](https://github.com/emacs-mirror/emacs) - Mirror of GNU Emacs
+- [akermu/emacs-libvterm](https://github.com/akermu/emacs-libvterm) - Emacs libvterm integration
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [jwiegley/nix-config](https://github.com/jwiegley/nix-config) - My local Nix configuration
 - [purcell/envrc](https://github.com/purcell/envrc) - Emacs support for direnv which operates buffer-locally
@@ -751,7 +754,6 @@
 - [ekaschalk/.spacemacs.d](https://github.com/ekaschalk/.spacemacs.d) - My spacemacs configuration.
 - [deech/shen-elisp](https://github.com/deech/shen-elisp) - 
 - [dangom/org-thesis](https://github.com/dangom/org-thesis) - Writing a Ph.D. thesis with Org Mode
-- [jwiegley/org-mode](https://github.com/jwiegley/org-mode) - This is a very old fork of Org-mode, but it's the version I still use every day
 - [kragen/xcompose](https://github.com/kragen/xcompose) - for sharing .XCompose keybindings
 - [ocaml/tuareg](https://github.com/ocaml/tuareg) - Emacs OCaml mode
 - [lthms/colorless-themes.el](https://github.com/lthms/colorless-themes.el) - Mirror of https://git.sr.ht/~lthms/colorless-themes.el
@@ -3317,6 +3319,7 @@
 
 ## Python 
 
+- [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
@@ -4246,8 +4249,8 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [swordev/suid](https://github.com/swordev/suid) - A port of Material-UI (MUI) built with SolidJS.
-- [sst/ion](https://github.com/sst/ion) - SST v3
-- [sst/sst](https://github.com/sst/sst) - SST v2
+- [sst/ion](https://github.com/sst/ion) - Moved to https://github.com/sst/sst
+- [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
