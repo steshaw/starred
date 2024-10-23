@@ -213,6 +213,7 @@
 
 ## C 
 
+- [pdewacht/oberon-risc-emu](https://github.com/pdewacht/oberon-risc-emu) - Emulator for the Oberon RISC machine
 - [neovim/libvterm](https://github.com/neovim/libvterm) - 
 - [dirkwhoffmann/vAmiga](https://github.com/dirkwhoffmann/vAmiga) - vAmiga is a user-friendly Amiga 500, 1000, 2000 emulator for macOS
 - [jart/sectorlisp](https://github.com/jart/sectorlisp) - Bootstrapping LISP in a Boot Sector
@@ -264,7 +265,7 @@
 - [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux
 - [kccqzy/no-aslr](https://github.com/kccqzy/no-aslr) - Run program without ASLR (supports Linux and macOS)
 - [openresty/headers-more-nginx-module](https://github.com/openresty/headers-more-nginx-module) - Set, add, and clear arbitrary output headers in NGINX http servers
-- [eclipse/mosquitto](https://github.com/eclipse/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
+- [eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 - [NixOS/patchelf](https://github.com/NixOS/patchelf) - A small utility to modify the dynamic linker and RPATH of ELF executables
 - [nmikhailov/Validity90](https://github.com/nmikhailov/Validity90) - Reverse engineering of Validity/Synaptics 138a:0090, 138a:0094, 138a:0097, 06cb:0081, 06cb:009a fingerprint readers protocol
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
@@ -3319,6 +3320,8 @@
 
 ## Python 
 
+- [BlackBoxCenter/blackbox](https://github.com/BlackBoxCenter/blackbox) - BlackBox Component Builder is an IDE and framework for the Component Pascal programming language.
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
