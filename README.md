@@ -83,7 +83,6 @@
 - [Pug](#pug)
 - [PureScript](#purescript)
 - [Python](#python)
-- [QML](#qml)
 - [Racket](#racket)
 - [Raku](#raku)
 - [ReScript](#rescript)
@@ -824,6 +823,9 @@
 
 ## Go 
 
+- [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18+ Generics.
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+- [samber/mo](https://github.com/samber/mo) - 🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...)
 - [scionproto/scion](https://github.com/scionproto/scion) - SCION Internet Architecture
 - [basecamp/kamal-proxy](https://github.com/basecamp/kamal-proxy) - Lightweight proxy server for Kamal
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications.
@@ -998,7 +1000,7 @@
 - [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [harrowio/harrow](https://github.com/harrowio/harrow) - The monorepo for the FOSS Harrow CI/CD collaboration project.
 - [syndtr/goleveldb](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
 - [contribsys/faktory](https://github.com/contribsys/faktory) - Language-agnostic persistent background job server
 - [grafeas/grafeas](https://github.com/grafeas/grafeas) - Artifact Metadata API
 - [etcd-io/zetcd](https://github.com/etcd-io/zetcd) - Serve the Apache Zookeeper API but back it with an etcd cluster
@@ -1410,6 +1412,7 @@
 - [seanparsons/glue](https://github.com/seanparsons/glue) - Building Better Services And Clients
 - [iijlab/postgresql-pure](https://github.com/iijlab/postgresql-pure) - a PostgreSQL client library implemented with pure Haskell
 - [postgres-haskell/postgres-wire](https://github.com/postgres-haskell/postgres-wire) - A native Haskell driver for PostgreSQL
+- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official (but not yet stable) formatter for Nix code
 - [adamgundry/type-inference](https://github.com/adamgundry/type-inference) - Unification and type inference algorithms
 - [haskell/ghcide](https://github.com/haskell/ghcide) - A library for building Haskell IDE tooling
 - [freckle/graphula](https://github.com/freckle/graphula) - A simple interface for generating persistent data and linking its dependencies
@@ -2276,8 +2279,6 @@
 - [HdrHistogram/HdrHistogram](https://github.com/HdrHistogram/HdrHistogram) - A High Dynamic Range (HDR) Histogram
 - [addthis/hydra](https://github.com/addthis/hydra) - 
 - [undertow-io/undertow](https://github.com/undertow-io/undertow) - High performance non-blocking webserver
-- [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [nathanmarz/storm](https://github.com/nathanmarz/storm) - Distributed and fault-tolerant realtime computation: stream processing, continuous computation, distributed RPC, and more
 - [dynjs/dynjs](https://github.com/dynjs/dynjs) - ECMAScript runtime for the JVM
 - [jmhodges/opposite_of_a_bloom_filter](https://github.com/jmhodges/opposite_of_a_bloom_filter) - Implementations of a data structure with false negatives but no false positives.
@@ -2480,7 +2481,7 @@
 - [netlify/headlesscms.org](https://github.com/netlify/headlesscms.org) - Source for headlesscms.org
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [mraleph/irhydra](https://github.com/mraleph/irhydra) - Tool for displaying IR used by V8 and Dart VM optimizing compilers
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [jonathantneal/flexibility](https://github.com/jonathantneal/flexibility) - A JavaScript polyfill for Flexbox
 - [imperavi/kube](https://github.com/imperavi/kube) - Kube CSS Framework
 - [riot/riot](https://github.com/riot/riot) - Simple and elegant component-based UI library
@@ -2818,14 +2819,13 @@
 - [malob/nixpkgs](https://github.com/malob/nixpkgs) - My Nix system configs!
 - [xtruder/kubenix](https://github.com/xtruder/kubenix) - Replaced by https://github.com/hall/kubenix
 - [cleverca22/not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
-- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official (but not yet stable) formatter for Nix code
 - [input-output-hk/stackage.nix](https://github.com/input-output-hk/stackage.nix) - Automatically generated Nix expressions of Stackage snapshots
 - [input-output-hk/hackage.nix](https://github.com/input-output-hk/hackage.nix) - Automatically generated Nix expressions for Hackage
 - [cachix/ghcide-nix](https://github.com/cachix/ghcide-nix) - Nix installation for ghcide
 - [infinisil/all-hies](https://github.com/infinisil/all-hies) - Cached Haskell IDE Engine Nix builds for all GHC versions
 - [nh2/static-haskell-nix](https://github.com/nh2/static-haskell-nix) - easily build most Haskell programs into fully static Linux executables
 - [nix-community/rnix-parser](https://github.com/nix-community/rnix-parser) - A Nix parser written in Rust [maintainer=@oberblastmeister]
-- [nix-community/nix-bundle](https://github.com/nix-community/nix-bundle) - Bundle Nix derivations to run anywhere!
+- [nix-community/nix-bundle](https://github.com/nix-community/nix-bundle) - Bundle Nix derivations to run anywhere! [maintainer=@matthewbauer, @Artturin]
 - [svanderburg/node2nix](https://github.com/svanderburg/node2nix) - Generate Nix expressions to build NPM packages
 - [yurrriq/dotfiles](https://github.com/yurrriq/dotfiles) - My (semi-)literate dotfiles for Nix, Emacs, fish, etc, managed with home-manager and GNU Stow
 - [input-output-hk/haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
@@ -3438,10 +3438,6 @@
 - [gpjt/webgl-lessons](https://github.com/gpjt/webgl-lessons) - https://github.com/tparisi/webgl-lessons is now the officially maintained fork for this project
 - [munificent/magpie](https://github.com/munificent/magpie) - The Magpie programming language
 
-## QML 
-
-- [wsdfhjxc/virtual-desktop-bar](https://github.com/wsdfhjxc/virtual-desktop-bar) - A pager panel widget for KDE Plasma
-
 ## Racket 
 
 - [racket/redex](https://github.com/racket/redex) - 
@@ -3487,6 +3483,7 @@
 
 ## Ruby 
 
+- [vcr/vcr](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [nix-community/nix-unstable-installer](https://github.com/nix-community/nix-unstable-installer) - A place to host Nix unstable releases [unmaintained]
 - [rtomayko/ronn](https://github.com/rtomayko/ronn) - the opposite of roff
@@ -3568,6 +3565,7 @@
 
 ## Rust 
 
+- [TrueLayer/reqwest-middleware](https://github.com/TrueLayer/reqwest-middleware) - Wrapper around reqwest to allow for client middleware chains.
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [rustwasm/walrus](https://github.com/rustwasm/walrus) - Walrus is a WebAssembly transformation library 🌊🐘
 - [jfecher/ante](https://github.com/jfecher/ante) - A safe, easy systems language
@@ -4050,7 +4048,7 @@
 - [commercialhaskell/lts-haskell](https://github.com/commercialhaskell/lts-haskell) - LTS Haskell build plans
 - [zendesk/helm-secrets](https://github.com/zendesk/helm-secrets) - DEPRECATED A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [FairwindsOps/rok8s-scripts](https://github.com/FairwindsOps/rok8s-scripts) - Opinionated scripts for managing application deployment lifecycle in Kubernetes
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [pbiggar/rash](https://github.com/pbiggar/rash) - Rebourne Again Shell
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
