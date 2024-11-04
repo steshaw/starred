@@ -330,6 +330,7 @@
 
 ## automation 
 
+- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
@@ -541,6 +542,7 @@
 
 ## c 
 
+- [mitchellh/libxev](https://github.com/mitchellh/libxev) - libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [ThakeeNathees/pocketlang](https://github.com/ThakeeNathees/pocketlang) - A lightweight, fast embeddable scripting language.
 - [checkedc/checkedc-fork](https://github.com/checkedc/checkedc-fork) - This was a fork of Checked C used from 2021-2024.  The changes have been merged into the original Checked C repo.
@@ -595,6 +597,7 @@
 
 ## c-plus-plus 
 
+- [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly
 - [munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns) - Source repo for the book
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
@@ -736,7 +739,7 @@
 - [grin-compiler/grin](https://github.com/grin-compiler/grin) - GRIN is a compiler back-end for lazy and strict functional languages with whole program optimization support.
 - [andgate/type-theory-compiler](https://github.com/andgate/type-theory-compiler) - Compiler for type theoretic lambda calculi equipped with system primtives which compiles side-effecting, strict expressions into efficient LLVM IR.
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
-- [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
+- [enso-org/enso](https://github.com/enso-org/enso) - Enso Analytics is a self-service data prep and analysis platform designed for data teams.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [discus-lang/salt](https://github.com/discus-lang/salt) - The compilation target that functional programmers always wanted.
 - [bytecodealliance/cranelift](https://github.com/bytecodealliance/cranelift) - Cranelift code generator
@@ -1007,6 +1010,8 @@
 
 ## devops 
 
+- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [DBCDK/morph](https://github.com/DBCDK/morph) - NixOS deployment tool
 - [porter-dev/porter-archive](https://github.com/porter-dev/porter-archive) - Kubernetes powered PaaS that runs in your own cloud.
@@ -1043,10 +1048,11 @@
 
 ## docker 
 
+- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
+- [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
@@ -1268,6 +1274,7 @@
 
 ## firefox 
 
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [stoically/temporary-containers](https://github.com/stoically/temporary-containers) - Firefox Add-on that lets you open automatically managed disposable containers
 - [containers-everywhere/contain-google](https://github.com/containers-everywhere/contain-google) - [Looking for maintainer] - Google Container isolates your Google activity from the rest of your web activity in order to prevent Google from tracking you outside of the Google website via third party 
@@ -1410,6 +1417,7 @@
 
 ## git 
 
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [petersalomonsen/wasm-git](https://github.com/petersalomonsen/wasm-git) - GIT for nodejs and the browser using https://libgit2.org compiled to WebAssembly with https://emscripten.org
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
@@ -1449,6 +1457,7 @@
 
 ## github 
 
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [cuedo/github-webhooks](https://github.com/cuedo/github-webhooks) - Haskell types and instances for decoding GitHub webhook payloads.
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [kowainik/.github](https://github.com/kowainik/.github) - 💊 Default health files
@@ -1477,6 +1486,7 @@
 
 ## go 
 
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18+ Generics.
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [samber/mo](https://github.com/samber/mo) - 🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...)
@@ -1546,6 +1556,7 @@
 
 ## golang 
 
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18+ Generics.
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [samber/mo](https://github.com/samber/mo) - 🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...)
@@ -1648,6 +1659,8 @@
 
 ## hacktoberfest 
 
+- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
@@ -1661,7 +1674,7 @@
 - [dlang/dmd](https://github.com/dlang/dmd) - dmd D Programming Language compiler
 - [redeclipse/base](https://github.com/redeclipse/base) - Base environment for Red Eclipse and associated source files.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [flix/flix](https://github.com/flix/flix) - The Flix Programming Language
 - [bow-swift/bow](https://github.com/bow-swift/bow) - 🏹 Bow is a cross-platform library for Typed Functional Programming in Swift
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
@@ -1762,7 +1775,7 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
 - [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with 
-- [eclipse/omr](https://github.com/eclipse/omr) - Eclipse OMR™ Cross platform components for building reliable, high performance language runtimes
+- [eclipse-omr/omr](https://github.com/eclipse-omr/omr) - Eclipse OMR™ Cross platform components for building reliable, high performance language runtimes
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [oracle/truffleruby](https://github.com/oracle/truffleruby) - A high performance implementation of the Ruby programming language, built on GraalVM.
 - [diku-dk/futhark](https://github.com/diku-dk/futhark) - :boom::computer::boom: A data-parallel functional programming language
@@ -2442,9 +2455,10 @@
 
 ## kubernetes 
 
+- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
-- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
+- [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
@@ -2563,7 +2577,7 @@
 - [carp-lang/Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
 - [johnynek/bosatsu](https://github.com/johnynek/bosatsu) - A python-ish pure and total functional programming language
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
-- [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
+- [enso-org/enso](https://github.com/enso-org/enso) - Enso Analytics is a self-service data prep and analysis platform designed for data teams.
 - [discus-lang/salt](https://github.com/discus-lang/salt) - The compilation target that functional programmers always wanted.
 - [DSLsofMath/DSLsofMath](https://github.com/DSLsofMath/DSLsofMath) - Domain-Specific Languages of Mathematics
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
@@ -2685,6 +2699,7 @@
 
 ## lua 
 
+- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [mrcjkb/haskell-tools.nvim](https://github.com/mrcjkb/haskell-tools.nvim) - 🦥 Supercharge your Haskell experience in neovim!
 - [LunarVim/Launch.nvim](https://github.com/LunarVim/Launch.nvim) - 🚀 Launch.nvim is modular starter for Neovim.
@@ -2705,7 +2720,7 @@
 
 ## machine-learning 
 
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [icicle-lang/icicle](https://github.com/icicle-lang/icicle) - Icicle Streaming Query Language
 - [googleapis/nodejs-speech](https://github.com/googleapis/nodejs-speech) - This repository is deprecated. All of its content and history has been moved to googleapis/google-cloud-node.
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
@@ -2868,6 +2883,7 @@
 
 ## neovim 
 
+- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [steshaw/shelly](https://github.com/steshaw/shelly) - 🐚 Dotfiles and shell utilities
 - [mrcjkb/haskell-tools.nvim](https://github.com/mrcjkb/haskell-tools.nvim) - 🦥 Supercharge your Haskell experience in neovim!
 - [LunarVim/Launch.nvim](https://github.com/LunarVim/Launch.nvim) - 🚀 Launch.nvim is modular starter for Neovim.
@@ -2887,7 +2903,7 @@
 
 ## neural-network 
 
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [nfmcclure/tensorflow_cookbook](https://github.com/nfmcclure/tensorflow_cookbook) - Code for Tensorflow Machine Learning Cookbook
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 
@@ -2969,7 +2985,7 @@
 
 - [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
-- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
+- [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
@@ -3008,6 +3024,7 @@
 
 ## operating-system 
 
+- [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and a
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
 - [ghuntley/workshops](https://github.com/ghuntley/workshops) - 
@@ -3018,6 +3035,8 @@
 
 ## others 
 
+- [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://cs.tvl.fyi/depot/-/tree/tvix
+- [lix-project/lix](https://github.com/lix-project/lix) - [MIRROR, PRs ok! Issues: https://git.lix.systems/lix-project/lix/issues] A modern, delicious implementation of the Nix package manager, focused on correctness, usability, and growth — and committed to
 - [TrueLayer/reqwest-middleware](https://github.com/TrueLayer/reqwest-middleware) - Wrapper around reqwest to allow for client middleware chains.
 - [vcr/vcr](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
 - [BlackBoxCenter/blackbox](https://github.com/BlackBoxCenter/blackbox) - BlackBox Component Builder is an IDE and framework for the Component Pascal programming language.
@@ -5655,6 +5674,7 @@
 
 ## privacy 
 
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [skerkour/bloom](https://github.com/skerkour/bloom) - 
 - [stoically/temporary-containers](https://github.com/stoically/temporary-containers) - Firefox Add-on that lets you open automatically managed disposable containers
 - [containers-everywhere/contain-google](https://github.com/containers-everywhere/contain-google) - [Looking for maintainer] - Google Container isolates your Google activity from the rest of your web activity in order to prevent Google from tracking you outside of the Google website via third party 
@@ -5679,7 +5699,7 @@
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec
 - [mbutterick/quad](https://github.com/mbutterick/quad) - document processor in Racket
 - [sile-typesetter/sile](https://github.com/sile-typesetter/sile) - The SILE Typesetter — Simon’s Improved Layout Engine
-- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
+- [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
 ## pwa 
@@ -5927,6 +5947,7 @@
 
 ## rust 
 
+- [infinyon/fluvio](https://github.com/infinyon/fluvio) - Lean and mean distributed stream processing system written in rust and web assembly. Alternative to Kafka + Flink in one.
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
@@ -5945,7 +5966,7 @@
 - [aripiprazole/lura](https://github.com/aripiprazole/lura) - 🍞 | IDE focused programming language study
 - [lloydmeta/frunk](https://github.com/lloydmeta/frunk) - Funktional generic type-level programming in Rust: HList, Coproduct, Generic, LabelledGeneric, Validated, Monoid and friends.
 - [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
-- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
+- [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python
 - [DeterminateSystems/riff](https://github.com/DeterminateSystems/riff) - Riff automatically provides external dependencies for Rust projects, with support for other languages coming soon.
@@ -6138,6 +6159,7 @@
 
 ## security 
 
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [checkedc/checkedc-fork](https://github.com/checkedc/checkedc-fork) - This was a fork of Checked C used from 2021-2024.  The changes have been merged into the original Checked C repo.
 - [securego/gosec](https://github.com/securego/gosec) - Go security checker
 - [google/syzkaller](https://github.com/google/syzkaller) - syzkaller is an unsupervised coverage-guided kernel fuzzer
@@ -6178,6 +6200,7 @@
 
 ## serverless 
 
+- [infinyon/fluvio](https://github.com/infinyon/fluvio) - Lean and mean distributed stream processing system written in rust and web assembly. Alternative to Kafka + Flink in one.
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
@@ -6476,6 +6499,7 @@
 
 ## vim 
 
+- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [steshaw/shelly](https://github.com/steshaw/shelly) - 🐚 Dotfiles and shell utilities
 - [mrcjkb/haskell-tools.nvim](https://github.com/mrcjkb/haskell-tools.nvim) - 🦥 Supercharge your Haskell experience in neovim!
@@ -6525,6 +6549,7 @@
 
 ## vue 
 
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [skerkour/bloom](https://github.com/skerkour/bloom) - 
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 - [sliptype/vue-pure](https://github.com/sliptype/vue-pure) - ⛱ An example of managing state using Purescript in a Vue app
@@ -6650,6 +6675,7 @@
 
 ## zig 
 
+- [mitchellh/libxev](https://github.com/mitchellh/libxev) - libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 
