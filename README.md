@@ -452,6 +452,9 @@
 
 ## C++ 
 
+- [viktorleis/mmapbench](https://github.com/viktorleis/mmapbench) - 
+- [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
+- [lix-project/lix](https://github.com/lix-project/lix) - [MIRROR, PRs ok! Issues: https://git.lix.systems/lix-project/lix/issues] A modern, delicious implementation of the Nix package manager, focused on correctness, usability, and growth — and committed to
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [dirkwhoffmann/virtualc64](https://github.com/dirkwhoffmann/virtualc64) - VirtualC64 is a cycle-accurate C64 emulator for macOS
 - [Gecode/gecode](https://github.com/Gecode/gecode) - Generic Constraint Development Environment
@@ -501,7 +504,7 @@
 - [microsoft/bond](https://github.com/microsoft/bond) - Bond is a cross-platform framework for working with schematized data. It supports cross-language de/serialization and powerful generic mechanisms for efficiently manipulating data. Bond is broadly use
 - [pbiggar/phc](https://github.com/pbiggar/phc) - A compiler for PHP
 - [gperftools/gperftools](https://github.com/gperftools/gperftools) - Main gperftools repository
-- [eclipse/omr](https://github.com/eclipse/omr) - Eclipse OMR™ Cross platform components for building reliable, high performance language runtimes
+- [eclipse-omr/omr](https://github.com/eclipse-omr/omr) - Eclipse OMR™ Cross platform components for building reliable, high performance language runtimes
 - [smfrpc/smf](https://github.com/smfrpc/smf) - Fastest RPC in the west
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
@@ -823,6 +826,8 @@
 
 ## Go 
 
+- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18+ Generics.
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [samber/mo](https://github.com/samber/mo) - 🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...)
@@ -2325,8 +2330,10 @@
 
 ## JavaScript 
 
+- [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [slevithan/xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions
-- [slevithan/regex](https://github.com/slevithan/regex) - Regex template tag for readable, high-performance, native JS regexes, with context-aware interpolation and always-on best practices
+- [slevithan/regex](https://github.com/slevithan/regex) - JS regexes + future. A template tag for readable, high-performance, native JS regexes, with context-aware interpolation and always-on best practices.
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
@@ -2677,6 +2684,7 @@
 
 ## Kotlin 
 
+- [kyay10/KonTinuity](https://github.com/kyay10/KonTinuity) - Provides fully-fledged multishot delimitied continuations in Kotlin with Coroutines
 - [javalin/javalin](https://github.com/javalin/javalin) - A simple and modern Java and Kotlin web framework
 - [bennyhuo/Kotlin-Trim-Indent](https://github.com/bennyhuo/Kotlin-Trim-Indent) - This is a Kotlin compiler plugin for a compile-time indent trim of raw String.
 - [pinterest/ktlint](https://github.com/pinterest/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter
@@ -2693,6 +2701,7 @@
 
 ## LLVM 
 
+- [smlsharp/smlsharp](https://github.com/smlsharp/smlsharp) - SML# compiler
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [vellvm/vellvm](https://github.com/vellvm/vellvm) - The Vellvm (Verified LLVM) coq development.
 - [llvm-mirror/llvm](https://github.com/llvm-mirror/llvm) - Project moved to: https://github.com/llvm/llvm-project
@@ -2718,6 +2727,7 @@
 
 ## Lua 
 
+- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [mrcjkb/haskell-tools.nvim](https://github.com/mrcjkb/haskell-tools.nvim) - 🦥 Supercharge your Haskell experience in neovim!
 - [LunarVim/Launch.nvim](https://github.com/LunarVim/Launch.nvim) - 🚀 Launch.nvim is modular starter for Neovim.
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
@@ -3343,7 +3353,7 @@
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 - [chubin/late.nz](https://github.com/chubin/late.nz) - Latency numbers every programmer should know
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product.
 - [quickstrom/quickstrom](https://github.com/quickstrom/quickstrom) - High-confidence browser testing
@@ -3357,7 +3367,7 @@
 - [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
 - [phillipberndt/autorandr](https://github.com/phillipberndt/autorandr) - Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr
 - [ncm2/ncm2](https://github.com/ncm2/ncm2) - :heart: Slim, Fast and Hackable Completion Framework for Neovim
-- [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
+- [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Install Salt from the Salt package repositories here:
 - [purplesyringa/PijulGit](https://github.com/purplesyringa/PijulGit) - Pijul &lt;-&gt; Git proxy
 - [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
@@ -3565,6 +3575,9 @@
 
 ## Rust 
 
+- [y-crdt/y-crdt](https://github.com/y-crdt/y-crdt) - Rust port of Yjs
+- [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://cs.tvl.fyi/depot/-/tree/tvix
+- [infinyon/fluvio](https://github.com/infinyon/fluvio) - Lean and mean distributed stream processing system written in rust and web assembly. Alternative to Kafka + Flink in one.
 - [TrueLayer/reqwest-middleware](https://github.com/TrueLayer/reqwest-middleware) - Wrapper around reqwest to allow for client middleware chains.
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [rustwasm/walrus](https://github.com/rustwasm/walrus) - Walrus is a WebAssembly transformation library 🌊🐘
@@ -3594,7 +3607,7 @@
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [linebender/vello](https://github.com/linebender/vello) - A GPU compute-centric 2D renderer.
 - [radiant-labs/radiantkit](https://github.com/radiant-labs/radiantkit) - Cross-platform open-source framework to build graphics applications (like Figma, Canva, Miro, etc). Uses Rust, Wasm, wgpu and epaint.
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
@@ -3604,7 +3617,7 @@
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 - [zesterer/tao](https://github.com/zesterer/tao) - A statically-typed functional language with generics, typeclasses, sum types, pattern-matching, first-class functions, currying, algebraic effects, associated types, good diagnostics, etc.
 - [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
-- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
+- [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [rkuhn/acto](https://github.com/rkuhn/acto) - Actor library for Rust
 - [facebookincubator/superconsole](https://github.com/facebookincubator/superconsole) - The superconsole crate provides a handler and building blocks for powerful, yet minimally intrusive TUIs.  It is cross platform, supporting Windows 7+, Linux, and MacOS.  Rustaceans who want to create
@@ -3800,6 +3813,7 @@
 
 ## Scala 
 
+- [twitter/stitch](https://github.com/twitter/stitch) - 
 - [softwaremill/bootzooka](https://github.com/softwaremill/bootzooka) - Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc.
 - [opalj/opal](https://github.com/opalj/opal) - 
 - [b-studios/java-effekt](https://github.com/b-studios/java-effekt) - Effect Handlers for Java / the JVM
@@ -3836,7 +3850,7 @@
 - [ssanj/boon](https://github.com/ssanj/boon) - Pure unit testing simplified
 - [scala/scala](https://github.com/scala/scala) - Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
-- [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
+- [enso-org/enso](https://github.com/enso-org/enso) - Enso Analytics is a self-service data prep and analysis platform designed for data teams.
 - [yawaramin/scala-modules](https://github.com/yawaramin/scala-modules) - Experimental implementations of ML-style modules in Scala
 - [lemastero/scala_typeclassopedia](https://github.com/lemastero/scala_typeclassopedia) - Abstractions from Category theory with simple description & implementation, links to further resources.
 - [scalameta/metals](https://github.com/scalameta/metals) - Scala language server with rich IDE features 🚀
@@ -3966,7 +3980,7 @@
 - [jorgeortiz85/scala-javautils](https://github.com/jorgeortiz85/scala-javautils) - An set of utilities for dealing with Java and Scala collections.
 - [jboner/skalman](https://github.com/jboner/skalman) - The Skalman Container: A minimalistic JEE container for Scala
 - [slick/slick](https://github.com/slick/slick) - Slick (Scala Language Integrated Connection Kit) is a modern database query and access library for Scala
-- [akka/akka](https://github.com/akka/akka) - Build highly concurrent, distributed, and resilient message-driven applications on the JVM
+- [akka/akka](https://github.com/akka/akka) - A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
 - [bmc/grizzled-scala](https://github.com/bmc/grizzled-scala) - A general-purpose library of miscellaneous stuff for Scala.
 
 ## Scheme 
@@ -4114,7 +4128,6 @@
 ## Standard ML 
 
 - [smlnj/smlnj](https://github.com/smlnj/smlnj) - Standard ML of New Jersey
-- [smlsharp/smlsharp](https://github.com/smlsharp/smlsharp) - SML# compiler
 - [standardml/smackage](https://github.com/standardml/smackage) - Smackage Package Manager for Standard ML
 - [SMLFamily/BasisLibrary](https://github.com/SMLFamily/BasisLibrary) - Repository and Wiki for enriching the Standard ML Basis Library
 - [rossberg/mixml](https://github.com/rossberg/mixml) - MixML prototype interpreter
@@ -4139,6 +4152,7 @@
 
 ## Starlark 
 
+- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [tweag/rules_nixpkgs](https://github.com/tweag/rules_nixpkgs) - Rules for importing Nixpkgs packages into Bazel.
 - [TokTok/toktok-stack](https://github.com/TokTok/toktok-stack) - A snapshot of the complete software stack (excluding some external libraries and programs)
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
@@ -4323,7 +4337,7 @@
 - [editorconfig/editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode) - EditorConfig extension for Visual Studio Code
 - [lichess-org/api](https://github.com/lichess-org/api) - Lichess API documentation and examples
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
-- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
+- [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
@@ -4428,6 +4442,7 @@
 
 ## Zig 
 
+- [mitchellh/libxev](https://github.com/mitchellh/libxev) - libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 ## hoon 
