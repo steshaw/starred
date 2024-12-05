@@ -180,7 +180,7 @@
 - [Saizan/miller](https://github.com/Saizan/miller) - Miller/pattern unification in Agda
 - [spire/spire](https://github.com/spire/spire) - The Spire Programming Language
 - [wenkokke/AutoInAgda](https://github.com/wenkokke/AutoInAgda) - Proof automation – for Agda, in Agda.
-- [agda/agda-frp-js](https://github.com/agda/agda-frp-js) - ECMAScript back end for Functional Reactive Programming in Agda
+- [agda-attic/agda-frp-js](https://github.com/agda-attic/agda-frp-js) - ECMAScript back end for Functional Reactive Programming in Agda
 - [liamoc/learn-you-an-agda](https://github.com/liamoc/learn-you-an-agda) - Learn you an Agda (and achieve enlightenment)
 
 ## Assembly 
@@ -440,7 +440,7 @@
 - [nxrighthere/UnrealCLR](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET 6 integration
 - [dotnet/runtime](https://github.com/dotnet/runtime) - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 - [dotnet/reactive](https://github.com/dotnet/reactive) - The Reactive Extensions for .NET
-- [louthy/language-ext](https://github.com/louthy/language-ext) - C# functional language extensions - a base class library for functional programming
+- [louthy/language-ext](https://github.com/louthy/language-ext) - C# pure functional programming framework - come and get declarative!
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [dotnet/corert](https://github.com/dotnet/corert) - This repo contains CoreRT, an experimental .NET Core runtime optimized for AOT (ahead of time compilation) scenarios, with the accompanying compiler toolchain.
 - [dafny-lang/dafny](https://github.com/dafny-lang/dafny) - Dafny is a verification-aware programming language
@@ -496,7 +496,7 @@
 - [harfbuzz/harfbuzz](https://github.com/harfbuzz/harfbuzz) - HarfBuzz text shaping engine
 - [stepchowfun/cfg-checker](https://github.com/stepchowfun/cfg-checker) - Search for ambiguities in context-free grammars.
 - [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
-- [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
+- [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 - [vgough/encfs](https://github.com/vgough/encfs) - EncFS: an Encrypted Filesystem for FUSE.
 - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [jmacd/xdelta](https://github.com/jmacd/xdelta) - open-source binary diff, delta/differential compression tools, VCDIFF/RFC 3284 delta compression
@@ -660,8 +660,8 @@
 - [jwiegley/category-theory](https://github.com/jwiegley/category-theory) - An axiom-free formalization of category theory in Coq for personal study and practical work
 - [DeepSpec/dsss17](https://github.com/DeepSpec/dsss17) - Lecture material for DeepSpec Summer School 2017
 - [sweirich/replib](https://github.com/sweirich/replib) - Replib: generic programming  & Unbound: generic treatment of binders
-- [coq-contribs/tait](https://github.com/coq-contribs/tait) - A normalization proof a la Tait for simply-typed lambda-calculus
-- [coq-contribs/coq-in-coq](https://github.com/coq-contribs/coq-in-coq) - A formalisation of the Calculus of Constructions
+- [rocq-archive/tait](https://github.com/rocq-archive/tait) - A normalization proof a la Tait for simply-typed lambda-calculus
+- [rocq-archive/coq-in-coq](https://github.com/rocq-archive/coq-in-coq) - A formalisation of the Calculus of Constructions
 - [discus-lang/iron](https://github.com/discus-lang/iron) - Coq formalizations of functional languages.
 - [pa-ba/calc-comp](https://github.com/pa-ba/calc-comp) - Coq proofs for the paper "Calculating Correct Compilers"
 - [ekmett/homotopy](https://github.com/ekmett/homotopy) - 
@@ -753,7 +753,7 @@
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
 - [zzamboni/dot-emacs](https://github.com/zzamboni/dot-emacs) - My Emacs configuration files - mirrored from GitLab
 - [unhammer/org-mru-clock](https://github.com/unhammer/org-mru-clock) - ⏲️ Effortlessly clock in/out of org-mode tasks, with completion and persistent history
-- [yuya373/emacs-slack](https://github.com/yuya373/emacs-slack) - slack client for emacs
+- [emacs-slack/emacs-slack](https://github.com/emacs-slack/emacs-slack) - slack client for emacs
 - [ekaschalk/.spacemacs.d](https://github.com/ekaschalk/.spacemacs.d) - My spacemacs configuration.
 - [deech/shen-elisp](https://github.com/deech/shen-elisp) - 
 - [dangom/org-thesis](https://github.com/dangom/org-thesis) - Writing a Ph.D. thesis with Org Mode
@@ -1170,6 +1170,7 @@
 - [mixu/distsysbook](https://github.com/mixu/distsysbook) - The book Distributed systems: for fun and profit
 - [yui/yuidoc](https://github.com/yui/yuidoc) - YUI Javascript Documentation Tool
 - [vhf/resrc](https://github.com/vhf/resrc) - 
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [igstan/learn-you-a-haskell-kindle](https://github.com/igstan/learn-you-a-haskell-kindle) - Sources to generate "Learn You a Haskell For Great Good" in mobi format, accepted by Kindle.
 - [lukaszx0/queues.io](https://github.com/lukaszx0/queues.io) - Queues, all of them.
 - [madrobby/zepto](https://github.com/madrobby/zepto) - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API
@@ -1249,7 +1250,6 @@
 - [siraben/fp-notes](https://github.com/siraben/fp-notes) - Notes on Functional Programming and related topics
 - [bgamari/io-uring](https://github.com/bgamari/io-uring) - A simple set of io-uring bindings in Haskell
 - [JonathanLorimer/core-warn](https://github.com/JonathanLorimer/core-warn) - Provide warnings for unexpected Core generation
-- [haskus/packages](https://github.com/haskus/packages) - Haskus packages
 - [alexwl/haskell-code-explorer](https://github.com/alexwl/haskell-code-explorer) - Web application for exploring and understanding Haskell codebases
 - [tathougies/closed-world](https://github.com/tathougies/closed-world) - Recover Haskell instances at run-time
 - [ollef/dependent-hashmap](https://github.com/ollef/dependent-hashmap) - Dependent hash maps
@@ -1967,7 +1967,7 @@
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
 - [caiorss/Functional-Programming](https://github.com/caiorss/Functional-Programming) - Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python
 - [haskell-github-trust/ekg-core](https://github.com/haskell-github-trust/ekg-core) - Library for tracking system metrics
-- [haskell-servant/servant](https://github.com/haskell-servant/servant) - Servat is a Haskell DSL for describing, serving, querying, mocking, documenting web applications and more!
+- [haskell-servant/servant](https://github.com/haskell-servant/servant) - Servant is a Haskell DSL for describing, serving, querying, mocking, documenting web applications and more!
 - [mikeizbicki/HLearn](https://github.com/mikeizbicki/HLearn) - Homomorphic machine learning
 - [jaspervdj/hakyll](https://github.com/jaspervdj/hakyll) - A static website compiler library in Haskell
 - [prowdsponsor/esqueleto](https://github.com/prowdsponsor/esqueleto) - Bare bones, type-safe EDSL for SQL queries on persistent backends.
@@ -2122,7 +2122,7 @@
 ## Haxe 
 
 - [HeapsIO/heaps](https://github.com/HeapsIO/heaps) - Heaps : Haxe Game Framework
-- [openfl/openfl](https://github.com/openfl/openfl) - The Open Flash Library for creative expression on the web, desktop, mobile and consoles.
+- [openfl/openfl](https://github.com/openfl/openfl) - An open source library for creative expression on the web, desktop, mobile and consoles. Inspired by the classic Flash and AIR APIs.
 - [HaxeFoundation/haxe](https://github.com/HaxeFoundation/haxe) - Haxe - The Cross-Platform Toolkit
 - [rjanicek/voronoi-map-haxe](https://github.com/rjanicek/voronoi-map-haxe) - Haxe port of Amit Patel's mapgen2, a procedural terrain / map generator.
 - [frabbit/hots](https://github.com/frabbit/hots) - Type classes and higher order types for haxe
@@ -2209,7 +2209,7 @@
 ## Java 
 
 - [jhipster/prettier-java](https://github.com/jhipster/prettier-java) - Prettier Java Plugin
-- [eclipse/xtext](https://github.com/eclipse/xtext) - Eclipse Xtext™ is a language development framework
+- [eclipse-xtext/xtext](https://github.com/eclipse-xtext/xtext) - Eclipse Xtext™ is a language development framework
 - [perwendel/spark](https://github.com/perwendel/spark) - A simple expressive web framework for java. Spark has a kotlin DSL https://github.com/perwendel/spark-kotlin
 - [antlr/antlr5](https://github.com/antlr/antlr5) - 
 - [puniverse/quasar](https://github.com/puniverse/quasar) - Fibers, Channels and Actors for the JVM
@@ -2227,7 +2227,6 @@
 - [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
 - [jwplayer/southpaw](https://github.com/jwplayer/southpaw) - :baseball: Streaming left joins in Kafka for change data capture
 - [uber/NullAway](https://github.com/uber/NullAway) - A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
-- [runtimeverification/k](https://github.com/runtimeverification/k) - K Framework Tools 7.0
 - [dacapobench/dacapobench](https://github.com/dacapobench/dacapobench) - The DaCapo benchmark suite
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories.
 - [resilience4j/resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming
@@ -2284,6 +2283,8 @@
 - [HdrHistogram/HdrHistogram](https://github.com/HdrHistogram/HdrHistogram) - A High Dynamic Range (HDR) Histogram
 - [addthis/hydra](https://github.com/addthis/hydra) - 
 - [undertow-io/undertow](https://github.com/undertow-io/undertow) - High performance non-blocking webserver
+- [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [nathanmarz/storm](https://github.com/nathanmarz/storm) - Distributed and fault-tolerant realtime computation: stream processing, continuous computation, distributed RPC, and more
 - [dynjs/dynjs](https://github.com/dynjs/dynjs) - ECMAScript runtime for the JVM
 - [jmhodges/opposite_of_a_bloom_filter](https://github.com/jmhodges/opposite_of_a_bloom_filter) - Implementations of a data structure with false negatives but no false positives.
@@ -2333,7 +2334,7 @@
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [slevithan/xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions
-- [slevithan/regex](https://github.com/slevithan/regex) - JS regexes + future. A template tag for readable, high-performance, native JS regexes, with context-aware interpolation and always-on best practices.
+- [slevithan/regex](https://github.com/slevithan/regex) - JS regexes + future. A template tag for readable, high-performance, native JS regexes with extended syntax, context-aware interpolation, and always-on best practices.
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
@@ -2565,7 +2566,7 @@
 - [psi-project/client](https://github.com/psi-project/client) - A JavaScript client for PSI services
 - [opencb-bigdata-viz/genome-maps](https://github.com/opencb-bigdata-viz/genome-maps) - A new web-based HTML5 genome browser. Genome Maps can also browse BAM and VCFs files among other formats.
 - [dc-js/dc.js](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
-- [opencb/jsorolla](https://github.com/opencb/jsorolla) - JSorolla is a JavaScript Library for biological and genomic data visualization
+- [opencb/jsorolla](https://github.com/opencb/jsorolla) - JSorolla is a JavaScript Library for biological and genomic data visualization. Found a bug or have an idea for a new feature? Let us know at https://zettagenomics.com/academic/
 - [Matt-Esch/underbar](https://github.com/Matt-Esch/underbar) - Modular underscore - require("underbar/function")
 - [Matt-Esch/vtree](https://github.com/Matt-Esch/vtree) - A realtime tree diffing algorithm
 - [Matt-Esch/string-template](https://github.com/Matt-Esch/string-template) - A lightweight string replace engine for text-based templates
@@ -2790,7 +2791,7 @@
 
 ## Nix 
 
-- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@adisbladis,@cpcloud]
+- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=]
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
 - [Plutonomicon/plutonomicon](https://github.com/Plutonomicon/plutonomicon) - Advanced techniques in the plutus smart contract language
 - [nix-community/dream2nix](https://github.com/nix-community/dream2nix) - Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau]
@@ -2992,6 +2993,7 @@
 
 ## Others 
 
+- [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
 - [TheNumbat/Lists](https://github.com/TheNumbat/Lists) - Bookmarks in graphics, algorithms, low level programming, math, languages
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
@@ -3132,7 +3134,7 @@
 - [docker/for-mac](https://github.com/docker/for-mac) - Bug reports for Docker Desktop for Mac
 - [haskell-learning-group/haskell-learning-group](https://github.com/haskell-learning-group/haskell-learning-group) - 
 - [thepracticaldev/orly-full-res](https://github.com/thepracticaldev/orly-full-res) - Full resolution images of the O RLY book covers made by The Practical Dev
-- [osxfuse/osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems
+- [macfuse/macfuse](https://github.com/macfuse/macfuse) - macFUSE umbrella repository
 - [kelseyhightower/intro-to-kubernetes-workshop](https://github.com/kelseyhightower/intro-to-kubernetes-workshop) - Intro to Kubernetes Workshop
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems) - A curated list to learn about distributed systems
@@ -3196,7 +3198,6 @@
 - [tanakh/jsumix](https://github.com/tanakh/jsumix) - JavaScript UM Emulator
 - [ocamllabs/ocaml-internals](https://github.com/ocamllabs/ocaml-internals) - Wiki for ocaml compiler internals
 - [ocamllabs/compiler-hacking](https://github.com/ocamllabs/compiler-hacking) - Wiki for compiler hacking sessions
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [benhardy/braintree-scala](https://github.com/benhardy/braintree-scala) - Scala client library for interfacing with Braintree's Payment gateway
 - [Homebrew/homebrew-cask-versions](https://github.com/Homebrew/homebrew-cask-versions) - 💀 Alternate versions of Casks (deprecated)
 - [larrytheliquid/leveling-up](https://github.com/larrytheliquid/leveling-up) - Source code accompanying the paper "Leveling Up Dependent Types"
@@ -3285,7 +3286,6 @@
 ## PowerShell 
 
 - [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, release notes, and more!
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [melted/get-idris](https://github.com/melted/get-idris) - Setting up an Idris dev environment on Windows
 
 ## Pug 
@@ -3340,6 +3340,7 @@
 - [ToxicFrog/Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) - Programming Fonts with Ligatures added (& a script to add them to other fonts)
 - [tweag/chainsail](https://github.com/tweag/chainsail) - Replica Exchange sampling as-a-service
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
+- [runtimeverification/k](https://github.com/runtimeverification/k) - K Framework Tools 7.0
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [djacu/nixos-on-zfs](https://github.com/djacu/nixos-on-zfs) - A collection of setup scripts for installing nixOS on my work laptop.
 - [samuela/nixos-up](https://github.com/samuela/nixos-up) - The fastest NixOS install there is! 🏎️🏁
@@ -3381,7 +3382,7 @@
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode
 - [Mic92/nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - Review pull-requests on https://github.com/NixOS/nixpkgs
-- [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Mic92]
+- [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [msiemens/PyGitUp](https://github.com/msiemens/PyGitUp) - A nicer `git pull`
 - [Shougo/deoplete.nvim](https://github.com/Shougo/deoplete.nvim) - :stars: Dark powered asynchronous completion framework for neovim/Vim8
@@ -3412,6 +3413,7 @@
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [ganeti/ganeti](https://github.com/ganeti/ganeti) - Ganeti is a virtual machine cluster management tool built on top of existing virtualization technologies such as Xen or KVM and other open source software.
 - [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [graydon/bors](https://github.com/graydon/bors) - Integration robot for buildbot and github
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
@@ -3465,18 +3467,18 @@
 
 ## Raku 
 
-- [reasonml/reason-react](https://github.com/reasonml/reason-react) - Reason bindings for ReactJS
 - [rakudo/rakudo](https://github.com/rakudo/rakudo) - 🦋 Rakudo – Raku on MoarVM, JVM, and JS
 
 ## ReScript 
 
-- [rescript-lang/rescript-compiler](https://github.com/rescript-lang/rescript-compiler) - The compiler for ReScript.
+- [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
 
 ## Reason 
 
 - [grain-lang/grain](https://github.com/grain-lang/grain) - The Grain compiler toolchain and CLI. Home of the modern web staple. 🌾
 - [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 - [widmogrod/typed-config](https://github.com/widmogrod/typed-config) - Experiment with making configuration type-safe, self-domummenting, and dead-simple to use.
+- [reasonml/reason-react](https://github.com/reasonml/reason-react) - Reason bindings for ReactJS
 - [revery-ui/revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
 - [hazelgrove/hazel](https://github.com/hazelgrove/hazel) - Hazel, a live functional programming environment with typed holes
 - [banacorn/agda-mode](https://github.com/banacorn/agda-mode) - agda-mode on Atom
@@ -3575,6 +3577,13 @@
 
 ## Rust 
 
+- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow
+- [cbeust/space-invade.rs](https://github.com/cbeust/space-invade.rs) - An 8080 Space Invaders emulator in Rust
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
+- [kyren/piccolo](https://github.com/kyren/piccolo) - An experimental stackless Lua VM implemented in pure Rust
+- [kyren/gc-arena](https://github.com/kyren/gc-arena) - Incremental garbage collection from safe Rust
+- [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
+- [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
 - [y-crdt/y-crdt](https://github.com/y-crdt/y-crdt) - Rust port of Yjs
 - [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://cs.tvl.fyi/depot/-/tree/tvix
 - [infinyon/fluvio](https://github.com/infinyon/fluvio) - Lean and mean distributed stream processing system written in rust and web assembly. Alternative to Kafka + Flink in one.
@@ -3589,7 +3598,7 @@
 - [Marwes/haskell-compiler](https://github.com/Marwes/haskell-compiler) - A mostly functional haskell compiler written in rust
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [kyren/hashlink](https://github.com/kyren/hashlink) - An updated version of linked-hash-map and friends
-- [elijah-potter/harper](https://github.com/elijah-potter/harper) - The Grammar Checker for Developers
+- [Automattic/harper](https://github.com/Automattic/harper) - The Grammar Checker for Developers
 - [rosefromthedead/effing-mad](https://github.com/rosefromthedead/effing-mad) - Algebraic effects for Rust
 - [paritytech/polkadot-sdk](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers
@@ -3724,7 +3733,7 @@
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [elastic-rs/elastic](https://github.com/elastic-rs/elastic) - An Elasticsearch REST API client for Rust
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
@@ -4087,6 +4096,7 @@
 - [anchor/docker-build](https://github.com/anchor/docker-build) - A basis for docker builds
 - [steshaw/huttons-razor](https://github.com/steshaw/huttons-razor) - Quick implemention of Hutton's Razor
 - [thoughtbot/laptop](https://github.com/thoughtbot/laptop) - A shell script to set up a macOS laptop for web and mobile development.
+- [joelburget/dotfiles](https://github.com/joelburget/dotfiles) - My important config files
 - [joelburget/ghcjs-box](https://github.com/joelburget/ghcjs-box) - Quick start for the vagrant box I use for ghcjs / react-haskell / pigment development
 - [danclien/runhs](https://github.com/danclien/runhs) - 
 - [liquidprompt/liquidprompt](https://github.com/liquidprompt/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
@@ -4256,6 +4266,7 @@
 
 ## TypeScript 
 
+- [astashov/liftosaur](https://github.com/astashov/liftosaur) - Weightlifting tracker app for coders
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [TypeFox/chevrotain-allstar](https://github.com/TypeFox/chevrotain-allstar) - Plugin module for the ALL(*) lookahead algorithm in Chevrotain
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
@@ -4412,7 +4423,6 @@
 - [parsonsmatt/intero-neovim](https://github.com/parsonsmatt/intero-neovim) - A neovim plugin for Intero, forked from ghcmod-vim
 - [joshdick/onedark.vim](https://github.com/joshdick/onedark.vim) - A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.
 - [osa1/rcbackup](https://github.com/osa1/rcbackup) - Various rc and config files
-- [joelburget/dotfiles](https://github.com/joelburget/dotfiles) - My important config files
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [FredKSchott/CoVim](https://github.com/FredKSchott/CoVim) - Collaborative Editing for Vim
 - [Integralist/Fresh-Install](https://github.com/Integralist/Fresh-Install) - These are my own instructions for a fresh laptop/mac install
