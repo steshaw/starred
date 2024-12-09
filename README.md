@@ -837,7 +837,7 @@
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and User Management solution for developers. Open source alternative to Clerk & Auth0.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - The Complete Authentication and User Management Solution for the Passkey Era. Open Source Alternative to Clerk, Auth0, et al.
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
@@ -1655,7 +1655,7 @@
 - [sordina/HaskellEvolutionProfile](https://github.com/sordina/HaskellEvolutionProfile) - Profiling "Evolution of a Haskell Programmer"
 - [silky/super-reference](https://github.com/silky/super-reference) - :books: Web-based reference manager, written in Haskell.
 - [silky/awesome-open-science](https://github.com/silky/awesome-open-science) - some links to projects/tools related to "open science".
-- [zjhmale/Ntha](https://github.com/zjhmale/Ntha) - The Ntha Programming Language
+- [swr1bm86/Ntha](https://github.com/swr1bm86/Ntha) - The Ntha Programming Language
 - [tweag/distributed-closure](https://github.com/tweag/distributed-closure) - Serializable closures for distributed programming.
 - [jgm/skylighting](https://github.com/jgm/skylighting) - A Haskell syntax highlighting library with tokenizers derived from KDE syntax highlighting descriptions
 - [kazu-yamamoto/dns](https://github.com/kazu-yamamoto/dns) - DNS libary in Haskell
@@ -2694,9 +2694,9 @@
 - [mozilla-lockwise/lockwise-android](https://github.com/mozilla-lockwise/lockwise-android) - Firefox's Lockwise app for Android
 - [JetBrains/kotlin-native](https://github.com/JetBrains/kotlin-native) - Kotlin/Native infrastructure
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
-- [arrow-kt/arrow](https://github.com/arrow-kt/arrow) - Λrrow - Functional companion to Kotlin's Standard Library
+- [arrow-kt/arrow](https://github.com/arrow-kt/arrow) - Λrrow - The perfect companion for your Kotlin journey - Inspired by functional, data-oriented and concurrent programming
 - [MarioAriasC/funKTionale](https://github.com/MarioAriasC/funKTionale) - Functional constructs for Kotlin
-- [zjhmale/intellij-rainbow](https://github.com/zjhmale/intellij-rainbow) - Rainbow highlighting identifiers and delimiters for IntelliJ IDEA-based IDEs
+- [swr1bm86/intellij-rainbow](https://github.com/swr1bm86/intellij-rainbow) - Rainbow highlighting identifiers and delimiters for IntelliJ IDEA-based IDEs
 - [atsky/haskell-idea-plugin](https://github.com/atsky/haskell-idea-plugin) - IntelliJ IDEA plugin for Haskell
 - [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
 
@@ -3577,6 +3577,9 @@
 
 ## Rust 
 
+- [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
+- [tokio-rs/io-uring](https://github.com/tokio-rs/io-uring) - The `io_uring` library for Rust
+- [tokio-rs/tokio-uring](https://github.com/tokio-rs/tokio-uring) - An io_uring backed runtime for Rust
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow
 - [cbeust/space-invade.rs](https://github.com/cbeust/space-invade.rs) - An 8080 Space Invaders emulator in Rust
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
