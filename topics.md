@@ -153,6 +153,7 @@
 - [npm](#npm)
 - [objective-c](#objective-c)
 - [open-source](#open-source)
+- [openai](#openai)
 - [opengl](#opengl)
 - [operating-system](#operating-system)
 - [others](#others)
@@ -188,6 +189,7 @@
 - [sass](#sass)
 - [scala](#scala)
 - [security](#security)
+- [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
 - [server](#server)
 - [serverless](#serverless)
@@ -242,6 +244,7 @@
 
 ## ai 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [thomasahle/sunfish](https://github.com/thomasahle/sunfish) - Sunfish: a Python Chess Engine in 111 lines of code
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
@@ -334,7 +337,7 @@
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
 - [aiven/terraform-provider-aiven](https://github.com/aiven/terraform-provider-aiven) - Aiven Terraform Provider
@@ -379,7 +382,6 @@
 - [lotz84/haskell](https://github.com/lotz84/haskell) - A curated list of awesome things related to Haskell.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [craftcms/awesome](https://github.com/craftcms/awesome) - A collection of awesome Craft CMS plugins, articles, resources and shiny things.
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [sporto/awesome-elm](https://github.com/sporto/awesome-elm) - A curated list of useful Elm tutorials, libraries and software. Inspired by awesome list. Feel free to contribute. :rocket:
@@ -498,7 +500,6 @@
 - [unixorn/git-extra-commands](https://github.com/unixorn/git-extra-commands) - A collection of git utilities, useful extra git scripts, tutorials and other useful articles.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-- [bjeanes/dotfiles](https://github.com/bjeanes/dotfiles) - 🏠
 - [liquidprompt/liquidprompt](https://github.com/liquidprompt/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
@@ -643,14 +644,15 @@
 
 ## cli 
 
-- [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
+- [VirtusLab/scala-cli](https://github.com/VirtusLab/scala-cli) - Scala CLI is a command-line tool to interact with the Scala language. It lets you compile, run, test, and package your Scala code (and more!)
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [chshersh/iris](https://github.com/chshersh/iris) - 🌈 Haskell CLI Framework supporting Command Line Interface Guidelines
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [microsoft/BuildXL](https://github.com/microsoft/BuildXL) - Microsoft Build Accelerator
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
@@ -1051,6 +1053,7 @@
 
 ## docker 
 
+- [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
@@ -1059,7 +1062,7 @@
 - [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [xtruder/nix-devcontainer](https://github.com/xtruder/nix-devcontainer) - Swiss army knife container for vscode development environments
 - [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
@@ -1214,7 +1217,6 @@
 - [vermiculus/magithub](https://github.com/vermiculus/magithub) - **DEPRECATED - please use Forge instead!** -- Magit-based interfaces to GitHub
 - [emacsorphanage/god-mode](https://github.com/emacsorphanage/god-mode) - Minor mode for God-like command entering
 - [slime/slime](https://github.com/slime/slime) - The Superior Lisp Interaction Mode for Emacs
-- [bjeanes/dotfiles](https://github.com/bjeanes/dotfiles) - 🏠
 - [magit/magit](https://github.com/magit/magit) - It's Magit! A Git Porcelain inside Emacs.
 - [remacs/remacs](https://github.com/remacs/remacs) - Rust :heart: Emacs
 - [jwiegley/use-package](https://github.com/jwiegley/use-package) - A use-package declaration for simplifying your .emacs
@@ -1422,7 +1424,7 @@
 
 ## git 
 
-- [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [petersalomonsen/wasm-git](https://github.com/petersalomonsen/wasm-git) - GIT for nodejs and the browser using https://libgit2.org compiled to WebAssembly with https://emscripten.org
@@ -1477,6 +1479,7 @@
 - [DarkThemeHub/GithubDarkTheme](https://github.com/DarkThemeHub/GithubDarkTheme) - Dark Theme for Github
 - [47degrees/org](https://github.com/47degrees/org) - Easily create a webpage with your organization's open source projects
 - [vermiculus/magithub](https://github.com/vermiculus/magithub) - **DEPRECATED - please use Forge instead!** -- Magit-based interfaces to GitHub
+- [tfausak/github-release](https://github.com/tfausak/github-release) - :octocat: Upload files to GitHub releases.
 - [neoascetic/rawgithack](https://github.com/neoascetic/rawgithack) - Serves files from github, bitbucket and gitlab, but with the correct content types
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
@@ -1492,6 +1495,7 @@
 
 ## go 
 
+- [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18+ Generics.
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
@@ -1562,6 +1566,7 @@
 
 ## golang 
 
+- [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18+ Generics.
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
@@ -2228,6 +2233,7 @@
 
 ## java 
 
+- [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-21 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [jhipster/prettier-java](https://github.com/jhipster/prettier-java) - Prettier Java Plugin
 - [puniverse/quasar](https://github.com/puniverse/quasar) - Fibers, Channels and Actors for the JVM
@@ -2674,7 +2680,7 @@
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
-- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [kccqzy/no-aslr](https://github.com/kccqzy/no-aslr) - Run program without ASLR (supports Linux and macOS)
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [smxi/inxi](https://github.com/smxi/inxi) - inxi is a full featured CLI system information tool. It is available in most Linux distribution repositories, and does its best to support the BSDs.
@@ -2704,7 +2710,7 @@
 
 ## low-code 
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## lua 
 
@@ -2717,7 +2723,6 @@
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [dibyendumajumdar/ravi](https://github.com/dibyendumajumdar/ravi) - Ravi is a dialect of Lua, featuring limited optional static typing, JIT and AOT compilers
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
 - [raptorjit/raptorjit](https://github.com/raptorjit/raptorjit) - RaptorJIT: A dynamic language for system programming (LuaJIT fork)
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
@@ -2765,7 +2770,7 @@
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
-- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [kccqzy/no-aslr](https://github.com/kccqzy/no-aslr) - Run program without ASLR (supports Linux and macOS)
 - [dsward2/macSVG](https://github.com/dsward2/macSVG) - macSVG - An open-source macOS app for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view ➤➤➤
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -2792,6 +2797,7 @@
 
 ## markdown 
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
@@ -2900,7 +2906,7 @@
 - [neoclide/coc-rls](https://github.com/neoclide/coc-rls) - Rust language server support for coc.nvim
 - [malob/nixpkgs](https://github.com/malob/nixpkgs) - My Nix system configs!
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular configuration of Vim and Neovim
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [bjeanes/dotfiles](https://github.com/bjeanes/dotfiles) - 🏠
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
@@ -2917,6 +2923,7 @@
 
 ## nextjs 
 
+- [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec
@@ -2939,7 +2946,7 @@
 ## node 
 
 - [paritytech/polkadot](https://github.com/paritytech/polkadot) - Polkadot Node Implementation
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [purescript-hyper/hyper](https://github.com/purescript-hyper/hyper) - Type-safe, statically checked composition of HTTP servers
@@ -3009,6 +3016,7 @@
 
 ## open-source 
 
+- [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [Chevrotain/chevrotain](https://github.com/Chevrotain/chevrotain) - Parser Building Toolkit for JavaScript
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [budgetzero/budgetzero](https://github.com/budgetzero/budgetzero) - Open-source, self-hosted, zero-based budgeting.
@@ -3019,6 +3027,10 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
+
+## openai 
+
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 
 ## opengl 
 
@@ -3043,6 +3055,11 @@
 
 ## others 
 
+- [typelevel/shapeless-3](https://github.com/typelevel/shapeless-3) - Generic programming for Scala
+- [underscoreio/shapeless-guide](https://github.com/underscoreio/shapeless-guide) - The Type Astronaut's Guide to Shapeless
+- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
+- [typelevel/kind-projector](https://github.com/typelevel/kind-projector) - Compiler plugin for making type lambdas (type projections) easier to write
+- [AlexTereshenkov/build-engineer-in-the-wonderland](https://github.com/AlexTereshenkov/build-engineer-in-the-wonderland) - A journey into an imaginary world of build systems where it’s all sunshine and roses.
 - [tokio-rs/tokio-uring](https://github.com/tokio-rs/tokio-uring) - An io_uring backed runtime for Rust
 - [cbeust/space-invade.rs](https://github.com/cbeust/space-invade.rs) - An 8080 Space Invaders emulator in Rust
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
@@ -3051,7 +3068,7 @@
 - [kyay10/KonTinuity](https://github.com/kyay10/KonTinuity) - Provides fully-fledged multishot delimitied continuations in Kotlin with Coroutines
 - [twitter/stitch](https://github.com/twitter/stitch) - 
 - [viktorleis/mmapbench](https://github.com/viktorleis/mmapbench) - 
-- [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://cs.tvl.fyi/depot/-/tree/tvix
+- [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://code.tvl.fyi/tree/tvix
 - [lix-project/lix](https://github.com/lix-project/lix) - [MIRROR, PRs ok! Issues: https://git.lix.systems/lix-project/lix/issues] A modern, delicious implementation of the Nix package manager, focused on correctness, usability, and growth — and committed to
 - [TrueLayer/reqwest-middleware](https://github.com/TrueLayer/reqwest-middleware) - Wrapper around reqwest to allow for client middleware chains.
 - [vcr/vcr](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
@@ -3480,7 +3497,6 @@
 - [strace/strace](https://github.com/strace/strace) - strace is a diagnostic, debugging and instructional userspace utility for Linux
 - [droundy/bigbro](https://github.com/droundy/bigbro) - library (and utility) for tracking filesystem changes
 - [ergoemacs/ergoemacs-mode](https://github.com/ergoemacs/ergoemacs-mode) - ergoemacs-mode
-- [pulumi/tf2pulumi](https://github.com/pulumi/tf2pulumi) - A tool to convert Terraform projects to Pulumi
 - [colhom/coreos-docs](https://github.com/colhom/coreos-docs) - Documentation for CoreOS in markdown
 - [tssm/up-to-date-real-world-haskell](https://github.com/tssm/up-to-date-real-world-haskell) - I'm trying to update the Real World Haskell book
 - [graninas/software-design-in-haskell](https://github.com/graninas/software-design-in-haskell) - Software Design in Haskell. A structured set of materials. How to build real-world applications in Haskell.
@@ -3960,7 +3976,7 @@
 - [UU-ComputerScience/uulib](https://github.com/UU-ComputerScience/uulib) - The UUlib libraries
 - [nikita-volkov/hasql-postgres](https://github.com/nikita-volkov/hasql-postgres) - [Deprecated] A "PostgreSQL" driver for the "hasql" library
 - [nikita-volkov/neat-interpolation](https://github.com/nikita-volkov/neat-interpolation) - A quasiquoter for neat and simple multiline text interpolation
-- [Qarik-Group/scriptcast](https://github.com/Qarik-Group/scriptcast) - An application that automates Command-Line Interface (CLI) screencast output.
+- [egen/scriptcast](https://github.com/egen/scriptcast) - An application that automates Command-Line Interface (CLI) screencast output.
 - [vgough/encfs](https://github.com/vgough/encfs) - EncFS: an Encrypted Filesystem for FUSE.
 - [editorconfig/editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode) - EditorConfig extension for Visual Studio Code
 - [nkarag/haskell-DBFunctor](https://github.com/nkarag/haskell-DBFunctor) - Functional Data Management (Type Safe ETL / ELT in Haskell)
@@ -5735,7 +5751,7 @@
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
-- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=]
+- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@nebucatnetzer]
 - [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
@@ -5830,7 +5846,7 @@
 
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building products with speed ⚡️
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 - [prevwong/craft.js](https://github.com/prevwong/craft.js) - 🚀 A React Framework for building extensible drag and drop page editors
 - [mydraft-cc/ui](https://github.com/mydraft-cc/ui) - Open source wireframing tool written in typescript, react and redux.
@@ -5893,7 +5909,7 @@
 
 ## reactjs 
 
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building products with speed ⚡️
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
@@ -5948,6 +5964,7 @@
 - [sidekiq/sidekiq](https://github.com/sidekiq/sidekiq) - Simple, efficient background processing for Ruby
 - [resque/resque](https://github.com/resque/resque) - Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
+- [tfausak/lackey](https://github.com/tfausak/lackey) - :gem: A Haskell library for generating Ruby consumers of Servant APIs.
 - [oracle/truffleruby](https://github.com/oracle/truffleruby) - A high performance implementation of the Ruby programming language, built on GraalVM.
 - [rubygems/rubygems.org](https://github.com/rubygems/rubygems.org) - The Ruby community's gem hosting service.
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
@@ -5964,6 +5981,7 @@
 
 ## rust 
 
+- [mre/idiomatic-rust](https://github.com/mre/idiomatic-rust) - 🦀 A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
 - [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
@@ -6058,7 +6076,7 @@
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
-- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [psibi/rust-book-summary](https://github.com/psibi/rust-book-summary) - Summary of the Rust book
 - [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - The Rust package registry
@@ -6105,6 +6123,7 @@
 - [mmstick/parallel](https://github.com/mmstick/parallel) - This project now lives on in a rewrite at https://gitlab.redox-os.org/redox-os/parallel
 - [harpocrates/language-rust](https://github.com/harpocrates/language-rust) - Parser and pretty-printer for the Rust language
 - [gluon-lang/gluon](https://github.com/gluon-lang/gluon) - A static, type inferred and embeddable language written in Rust.
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -6121,6 +6140,9 @@
 
 ## scala 
 
+- [wartremover/wartremover](https://github.com/wartremover/wartremover) - Flexible Scala code linting tool
+- [VirtusLab/scala-cli](https://github.com/VirtusLab/scala-cli) - Scala CLI is a command-line tool to interact with the Scala language. It lets you compile, run, test, and package your Scala code (and more!)
+- [VirtusLab/besom](https://github.com/VirtusLab/besom) - Besom - a Pulumi SDK for Scala. Also, incidentally, a broom made of twigs tied round a stick. Brooms and besoms are used for protection, to ward off evil spirits, and cleansing of ritual spaces.
 - [softwaremill/bootzooka](https://github.com/softwaremill/bootzooka) - Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc.
 - [opalj/opal](https://github.com/opalj/opal) - 
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
@@ -6202,9 +6224,15 @@
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 - [keystone-engine/keystone](https://github.com/keystone-engine/keystone) - Keystone assembler framework: Core (Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) + bindings
 
+## security-tools 
+
+- [securego/gosec](https://github.com/securego/gosec) - Go security checker
+- [google/syzkaller](https://github.com/google/syzkaller) - syzkaller is an unsupervised coverage-guided kernel fuzzer
+- [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
+
 ## self-hosted 
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [attila-lendvai/maru](https://github.com/attila-lendvai/maru) - Maru - a tiny self-hosting lisp dialect
 - [skerkour/bloom](https://github.com/skerkour/bloom) - 
 - [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
@@ -6272,7 +6300,7 @@
 
 ## spacevim 
 
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular configuration of Vim and Neovim
 
 ## spring-boot 
 
@@ -6474,7 +6502,7 @@
 - [mydraft-cc/ui](https://github.com/mydraft-cc/ui) - Open source wireframing tool written in typescript, react and redux.
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
@@ -6490,7 +6518,7 @@
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
-- [nikitavoloboev/ts](https://github.com/nikitavoloboev/ts) - TS libraries and other code
+- [nikitavoloboev/ts](https://github.com/nikitavoloboev/ts) - TS tools, libraries and other code
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
@@ -6550,7 +6578,7 @@
 - [b1f6c1c4/no-evil-eol-newline](https://github.com/b1f6c1c4/no-evil-eol-newline) - Hide the last 'new line' in Atom, just like vim does.
 - [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [ntpeters/vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace) - Better whitespace highlighting for Vim
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular configuration of Vim and Neovim
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [joshdick/onedark.vim](https://github.com/joshdick/onedark.vim) - A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.
@@ -6673,7 +6701,7 @@
 - [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 - [ivanperez-keera/haskanoid](https://github.com/ivanperez-keera/haskanoid) - A free and open source breakout clone in Haskell using SDL and FRP, with Wiimote and Kinect support.
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
-- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
