@@ -191,7 +191,7 @@
 
 ## Astro 
 
-- [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2023: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
+- [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2024: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
 - [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
 
 ## Bikeshed 
@@ -319,7 +319,6 @@
 - [dtrace4linux/linux](https://github.com/dtrace4linux/linux) - dtrace for linux - kernel driver and userland tools
 - [graydon/monotone](https://github.com/graydon/monotone) - distributed revision control system -- historical snapshot
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
-- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [flatpak/flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [pkgconf/pkgconf](https://github.com/pkgconf/pkgconf) - package compiler and linker metadata toolkit
@@ -506,7 +505,7 @@
 - [gperftools/gperftools](https://github.com/gperftools/gperftools) - Main gperftools repository
 - [eclipse-omr/omr](https://github.com/eclipse-omr/omr) - Eclipse OMR™ Cross platform components for building reliable, high performance language runtimes
 - [smfrpc/smf](https://github.com/smfrpc/smf) - Fastest RPC in the west
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 - [supercollider/supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
@@ -1016,6 +1015,7 @@
 - [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
@@ -2479,6 +2479,7 @@
 - [brunch/brunch](https://github.com/brunch/brunch) - :fork_and_knife: Web applications made easy. Since 2011.
 - [dwyl/technology-stack](https://github.com/dwyl/technology-stack) - 🚀 Detailed description + diagram of the Open Source Technology Stack we use for dwyl projects.
 - [dwyl/learn-nightwatch](https://github.com/dwyl/learn-nightwatch) - :last_quarter_moon_with_face: Learn how to use Nightwatch.js to easily & automatically test your web apps in *real* web browsers.
+- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [eclipse-archived/orion.client](https://github.com/eclipse-archived/orion.client) - The Orion Client, "Your IDE in the Cloud"
 - [ndmitchell/debug](https://github.com/ndmitchell/debug) - Haskell library for debugging
 - [udacity/frontend-nanodegree-resume](https://github.com/udacity/frontend-nanodegree-resume) - This repository is used for one of the projects in Udacity's Front-End Web Developer Nanodegree program. Learn how to become a Front-End Developer today with line-by-line code reviewed projects and ge
@@ -2793,7 +2794,7 @@
 ## Nix 
 
 - [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
-- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@nebucatnetzer]
+- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=]
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
 - [Plutonomicon/plutonomicon](https://github.com/Plutonomicon/plutonomicon) - Advanced techniques in the plutus smart contract language
 - [nix-community/dream2nix](https://github.com/nix-community/dream2nix) - Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau]
@@ -3830,6 +3831,8 @@
 
 ## Scala 
 
+- [typelevel/cats-effect](https://github.com/typelevel/cats-effect) - The pure asynchronous runtime for Scala
+- [scala-steward-org/scala-steward](https://github.com/scala-steward-org/scala-steward) - :robot: A bot that helps you keep your projects up-to-date
 - [typelevel/shapeless-3](https://github.com/typelevel/shapeless-3) - Generic programming for Scala
 - [typelevel/kind-projector](https://github.com/typelevel/kind-projector) - Compiler plugin for making type lambdas (type projections) easier to write
 - [wartremover/wartremover](https://github.com/wartremover/wartremover) - Flexible Scala code linting tool
@@ -4084,7 +4087,7 @@
 - [commercialhaskell/lts-haskell](https://github.com/commercialhaskell/lts-haskell) - LTS Haskell build plans
 - [zendesk/helm-secrets](https://github.com/zendesk/helm-secrets) - DEPRECATED A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [FairwindsOps/rok8s-scripts](https://github.com/FairwindsOps/rok8s-scripts) - Opinionated scripts for managing application deployment lifecycle in Kubernetes
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 385 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [pbiggar/rash](https://github.com/pbiggar/rash) - Rebourne Again Shell
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
@@ -4095,7 +4098,6 @@
 - [ComboStrikeHQ/docker-rails](https://github.com/ComboStrikeHQ/docker-rails) - An opinionated docker image for running Rails apps in production.
 - [bitnami/minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
 - [deepfire/nh](https://github.com/deepfire/nh) - Manage Nix Haskell override sets
-- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [seiji/dotfiles](https://github.com/seiji/dotfiles) - 
 - [domenkozar/snabb-openstack-testing](https://github.com/domenkozar/snabb-openstack-testing) - Snabb Switch functional testing suite for OpenStack integration using NixOS
 - [yogsototh/ymetapost](https://github.com/yogsototh/ymetapost) - A better interface to metapost for generating graphs for the web
@@ -4280,6 +4282,7 @@
 
 ## TypeScript 
 
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 - [astashov/liftosaur](https://github.com/astashov/liftosaur) - Weightlifting tracker app for coders
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
