@@ -269,7 +269,7 @@
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [tweag/sparkle](https://github.com/tweag/sparkle) - Haskell on Apache Spark.
-- [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
+- [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 
 ## android 
 
@@ -352,6 +352,7 @@
 
 ## awesome 
 
+- [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
@@ -399,6 +400,7 @@
 
 ## awesome-list 
 
+- [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [leostera/awesome-alt-langs](https://github.com/leostera/awesome-alt-langs) - Just a list of Awesome Alt Langs to check out
@@ -971,7 +973,8 @@
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
 - [syndtr/goleveldb](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
-- [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
+- [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [morphismtech/squeal](https://github.com/morphismtech/squeal) - Squeal, a deep embedding of SQL in Haskell
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [moby/datakit](https://github.com/moby/datakit) - Connect processes into powerful data pipelines with a simple git-like filesystem interface
@@ -1231,6 +1234,7 @@
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 
 ## ember 
 
@@ -1806,7 +1810,7 @@
 - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
-- [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
+- [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [EbookFoundation/free-science-books](https://github.com/EbookFoundation/free-science-books) - Inspired by free-programming-books, here's free-science-books
 - [niieani/typescript-vs-flowtype](https://github.com/niieani/typescript-vs-flowtype) - Differences between Flowtype and TypeScript -- syntax and usability
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
@@ -2229,7 +2233,7 @@
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Install Salt from the Salt package repositories here:
-- [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
+- [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 
 ## ipfs 
 
@@ -2427,6 +2431,7 @@
 
 ## json 
 
+- [plokhotnyuk/jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of safe and ultra-fast JSON codecs + circe booster
 - [manifold-systems/manifold](https://github.com/manifold-systems/manifold) - Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more.
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
@@ -2646,6 +2651,7 @@
 
 ## library 
 
+- [plokhotnyuk/jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of safe and ultra-fast JSON codecs + circe booster
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [agda/agda-stdlib](https://github.com/agda/agda-stdlib) - The Agda standard library
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
@@ -2837,7 +2843,7 @@
 
 ## microsoft 
 
-- [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Sample ASP.NET Core 8.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
+- [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Sample ASP.NET Core 8.0 reference application, now community supported: https://github.com/NimblePros/eShopOnWeb
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
@@ -3061,6 +3067,10 @@
 
 ## others 
 
+- [shirok/Gauche](https://github.com/shirok/Gauche) - Scheme Scripting Engine
+- [jython/jython](https://github.com/jython/jython) - Python for the Java Platform
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+- [scalameta/mdoc](https://github.com/scalameta/mdoc) - Typechecked markdown documentation for Scala
 - [typelevel/shapeless-3](https://github.com/typelevel/shapeless-3) - Generic programming for Scala
 - [underscoreio/shapeless-guide](https://github.com/underscoreio/shapeless-guide) - The Type Astronaut's Guide to Shapeless
 - [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
@@ -5636,6 +5646,7 @@
 
 ## parsing 
 
+- [plokhotnyuk/jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of safe and ultra-fast JSON codecs + circe booster
 - [Chevrotain/chevrotain](https://github.com/Chevrotain/chevrotain) - Parser Building Toolkit for JavaScript
 - [UnkindPartition/regex-applicative](https://github.com/UnkindPartition/regex-applicative) - Regex-based parsing with an applicative interface
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers
@@ -5701,7 +5712,7 @@
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [valderman/selda](https://github.com/valderman/selda) - A type-safe, high-level SQL library for Haskell
 - [cocreature/postgresql-named](https://github.com/cocreature/postgresql-named) - Deserialize PostgreSQL rows to Haskell records by matching column names and record field names
-- [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
+- [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [morphismtech/squeal](https://github.com/morphismtech/squeal) - Squeal, a deep embedding of SQL in Haskell
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
@@ -5939,8 +5950,9 @@
 
 ## rest-api 
 
+- [pauljamescleary/scala-pet-store](https://github.com/pauljamescleary/scala-pet-store) - An implementation of the java pet store using FP techniques in scala
 - [javalin/javalin](https://github.com/javalin/javalin) - A simple and modern Java and Kotlin web framework
-- [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Sample ASP.NET Core 8.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
+- [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Sample ASP.NET Core 8.0 reference application, now community supported: https://github.com/NimblePros/eShopOnWeb
 - [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
@@ -5962,6 +5974,7 @@
 
 ## ruby 
 
+- [jruby/jruby](https://github.com/jruby/jruby) - JRuby, an implementation of Ruby on the JVM
 - [ruby/rbs](https://github.com/ruby/rbs) - Type Signature for Ruby
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
@@ -5987,6 +6000,8 @@
 
 ## rust 
 
+- [pdf-rs/pdf](https://github.com/pdf-rs/pdf) - Rust library to read, manipulate and write PDF files.
+- [J-F-Liu/lopdf](https://github.com/J-F-Liu/lopdf) - A Rust library for PDF document manipulation.
 - [mre/idiomatic-rust](https://github.com/mre/idiomatic-rust) - 🦀 A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
 - [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow
@@ -6146,6 +6161,9 @@
 
 ## scala 
 
+- [plokhotnyuk/jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of safe and ultra-fast JSON codecs + circe booster
+- [scalameta/scalafmt](https://github.com/scalameta/scalafmt) - Code formatter for Scala
+- [pauljamescleary/scala-pet-store](https://github.com/pauljamescleary/scala-pet-store) - An implementation of the java pet store using FP techniques in scala
 - [typelevel/cats-effect](https://github.com/typelevel/cats-effect) - The pure asynchronous runtime for Scala
 - [scala-steward-org/scala-steward](https://github.com/scala-steward-org/scala-steward) - :robot: A bot that helps you keep your projects up-to-date
 - [wartremover/wartremover](https://github.com/wartremover/wartremover) - Flexible Scala code linting tool
@@ -6244,6 +6262,7 @@
 - [attila-lendvai/maru](https://github.com/attila-lendvai/maru) - Maru - a tiny self-hosting lisp dialect
 - [skerkour/bloom](https://github.com/skerkour/bloom) - 
 - [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 
 ## server 
@@ -6337,7 +6356,7 @@
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [valderman/selda](https://github.com/valderman/selda) - A type-safe, high-level SQL library for Haskell
-- [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
+- [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [morphismtech/squeal](https://github.com/morphismtech/squeal) - Squeal, a deep embedding of SQL in Haskell
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
