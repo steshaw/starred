@@ -358,7 +358,7 @@
 - [sdiehl/haskell-linenoise](https://github.com/sdiehl/haskell-linenoise) - Lightweight readline library for Haskell
 - [antirez/linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
-- [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
+- [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [universal-ctags/ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
 - [morganstanley/hobbes](https://github.com/morganstanley/hobbes) - A language and an embedded JIT compiler
 - [LMDB/lmdb](https://github.com/LMDB/lmdb) - Read-only mirror of official repo on openldap.org. Issues and pull requests here are ignored. Use OpenLDAP ITS for issues.
@@ -432,7 +432,7 @@
 
 ## C# # 
 
-- [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Sample ASP.NET Core 8.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
+- [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Sample ASP.NET Core 8.0 reference application, now community supported: https://github.com/NimblePros/eShopOnWeb
 - [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach.
 - [dotnet/csharplang](https://github.com/dotnet/csharplang) - The official repo for the design of the C# programming language
 - [microsoft/BuildXL](https://github.com/microsoft/BuildXL) - Microsoft Build Accelerator
@@ -735,6 +735,7 @@
 
 ## Emacs Lisp 
 
+- [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [emacs-mirror/emacs](https://github.com/emacs-mirror/emacs) - Mirror of GNU Emacs
 - [akermu/emacs-libvterm](https://github.com/akermu/emacs-libvterm) - Emacs libvterm integration
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
@@ -1227,7 +1228,6 @@
 - [iohkedu/haskell-2020](https://github.com/iohkedu/haskell-2020) - Videos and exercises for the Haskell and Cryptocurrencies class.
 - [tweag/pirouette](https://github.com/tweag/pirouette) - Language-generic workbench for building static analysis
 - [iand675/hstate](https://github.com/iand675/hstate) - State machines in Haskell
-- [flora-pm/flora-server](https://github.com/flora-pm/flora-server) - A package index for the Haskell ecosystem
 - [iand675/thread-utils](https://github.com/iand675/thread-utils) - Missing thread tools for Haskell
 - [iand675/hs-opentelemetry](https://github.com/iand675/hs-opentelemetry) - OpenTelemetry support for the Haskell programming language
 - [tonyday567/web-rep](https://github.com/tonyday567/web-rep) - 
@@ -2347,6 +2347,7 @@
 - [gergoerdi/functional-mos6502-web-performance](https://github.com/gergoerdi/functional-mos6502-web-performance) - https://unsafeperform.io/blog/2022-07-02-a_small_benchmark_for_functional_languages_targeting_web_browsers/
 - [cardano-foundation/CIPs](https://github.com/cardano-foundation/CIPs) - Cardano Improvement Proposals (CIPs)
 - [yamayamayamaji/Keyboard-Shortcuts-for-Google-Translate](https://github.com/yamayamayamaji/Keyboard-Shortcuts-for-Google-Translate) - chrome extension Keyboard Shortcuts for Google Translate
+- [flora-pm/flora-server](https://github.com/flora-pm/flora-server) - A package index for the Haskell ecosystem
 - [Gabriella439/grace](https://github.com/Gabriella439/grace) - A ready-to-fork interpreted functional language with type inference
 - [hasura/graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
@@ -3334,6 +3335,7 @@
 
 ## Python 
 
+- [jython/jython](https://github.com/jython/jython) - Python for the Java Platform
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [BlackBoxCenter/blackbox](https://github.com/BlackBoxCenter/blackbox) - BlackBox Component Builder is an IDE and framework for the Component Pascal programming language.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
@@ -3500,6 +3502,7 @@
 
 ## Ruby 
 
+- [jruby/jruby](https://github.com/jruby/jruby) - JRuby, an implementation of Ruby on the JVM
 - [vcr/vcr](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [nix-community/nix-unstable-installer](https://github.com/nix-community/nix-unstable-installer) - A place to host Nix unstable releases [unmaintained]
@@ -3582,6 +3585,8 @@
 
 ## Rust 
 
+- [pdf-rs/pdf](https://github.com/pdf-rs/pdf) - Rust library to read, manipulate and write PDF files.
+- [J-F-Liu/lopdf](https://github.com/J-F-Liu/lopdf) - A Rust library for PDF document manipulation.
 - [mre/idiomatic-rust](https://github.com/mre/idiomatic-rust) - 🦀 A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
 - [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 - [tokio-rs/io-uring](https://github.com/tokio-rs/io-uring) - The `io_uring` library for Rust
@@ -3831,6 +3836,10 @@
 
 ## Scala 
 
+- [plokhotnyuk/jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of safe and ultra-fast JSON codecs + circe booster
+- [scalameta/mdoc](https://github.com/scalameta/mdoc) - Typechecked markdown documentation for Scala
+- [scalameta/scalafmt](https://github.com/scalameta/scalafmt) - Code formatter for Scala
+- [pauljamescleary/scala-pet-store](https://github.com/pauljamescleary/scala-pet-store) - An implementation of the java pet store using FP techniques in scala
 - [typelevel/cats-effect](https://github.com/typelevel/cats-effect) - The pure asynchronous runtime for Scala
 - [scala-steward-org/scala-steward](https://github.com/scala-steward-org/scala-steward) - :robot: A bot that helps you keep your projects up-to-date
 - [typelevel/shapeless-3](https://github.com/typelevel/shapeless-3) - Generic programming for Scala
@@ -4010,6 +4019,7 @@
 
 ## Scheme 
 
+- [shirok/Gauche](https://github.com/shirok/Gauche) - Scheme Scripting Engine
 - [bdj/dybvig-three-imp](https://github.com/bdj/dybvig-three-imp) - Implementations of the compilers and VMs from R. Kent Dybvig's "Three  Implementation Models for Scheme." Each file is named after the section of  the paper it implements. I made a few modifications t
 - [manuel-serrano/bigloo](https://github.com/manuel-serrano/bigloo) - a practical Scheme compiler
 - [larcenists/larceny](https://github.com/larcenists/larceny) - Larceny Scheme implementation
@@ -4470,6 +4480,7 @@
 
 ## Zig 
 
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [mitchellh/libxev](https://github.com/mitchellh/libxev) - libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
