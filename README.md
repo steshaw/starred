@@ -99,6 +99,7 @@
 - [Smalltalk](#smalltalk)
 - [Standard ML](#standard-ml)
 - [Starlark](#starlark)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
 - [Thrift](#thrift)
@@ -826,6 +827,7 @@
 
 ## Go 
 
+- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -1139,7 +1141,6 @@
 - [FrontendMasters/front-end-handbook-2017](https://github.com/FrontendMasters/front-end-handbook-2017) - 2017 edition of our front-end development guide
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [jwasham/computer-science-flash-cards](https://github.com/jwasham/computer-science-flash-cards) - Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
-- [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 - [haskell/haddock](https://github.com/haskell/haddock) - Haskell Documentation Tool
 - [tpolecat/cofree](https://github.com/tpolecat/cofree) - Fun and Games with Fix, Cofree, and Doobie
 - [foundation/foundation-emails](https://github.com/foundation/foundation-emails) - Quickly create responsive HTML emails that work on any device and client. Even Outlook.
@@ -2250,7 +2251,6 @@
 - [JetBrains/arend-lib](https://github.com/JetBrains/arend-lib) - 
 - [validator/validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
-- [lichess-org/compression](https://github.com/lichess-org/compression) - Chess clock and move compression algorithms for lichess.org
 - [Mojang/DataFixerUpper](https://github.com/Mojang/DataFixerUpper) - A set of utilities designed for incremental building, merging and optimization of data transformations.
 - [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with 
 - [poetix/protonpack](https://github.com/poetix/protonpack) - Stream utilities for Java 8
@@ -3421,6 +3421,7 @@
 - [ganeti/ganeti](https://github.com/ganeti/ganeti) - Ganeti is a virtual machine cluster management tool built on top of existing virtualization technologies such as Xen or KVM and other open source software.
 - [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
+- [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 - [graydon/bors](https://github.com/graydon/bors) - Integration robot for buildbot and github
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
@@ -3585,6 +3586,8 @@
 
 ## Rust 
 
+- [graninas/type-level-interfaces-in-rust](https://github.com/graninas/type-level-interfaces-in-rust) - Type-level interfaces for type-level design in Rust
+- [purton-tech/rust-on-nails](https://github.com/purton-tech/rust-on-nails) - Full stack web architecture for Rust
 - [pdf-rs/pdf](https://github.com/pdf-rs/pdf) - Rust library to read, manipulate and write PDF files.
 - [J-F-Liu/lopdf](https://github.com/J-F-Liu/lopdf) - A Rust library for PDF document manipulation.
 - [mre/idiomatic-rust](https://github.com/mre/idiomatic-rust) - 🦀 A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
@@ -3836,6 +3839,7 @@
 
 ## Scala 
 
+- [monix/monix](https://github.com/monix/monix) - Asynchronous, Reactive Programming for Scala and Scala.js.
 - [plokhotnyuk/jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of safe and ultra-fast JSON codecs + circe booster
 - [scalameta/mdoc](https://github.com/scalameta/mdoc) - Typechecked markdown documentation for Scala
 - [scalameta/scalafmt](https://github.com/scalameta/scalafmt) - Code formatter for Scala
@@ -3865,7 +3869,7 @@
 - [zio/zio-protoquill](https://github.com/zio/zio-protoquill) - Quill for Scala 3
 - [zio/zio-quill](https://github.com/zio/zio-quill) - Compile-time Language Integrated Queries for Scala
 - [jcouyang/dhall-generic](https://github.com/jcouyang/dhall-generic) - Dhall generic decoder for Scala
-- [zio/zio-flow](https://github.com/zio/zio-flow) - Resilient, distributed applications powered by ZIO
+- [zio-archive/zio-flow](https://github.com/zio-archive/zio-flow) - Resilient, distributed applications powered by ZIO
 - [scalameta/scalameta](https://github.com/scalameta/scalameta) - Library to read, analyze, transform and generate Scala programs
 - [wi101/embroidery](https://github.com/wi101/embroidery) - 
 - [afsalthaj/scala3-generic](https://github.com/afsalthaj/scala3-generic) - 
@@ -3892,6 +3896,7 @@
 - [lihaoyi/Metascala](https://github.com/lihaoyi/Metascala) - A JVM written in Scala
 - [47degrees/github4s](https://github.com/47degrees/github4s) - A GitHub API wrapper written in Scala
 - [scala-exercises/scala-exercises](https://github.com/scala-exercises/scala-exercises) - The easy way to learn Scala.
+- [lichess-org/compression](https://github.com/lichess-org/compression) - Chess clock and move compression algorithms for lichess.org
 - [fosskers/scalaz-and-cats](https://github.com/fosskers/scalaz-and-cats) - Usage examples and benchmarks between Scalaz and Cats (w/ Haskell ground-truth).
 - [scalacenter/scalafix](https://github.com/scalacenter/scalafix) - Refactoring and linting tool for Scala
 - [softwaremill/kmq](https://github.com/softwaremill/kmq) - Kafka-based message queue
@@ -4104,7 +4109,7 @@
 - [mislav/dotfiles](https://github.com/mislav/dotfiles) - bash, zsh, git, tmux, personal toolbox
 - [unixorn/git-extra-commands](https://github.com/unixorn/git-extra-commands) - A collection of git utilities, useful extra git scripts, tutorials and other useful articles.
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
-- [davidtwco/dotfiles](https://github.com/davidtwco/dotfiles) - @davidtwco does dotfiles. Configurations for vim, tmux, zsh, bash, git, gpg and more.
+- [davidtwco/dotfiles](https://github.com/davidtwco/dotfiles) - @davidtwco's dotfiles - managed by chezmoi!
 - [ComboStrikeHQ/docker-rails](https://github.com/ComboStrikeHQ/docker-rails) - An opinionated docker image for running Rails apps in production.
 - [bitnami/minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
 - [deepfire/nh](https://github.com/deepfire/nh) - Manage Nix Haskell override sets
@@ -4193,6 +4198,10 @@
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
 - [tweag/rules_haskell](https://github.com/tweag/rules_haskell) - Haskell rules for Bazel.
 - [bazelbuild/rules_k8s](https://github.com/bazelbuild/rules_k8s) - This repository contains rules for interacting with Kubernetes configurations / clusters.
+
+## Svelte 
+
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## Swift 
 
@@ -4293,7 +4302,7 @@
 ## TypeScript 
 
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
-- [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
+- [nextjs/saas-starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 - [astashov/liftosaur](https://github.com/astashov/liftosaur) - Weightlifting tracker app for coders
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [TypeFox/chevrotain-allstar](https://github.com/TypeFox/chevrotain-allstar) - Plugin module for the ALL(*) lookahead algorithm in Chevrotain
@@ -4445,7 +4454,7 @@
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
 - [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [ntpeters/vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace) - Better whitespace highlighting for Vim
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular configuration of Vim and Neovim
+- [wsdjeg/SpaceVim](https://github.com/wsdjeg/SpaceVim) - A modular configuration of Vim and Neovim
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [owickstrom/dotfiles](https://github.com/owickstrom/dotfiles) - My dotfiles for OSX and Ubuntu
 - [parsonsmatt/intero-neovim](https://github.com/parsonsmatt/intero-neovim) - A neovim plugin for Intero, forked from ghcmod-vim
