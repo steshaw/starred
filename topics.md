@@ -15,6 +15,7 @@
 - [ansible](#ansible)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
+- [aspnet](#aspnet)
 - [atom](#atom)
 - [automation](#automation)
 - [awesome](#awesome)
@@ -297,6 +298,7 @@
 
 ## angular 
 
+- [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [softwaremill/bootzooka](https://github.com/softwaremill/bootzooka) - Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
@@ -308,6 +310,7 @@
 
 ## api 
 
+- [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [cuedo/github-webhooks](https://github.com/cuedo/github-webhooks) - Haskell types and instances for decoding GitHub webhook payloads.
@@ -323,6 +326,10 @@
 
 - [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
+
+## aspnet 
+
+- [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 
 ## atom 
 
@@ -353,6 +360,7 @@
 
 ## awesome 
 
+- [mojoaxel/awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing) - 🕶️ A curated list of resources around the topic: visual regression testing
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
@@ -615,7 +623,7 @@
 - [supercollider/supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
-- [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
+- [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
 - [scylladb/seastar](https://github.com/scylladb/seastar) - High performance server-side application framework
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [textmate/textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS 10.12 or later
@@ -630,6 +638,7 @@
 
 ## chrome 
 
+- [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [karma-runner/karma-chrome-launcher](https://github.com/karma-runner/karma-chrome-launcher) - A Karma plugin. Launcher for Chrome and Chrome Canary.
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
@@ -648,6 +657,7 @@
 
 ## cli 
 
+- [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [VirtusLab/scala-cli](https://github.com/VirtusLab/scala-cli) - Scala CLI is a command-line tool to interact with the Scala language. It lets you compile, run, test, and package your Scala code (and more!)
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
@@ -726,7 +736,6 @@
 - [google/j2cl](https://github.com/google/j2cl) - Java to Closure JavaScript transpiler
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [titzer/virgil](https://github.com/titzer/virgil) - A fast and lightweight native programming language
-- [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [imteekay/programming-language-research](https://github.com/imteekay/programming-language-research) - ✨ Programming Language Research, Applied PLT & Compilers
 - [shining1984/PL-Compiler-Resource](https://github.com/shining1984/PL-Compiler-Resource) - 程序语言与编译技术相关资料（持续更新中）
 - [zesterer/tao](https://github.com/zesterer/tao) - A statically-typed functional language with generics, typeclasses, sum types, pattern-matching, first-class functions, currying, algebraic effects, associated types, good diagnostics, etc.
@@ -843,7 +852,7 @@
 - [smfrpc/smf](https://github.com/smfrpc/smf) - Fastest RPC in the west
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
-- [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
+- [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine
 - [ivmai/bdwgc](https://github.com/ivmai/bdwgc) - The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (bdwgc, also known as bdw-gc, boehm-gc, libgc)
@@ -857,7 +866,7 @@
 
 ## cryptography 
 
-- [briansmith/ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust
+- [briansmith/ring](https://github.com/briansmith/ring) - An experiment.
 - [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
 - [pstadler/keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) - Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and using it with Git and GitHub.
 - [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
@@ -874,6 +883,7 @@
 
 ## csharp 
 
+- [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [dotnet/csharplang](https://github.com/dotnet/csharplang) - The official repo for the design of the C# programming language
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [dotnet/corefx](https://github.com/dotnet/corefx) - This repo is used for servicing PR's for .NET Core 2.1 and 3.1. Please visit us at https://github.com/dotnet/runtime
@@ -983,7 +993,7 @@
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [moby/datakit](https://github.com/moby/datakit) - Connect processes into powerful data pipelines with a simple git-like filesystem interface
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
-- [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
+- [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
 - [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [typelevel/doobie](https://github.com/typelevel/doobie) - Functional JDBC layer for Scala.
 - [EventStore/EventStore](https://github.com/EventStore/EventStore) - EventStoreDB, the event-native database. Designed for Event Sourcing, Event-Driven, and Microservices architectures
@@ -1062,6 +1072,7 @@
 
 ## docker 
 
+- [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
@@ -1158,6 +1169,7 @@
 
 ## dotnet 
 
+- [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach.
 - [nxrighthere/UnrealCLR](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET 6 integration
 - [dotnet/fsharp](https://github.com/dotnet/fsharp) - The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio
@@ -1181,6 +1193,7 @@
 
 ## electron 
 
+- [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
@@ -1297,6 +1310,7 @@
 
 ## firefox 
 
+- [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [stoically/temporary-containers](https://github.com/stoically/temporary-containers) - Firefox Add-on that lets you open automatically managed disposable containers
@@ -1475,7 +1489,7 @@
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-- [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - 🤫 Easy access to gitignore boilerplates
+- [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates
 - [ocaml/opam](https://github.com/ocaml/opam) - opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.
 - [gitbucket/gitbucket](https://github.com/gitbucket/gitbucket) - A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
 
@@ -1866,6 +1880,7 @@
 ## haskell 
 
 - [haskell-effectful/effectful](https://github.com/haskell-effectful/effectful) - An easy to use, fast extensible effects library with seamless integration with the existing Haskell ecosystem.
+- [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [mrcjkb/haskell-tools.nvim](https://github.com/mrcjkb/haskell-tools.nvim) - 🦥 Supercharge your Haskell experience in neovim!
 - [cardano-scaling/hydra](https://github.com/cardano-scaling/hydra) - Implementation of the Hydra Head protocol
 - [chshersh/iris](https://github.com/chshersh/iris) - 🌈 Haskell CLI Framework supporting Command Line Interface Guidelines
@@ -2231,6 +2246,7 @@
 - [keera-studios/keera-hails](https://github.com/keera-studios/keera-hails) - Keera Hails: Haskell on Rails - Reactive Programming Framework for Interactive Haskell applications
 - [ivanperez-keera/Yampa](https://github.com/ivanperez-keera/Yampa) - Functional Reactive Programming domain-specific language  for efficient hybrid systems
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
 - [dsward2/macSVG](https://github.com/dsward2/macSVG) - macSVG - An open-source macOS app for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view ➤➤➤
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -2245,7 +2261,7 @@
 
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
-- [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Install Salt from the Salt package repositories here:
+- [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of infrastructure and applications at scale.
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 
 ## ipfs 
@@ -2254,6 +2270,7 @@
 
 ## java 
 
+- [softwaremill/jox](https://github.com/softwaremill/jox) - Fast and Scalable Channels in Java
 - [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-21 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [jhipster/prettier-java](https://github.com/jhipster/prettier-java) - Prettier Java Plugin
@@ -2316,6 +2333,7 @@
 
 ## javascript 
 
+- [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [Chevrotain/chevrotain](https://github.com/Chevrotain/chevrotain) - Parser Building Toolkit for JavaScript
@@ -2597,7 +2615,6 @@
 - [dlang/dmd](https://github.com/dlang/dmd) - dmd D Programming Language compiler
 - [flix/flix](https://github.com/flix/flix) - The Flix Programming Language
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
-- [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [ThakeeNathees/pocketlang](https://github.com/ThakeeNathees/pocketlang) - A lightweight, fast embeddable scripting language.
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 - [ChessMax/awesome-programming-languages](https://github.com/ChessMax/awesome-programming-languages) - The list of awesome programming languages that you might be interested in.
@@ -2684,6 +2701,7 @@
 ## linux 
 
 - [tokio-rs/io-uring](https://github.com/tokio-rs/io-uring) - The `io_uring` library for Rust
+- [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
@@ -2775,6 +2793,7 @@
 
 ## macos 
 
+- [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3
@@ -2951,7 +2970,7 @@
 
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [nextjs/saas-starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec
 - [amiroff/NextBook](https://github.com/amiroff/NextBook) - NextBook is quick and easy way to build technical books or documentation with markdown that run blazingly fast.
@@ -2988,6 +3007,7 @@
 
 ## nodejs 
 
+- [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [petersalomonsen/wasm-git](https://github.com/petersalomonsen/wasm-git) - GIT for nodejs and the browser using https://libgit2.org compiled to WebAssembly with https://emscripten.org
 - [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
@@ -3021,7 +3041,7 @@
 
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
-- [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
+- [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
 - [orientechnologies/orientdb](https://github.com/orientechnologies/orientdb) - OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text and Geospatial models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Tr
 
 ## npm 
@@ -3122,7 +3142,6 @@
 - [tomjaguarpaw/bluefin](https://github.com/tomjaguarpaw/bluefin) - 
 - [graninas/Pragmatic-Type-Level-Design](https://github.com/graninas/Pragmatic-Type-Level-Design) - Code and materials for my book "Pragmatic Type Level Design"
 - [scionproto/scion](https://github.com/scionproto/scion) - SCION Internet Architecture
-- [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [basecamp/kamal-proxy](https://github.com/basecamp/kamal-proxy) - Lightweight proxy server for Kamal
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [TypeFox/chevrotain-allstar](https://github.com/TypeFox/chevrotain-allstar) - Plugin module for the ALL(*) lookahead algorithm in Chevrotain
@@ -5801,7 +5820,7 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
-- [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Install Salt from the Salt package repositories here:
+- [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of infrastructure and applications at scale.
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
@@ -5883,7 +5902,7 @@
 ## react 
 
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building products with speed ⚡️
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 - [prevwong/craft.js](https://github.com/prevwong/craft.js) - 🚀 A React Framework for building extensible drag and drop page editors
@@ -6044,7 +6063,6 @@
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
-- [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [aripiprazole/lura](https://github.com/aripiprazole/lura) - 🍞 | IDE focused programming language study
 - [lloydmeta/frunk](https://github.com/lloydmeta/frunk) - Funktional generic type-level programming in Rust: HList, Coproduct, Generic, LabelledGeneric, Validated, Monoid and friends.
 - [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
@@ -6094,7 +6112,7 @@
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
 - [briansmith/webpki](https://github.com/briansmith/webpki) - WebPKI X.509 Certificate Validation in Rust
-- [briansmith/ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust
+- [briansmith/ring](https://github.com/briansmith/ring) - An experiment.
 - [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
@@ -6260,7 +6278,7 @@
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
-- [briansmith/ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust
+- [briansmith/ring](https://github.com/briansmith/ring) - An experiment.
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
 - [mozilla-lockwise/lockwise-android](https://github.com/mozilla-lockwise/lockwise-android) - Firefox's Lockwise app for Android
@@ -6301,7 +6319,6 @@
 ## serverless 
 
 - [infinyon/fluvio](https://github.com/infinyon/fluvio) - Lean and mean distributed stream processing system written in rust and web assembly. Alternative to Kafka + Flink in one.
-- [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
 - [oam-dev/spec](https://github.com/oam-dev/spec) - Open Application Model (OAM).
@@ -6344,7 +6361,7 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
-- [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - 🤫 Easy access to gitignore boilerplates
+- [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
@@ -6360,6 +6377,7 @@
 
 ## sql 
 
+- [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics
@@ -6389,6 +6407,7 @@
 
 ## sql-server 
 
+- [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 
 ## sqlite 
@@ -6442,7 +6461,7 @@
 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 
 ## telegram 
@@ -6511,6 +6530,7 @@
 
 ## testing 
 
+- [mojoaxel/awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing) - 🕶️ A curated list of resources around the topic: visual regression testing
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [c-cube/qcheck](https://github.com/c-cube/qcheck) - QuickCheck inspired property-based testing for OCaml.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -6545,6 +6565,7 @@
 
 ## typescript 
 
+- [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [astashov/liftosaur](https://github.com/astashov/liftosaur) - Weightlifting tracker app for coders
 - [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
@@ -6556,7 +6577,6 @@
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [mydraft-cc/ui](https://github.com/mydraft-cc/ui) - Open source wireframing tool written in typescript, react and redux.
-- [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
@@ -6752,6 +6772,7 @@
 
 ## windows 
 
+- [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
