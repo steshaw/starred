@@ -3098,7 +3098,7 @@
 - [ghuntley/workshops](https://github.com/ghuntley/workshops) - 
 - [klange/ponyos](https://github.com/klange/ponyos) - My Little Unix: Kernels are Magic!
 - [klange/toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network st
-- [illumos/illumos-gate](https://github.com/illumos/illumos-gate) - An open-source Unix operating system
+- [illumos/illumos-gate](https://github.com/illumos/illumos-gate) - An open-source Unix operating system -- this is a read-only mirror of the official repository at https://code.illumos.org/plugins/gitiles/illumos-gate
 - [littlekernel/lk](https://github.com/littlekernel/lk) - LK embedded kernel
 
 ## others 
