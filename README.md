@@ -1101,7 +1101,6 @@
 
 ## HTML 
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [leanprover-community/mathematics_in_lean](https://github.com/leanprover-community/mathematics_in_lean) - The user home repository for the Mathematics in Lean tutorial.
 - [mgaudet/CompilerJobs](https://github.com/mgaudet/CompilerJobs) - A listing of compiler, language and runtime teams for people looking for jobs in this area
 - [namin/unsound](https://github.com/namin/unsound) - Artifact for OOPSLA'16 Paper on Unsoundness of Java and Scala
@@ -3339,6 +3338,7 @@
 ## Python 
 
 - [jython/jython](https://github.com/jython/jython) - Python for the Java Platform
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [BlackBoxCenter/blackbox](https://github.com/BlackBoxCenter/blackbox) - BlackBox Component Builder is an IDE and framework for the Component Pascal programming language.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
@@ -3588,6 +3588,7 @@
 
 ## Rust 
 
+- [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
 - [morphic-lang/morphic](https://github.com/morphic-lang/morphic) - Pure functional programming with whole-program mutability inference
 - [typst/biblatex](https://github.com/typst/biblatex) - A Rust crate for parsing and writing BibTeX and BibLaTeX files.
 - [graninas/type-level-interfaces-in-rust](https://github.com/graninas/type-level-interfaces-in-rust) - Type-level interfaces for type-level design in Rust
