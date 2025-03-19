@@ -99,6 +99,7 @@
 - [Smalltalk](#smalltalk)
 - [Standard ML](#standard-ml)
 - [Starlark](#starlark)
+- [StringTemplate](#stringtemplate)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -394,7 +395,7 @@
 - [mjolnirapp/mjolnir](https://github.com/mjolnirapp/mjolnir) - Lightweight automation and productivity app for OS X
 - [penberg/wolf](https://github.com/penberg/wolf) - Wolf, a raycasting engine for pseudo 3D games.
 - [blitz-research/monkey](https://github.com/blitz-research/monkey) - Blitz Research Monkey Source
-- [johnclaus/algorithms](https://github.com/johnclaus/algorithms) - A repository of assorted algorithms and data structures.
+- [herbenderbler/algorithms](https://github.com/herbenderbler/algorithms) - A repository of assorted algorithms and data structures.
 - [seL4/seL4](https://github.com/seL4/seL4) - The seL4 microkernel
 - [FreeApophis/TrueCrypt](https://github.com/FreeApophis/TrueCrypt) - This repository applies all Versions of the Original TrueCrypt Source Files in order
 - [aliceml/aliceml-seam-support](https://github.com/aliceml/aliceml-seam-support) - Support files for building the SEAM VM
@@ -1101,6 +1102,7 @@
 
 ## HTML 
 
+- [corrode/write-yourself-a-web-app](https://github.com/corrode/write-yourself-a-web-app) - Simple web app to learn Rust, axum, Postgres
 - [leanprover-community/mathematics_in_lean](https://github.com/leanprover-community/mathematics_in_lean) - The user home repository for the Mathematics in Lean tutorial.
 - [mgaudet/CompilerJobs](https://github.com/mgaudet/CompilerJobs) - A listing of compiler, language and runtime teams for people looking for jobs in this area
 - [namin/unsound](https://github.com/namin/unsound) - Artifact for OOPSLA'16 Paper on Unsoundness of Java and Scala
@@ -3377,6 +3379,7 @@
 - [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
 - [phillipberndt/autorandr](https://github.com/phillipberndt/autorandr) - Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr
 - [ncm2/ncm2](https://github.com/ncm2/ncm2) - :heart: Slim, Fast and Hackable Completion Framework for Neovim
+- [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of infrastructure and applications at scale.
 - [purplesyringa/PijulGit](https://github.com/purplesyringa/PijulGit) - Pijul &lt;-&gt; Git proxy
 - [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts
@@ -4167,7 +4170,6 @@
 
 ## Smalltalk 
 
-- [Cuis-Smalltalk/Cuis-Smalltalk-Dev](https://github.com/Cuis-Smalltalk/Cuis-Smalltalk-Dev) - Active development of Cuis Smalltalk
 - [feenkcom/gtoolkit](https://github.com/feenkcom/gtoolkit) - Glamorous Toolkit is the Moldable Development environment. It empowers you to make systems explainable through experiences tailored for each problem.
 
 ## Standard ML 
@@ -4200,9 +4202,12 @@
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [tweag/rules_nixpkgs](https://github.com/tweag/rules_nixpkgs) - Rules for importing Nixpkgs packages into Bazel.
 - [TokTok/toktok-stack](https://github.com/TokTok/toktok-stack) - A snapshot of the complete software stack (excluding some external libraries and programs)
-- [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
 - [tweag/rules_haskell](https://github.com/tweag/rules_haskell) - Haskell rules for Bazel.
 - [bazelbuild/rules_k8s](https://github.com/bazelbuild/rules_k8s) - This repository contains rules for interacting with Kubernetes configurations / clusters.
+
+## StringTemplate 
+
+- [Cuis-Smalltalk/Cuis-Smalltalk-Dev](https://github.com/Cuis-Smalltalk/Cuis-Smalltalk-Dev) - Active development of Cuis Smalltalk
 
 ## Svelte 
 
@@ -4210,7 +4215,7 @@
 
 ## Swift 
 
-- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3
+- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4
 - [nicklockwood/RetroRampage](https://github.com/nicklockwood/RetroRampage) - Tutorial series demonstrating how to build a retro first-person shooter from scratch in Swift
 - [tombonez/noTunes](https://github.com/tombonez/noTunes) - A simple macOS application that will prevent iTunes or Apple Music from launching.
 - [bow-swift/bow](https://github.com/bow-swift/bow) - 🏹 Bow is a cross-platform library for Typed Functional Programming in Swift
