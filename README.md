@@ -320,7 +320,7 @@
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [dtrace4linux/linux](https://github.com/dtrace4linux/linux) - dtrace for linux - kernel driver and userland tools
 - [graydon/monotone](https://github.com/graydon/monotone) - distributed revision control system -- historical snapshot
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [flatpak/flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [pkgconf/pkgconf](https://github.com/pkgconf/pkgconf) - package compiler and linker metadata toolkit
@@ -446,7 +446,7 @@
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [dotnet/corert](https://github.com/dotnet/corert) - This repo contains CoreRT, an experimental .NET Core runtime optimized for AOT (ahead of time compilation) scenarios, with the accompanying compiler toolchain.
 - [dafny-lang/dafny](https://github.com/dafny-lang/dafny) - Dafny is a verification-aware programming language
-- [EventStore/EventStore](https://github.com/EventStore/EventStore) - EventStoreDB, the event-native database. Designed for Event Sourcing, Event-Driven, and Microservices architectures
+- [kurrent-io/EventStore](https://github.com/kurrent-io/EventStore) - EventStoreDB, the event-native database. Designed for Event Sourcing, Event-Driven, and Microservices architectures
 - [SodiumFRP/sodium](https://github.com/SodiumFRP/sodium) - Sodium - Functional Reactive Programming (FRP) Library for multiple languages
 - [steshaw/blue](https://github.com/steshaw/blue) - Matt Stall's C# compiler in C# http://blogs.msdn.com/b/jmstall/archive/2005/02/06/368192.aspx
 - [boo-lang/boo](https://github.com/boo-lang/boo) - The Boo Programming Language.
@@ -1040,7 +1040,7 @@
 - [flannel-io/flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
-- [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go.
+- [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based automation system written in Go.
 - [openshift/origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift
 - [monochromegane/the_platinum_searcher](https://github.com/monochromegane/the_platinum_searcher) - A code search tool similar to ack and the_silver_searcher(ag). It supports multi platforms and multi encodings.
 - [gizak/termui](https://github.com/gizak/termui) - Golang terminal dashboard
@@ -2281,7 +2281,7 @@
 - [google/guava](https://github.com/google/guava) - Google core libraries for Java
 - [scribejava/scribejava](https://github.com/scribejava/scribejava) - Simple OAuth library for Java
 - [orientechnologies/orientdb](https://github.com/orientechnologies/orientdb) - OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text and Geospatial models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Tr
-- [JabRef/jabref](https://github.com/JabRef/jabref) - Graphical Java application for managing BibTeX and biblatex (.bib) databases
+- [JabRef/jabref](https://github.com/JabRef/jabref) - Graphical Java application for managing BibTeX and BibLaTeX (.bib) databases
 - [nathanmarz/elephantdb](https://github.com/nathanmarz/elephantdb) - Distributed database specialized in exporting key/value data from Hadoop
 - [DigitalPebble/behemoth](https://github.com/DigitalPebble/behemoth) - Behemoth is an open source platform for large scale document analysis based on Apache Hadoop.
 - [dcevm/dcevm](https://github.com/dcevm/dcevm) - Dynamic Code Evolution VM for Java 7/8
@@ -3079,6 +3079,7 @@
 - [jmchapman/TT-in-TT](https://github.com/jmchapman/TT-in-TT) - Type theory in type theory
 - [haskell/ecosystem-proposals](https://github.com/haskell/ecosystem-proposals) - Proposals for the Haskell Ecosystem
 - [bor0/gidti](https://github.com/bor0/gidti) - Book: Introduction to Dependent Types with Idris
+- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 💀 Homebrew Bundle (deprecated)
 - [MikeMcQuaid/GitInPractice](https://github.com/MikeMcQuaid/GitInPractice) - 📖 An opinionated intermediate/advanced Git book
 - [imjasonh/gcping](https://github.com/imjasonh/gcping) - 
 - [craftcms/awesome](https://github.com/craftcms/awesome) - A collection of awesome Craft CMS plugins, articles, resources and shiny things.
@@ -3114,6 +3115,7 @@
 - [yallop/haskell2014-papers](https://github.com/yallop/haskell2014-papers) - Accepted papers for Haskell 2014
 - [datasciencemasters/go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+- [Homebrew/homebrew-services](https://github.com/Homebrew/homebrew-services) - 💀 Homebrew Services (deprecated)
 - [libuv/leps](https://github.com/libuv/leps) - Libuv Enhancement Proposals
 - [gasche/popl2018-papers](https://github.com/gasche/popl2018-papers) - Link to preprints for POPL'18 and colocated events
 - [DataHaskell/awesome-haskell-ml](https://github.com/DataHaskell/awesome-haskell-ml) - 📚 - Resources for Machine Learning and Haskell
@@ -3519,7 +3521,6 @@
 - [Shopify/shipit-engine](https://github.com/Shopify/shipit-engine) - Deployment coordination
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
 - [aanand/git-up](https://github.com/aanand/git-up) - NOT MAINTAINED
-- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
 - [ruby/rake](https://github.com/ruby/rake) - A make-like build utility for Ruby.
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 - [tmm1/test-queue](https://github.com/tmm1/test-queue) - parallel test runner for CI environments
@@ -3536,7 +3537,6 @@
 - [pluralsight/git-internals-pdf](https://github.com/pluralsight/git-internals-pdf) - PDF on Git Internals
 - [pivotal/LicenseFinder](https://github.com/pivotal/LicenseFinder) - Find licenses for your project's dependencies.
 - [Linuxbrew/brew](https://github.com/Linuxbrew/brew) - :beer::penguin: The Homebrew package manager for Linux
-- [Homebrew/homebrew-services](https://github.com/Homebrew/homebrew-services) - 🚀 Manage background services using the daemon manager launchctl on macOS or systemctl on Linux.
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [vito/atomy](https://github.com/vito/atomy) - a modular, macro-ular, totally tubular language for the Rubinius VM. #atomo @ freenode
@@ -3932,7 +3932,7 @@
 - [typelevel/doobie](https://github.com/typelevel/doobie) - Functional JDBC layer for Scala.
 - [tpolecat/atto](https://github.com/tpolecat/atto) - friendly little parsers
 - [adelbertc/gazette](https://github.com/adelbertc/gazette) - Toy project serving to illustrate that it's possible to write pure functional systems in Scala.
-- [EventStore/EventStore.Akka.Persistence](https://github.com/EventStore/EventStore.Akka.Persistence) - Event Store Journal for Akka Persistence
+- [kurrent-io/EventStore.Akka.Persistence](https://github.com/kurrent-io/EventStore.Akka.Persistence) - Event Store Journal for Akka Persistence
 - [krasserm/akka-analytics](https://github.com/krasserm/akka-analytics) - Large-scale event processing with Akka Persistence and Apache Spark
 - [krasserm/akka-persistence-kafka](https://github.com/krasserm/akka-persistence-kafka) - A replicated Akka Persistence journal backed by Apache Kafka
 - [eligosource/eventsourced-example](https://github.com/eligosource/eventsourced-example) - A Scala web application demonstrating event-sourcing best practices
@@ -4080,7 +4080,7 @@
 - [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
 - [mfine/heroku-buildpack-stack](https://github.com/mfine/heroku-buildpack-stack) - Haskell Stack support for Heroku
 - [billimek/k8s-gitops](https://github.com/billimek/k8s-gitops) - GitOps principles to define kubernetes cluster state via code
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [johanhaleby/kubetail](https://github.com/johanhaleby/kubetail) - Bash script to tail Kubernetes logs from multiple pods at the same time
 - [tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
@@ -4170,7 +4170,7 @@
 
 ## Smalltalk 
 
-- [feenkcom/gtoolkit](https://github.com/feenkcom/gtoolkit) - Glamorous Toolkit is the Moldable Development environment. It empowers you to make systems explainable through experiences tailored for each problem.
+- [feenkcom/gtoolkit](https://github.com/feenkcom/gtoolkit) - Glamorous Toolkit is the Moldable Development Environment. It empowers you to make systems explainable through contextual micro tools.
 
 ## Standard ML 
 
