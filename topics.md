@@ -1166,7 +1166,7 @@
 - [davidtwco/dotfiles](https://github.com/davidtwco/dotfiles) - @davidtwco's dotfiles - managed by chezmoi!
 - [probberechts/dotfiles](https://github.com/probberechts/dotfiles) - 🏡 There's no place like ~/
 - [bjeanes/dotfiles](https://github.com/bjeanes/dotfiles) - 🏠
-- [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
+- [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - nix modules for darwin
 - [joelburget/dotfiles](https://github.com/joelburget/dotfiles) - My important config files
 - [freshshell/fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
@@ -4744,7 +4744,7 @@
 - [type-theory/learn-tt](https://github.com/type-theory/learn-tt) - A collection of resources for learning type theory.
 - [BNFC/bnfc](https://github.com/BNFC/bnfc) - BNF Converter
 - [serras/4languages](https://github.com/serras/4languages) - Book about Haskell, Clean, Agda and Idris
-- [coq/coq](https://github.com/coq/coq) - Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive developme
+- [rocq-prover/rocq](https://github.com/rocq-prover/rocq) - The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment f
 - [sweirich/trellys](https://github.com/sweirich/trellys) - Automatically exported from code.google.com/p/trellys
 - [andykitchen/deco](https://github.com/andykitchen/deco) - A magical programming language
 - [idris-hackers/idris-mode](https://github.com/idris-hackers/idris-mode) - Idris syntax highlighting, compiler-supported editing, interactive REPL and more things for Emacs.
@@ -6511,7 +6511,7 @@
 - [cirocosta/asciinema-edit](https://github.com/cirocosta/asciinema-edit) - asciinema casts post-production tools
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [jtdaugherty/brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI library written in Haskell
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 385 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 400 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [gnunn1/tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
