@@ -266,7 +266,7 @@
 
 ## analytics 
 
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [YPares/porcupine](https://github.com/YPares/porcupine) - Express parametrable, composable and portable data pipelines
@@ -971,7 +971,7 @@
 
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
@@ -2608,6 +2608,7 @@
 ## language 
 
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
+- [racket/rhombus](https://github.com/racket/rhombus) - Rhombus programming language
 - [jfecher/ante](https://github.com/jfecher/ante) - A safe, easy systems language
 - [grain-lang/grain](https://github.com/grain-lang/grain) - The Grain compiler toolchain and CLI. Home of the modern web staple. 🌾
 - [effekt-lang/effekt](https://github.com/effekt-lang/effekt) - A language with lexical effect handlers and lightweight effect polymorphism
@@ -3144,7 +3145,6 @@
 - [TheNumbat/Lists](https://github.com/TheNumbat/Lists) - Bookmarks in graphics, algorithms, low level programming, math, languages
 - [racket/redex](https://github.com/racket/redex) - 
 - [racket/typed-racket](https://github.com/racket/typed-racket) - Typed Racket
-- [racket/rhombus](https://github.com/racket/rhombus) - Rhombus programming language
 - [rustwasm/walrus](https://github.com/rustwasm/walrus) - Walrus is a WebAssembly transformation library 🌊🐘
 - [tomjaguarpaw/bluefin](https://github.com/tomjaguarpaw/bluefin) - 
 - [graninas/Pragmatic-Type-Level-Design](https://github.com/graninas/Pragmatic-Type-Level-Design) - Code and materials for my book "Pragmatic Type Level Design"
@@ -4144,7 +4144,7 @@
 - [snoyberg/monad-logger](https://github.com/snoyberg/monad-logger) - A class of monads which can log messages
 - [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens.
 - [cncd/pipeline](https://github.com/cncd/pipeline) - Go package implements a container-based pipeline engine
-- [microsoft/bond](https://github.com/microsoft/bond) - Bond is a cross-platform framework for working with schematized data. It supports cross-language de/serialization and powerful generic mechanisms for efficiently manipulating data. Bond is broadly use
+- [microsoft/bond](https://github.com/microsoft/bond) - Bond was a cross-platform framework for working with schematized data. The open-source project ended on March 31, 2025.
 - [ocharles/haskell-opentracing](https://github.com/ocharles/haskell-opentracing) - Haskell libraries for OpenTracing.io
 - [ChrisCoffey/haskell-opentracing-light](https://github.com/ChrisCoffey/haskell-opentracing-light) - A minimalist approach to an OpenTracing for Haskell
 - [eborden/language-edn](https://github.com/eborden/language-edn) - A Haskell representation of Clojure's EDN
@@ -4269,7 +4269,6 @@
 - [proudcloud/awesome](https://github.com/proudcloud/awesome) - What makes Proudcloud awesome.
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [erikd/jenga](https://github.com/erikd/jenga) - Generate a cabal freeze file from a stack.yaml
-- [vmchale/brainheck](https://github.com/vmchale/brainheck) - Brainh*ck intrepreter in haskell.
 - [kosmikus/SSGEP](https://github.com/kosmikus/SSGEP) - 
 - [bos/pool](https://github.com/bos/pool) - A high-performance striped resource pooling implementation for Haskell
 - [MichaelXavier/Angel](https://github.com/MichaelXavier/Angel) - Process Monitoring/Management, Like Daemontools
@@ -5734,7 +5733,7 @@
 ## postgresql 
 
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [zio/zio-protoquill](https://github.com/zio/zio-protoquill) - Quill for Scala 3
@@ -6390,7 +6389,7 @@
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python
