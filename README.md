@@ -14,7 +14,6 @@
 - [Bikeshed](#bikeshed)
 - [Boo](#boo)
 - [Boogie](#boogie)
-- [Brainfuck](#brainfuck)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -207,10 +206,6 @@
 ## Boogie 
 
 - [boogie-org/boogie](https://github.com/boogie-org/boogie) - Boogie
-
-## Brainfuck 
-
-- [vmchale/brainheck](https://github.com/vmchale/brainheck) - Brainh*ck intrepreter in haskell.
 
 ## C 
 
@@ -2272,6 +2267,7 @@
 - [indeedeng/lsmtree](https://github.com/indeedeng/lsmtree) - A fast key/value store that is efficient for high-volume random access reads and writes.
 - [grpc/grpc-java](https://github.com/grpc/grpc-java) - The Java gRPC implementation. HTTP/2 based RPC
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
+- [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 - [apache/parquet-java](https://github.com/apache/parquet-java) - Apache Parquet Java
 - [apache/archiva](https://github.com/apache/archiva) - Apache Archiva Repository
 - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
@@ -2454,7 +2450,6 @@
 - [wallaby-rails/wallaby-rails](https://github.com/wallaby-rails/wallaby-rails) - Autocomplete the resourceful actions and views for ORMs for admin interface and other purposes.
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
 - [nottsjs/www.nottsjs.org](https://github.com/nottsjs/www.nottsjs.org) - Source Code for the NottsJS website and part of the Build a Real Website with React Project.
-- [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [sindresorhus/conduct](https://github.com/sindresorhus/conduct) - 🖖 Generate a Code of Conduct for your project
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
@@ -3630,7 +3625,7 @@
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
@@ -4125,7 +4120,6 @@
 - [GoogleCloudPlatform/kube-jenkins-imager](https://github.com/GoogleCloudPlatform/kube-jenkins-imager) - 
 - [janakiramm/Kubernetes-dev-env](https://github.com/janakiramm/Kubernetes-dev-env) - Scripts for the Kubernetes Dev Environment Tutorial
 - [kelseyhightower/lobsters-on-kubernetes](https://github.com/kelseyhightower/lobsters-on-kubernetes) - Lobsters, the Hacker News clone, on Kubernetes
-- [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 - [dwijnand/sbt-extras](https://github.com/dwijnand/sbt-extras) - A more featureful runner for sbt, the simple/scala/standard build tool
 - [stackbuilders/haskell-deploy](https://github.com/stackbuilders/haskell-deploy) - Haskell deploy script from Circle CI to Debian
 - [WhereSoftwareGoesToDie/docker-haskell](https://github.com/WhereSoftwareGoesToDie/docker-haskell) - Build a Docker image for building Haskell software.
@@ -4407,6 +4401,7 @@
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [vscode-kubernetes-tools/vscode-kubernetes-tools](https://github.com/vscode-kubernetes-tools/vscode-kubernetes-tools) - Kubernetes extension for Visual Studio Code
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [featurist/hyperdom](https://github.com/featurist/hyperdom) - A fast, feature rich and simple framework for building dynamic browser applications.
