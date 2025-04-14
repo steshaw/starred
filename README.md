@@ -99,7 +99,6 @@
 - [Standard ML](#standard-ml)
 - [Starlark](#starlark)
 - [StringTemplate](#stringtemplate)
-- [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
 - [Thrift](#thrift)
@@ -112,6 +111,7 @@
 - [WebAssembly](#webassembly)
 - [Wren](#wren)
 - [XSLT](#xslt)
+- [YAML](#yaml)
 - [Zig](#zig)
 - [hoon](#hoon)
 
@@ -216,6 +216,7 @@
 - [koka-lang/libmprompt](https://github.com/koka-lang/libmprompt) - Robust multi-prompt delimited control and effect handlers in C/C++
 - [axboe/liburing](https://github.com/axboe/liburing) - Library providing helpers for the Linux kernel io_uring support
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
+- [augustss/MicroHs](https://github.com/augustss/MicroHs) - Haskell implemented with combinators
 - [aripiprazole/lura](https://github.com/aripiprazole/lura) - 🍞 | IDE focused programming language study
 - [iu-parfunc/gibbon](https://github.com/iu-parfunc/gibbon) - A compiler for functional programs on serialized data
 - [ThakeeNathees/pocketlang](https://github.com/ThakeeNathees/pocketlang) - A lightweight, fast embeddable scripting language.
@@ -1191,7 +1192,6 @@
 - [UnkindPartition/regex-applicative](https://github.com/UnkindPartition/regex-applicative) - Regex-based parsing with an applicative interface
 - [UnkindPartition/lexer-applicative](https://github.com/UnkindPartition/lexer-applicative) - Applicative lexer
 - [NorfairKing/opt-env-conf](https://github.com/NorfairKing/opt-env-conf) - 
-- [augustss/MicroHs](https://github.com/augustss/MicroHs) - Haskell implemented with combinators
 - [freckle/blammo](https://github.com/freckle/blammo) - Batteries-included structured logging library
 - [plt-amy/dep](https://github.com/plt-amy/dep) - A very small implementation of the Calculus of Constructions for experimentation purposes
 - [lukeg101/lplzoo](https://github.com/lukeg101/lplzoo) - Fine-grain implementations of common lambda calculi in Haskell, tested with QuickCheck
@@ -2332,6 +2332,7 @@
 
 ## JavaScript 
 
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [slevithan/xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions
@@ -2808,7 +2809,6 @@
 - [scarf-sh/nomia](https://github.com/scarf-sh/nomia) - A system for precise, efficient resource management across every domain and resource type.
 - [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [morganthomas/nixos](https://github.com/morganthomas/nixos) - My nixos configuration.
-- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [cmacrae/config](https://github.com/cmacrae/config) - A collection of system configurations, expressed in Nix
 - [LnL7/nix-docker](https://github.com/LnL7/nix-docker) - Docker images for the Nix package manager
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
@@ -3357,6 +3357,7 @@
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
+- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 - [chubin/late.nz](https://github.com/chubin/late.nz) - Latency numbers every programmer should know
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
@@ -3840,6 +3841,7 @@
 
 ## Scala 
 
+- [scalawithcats/scala-with-cats](https://github.com/scalawithcats/scala-with-cats) - Source code for Scala with Cats
 - [monix/monix](https://github.com/monix/monix) - Asynchronous, Reactive Programming for Scala and Scala.js.
 - [plokhotnyuk/jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of safe and ultra-fast JSON codecs + circe booster
 - [scalameta/mdoc](https://github.com/scalameta/mdoc) - Typechecked markdown documentation for Scala
@@ -4072,7 +4074,6 @@
 - [gabrielmoreira/craftman](https://github.com/gabrielmoreira/craftman) - Craft CMS Manager
 - [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
 - [mfine/heroku-buildpack-stack](https://github.com/mfine/heroku-buildpack-stack) - Haskell Stack support for Heroku
-- [billimek/k8s-gitops](https://github.com/billimek/k8s-gitops) - GitOps principles to define kubernetes cluster state via code
 - [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [johanhaleby/kubetail](https://github.com/johanhaleby/kubetail) - Bash script to tail Kubernetes logs from multiple pods at the same time
@@ -4201,10 +4202,6 @@
 
 - [Cuis-Smalltalk/Cuis-Smalltalk-Dev](https://github.com/Cuis-Smalltalk/Cuis-Smalltalk-Dev) - Active development of Cuis Smalltalk
 
-## Svelte 
-
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
-
 ## Swift 
 
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4
@@ -4291,7 +4288,7 @@
 - [liuxinyu95/AlgoXY](https://github.com/liuxinyu95/AlgoXY) - Book of Elementary Functional Algorithms and Data structures
 - [tonymorris/parametricity](https://github.com/tonymorris/parametricity) - A talk on parametricity
 - [idris-hackers/IdrisWeb](https://github.com/idris-hackers/IdrisWeb) - A secure web framework, built in the Idris language.
-- [fsharp/fsharp.org](https://github.com/fsharp/fsharp.org) - The F# Software Foundation website
+- [fsharp/fsharp.org](https://github.com/fsharp/fsharp.org) - The fsharp.org website
 - [jhshi/course.cs_theory](https://github.com/jhshi/course.cs_theory) - Glossary of Introduction to the Theory of Computation Course
 - [edwinb/EpiVM](https://github.com/edwinb/EpiVM) - Epic - a Supercombinator Compiler
 - [HoTT/book](https://github.com/HoTT/book) - A textbook on informal homotopy type theory
@@ -4359,7 +4356,7 @@
 - [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [jaredpalmer/after.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router
 - [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying "you forgot to …" in code review
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
@@ -4492,6 +4489,10 @@
 ## XSLT 
 
 - [ianw/bottomupcs](https://github.com/ianw/bottomupcs) - Bottom Up Computer Science
+
+## YAML 
+
+- [billimek/k8s-gitops](https://github.com/billimek/k8s-gitops) - GitOps principles to define kubernetes cluster state via code
 
 ## Zig 
 
