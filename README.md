@@ -60,6 +60,7 @@
 - [LiveScript](#livescript)
 - [Lua](#lua)
 - [MATLAB](#matlab)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mercury](#mercury)
@@ -100,6 +101,7 @@
 - [Starlark](#starlark)
 - [StringTemplate](#stringtemplate)
 - [Swift](#swift)
+- [Tcl](#tcl)
 - [TeX](#tex)
 - [Thrift](#thrift)
 - [TypeScript](#typescript)
@@ -216,7 +218,6 @@
 - [koka-lang/libmprompt](https://github.com/koka-lang/libmprompt) - Robust multi-prompt delimited control and effect handlers in C/C++
 - [axboe/liburing](https://github.com/axboe/liburing) - Library providing helpers for the Linux kernel io_uring support
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-- [augustss/MicroHs](https://github.com/augustss/MicroHs) - Haskell implemented with combinators
 - [aripiprazole/lura](https://github.com/aripiprazole/lura) - 🍞 | IDE focused programming language study
 - [iu-parfunc/gibbon](https://github.com/iu-parfunc/gibbon) - A compiler for functional programs on serialized data
 - [ThakeeNathees/pocketlang](https://github.com/ThakeeNathees/pocketlang) - A lightweight, fast embeddable scripting language.
@@ -410,7 +411,7 @@
 - [joyent/libuv](https://github.com/joyent/libuv) - Go to
 - [steshaw/babycc](https://github.com/steshaw/babycc) - A journey through the Crenshaw compiler tutorial using C and x86 from back in 2004
 - [ivmai/bdwgc](https://github.com/ivmai/bdwgc) - The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (bdwgc, also known as bdw-gc, boehm-gc, libgc)
-- [ivmai/libatomic_ops](https://github.com/ivmai/libatomic_ops) - The atomic_ops project (Atomic memory update operations portable implementation)
+- [bdwgc/libatomic_ops](https://github.com/bdwgc/libatomic_ops) - The atomic_ops project (Atomic memory update operations portable implementation)
 - [dagit/Cyclone-Language](https://github.com/dagit/Cyclone-Language) - My branch of the Cyclone programming language
 - [steshaw/dEngine](https://github.com/steshaw/dEngine) - 
 - [steshaw/gtk-examples](https://github.com/steshaw/gtk-examples) - Examples from "Developing Linux Applications with GTK+ and GDK" by Eric Harlow
@@ -442,7 +443,7 @@
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [dotnet/corert](https://github.com/dotnet/corert) - This repo contains CoreRT, an experimental .NET Core runtime optimized for AOT (ahead of time compilation) scenarios, with the accompanying compiler toolchain.
 - [dafny-lang/dafny](https://github.com/dafny-lang/dafny) - Dafny is a verification-aware programming language
-- [kurrent-io/EventStore](https://github.com/kurrent-io/EventStore) - EventStoreDB, the event-native database. Designed for Event Sourcing, Event-Driven, and Microservices architectures
+- [kurrent-io/KurrentDB](https://github.com/kurrent-io/KurrentDB) - EventStoreDB, the event-native database. Designed for Event Sourcing, Event-Driven, and Microservices architectures
 - [SodiumFRP/sodium](https://github.com/SodiumFRP/sodium) - Sodium - Functional Reactive Programming (FRP) Library for multiple languages
 - [steshaw/blue](https://github.com/steshaw/blue) - Matt Stall's C# compiler in C# http://blogs.msdn.com/b/jmstall/archive/2005/02/06/368192.aspx
 - [boo-lang/boo](https://github.com/boo-lang/boo) - The Boo Programming Language.
@@ -527,7 +528,7 @@
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
 - [scylladb/seastar](https://github.com/scylladb/seastar) - High performance server-side application framework
-- [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine
@@ -973,7 +974,7 @@
 - [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen) - Fast file synchronization and network forwarding for remote development
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [roboll/helmfile](https://github.com/roboll/helmfile) - Deploy Kubernetes Helm Charts
-- [Praqma/helmsman](https://github.com/Praqma/helmsman) - Helm Charts as Code
+- [mkubaczyk/helmsman](https://github.com/mkubaczyk/helmsman) - Helm Charts as Code
 - [zaquestion/lab](https://github.com/zaquestion/lab) - Lab wraps Git or Hub, making it simple to clone, fork, and interact with repositories on GitLab
 - [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
@@ -1192,6 +1193,7 @@
 - [UnkindPartition/regex-applicative](https://github.com/UnkindPartition/regex-applicative) - Regex-based parsing with an applicative interface
 - [UnkindPartition/lexer-applicative](https://github.com/UnkindPartition/lexer-applicative) - Applicative lexer
 - [NorfairKing/opt-env-conf](https://github.com/NorfairKing/opt-env-conf) - 
+- [augustss/MicroHs](https://github.com/augustss/MicroHs) - Haskell implemented with combinators
 - [freckle/blammo](https://github.com/freckle/blammo) - Batteries-included structured logging library
 - [plt-amy/dep](https://github.com/plt-amy/dep) - A very small implementation of the Calculus of Constructions for experimentation purposes
 - [lukeg101/lplzoo](https://github.com/lukeg101/lplzoo) - Fine-grain implementations of common lambda calculi in Haskell, tested with QuickCheck
@@ -2208,7 +2210,7 @@
 
 ## Java 
 
-- [softwaremill/jox](https://github.com/softwaremill/jox) - Fast and Scalable Channels in Java
+- [softwaremill/jox](https://github.com/softwaremill/jox) - Virtual-thread based safe concurrency & streaming
 - [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-21 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
 - [jhipster/prettier-java](https://github.com/jhipster/prettier-java) - Prettier Java Plugin
 - [eclipse-xtext/xtext](https://github.com/eclipse-xtext/xtext) - Eclipse Xtext™ is a language development framework
@@ -2554,7 +2556,6 @@
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [lebesnec/island.js](https://github.com/lebesnec/island.js) - Island map generator in JavaScript
 - [zedapp/zed](https://github.com/zedapp/zed) - Rethinking code editing.
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [marionettejs/backbone.marionette](https://github.com/marionettejs/backbone.marionette) - The Backbone Framework
 - [remy/min.js](https://github.com/remy/min.js) - Super minimal selector and event library
 - [remy/jsconsole](https://github.com/remy/jsconsole) - Web based console - for presentations and workshops
@@ -2685,6 +2686,7 @@
 
 ## Kotlin 
 
+- [typealias-studios/kotlin-illustrated-guide](https://github.com/typealias-studios/kotlin-illustrated-guide) - Source code for the book, Kotlin: An Illustrated Guide
 - [kyay10/KonTinuity](https://github.com/kyay10/KonTinuity) - Provides fully-fledged multishot delimitied continuations in Kotlin with Coroutines
 - [javalin/javalin](https://github.com/javalin/javalin) - A simple and modern Java and Kotlin web framework
 - [bennyhuo/Kotlin-Trim-Indent](https://github.com/bennyhuo/Kotlin-Trim-Indent) - This is a Kotlin compiler plugin for a compile-time indent trim of raw String.
@@ -2694,7 +2696,7 @@
 - [mozilla-lockwise/lockwise-android](https://github.com/mozilla-lockwise/lockwise-android) - Firefox's Lockwise app for Android
 - [JetBrains/kotlin-native](https://github.com/JetBrains/kotlin-native) - Kotlin/Native infrastructure
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
-- [arrow-kt/arrow](https://github.com/arrow-kt/arrow) - Λrrow - The perfect companion for your Kotlin journey - Inspired by functional, data-oriented and concurrent programming
+- [arrow-kt/arrow](https://github.com/arrow-kt/arrow) - The perfect companion for your Kotlin journey - Inspired by functional, data-oriented and concurrent programming
 - [MarioAriasC/funKTionale](https://github.com/MarioAriasC/funKTionale) - Functional constructs for Kotlin
 - [swr1bm86/intellij-rainbow](https://github.com/swr1bm86/intellij-rainbow) - Rainbow highlighting identifiers and delimiters for IntelliJ IDEA-based IDEs
 - [atsky/haskell-idea-plugin](https://github.com/atsky/haskell-idea-plugin) - IntelliJ IDEA plugin for Haskell
@@ -2745,6 +2747,10 @@
 ## MATLAB 
 
 - [scheinerman/InvitationToDynamicalSystems](https://github.com/scheinerman/InvitationToDynamicalSystems) - Download my book "Invitation to Dynamical Systems" and its solution manual.
+
+## MDX 
+
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Makefile 
 
@@ -3072,7 +3078,7 @@
 - [jmchapman/TT-in-TT](https://github.com/jmchapman/TT-in-TT) - Type theory in type theory
 - [haskell/ecosystem-proposals](https://github.com/haskell/ecosystem-proposals) - Proposals for the Haskell Ecosystem
 - [bor0/gidti](https://github.com/bor0/gidti) - Book: Introduction to Dependent Types with Idris
-- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 💀 Homebrew Bundle (deprecated)
+- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 💀 Homebrew/bundle (merged into Homebrew/brew)
 - [MikeMcQuaid/GitInPractice](https://github.com/MikeMcQuaid/GitInPractice) - 📖 An opinionated intermediate/advanced Git book
 - [imjasonh/gcping](https://github.com/imjasonh/gcping) - 
 - [craftcms/awesome](https://github.com/craftcms/awesome) - A collection of awesome Craft CMS plugins, articles, resources and shiny things.
@@ -3499,7 +3505,6 @@
 ## Roff 
 
 - [DataDog/docker-dd-agent](https://github.com/DataDog/docker-dd-agent) - Datadog Agent Dockerfile for Trusted Builds.
-- [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) - Registry index for crates.io
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## Ruby 
@@ -3585,6 +3590,8 @@
 
 ## Rust 
 
+- [tower-lsp-community/tower-lsp-server](https://github.com/tower-lsp-community/tower-lsp-server) - Language Server Protocol implementation for Rust based on Tower
+- [awslabs/aws-lambda-web-adapter](https://github.com/awslabs/aws-lambda-web-adapter) - Run web applications on AWS Lambda
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
 - [morphic-lang/morphic](https://github.com/morphic-lang/morphic) - Pure functional programming with whole-program mutability inference
 - [typst/biblatex](https://github.com/typst/biblatex) - A Rust crate for parsing and writing BibTeX and BibLaTeX files.
@@ -3605,7 +3612,7 @@
 - [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
 - [y-crdt/y-crdt](https://github.com/y-crdt/y-crdt) - Rust port of Yjs
 - [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://code.tvl.fyi/tree/tvix
-- [infinyon/fluvio](https://github.com/infinyon/fluvio) - Lean and mean distributed stream processing system written in rust and web assembly. Alternative to Kafka + Flink in one.
+- [infinyon/fluvio](https://github.com/infinyon/fluvio) - 🦀 event stream processing for developers to stream and process data in motion to power responsive data intensive applications.
 - [TrueLayer/reqwest-middleware](https://github.com/TrueLayer/reqwest-middleware) - Wrapper around reqwest to allow for client middleware chains.
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [rustwasm/walrus](https://github.com/rustwasm/walrus) - Walrus is a WebAssembly transformation library 🌊🐘
@@ -4216,6 +4223,10 @@
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [thoughtbot/Argo](https://github.com/thoughtbot/Argo) - Functional JSON parsing library for Swift
+
+## Tcl 
+
+- [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) - Registry index for crates.io
 
 ## TeX 
 
