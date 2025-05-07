@@ -99,7 +99,7 @@
 - [Smalltalk](#smalltalk)
 - [Standard ML](#standard-ml)
 - [Starlark](#starlark)
-- [StringTemplate](#stringtemplate)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [Tcl](#tcl)
 - [TeX](#tex)
@@ -2334,11 +2334,10 @@
 
 ## JavaScript 
 
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [slevithan/xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions
-- [slevithan/regex](https://github.com/slevithan/regex) - JS regexes + future. A template tag for readable, high-performance, native JS regexes with extended syntax, context-aware interpolation, and always-on best practices.
+- [slevithan/regex](https://github.com/slevithan/regex) - JS regexes ➕ future. A template tag for readable, high-performance, native JS regexes with extended syntax, context-aware interpolation, and always-on best practices.
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
@@ -3624,7 +3623,7 @@
 - [Marwes/haskell-compiler](https://github.com/Marwes/haskell-compiler) - A mostly functional haskell compiler written in rust
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [kyren/hashlink](https://github.com/kyren/hashlink) - An updated version of linked-hash-map and friends
-- [Automattic/harper](https://github.com/Automattic/harper) - The Grammar Checker for Developers
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [rosefromthedead/effing-mad](https://github.com/rosefromthedead/effing-mad) - Algebraic effects for Rust
 - [paritytech/polkadot-sdk](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers
@@ -4170,6 +4169,7 @@
 
 ## Smalltalk 
 
+- [Cuis-Smalltalk/Cuis-Smalltalk-Dev](https://github.com/Cuis-Smalltalk/Cuis-Smalltalk-Dev) - Active development of Cuis Smalltalk
 - [feenkcom/gtoolkit](https://github.com/feenkcom/gtoolkit) - Glamorous Toolkit is the Moldable Development Environment. It empowers you to make systems explainable through contextual micro tools.
 
 ## Standard ML 
@@ -4205,9 +4205,9 @@
 - [tweag/rules_haskell](https://github.com/tweag/rules_haskell) - Haskell rules for Bazel.
 - [bazelbuild/rules_k8s](https://github.com/bazelbuild/rules_k8s) - This repository contains rules for interacting with Kubernetes configurations / clusters.
 
-## StringTemplate 
+## Svelte 
 
-- [Cuis-Smalltalk/Cuis-Smalltalk-Dev](https://github.com/Cuis-Smalltalk/Cuis-Smalltalk-Dev) - Active development of Cuis Smalltalk
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## Swift 
 
