@@ -515,6 +515,7 @@
 - [haskell/double-conversion](https://github.com/haskell/double-conversion) - A fast Haskell library for converting between double precision floating point numbers and text strings. It is implemented as a binding to the V8-derived C++ double-conversion library.
 - [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) - 
 - [facebook/proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [emeryberger/Heap-Layers](https://github.com/emeryberger/Heap-Layers) - Heap Layers: An Extensible Memory Allocation Infrastructure
 - [FenTheFox/LibMallocTrace](https://github.com/FenTheFox/LibMallocTrace) - A simple library that traces all malloc/free and mmap/munmap calls.
 - [keystone-engine/keystone](https://github.com/keystone-engine/keystone) - Keystone assembler framework: Core (Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) + bindings
@@ -2222,7 +2223,7 @@
 - [manifold-systems/manifold](https://github.com/manifold-systems/manifold) - Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more.
 - [jacoco/jacoco](https://github.com/jacoco/jacoco) - :microscope: Java Code Coverage Library
 - [jspecify/jspecify](https://github.com/jspecify/jspecify) - An artifact of fully-specified annotations to power static-analysis checks, beginning with nullness analysis.
-- [junit-team/junit5](https://github.com/junit-team/junit5) - ✅ The 5th major version of the programmer-friendly testing framework for Java and the JVM
+- [junit-team/junit5](https://github.com/junit-team/junit5) - ✅ The programmer-friendly testing framework for Java and the JVM
 - [jqwik-team/jqwik](https://github.com/jqwik-team/jqwik) - Property-Based Testing on the JUnit Platform
 - [google/j2cl](https://github.com/google/j2cl) - Java to Closure JavaScript transpiler
 - [typetools/checker-framework](https://github.com/typetools/checker-framework) - Pluggable type-checking for Java
@@ -2339,7 +2340,7 @@
 - [slevithan/xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions
 - [slevithan/regex](https://github.com/slevithan/regex) - JS regexes ➕ future. A template tag for readable, high-performance, native JS regexes with extended syntax, context-aware interpolation, and always-on best practices.
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
 - [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
@@ -3426,7 +3427,6 @@
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [ganeti/ganeti](https://github.com/ganeti/ganeti) - Ganeti is a virtual machine cluster management tool built on top of existing virtualization technologies such as Xen or KVM and other open source software.
 - [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 - [graydon/bors](https://github.com/graydon/bors) - Integration robot for buildbot and github
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
@@ -3676,7 +3676,7 @@
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
 - [facebookexperimental/reverie](https://github.com/facebookexperimental/reverie) - An ergonomic and safe syscall interception framework for Linux.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
-- [lnx-search/lnx](https://github.com/lnx-search/lnx) - ⚡ Insanely fast, 🌟 Feature-rich searching. lnx is the adaptable, typo tollerant deployment of the tantivy search engine.
+- [lnx-search/lnx](https://github.com/lnx-search/lnx) - An insanely fast search engine for scaling to the stars 🌠
 - [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and a
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
