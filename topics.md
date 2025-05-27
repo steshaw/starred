@@ -1177,7 +1177,7 @@
 - [davidtwco/dotfiles](https://github.com/davidtwco/dotfiles) - @davidtwco's dotfiles - managed by chezmoi!
 - [probberechts/dotfiles](https://github.com/probberechts/dotfiles) - 🏡 There's no place like ~/
 - [bjeanes/dotfiles](https://github.com/bjeanes/dotfiles) - 🏠
-- [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - nix modules for darwin
+- [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - Manage your macOS using Nix
 - [joelburget/dotfiles](https://github.com/joelburget/dotfiles) - My important config files
 - [freshshell/fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
@@ -3239,7 +3239,7 @@
 - [jsiek/abstract-binding-trees](https://github.com/jsiek/abstract-binding-trees) - Abstract binding trees (abstract syntax trees plus binders), as a library in Agda
 - [smlnj/smlnj](https://github.com/smlnj/smlnj) - Standard ML of New Jersey
 - [microsoft/verona](https://github.com/microsoft/verona) - Research programming language for concurrent ownership
-- [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
+- [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - A complete web conferencing system for virtual classes and more!
 - [gelisam/klister](https://github.com/gelisam/klister) - an implementation of stuck macros
 - [rkuhn/acto](https://github.com/rkuhn/acto) - Actor library for Rust
 - [swlaschin/fsharpforfunandprofit.com](https://github.com/swlaschin/fsharpforfunandprofit.com) - Source for fsharpforfunandprofit.com. For typos, please send a PR or create an issue. Thanks!
