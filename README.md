@@ -1174,7 +1174,6 @@
 - [mixu/distsysbook](https://github.com/mixu/distsysbook) - The book Distributed systems: for fun and profit
 - [yui/yuidoc](https://github.com/yui/yuidoc) - YUI Javascript Documentation Tool
 - [vhf/resrc](https://github.com/vhf/resrc) - 
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [igstan/learn-you-a-haskell-kindle](https://github.com/igstan/learn-you-a-haskell-kindle) - Sources to generate "Learn You a Haskell For Great Good" in mobi format, accepted by Kindle.
 - [lukaszx0/queues.io](https://github.com/lukaszx0/queues.io) - Queues, all of them.
 - [madrobby/zepto](https://github.com/madrobby/zepto) - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API
@@ -2815,6 +2814,7 @@
 - [scarf-sh/nomia](https://github.com/scarf-sh/nomia) - A system for precise, efficient resource management across every domain and resource type.
 - [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [morganthomas/nixos](https://github.com/morganthomas/nixos) - My nixos configuration.
+- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [cmacrae/config](https://github.com/cmacrae/config) - A collection of system configurations, expressed in Nix
 - [LnL7/nix-docker](https://github.com/LnL7/nix-docker) - Docker images for the Nix package manager
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
@@ -3363,7 +3363,6 @@
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
-- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 - [chubin/late.nz](https://github.com/chubin/late.nz) - Latency numbers every programmer should know
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
@@ -3458,6 +3457,7 @@
 - [raymontag/keepassc](https://github.com/raymontag/keepassc) - KeePassC is a curses-based password manager compatible to KeePass v.1.x and KeePassX
 - [jeanqasaur/jeeves](https://github.com/jeanqasaur/jeeves) - Python implementation of the Jeeves programming language.
 - [snare/voltron](https://github.com/snare/voltron) - A hacky debugger UI for hackers
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [apenwarr/sshuttle](https://github.com/apenwarr/sshuttle) - Wrong project!  You should head over to http://github.com/sshuttle/sshuttle
 - [oriontransfer/PL0-Language-Tools](https://github.com/oriontransfer/PL0-Language-Tools) - An implementation of PL/0 including a tree-based interpreter and virtual machine.
 - [narke/py2neko](https://github.com/narke/py2neko) - Python targeted to NekoVM by converting python to neko language.
