@@ -2685,6 +2685,7 @@
 
 ## Kotlin 
 
+- [Kotlin/kotlin-lsp](https://github.com/Kotlin/kotlin-lsp) - Kotlin Language Server and plugin for Visual Studio Code
 - [typealias-studios/kotlin-illustrated-guide](https://github.com/typealias-studios/kotlin-illustrated-guide) - Source code for the book, Kotlin: An Illustrated Guide
 - [kyay10/KonTinuity](https://github.com/kyay10/KonTinuity) - Provides fully-fledged multishot delimitied continuations in Kotlin with Coroutines
 - [javalin/javalin](https://github.com/javalin/javalin) - A simple and modern Java and Kotlin web framework
@@ -2801,7 +2802,7 @@
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
 - [Plutonomicon/plutonomicon](https://github.com/Plutonomicon/plutonomicon) - Advanced techniques in the plutus smart contract language
 - [nix-community/dream2nix](https://github.com/nix-community/dream2nix) - Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau]
-- [tpwrules/nixos-apple-silicon](https://github.com/tpwrules/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs
+- [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules]
 - [djacu/dotfiles-tweag](https://github.com/djacu/dotfiles-tweag) - NixOS dotfiles for work
 - [srid/haskell-flake](https://github.com/srid/haskell-flake) - A `flake-parts` Nix module for Haskell development
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
