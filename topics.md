@@ -1705,7 +1705,7 @@
 - [buildkite/frontend](https://github.com/buildkite/frontend) - 🌏 The front-end application code for https://buildkite.com
 - [CircleCI-Public/circleci-cli](https://github.com/CircleCI-Public/circleci-cli) - Use CircleCI from the command line
 - [vuejs/apollo](https://github.com/vuejs/apollo) - 🚀 Apollo/GraphQL integration for VueJS
-- [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
+- [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate 
 - [ember-graphql/ember-apollo-client](https://github.com/ember-graphql/ember-apollo-client) - 🚀 An ember-cli addon for Apollo Client and GraphQL
 - [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and ca
 - [craftcms/cms](https://github.com/craftcms/cms) - Build bespoke content experiences with Craft.
@@ -6628,7 +6628,7 @@
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
-- [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
+- [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate 
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [featurist/hyperdom](https://github.com/featurist/hyperdom) - A fast, feature rich and simple framework for building dynamic browser applications.
