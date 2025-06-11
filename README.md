@@ -1247,6 +1247,7 @@
 - [input-output-hk/foliage](https://github.com/input-output-hk/foliage) - 🌿 Foliage is a tool to create custom Haskell package repositories, in a fully reproducible way.
 - [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp) - 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
 - [freckle/stackctl](https://github.com/freckle/stackctl) - Manage CloudFormation Stacks through specifications
+- [Gabriella439/grace](https://github.com/Gabriella439/grace) - A ready-to-fork interpreted functional language with type inference
 - [simonmichael/games](https://github.com/simonmichael/games) - Small games, experiments, and notes on (Haskell) game development.
 - [siraben/fp-notes](https://github.com/siraben/fp-notes) - Notes on Functional Programming and related topics
 - [bgamari/io-uring](https://github.com/bgamari/io-uring) - A simple set of io-uring bindings in Haskell
@@ -2348,7 +2349,6 @@
 - [cardano-foundation/CIPs](https://github.com/cardano-foundation/CIPs) - Cardano Improvement Proposals (CIPs)
 - [yamayamayamaji/Keyboard-Shortcuts-for-Google-Translate](https://github.com/yamayamayamaji/Keyboard-Shortcuts-for-Google-Translate) - chrome extension Keyboard Shortcuts for Google Translate
 - [flora-pm/flora-server](https://github.com/flora-pm/flora-server) - A package index for the Haskell ecosystem
-- [Gabriella439/grace](https://github.com/Gabriella439/grace) - A ready-to-fork interpreted functional language with type inference
 - [hasura/graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [amiroff/NextBook](https://github.com/amiroff/NextBook) - NextBook is quick and easy way to build technical books or documentation with markdown that run blazingly fast.
@@ -3209,7 +3209,6 @@
 - [ocamllabs/ocaml-internals](https://github.com/ocamllabs/ocaml-internals) - Wiki for ocaml compiler internals
 - [ocamllabs/compiler-hacking](https://github.com/ocamllabs/compiler-hacking) - Wiki for compiler hacking sessions
 - [benhardy/braintree-scala](https://github.com/benhardy/braintree-scala) - Scala client library for interfacing with Braintree's Payment gateway
-- [Homebrew/homebrew-cask-versions](https://github.com/Homebrew/homebrew-cask-versions) - 💀 Alternate versions of Casks (deprecated)
 - [larrytheliquid/leveling-up](https://github.com/larrytheliquid/leveling-up) - Source code accompanying the paper "Leveling Up Dependent Types"
 - [lkuper/weekly-reports](https://github.com/lkuper/weekly-reports) - What I did every week for the last year of my Ph.D.
 - [fommil/netlib-java](https://github.com/fommil/netlib-java) - :rocket: High Performance Linear Algebra (low level)
