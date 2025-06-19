@@ -171,6 +171,7 @@
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
+- [productivity](#productivity)
 - [programming](#programming)
 - [publishing](#publishing)
 - [pwa](#pwa)
@@ -4614,7 +4615,6 @@
 - [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
 - [toddmohney/json-api](https://github.com/toddmohney/json-api) - Haskell Implementation of the JSON-API specification
 - [jsdelivr/foundationcdn](https://github.com/jsdelivr/foundationcdn) - DEPRECATED The code for the website at
-- [elliakou/proxima-nova-web-fonts](https://github.com/elliakou/proxima-nova-web-fonts) - Proxima Nova Web Fonts
 - [dp-cylme/logging-effect-google](https://github.com/dp-cylme/logging-effect-google) - 
 - [Soostone/retry](https://github.com/Soostone/retry) - Retry combinators for monadic actions that may fail
 - [QuentinDuval/IdrisReducers](https://github.com/QuentinDuval/IdrisReducers) - Transducers for Idris: a library for composable algorithmic transformation.
@@ -5802,6 +5802,14 @@
 - [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
+
+## productivity 
+
+- [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
+- [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
+- [unhammer/org-mru-clock](https://github.com/unhammer/org-mru-clock) - ⏲️ Effortlessly clock in/out of org-mode tasks, with completion and persistent history
+- [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## programming 
 
