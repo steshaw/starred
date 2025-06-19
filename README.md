@@ -1147,7 +1147,6 @@
 - [tpolecat/cofree](https://github.com/tpolecat/cofree) - Fun and Games with Fix, Cofree, and Doobie
 - [foundation/foundation-emails](https://github.com/foundation/foundation-emails) - Quickly create responsive HTML emails that work on any device and client. Even Outlook.
 - [thoughtbot/bitters](https://github.com/thoughtbot/bitters) - Add a dash of pre-defined style to your Bourbon.
-- [elliakou/proxima-nova-web-fonts](https://github.com/elliakou/proxima-nova-web-fonts) - Proxima Nova Web Fonts
 - [orangeduck/BuildYourOwnLisp](https://github.com/orangeduck/BuildYourOwnLisp) - Learn C and build your own programming language in under 1000 lines of code!
 - [yesodweb/yesodweb.com-content](https://github.com/yesodweb/yesodweb.com-content) - Content for the www.yesodweb.com site
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
