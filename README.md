@@ -54,6 +54,7 @@
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kit](#kit)
+- [Koka](#koka)
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
 - [Lean](#lean)
@@ -1169,7 +1170,6 @@
 - [apache/mahout](https://github.com/apache/mahout) - Mirror of Apache Mahout
 - [blitz-research/blitz3d](https://github.com/blitz-research/blitz3d) - 
 - [NICTA/t3as-pat-clas](https://github.com/NICTA/t3as-pat-clas) - Web services and associated functionality for doing Patent Classification Search and Lookups of the CPC, IPC, and USPC patent classification systems.
-- [mitro-co/mitro](https://github.com/mitro-co/mitro) - Repository for all Mitro client & server code
 - [mixu/distsysbook](https://github.com/mixu/distsysbook) - The book Distributed systems: for fun and profit
 - [yui/yuidoc](https://github.com/yui/yuidoc) - YUI Javascript Documentation Tool
 - [vhf/resrc](https://github.com/vhf/resrc) - 
@@ -1372,7 +1372,6 @@
 - [chrisdone-archive/duet](https://github.com/chrisdone-archive/duet) - A tiny language, a subset of Haskell aimed at aiding teachers teach Haskell
 - [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) - Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
 - [dsturnbull/h](https://github.com/dsturnbull/h) - 
-- [koka-lang/koka](https://github.com/koka-lang/koka) - Koka language compiler and interpreter
 - [theam/tintin](https://github.com/theam/tintin) - 📚 A softer alternative to Haddock
 - [carp-lang/Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
 - [amuletml/amulet](https://github.com/amuletml/amulet) - An ML-like functional programming language
@@ -2683,6 +2682,10 @@
 
 - [bendmorris/krit-kit](https://github.com/bendmorris/krit-kit) - [deprecated] 2D game engine, written in Kit, using SDL/OpenGL. See more recent C++ version at https://github.com/bendmorris/krit
 
+## Koka 
+
+- [koka-lang/koka](https://github.com/koka-lang/koka) - Koka language compiler and interpreter
+
 ## Kotlin 
 
 - [Kotlin/kotlin-lsp](https://github.com/Kotlin/kotlin-lsp) - Kotlin Language Server and plugin for Visual Studio Code
@@ -3365,6 +3368,7 @@
 - [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 - [chubin/late.nz](https://github.com/chubin/late.nz) - Latency numbers every programmer should know
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
@@ -3713,7 +3717,7 @@
 - [raphlinus/crochet](https://github.com/raphlinus/crochet) - Explorations in reactive UI patterns
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - Official Sentry SDK for Rust
+- [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - The official Sentry SDK for Rust
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
@@ -3853,6 +3857,7 @@
 
 ## Scala 
 
+- [rcardin/yaes](https://github.com/rcardin/yaes) - An experimental effect system in Scala that tracks effects through context functions
 - [monix/monix](https://github.com/monix/monix) - Asynchronous, Reactive Programming for Scala and Scala.js.
 - [plokhotnyuk/jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of safe and ultra-fast JSON codecs + circe booster
 - [scalameta/mdoc](https://github.com/scalameta/mdoc) - Typechecked markdown documentation for Scala
@@ -4215,7 +4220,7 @@
 
 ## Swift 
 
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4
 - [nicklockwood/RetroRampage](https://github.com/nicklockwood/RetroRampage) - Tutorial series demonstrating how to build a retro first-person shooter from scratch in Swift
@@ -4356,7 +4361,6 @@
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [haskell/vscode-haskell](https://github.com/haskell/vscode-haskell) - VS Code extension for Haskell, powered by haskell-language-server
 - [porter-dev/porter-archive](https://github.com/porter-dev/porter-archive) - Kubernetes powered PaaS that runs in your own cloud.
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [juicycleff/ultimate-backend](https://github.com/juicycleff/ultimate-backend) - Multi tenant SaaS starter kit with cqrs graphql microservice architecture, apollo federation, event source and authentication
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
