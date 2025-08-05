@@ -412,7 +412,7 @@
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [joyent/libuv](https://github.com/joyent/libuv) - Go to
 - [steshaw/babycc](https://github.com/steshaw/babycc) - A journey through the Crenshaw compiler tutorial using C and x86 from back in 2004
-- [ivmai/bdwgc](https://github.com/ivmai/bdwgc) - The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (bdwgc, also known as bdw-gc, boehm-gc, libgc)
+- [bdwgc/bdwgc](https://github.com/bdwgc/bdwgc) - The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (bdwgc, also known as bdw-gc, boehm-gc, libgc)
 - [bdwgc/libatomic_ops](https://github.com/bdwgc/libatomic_ops) - The atomic_ops project (Atomic memory update operations portable implementation)
 - [dagit/Cyclone-Language](https://github.com/dagit/Cyclone-Language) - My branch of the Cyclone programming language
 - [steshaw/dEngine](https://github.com/steshaw/dEngine) - 
@@ -433,6 +433,7 @@
 
 ## C# # 
 
+- [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication feature
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Sample ASP.NET Core 8.0 reference application, now community supported: https://github.com/NimblePros/eShopOnWeb
 - [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach.
@@ -453,6 +454,7 @@
 
 ## C++ 
 
+- [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [viktorleis/mmapbench](https://github.com/viktorleis/mmapbench) - 
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [lix-project/lix](https://github.com/lix-project/lix) - [MIRROR, PRs ok! Issues: https://git.lix.systems/lix-project/lix/issues] A modern, delicious implementation of the Nix package manager, focused on correctness, usability, and growth — and committed to
@@ -660,7 +662,6 @@
 - [ilyasergey/pnp](https://github.com/ilyasergey/pnp) - Lecture notes for a short course on proving/programming in Coq via SSReflect.
 - [philzook58/nand2coq](https://github.com/philzook58/nand2coq) - Build an educational formally verified version of the Nand 2 Tetris course using Coq (and other formal tools).
 - [lthms/FreeSpec](https://github.com/lthms/FreeSpec) - A framework for implementing and certifying impure computations in Coq
-- [jwiegley/category-theory](https://github.com/jwiegley/category-theory) - An axiom-free formalization of category theory in Coq for personal study and practical work
 - [DeepSpec/dsss17](https://github.com/DeepSpec/dsss17) - Lecture material for DeepSpec Summer School 2017
 - [sweirich/replib](https://github.com/sweirich/replib) - Replib: generic programming  & Unbound: generic treatment of binders
 - [rocq-archive/tait](https://github.com/rocq-archive/tait) - A normalization proof a la Tait for simply-typed lambda-calculus
@@ -726,7 +727,6 @@
 
 ## Elm 
 
-- [Southern-Exposure-Seed-Exchange/southernexposure.com](https://github.com/Southern-Exposure-Seed-Exchange/southernexposure.com) - Southern Exposure's E-Commerce Website, Built with Haskell & Elm.
 - [szg251/space_invaders](https://github.com/szg251/space_invaders) - Space Invaders game in Elm
 - [rtfeldman/elm-spa-example](https://github.com/rtfeldman/elm-spa-example) - A Single Page Application written in Elm
 - [dillonkearns/elm-pages](https://github.com/dillonkearns/elm-pages) - Hybrid Elm framework with full-stack and static routes.
@@ -828,6 +828,8 @@
 
 ## Go 
 
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+- [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
@@ -842,7 +844,7 @@
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - The Complete Authentication and User Management Solution for the Passkey Era. Open Source Alternative to Clerk, Auth0, et al.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Privacy-first Customer Identity and Access Management (CIAM) for modern apps. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
@@ -1247,7 +1249,7 @@
 - [input-output-hk/foliage](https://github.com/input-output-hk/foliage) - 🌿 Foliage is a tool to create custom Haskell package repositories, in a fully reproducible way.
 - [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp) - 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
 - [freckle/stackctl](https://github.com/freckle/stackctl) - Manage CloudFormation Stacks through specifications
-- [Gabriella439/grace](https://github.com/Gabriella439/grace) - A ready-to-fork interpreted functional language with type inference
+- [Gabriella439/grace](https://github.com/Gabriella439/grace) - A prompt engineering functional programming language
 - [simonmichael/games](https://github.com/simonmichael/games) - Small games, experiments, and notes on (Haskell) game development.
 - [siraben/fp-notes](https://github.com/siraben/fp-notes) - Notes on Functional Programming and related topics
 - [bgamari/io-uring](https://github.com/bgamari/io-uring) - A simple set of io-uring bindings in Haskell
@@ -1264,6 +1266,7 @@
 - [swtwsk/beatle-interpreter](https://github.com/swtwsk/beatle-interpreter) - Interpreter of OCaml-inspired purely functional language with eager evaluation, written in Haskell for programming languages class
 - [icicle-lang/icicle](https://github.com/icicle-lang/icicle) - Icicle Streaming Query Language
 - [eckyputrady/haskell-scotty-realworld-example-app](https://github.com/eckyputrady/haskell-scotty-realworld-example-app) - Exemplary real world backend API built with Haskell/Scotty https://realworld.io
+- [Southern-Exposure-Seed-Exchange/southernexposure.com](https://github.com/Southern-Exposure-Seed-Exchange/southernexposure.com) - Southern Exposure's E-Commerce Website, Built with Haskell & Elm.
 - [TokTok/hs-toxcore](https://github.com/TokTok/hs-toxcore) - Haskell Tox protocol implementation
 - [reanimate/reanimate](https://github.com/reanimate/reanimate) - Haskell library for building declarative animations based on SVG graphics
 - [cdornan/hs](https://github.com/cdornan/hs) - Haskell installation manager
@@ -1418,7 +1421,7 @@
 - [seanparsons/glue](https://github.com/seanparsons/glue) - Building Better Services And Clients
 - [iijlab/postgresql-pure](https://github.com/iijlab/postgresql-pure) - a PostgreSQL client library implemented with pure Haskell
 - [postgres-haskell/postgres-wire](https://github.com/postgres-haskell/postgres-wire) - A native Haskell driver for PostgreSQL
-- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official (but not yet stable) formatter for Nix code
+- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official formatter for Nix code
 - [adamgundry/type-inference](https://github.com/adamgundry/type-inference) - Unification and type inference algorithms
 - [haskell/ghcide](https://github.com/haskell/ghcide) - A library for building Haskell IDE tooling
 - [freckle/graphula](https://github.com/freckle/graphula) - A simple interface for generating persistent data and linking its dependencies
@@ -1700,7 +1703,7 @@
 - [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [TaktInc/freer](https://github.com/TaktInc/freer) - 
 - [Soostone/safecopy-hunit](https://github.com/Soostone/safecopy-hunit) - Tests compatibility of safecopy values
-- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell front-end framework
+- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
 - [melted/idris-chez](https://github.com/melted/idris-chez) - An idris backend compiling to chez scheme
 - [mzero/6502](https://github.com/mzero/6502) - A small 6502 emulator
 - [sebastiaanvisser/data-reify-cse](https://github.com/sebastiaanvisser/data-reify-cse) - Common Sub-Expression Elimination for graphs generated by the Data.Reify package.
@@ -2252,7 +2255,7 @@
 - [JetBrains/arend-lib](https://github.com/JetBrains/arend-lib) - 
 - [enso-org/enso](https://github.com/enso-org/enso) - Enso Analytics is a self-service data prep and analysis platform designed for data teams.
 - [validator/validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
-- [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
+- [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA & IntelliJ Platform
 - [Mojang/DataFixerUpper](https://github.com/Mojang/DataFixerUpper) - A set of utilities designed for incremental building, merging and optimization of data transformations.
 - [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with 
 - [poetix/protonpack](https://github.com/poetix/protonpack) - Stream utilities for Java 8
@@ -2728,7 +2731,6 @@
 
 ## LiveScript 
 
-- [sorellabs/claire](https://github.com/sorellabs/claire) - [Unmaintained: please use jsverify instead] A property-based testing library for clearly specifying code invariants and behaviour.
 - [gkz/LiveScript](https://github.com/gkz/LiveScript) - LiveScript is a language which compiles to JavaScript. It has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate. While LiveScript adds ma
 
 ## Lua 
@@ -2805,7 +2807,7 @@
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
 - [Plutonomicon/plutonomicon](https://github.com/Plutonomicon/plutonomicon) - Advanced techniques in the plutus smart contract language
 - [nix-community/dream2nix](https://github.com/nix-community/dream2nix) - Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau]
-- [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules]
+- [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]
 - [djacu/dotfiles-tweag](https://github.com/djacu/dotfiles-tweag) - NixOS dotfiles for work
 - [srid/haskell-flake](https://github.com/srid/haskell-flake) - A `flake-parts` Nix module for Haskell development
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
@@ -2866,7 +2868,7 @@
 - [domenkozar/hie-nix](https://github.com/domenkozar/hie-nix) - Nix packages for Haskell IDE Engine
 - [nmattia/snack](https://github.com/nmattia/snack) - Nix-based incremental build tool for Haskell projects
 - [peti/hydra-tutorial](https://github.com/peti/hydra-tutorial) - Sample configuration files for setting up your own Hydra continuous integration server.
-- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
 - [evertedsphere/rien](https://github.com/evertedsphere/rien) - Predictable Haskell development environments with Cabal and Nix.
 - [thufschmitt/ptyx](https://github.com/thufschmitt/ptyx) - A type-system for Nix
 - [barrucadu/nixfiles](https://github.com/barrucadu/nixfiles) - My NixOS configuration and assorted other crap.
@@ -3343,6 +3345,7 @@
 
 ## Python 
 
+- [arecarn/dploy](https://github.com/arecarn/dploy) - Provides the functionality of GNU Stow in a cross platform CLI tool and python module
 - [jython/jython](https://github.com/jython/jython) - Python for the Java Platform
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [BlackBoxCenter/blackbox](https://github.com/BlackBoxCenter/blackbox) - BlackBox Component Builder is an IDE and framework for the Component Pascal programming language.
@@ -3368,7 +3371,6 @@
 - [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 - [chubin/late.nz](https://github.com/chubin/late.nz) - Latency numbers every programmer should know
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
@@ -3508,6 +3510,7 @@
 
 ## Rocq Prover 
 
+- [jwiegley/category-theory](https://github.com/jwiegley/category-theory) - An axiom-free formalization of category theory in Coq for personal study and practical work
 - [HoTT/Coq-HoTT](https://github.com/HoTT/Coq-HoTT) - A Coq library for Homotopy Type Theory
 
 ## Roff 
@@ -3598,6 +3601,7 @@
 
 ## Rust 
 
+- [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [tower-lsp-community/tower-lsp-server](https://github.com/tower-lsp-community/tower-lsp-server) - Language Server Protocol implementation for Rust based on Tower
 - [awslabs/aws-lambda-web-adapter](https://github.com/awslabs/aws-lambda-web-adapter) - Run web applications on AWS Lambda
@@ -3624,7 +3628,7 @@
 - [infinyon/fluvio](https://github.com/infinyon/fluvio) - 🦀 event stream processing for developers to collect and transform data in motion to power responsive data intensive applications.
 - [TrueLayer/reqwest-middleware](https://github.com/TrueLayer/reqwest-middleware) - Wrapper around reqwest to allow for client middleware chains.
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
-- [rustwasm/walrus](https://github.com/rustwasm/walrus) - Walrus is a WebAssembly transformation library 🌊🐘
+- [wasm-bindgen/walrus](https://github.com/wasm-bindgen/walrus) - Walrus is a WebAssembly transformation library 🌊🐘
 - [jfecher/ante](https://github.com/jfecher/ante) - A safe, easy systems language
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
@@ -3717,7 +3721,7 @@
 - [raphlinus/crochet](https://github.com/raphlinus/crochet) - Explorations in reactive UI patterns
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - The official Sentry SDK for Rust
+- [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - The official Rust SDK for Sentry
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
@@ -3871,7 +3875,7 @@
 - [VirtusLab/scala-cli](https://github.com/VirtusLab/scala-cli) - Scala CLI is a command-line tool to interact with the Scala language. It lets you compile, run, test, and package your Scala code (and more!)
 - [VirtusLab/besom](https://github.com/VirtusLab/besom) - Besom - a Pulumi SDK for Scala. Also, incidentally, a broom made of twigs tied round a stick. Brooms and besoms are used for protection, to ward off evil spirits, and cleansing of ritual spaces.
 - [twitter/stitch](https://github.com/twitter/stitch) - 
-- [softwaremill/bootzooka](https://github.com/softwaremill/bootzooka) - Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc.
+- [softwaremill/bootzooka](https://github.com/softwaremill/bootzooka) - Template project to quickly start developing a Scala-based microservice or web application, with the build & project structure provided
 - [opalj/opal](https://github.com/opalj/opal) - 
 - [b-studios/java-effekt](https://github.com/b-studios/java-effekt) - Effect Handlers for Java / the JVM
 - [effekt-lang/effekt](https://github.com/effekt-lang/effekt) - A language with lexical effect handlers and lightweight effect polymorphism
@@ -3926,7 +3930,7 @@
 - [typelevel/scalacheck](https://github.com/typelevel/scalacheck) - Property-based testing for Scala
 - [typelevel/fs2](https://github.com/typelevel/fs2) - Compositional, streaming I/O library for Scala
 - [JetBrains/intellij-scala](https://github.com/JetBrains/intellij-scala) - Scala plugin for IntelliJ IDEA
-- [magneticio/vamp](https://github.com/magneticio/vamp) - Vamp - canary releasing and autoscaling for microservice systems
+- [CircleCI-Archived/vamp](https://github.com/CircleCI-Archived/vamp) - Vamp - canary releasing and autoscaling for microservice systems
 - [tumblr/colossus](https://github.com/tumblr/colossus) - I/O and Microservice library for Scala
 - [cvogt/cbt](https://github.com/cvogt/cbt) - CBT - fun, fast, intuitive, compositional, statically checked builds written in Scala
 - [coursier/coursier](https://github.com/coursier/coursier) - Pure Scala Artifact Fetching
@@ -4061,6 +4065,7 @@
 
 ## Shell 
 
+- [twpayne/dotfiles](https://github.com/twpayne/dotfiles) - My dotfiles, managed with https://chezmoi.io.
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [titzer/virgil](https://github.com/titzer/virgil) - A fast and lightweight native programming language
 - [steshaw/shelly](https://github.com/steshaw/shelly) - 🐚 Dotfiles and shell utilities
@@ -4220,6 +4225,7 @@
 
 ## Swift 
 
+- [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4
@@ -4323,6 +4329,7 @@
 
 ## TypeScript 
 
+- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [keleshev/compiling-to-assembly-from-scratch](https://github.com/keleshev/compiling-to-assembly-from-scratch) - Source code for the book Compiling to Assembly from Scratch https://keleshev.com/cas
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
@@ -4361,6 +4368,7 @@
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [haskell/vscode-haskell](https://github.com/haskell/vscode-haskell) - VS Code extension for Haskell, powered by haskell-language-server
 - [porter-dev/porter-archive](https://github.com/porter-dev/porter-archive) - Kubernetes powered PaaS that runs in your own cloud.
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [juicycleff/ultimate-backend](https://github.com/juicycleff/ultimate-backend) - Multi tenant SaaS starter kit with cqrs graphql microservice architecture, apollo federation, event source and authentication
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
