@@ -213,6 +213,7 @@
 
 ## C 
 
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [pdewacht/oberon-risc-emu](https://github.com/pdewacht/oberon-risc-emu) - Emulator for the Oberon RISC machine
 - [neovim/libvterm](https://github.com/neovim/libvterm) - 
 - [dirkwhoffmann/vAmiga](https://github.com/dirkwhoffmann/vAmiga) - vAmiga is a user-friendly Amiga 500, 1000, 2000 emulator for macOS
@@ -454,6 +455,7 @@
 
 ## C++ 
 
+- [ultravnc/UltraVNC](https://github.com/ultravnc/UltraVNC) - 👁️ UltraVNC Server, UltraVNC Viewer, UltraVNC Repeater and UltraVNC SC | Official repository: https://github.com/ultravnc/UltraVNC
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [viktorleis/mmapbench](https://github.com/viktorleis/mmapbench) - 
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
@@ -2212,6 +2214,9 @@
 
 ## Java 
 
+- [i-net-software/JWebAssembly](https://github.com/i-net-software/JWebAssembly) - Java bytecode to WebAssembly compiler
+- [reportmill/SnapKit](https://github.com/reportmill/SnapKit) - A Java UI toolkit
+- [reportmill/SnapTea](https://github.com/reportmill/SnapTea) - A SnapKit adapter for TeaVM
 - [softwaremill/jox](https://github.com/softwaremill/jox) - Virtual-thread based safe concurrency & streaming
 - [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-21 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
 - [jhipster/prettier-java](https://github.com/jhipster/prettier-java) - Prettier Java Plugin
@@ -2337,6 +2342,7 @@
 
 ## JavaScript 
 
+- [leaningtech/cheerp-meta](https://github.com/leaningtech/cheerp-meta) - Cheerp - a C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [slevithan/xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions
@@ -3005,6 +3011,7 @@
 
 ## Others 
 
+- [nbrown02/Capacity-Planning-Feature-Monte-Carlo](https://github.com/nbrown02/Capacity-Planning-Feature-Monte-Carlo) - A Power BI template that provides fast and easy means of understand typical feature size, capacity planning and forecasting feature delivery.  Works for Jira (Cloud) and Azure DevOps (as well as Azure
 - [mojoaxel/awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing) - 🕶️ A curated list of resources around the topic: visual regression testing
 - [AlexTereshenkov/build-engineer-in-the-wonderland](https://github.com/AlexTereshenkov/build-engineer-in-the-wonderland) - A journey into an imaginary world of build systems where it’s all sunshine and roses.
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
@@ -3345,6 +3352,7 @@
 
 ## Python 
 
+- [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
 - [arecarn/dploy](https://github.com/arecarn/dploy) - Provides the functionality of GNU Stow in a cross platform CLI tool and python module
 - [jython/jython](https://github.com/jython/jython) - Python for the Java Platform
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -4329,6 +4337,7 @@
 
 ## TypeScript 
 
+- [re-rxjs/react-rxjs](https://github.com/re-rxjs/react-rxjs) - React bindings for RxJS
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [keleshev/compiling-to-assembly-from-scratch](https://github.com/keleshev/compiling-to-assembly-from-scratch) - Source code for the book Compiling to Assembly from Scratch https://keleshev.com/cas
