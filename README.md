@@ -729,6 +729,7 @@
 
 ## Elm 
 
+- [Southern-Exposure-Seed-Exchange/southernexposure.com](https://github.com/Southern-Exposure-Seed-Exchange/southernexposure.com) - Southern Exposure's E-Commerce Website, Built with Haskell & Elm.
 - [szg251/space_invaders](https://github.com/szg251/space_invaders) - Space Invaders game in Elm
 - [rtfeldman/elm-spa-example](https://github.com/rtfeldman/elm-spa-example) - A Single Page Application written in Elm
 - [dillonkearns/elm-pages](https://github.com/dillonkearns/elm-pages) - Hybrid Elm framework with full-stack and static routes.
@@ -1268,7 +1269,6 @@
 - [swtwsk/beatle-interpreter](https://github.com/swtwsk/beatle-interpreter) - Interpreter of OCaml-inspired purely functional language with eager evaluation, written in Haskell for programming languages class
 - [icicle-lang/icicle](https://github.com/icicle-lang/icicle) - Icicle Streaming Query Language
 - [eckyputrady/haskell-scotty-realworld-example-app](https://github.com/eckyputrady/haskell-scotty-realworld-example-app) - Exemplary real world backend API built with Haskell/Scotty https://realworld.io
-- [Southern-Exposure-Seed-Exchange/southernexposure.com](https://github.com/Southern-Exposure-Seed-Exchange/southernexposure.com) - Southern Exposure's E-Commerce Website, Built with Haskell & Elm.
 - [TokTok/hs-toxcore](https://github.com/TokTok/hs-toxcore) - Haskell Tox protocol implementation
 - [reanimate/reanimate](https://github.com/reanimate/reanimate) - Haskell library for building declarative animations based on SVG graphics
 - [cdornan/hs](https://github.com/cdornan/hs) - Haskell installation manager
