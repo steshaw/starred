@@ -172,6 +172,7 @@
 - [perl](#perl)
 - [phaser](#phaser)
 - [php](#php)
+- [physics](#physics)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -259,7 +260,7 @@
 
 ## ai 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Gabriella439/grace](https://github.com/Gabriella439/grace) - A prompt engineering functional programming language
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -2833,7 +2834,7 @@
 
 ## llm 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [Gabriella439/grace](https://github.com/Gabriella439/grace) - A prompt engineering functional programming language
 
 ## low-code 
@@ -3176,7 +3177,7 @@
 ## openai 
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 
 ## opengl 
 
@@ -3945,7 +3946,6 @@
 - [purescript-contrib/purescript-react-dom](https://github.com/purescript-contrib/purescript-react-dom) - Low-level React DOM bindings for PureScript
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
-- [sharkdp/insect](https://github.com/sharkdp/insect) - High precision scientific calculator with support for physical units
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [peterbe/minimalcss](https://github.com/peterbe/minimalcss) - Extract the minimal CSS used in a set of URLs with puppeteer
 - [phosphorjs/phosphor](https://github.com/phosphorjs/phosphor) - The PhosphorJS Library
@@ -5826,6 +5826,11 @@
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [apache/activemq-apollo](https://github.com/apache/activemq-apollo) - Mirror of Apache ActiveMQ Apollo
 
+## physics 
+
+- [ivanperez-keera/haskanoid](https://github.com/ivanperez-keera/haskanoid) - A free and open source breakout clone in Haskell using SDL and FRP, with Wiimote and Kinect support.
+- [sharkdp/insect](https://github.com/sharkdp/insect) - High precision scientific calculator with support for physical units
+
 ## postgresql 
 
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
@@ -5917,7 +5922,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
