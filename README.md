@@ -2214,6 +2214,7 @@
 
 ## Java 
 
+- [eventuate-tram/eventuate-tram-core](https://github.com/eventuate-tram/eventuate-tram-core) - Transactional messaging for microservices
 - [i-net-software/JWebAssembly](https://github.com/i-net-software/JWebAssembly) - Java bytecode to WebAssembly compiler
 - [reportmill/SnapKit](https://github.com/reportmill/SnapKit) - A Java UI toolkit
 - [reportmill/SnapTea](https://github.com/reportmill/SnapTea) - A SnapKit adapter for TeaVM
