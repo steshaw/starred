@@ -161,6 +161,7 @@
 - [nosql](#nosql)
 - [npm](#npm)
 - [objective-c](#objective-c)
+- [obsidian-md](#obsidian-md)
 - [open-source](#open-source)
 - [openai](#openai)
 - [opengl](#opengl)
@@ -870,7 +871,7 @@
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [gocd/gocd](https://github.com/gocd/gocd) - GoCD - Continuous Delivery server main repository
 - [hercules-ci/legacy-old-hercules](https://github.com/hercules-ci/legacy-old-hercules) - Abandoned
-- [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based automation system written in Go.
+- [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based automation system written in Go. It's mostly used for CI/CD.
 - [openshift/origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 
@@ -1653,7 +1654,7 @@
 - [flannel-io/flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
-- [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based automation system written in Go.
+- [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based automation system written in Go. It's mostly used for CI/CD.
 - [openshift/origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift
 - [rkt/rkt](https://github.com/rkt/rkt) - [Project ended] rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
 - [boltdb/bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
@@ -3159,6 +3160,10 @@
 - [sequelpro/sequelpro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 
+## obsidian-md 
+
+- [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
+
 ## open-source 
 
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
@@ -3192,6 +3197,7 @@
 
 ## operating-system 
 
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and a
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
@@ -3203,6 +3209,7 @@
 
 ## others 
 
+- [xorq-labs/xorq](https://github.com/xorq-labs/xorq) - Catalog, compose, and ship ML—Python simplicity, SQL scale.
 - [TheFern2/windows-terminal-icons](https://github.com/TheFern2/windows-terminal-icons) - A sane option for icons for windows terminal profile icons
 - [eventuate-tram/eventuate-tram-core](https://github.com/eventuate-tram/eventuate-tram-core) - Transactional messaging for microservices
 - [ultravnc/UltraVNC](https://github.com/ultravnc/UltraVNC) - 👁️ UltraVNC Server, UltraVNC Viewer, UltraVNC Repeater and UltraVNC SC | Official repository: https://github.com/ultravnc/UltraVNC
