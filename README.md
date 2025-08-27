@@ -575,6 +575,7 @@
 
 ## CSS 
 
+- [tlcsrc/tlcsrc.github.io](https://github.com/tlcsrc/tlcsrc.github.io) - TLC SRC — a 1-man software consultancy
 - [Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font](https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font) - Ligaturized Source Code Pro Nerd Font Complete Edition
 - [dracula/gtk](https://github.com/dracula/gtk) - 🧛🏻‍♂️ Dark theme for GTK
 - [Mrcuve0/Aritim-Dark](https://github.com/Mrcuve0/Aritim-Dark) - A Dark theme for both KDE and GTK based DEs, deeply inspired by the Ayu Dark color palette
@@ -601,7 +602,6 @@
 - [heathermiller/dist-prog-book](https://github.com/heathermiller/dist-prog-book) - 
 - [steshaw/plt](https://github.com/steshaw/plt) - Programming Language Theory λΠ
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
-- [tlcsrc/tlcsrc.github.io](https://github.com/tlcsrc/tlcsrc.github.io) - Homepage
 - [lotz84/haskellbyexample](https://github.com/lotz84/haskellbyexample) - Haskell by Example
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [jquery-i18n-properties/jquery-i18n-properties](https://github.com/jquery-i18n-properties/jquery-i18n-properties) - lightweight jQuery plugin for providing internationalization to javascript from ‘.properties’ files
@@ -848,7 +848,7 @@
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Privacy-first Customer Identity and Access Management (CIAM) for modern apps. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Modern Authentication—On Your Terms. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
@@ -2344,9 +2344,10 @@
 
 ## JavaScript 
 
+- [pullpo-io/conventional-comments](https://github.com/pullpo-io/conventional-comments) - Chrome and Firefox extension for Conventional Comments in GitHub UI.
 - [leaningtech/cheerp-meta](https://github.com/leaningtech/cheerp-meta) - Cheerp - a C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Turn off AI. Your favorite browser, but better.
 - [slevithan/xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions
 - [slevithan/regex](https://github.com/slevithan/regex) - JS regexes ➕ future. A template tag for readable, high-performance, native JS regexes with extended syntax, context-aware interpolation, and always-on best practices.
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
@@ -2699,6 +2700,7 @@
 
 ## Kotlin 
 
+- [ExoQuery/ExoQuery](https://github.com/ExoQuery/ExoQuery) - Language Integrated Query for Kotlin
 - [Kotlin/kotlin-lsp](https://github.com/Kotlin/kotlin-lsp) - Kotlin Language Server and plugin for Visual Studio Code
 - [typealias-studios/kotlin-illustrated-guide](https://github.com/typealias-studios/kotlin-illustrated-guide) - Source code for the book, Kotlin: An Illustrated Guide
 - [kyay10/KonTinuity](https://github.com/kyay10/KonTinuity) - Provides fully-fledged multishot delimitied continuations in Kotlin with Coroutines
@@ -3101,7 +3103,6 @@
 - [soupi/haskell-study-plan](https://github.com/soupi/haskell-study-plan) - An opinionated list of resources for learning Haskell
 - [dot-src/dot-src](https://github.com/dot-src/dot-src) - Project for applying for a `.src` gTLD
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
-- [jwiegley/git-from-the-bottom-up](https://github.com/jwiegley/git-from-the-bottom-up) - An introduction to the architecture and design of the Git content manager
 - [williamdemeo/TypeFunc](https://github.com/williamdemeo/TypeFunc) - Resources for type theory, functional programming, etc.
 - [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquar
 - [Netflix/titus](https://github.com/Netflix/titus) - 
@@ -3355,7 +3356,7 @@
 
 ## Python 
 
-- [xorq-labs/xorq](https://github.com/xorq-labs/xorq) - Catalog, compose, and ship ML—Python simplicity, SQL scale.
+- [xorq-labs/xorq](https://github.com/xorq-labs/xorq) - Catalog, compose, and ship multi-engine Python expressions.
 - [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
 - [arecarn/dploy](https://github.com/arecarn/dploy) - Provides the functionality of GNU Stow in a cross platform CLI tool and python module
 - [jython/jython](https://github.com/jython/jython) - Python for the Java Platform
@@ -3453,7 +3454,7 @@
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
-- [remarshal-project/remarshal](https://github.com/remarshal-project/remarshal) - Convert between CBOR, JSON, MessagePack, TOML, and YAML
+- [remarshal-project/remarshal](https://github.com/remarshal-project/remarshal) - Convert between CBOR, JSON, MessagePack, TOML, and YAML 1.1 & 1.2
 - [foremast/foremast](https://github.com/foremast/foremast) - Spinnaker Pipeline/Infrastructure Configuration and Templating Tool - Pipelines as Code.
 - [scotartt/clean_bib](https://github.com/scotartt/clean_bib) - Delete Unwanted Bibliography fields from bibtex (.bib) files
 - [mist64/c64ref](https://github.com/mist64/c64ref) - Ultimate Commodore 64 Reference: ROM Disassembly, Memory Map, ...
@@ -3613,6 +3614,7 @@
 
 ## Rust 
 
+- [sdiehl/typechecker-zoo](https://github.com/sdiehl/typechecker-zoo) - A menagerie of cute implementations of modern typechecking algorithms
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [tower-lsp-community/tower-lsp-server](https://github.com/tower-lsp-community/tower-lsp-server) - Language Server Protocol implementation for Rust based on Tower
@@ -3660,6 +3662,7 @@
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 - [typst/pdf-writer](https://github.com/typst/pdf-writer) - A step-by-step PDF writer.
 - [typst/svg2pdf](https://github.com/typst/svg2pdf) - Converts SVG files to PDF.
@@ -3865,6 +3868,7 @@
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [waipeng/alltherunning](https://github.com/waipeng/alltherunning) - 
 - [bencodezen/vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
+- [jwiegley/git-from-the-bottom-up](https://github.com/jwiegley/git-from-the-bottom-up) - An introduction to the architecture and design of the Git content manager
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [foundation/motion-ui](https://github.com/foundation/motion-ui) - 💎 The powerful Sass library for creating CSS transitions and animations
 - [devopsbookmarks/devopsbookmarks.com](https://github.com/devopsbookmarks/devopsbookmarks.com) - Website of devopsbookmarks.com
@@ -4340,6 +4344,7 @@
 
 ## TypeScript 
 
+- [davidfou/conventionalcomments-web-extension](https://github.com/davidfou/conventionalcomments-web-extension) - 
 - [re-rxjs/react-rxjs](https://github.com/re-rxjs/react-rxjs) - React bindings for RxJS
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
@@ -4536,7 +4541,6 @@
 
 ## YAML 
 
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [billimek/k8s-gitops](https://github.com/billimek/k8s-gitops) - GitOps principles to define kubernetes cluster state via code
 
 ## Zig 
