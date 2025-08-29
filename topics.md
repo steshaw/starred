@@ -512,6 +512,7 @@
 
 ## bash 
 
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [steshaw/shelly](https://github.com/steshaw/shelly) - 🐚 Dotfiles and shell utilities
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [adoyle-h/lobash](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility/library for Bash script development.
@@ -3214,8 +3215,12 @@
 
 ## others 
 
+- [cottand/resume](https://github.com/cottand/resume) - My resume, in latex
+- [hkust-taco/mlstruct](https://github.com/hkust-taco/mlstruct) - Codebase for the paper "MLstruct: Principal Type Inference in a Boolean Algebra of Structural Types"
+- [cottand/ile](https://github.com/cottand/ile) - 
+- [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
 - [ExoQuery/ExoQuery](https://github.com/ExoQuery/ExoQuery) - Language Integrated Query for Kotlin
-- [tlcsrc/tlcsrc.github.io](https://github.com/tlcsrc/tlcsrc.github.io) - TLC SRC — a 1-man software consultancy
+- [tlcsrc/tlcsrc.github.io](https://github.com/tlcsrc/tlcsrc.github.io) - TLC SRC — The software industry is broken — let's reboot the industry instead of our programs!
 - [davidfou/conventionalcomments-web-extension](https://github.com/davidfou/conventionalcomments-web-extension) - 
 - [xorq-labs/xorq](https://github.com/xorq-labs/xorq) - Catalog, compose, and ship multi-engine Python expressions.
 - [TheFern2/windows-terminal-icons](https://github.com/TheFern2/windows-terminal-icons) - A sane option for icons for windows terminal profile icons
@@ -5883,6 +5888,7 @@
 
 ## powershell 
 
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
 ## privacy 
@@ -6177,6 +6183,7 @@
 
 ## rust 
 
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [tower-lsp-community/tower-lsp-server](https://github.com/tower-lsp-community/tower-lsp-server) - Language Server Protocol implementation for Rust based on Tower
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
