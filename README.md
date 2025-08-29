@@ -107,6 +107,7 @@
 - [TeX](#tex)
 - [Thrift](#thrift)
 - [TypeScript](#typescript)
+- [Typst](#typst)
 - [UrWeb](#urweb)
 - [V](#v)
 - [Vala](#vala)
@@ -575,7 +576,7 @@
 
 ## CSS 
 
-- [tlcsrc/tlcsrc.github.io](https://github.com/tlcsrc/tlcsrc.github.io) - TLC SRC — a 1-man software consultancy
+- [tlcsrc/tlcsrc.github.io](https://github.com/tlcsrc/tlcsrc.github.io) - TLC SRC — The software industry is broken — let's reboot the industry instead of our programs!
 - [Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font](https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font) - Ligaturized Source Code Pro Nerd Font Complete Edition
 - [dracula/gtk](https://github.com/dracula/gtk) - 🧛🏻‍♂️ Dark theme for GTK
 - [Mrcuve0/Aritim-Dark](https://github.com/Mrcuve0/Aritim-Dark) - A Dark theme for both KDE and GTK based DEs, deeply inspired by the Ayu Dark color palette
@@ -832,6 +833,7 @@
 
 ## Go 
 
+- [cottand/ile](https://github.com/cottand/ile) - 
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
@@ -2386,7 +2388,6 @@
 - [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
-- [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [ember-cli/ember-new-output](https://github.com/ember-cli/ember-new-output) - Change history of new Ember-CLI apps
 - [bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
 - [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 5 components
@@ -3614,6 +3615,8 @@
 
 ## Rust 
 
+- [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [sdiehl/typechecker-zoo](https://github.com/sdiehl/typechecker-zoo) - A menagerie of cute implementations of modern typechecking algorithms
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
@@ -3875,6 +3878,7 @@
 
 ## Scala 
 
+- [hkust-taco/mlstruct](https://github.com/hkust-taco/mlstruct) - Codebase for the paper "MLstruct: Principal Type Inference in a Boolean Algebra of Structural Types"
 - [rcardin/yaes](https://github.com/rcardin/yaes) - An experimental effect system in Scala that tracks effects through context functions
 - [monix/monix](https://github.com/monix/monix) - Asynchronous, Reactive Programming for Scala and Scala.js.
 - [plokhotnyuk/jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of safe and ultra-fast JSON codecs + circe booster
@@ -3889,7 +3893,6 @@
 - [VirtusLab/scala-cli](https://github.com/VirtusLab/scala-cli) - Scala CLI is a command-line tool to interact with the Scala language. It lets you compile, run, test, and package your Scala code (and more!)
 - [VirtusLab/besom](https://github.com/VirtusLab/besom) - Besom - a Pulumi SDK for Scala. Also, incidentally, a broom made of twigs tied round a stick. Brooms and besoms are used for protection, to ward off evil spirits, and cleansing of ritual spaces.
 - [twitter/stitch](https://github.com/twitter/stitch) - 
-- [softwaremill/bootzooka](https://github.com/softwaremill/bootzooka) - Template project to quickly start developing a Scala-based microservice or web application, with the build & project structure provided
 - [opalj/opal](https://github.com/opalj/opal) - 
 - [b-studios/java-effekt](https://github.com/b-studios/java-effekt) - Effect Handlers for Java / the JVM
 - [effekt-lang/effekt](https://github.com/effekt-lang/effekt) - A language with lexical effect handlers and lightweight effect polymorphism
@@ -4361,6 +4364,7 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [swordev/suid](https://github.com/swordev/suid) - A port of Material-UI (MUI) built with SolidJS.
+- [softwaremill/bootzooka](https://github.com/softwaremill/bootzooka) - Template project to quickly start developing a Scala-based microservice or web application, with the build & project structure provided
 - [sst/ion](https://github.com/sst/ion) - Moved to https://github.com/sst/sst
 - [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
@@ -4399,6 +4403,7 @@
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [reduxjs/reselect](https://github.com/reduxjs/reselect) - Selector library for Redux
+- [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [devias-io/material-kit-react](https://github.com/devias-io/material-kit-react) - React Dashboard made with Material UI’s components. Our pro template contains features like TypeScript version, authentication system with Firebase and Auth0 plus many other
@@ -4474,6 +4479,10 @@
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [mozilla/shumway](https://github.com/mozilla/shumway) - Shumway is a Flash VM and runtime written in JavaScript
+
+## Typst 
+
+- [cottand/resume](https://github.com/cottand/resume) - My resume, in latex
 
 ## UrWeb 
 
