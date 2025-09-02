@@ -1136,6 +1136,7 @@
 - [msp-strath/MSPweb](https://github.com/msp-strath/MSPweb) - being the shared sources and generated html for the MSP website
 - [launchaco/logo_builder](https://github.com/launchaco/logo_builder) - Free AI powered logo builder
 - [Logomator/logomator](https://github.com/Logomator/logomator) - An online logo maker that uses machine learning to make you feel like you're working with a real designer.
+- [MikeMcQuaid/strap](https://github.com/MikeMcQuaid/strap) - 👢 Bootstrap your macOS development system.
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
 - [NixOS/nixos-weekly](https://github.com/NixOS/nixos-weekly) - NixOS Weekly Newsletter
@@ -1188,7 +1189,6 @@
 - [saddle/saddle](https://github.com/saddle/saddle) - SADDLE: Scala Data Library
 - [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 - [travisbrown/metaplasm](https://github.com/travisbrown/metaplasm) - meta.plasm.us
-- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [mojombo/mojombo.github.io](https://github.com/mojombo/mojombo.github.io) - Jekyll source for my personal blog.
 
 ## Haskell 
@@ -2217,6 +2217,14 @@
 
 ## Java 
 
+- [micronaut-projects/micronaut-crac](https://github.com/micronaut-projects/micronaut-crac) - Coordinated Restore at Checkpoint support for the Micronaut Framework
+- [google/auto](https://github.com/google/auto) - A collection of source code generators for Java.
+- [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core) - Micronaut Application Framework
+- [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors
+- [highj/highj](https://github.com/highj/highj) - Higher kinded types for Java
+- [derive4j/derive4j](https://github.com/derive4j/derive4j) - Java 8 annotation processor and framework for deriving algebraic data types constructors, pattern-matching, folds, optics and typeclasses.
+- [immutables/immutables](https://github.com/immutables/immutables) - Annotation processor to create immutable objects and builders. Feels like Guava's immutable collections but for regular value objects.
+- [mapstruct/mapstruct](https://github.com/mapstruct/mapstruct) - An annotation processor for generating type-safe bean mappers
 - [eventuate-tram/eventuate-tram-core](https://github.com/eventuate-tram/eventuate-tram-core) - Transactional messaging for microservices
 - [i-net-software/JWebAssembly](https://github.com/i-net-software/JWebAssembly) - Java bytecode to WebAssembly compiler
 - [reportmill/SnapKit](https://github.com/reportmill/SnapKit) - A Java UI toolkit
@@ -3864,6 +3872,7 @@
 - [gluon-lang/gluon](https://github.com/gluon-lang/gluon) - A static, type inferred and embeddable language written in Rust.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
+- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 
 ## SCSS 
@@ -4125,7 +4134,6 @@
 - [QBayLogic/benchmark-compilation](https://github.com/QBayLogic/benchmark-compilation) - 
 - [wfxr/tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - 🚀 Quickly open urls on your terminal screen!
 - [dennyzhang/cheatsheet-kubernetes-A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) - :book: Kubernetes CheatSheets In A4
-- [MikeMcQuaid/strap](https://github.com/MikeMcQuaid/strap) - 👢 Bootstrap your macOS development system.
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [egen/scriptcast](https://github.com/egen/scriptcast) - An application that automates Command-Line Interface (CLI) screencast output.
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
