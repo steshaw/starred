@@ -2345,6 +2345,11 @@
 
 ## java 
 
+- [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core) - Micronaut Application Framework
+- [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors
+- [derive4j/derive4j](https://github.com/derive4j/derive4j) - Java 8 annotation processor and framework for deriving algebraic data types constructors, pattern-matching, folds, optics and typeclasses.
+- [immutables/immutables](https://github.com/immutables/immutables) - Annotation processor to create immutable objects and builders. Feels like Guava's immutable collections but for regular value objects.
+- [mapstruct/mapstruct](https://github.com/mapstruct/mapstruct) - An annotation processor for generating type-safe bean mappers
 - [i-net-software/JWebAssembly](https://github.com/i-net-software/JWebAssembly) - Java bytecode to WebAssembly compiler
 - [softwaremill/jox](https://github.com/softwaremill/jox) - Virtual-thread based safe concurrency & streaming
 - [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-21 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
@@ -2577,6 +2582,7 @@
 
 ## kotlin 
 
+- [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core) - Micronaut Application Framework
 - [typealias-studios/kotlin-illustrated-guide](https://github.com/typealias-studios/kotlin-illustrated-guide) - Source code for the book, Kotlin: An Illustrated Guide
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [javalin/javalin](https://github.com/javalin/javalin) - A simple and modern Java and Kotlin web framework
@@ -3215,6 +3221,9 @@
 
 ## others 
 
+- [micronaut-projects/micronaut-crac](https://github.com/micronaut-projects/micronaut-crac) - Coordinated Restore at Checkpoint support for the Micronaut Framework
+- [google/auto](https://github.com/google/auto) - A collection of source code generators for Java.
+- [highj/highj](https://github.com/highj/highj) - Higher kinded types for Java
 - [cottand/resume](https://github.com/cottand/resume) - My resume, in latex
 - [hkust-taco/mlstruct](https://github.com/hkust-taco/mlstruct) - Codebase for the paper "MLstruct: Principal Type Inference in a Boolean Algebra of Structural Types"
 - [cottand/ile](https://github.com/cottand/ile) - 
@@ -6469,6 +6478,7 @@
 
 ## serverless 
 
+- [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core) - Micronaut Application Framework
 - [infinyon/fluvio](https://github.com/infinyon/fluvio) - 🦀 event stream processing for developers to collect and transform data in motion to power responsive data intensive applications.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
