@@ -25,6 +25,7 @@
 - [babel](#babel)
 - [backend](#backend)
 - [bash](#bash)
+- [beginner-project](#beginner-project)
 - [bitcoin](#bitcoin)
 - [blockchain](#blockchain)
 - [bootstrap](#bootstrap)
@@ -94,6 +95,7 @@
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
 - [games](#games)
+- [gaming](#gaming)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -207,6 +209,7 @@
 - [serverless](#serverless)
 - [shell](#shell)
 - [spacevim](#spacevim)
+- [spring](#spring)
 - [spring-boot](#spring-boot)
 - [sql](#sql)
 - [sql-server](#sql-server)
@@ -260,6 +263,7 @@
 
 ## ai 
 
+- [embabel/embabel-agent](https://github.com/embabel/embabel-agent) - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Gabriella439/grace](https://github.com/Gabriella439/grace) - A prompt engineering functional programming language
@@ -342,6 +346,7 @@
 
 ## artificial-intelligence 
 
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed query engine providing simple and reliable data processing for any modality and scale
 - [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 
@@ -360,6 +365,7 @@
 
 ## automation 
 
+- [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
@@ -536,6 +542,10 @@
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
+## beginner-project 
+
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+
 ## bitcoin 
 
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
@@ -576,6 +586,7 @@
 
 ## c 
 
+- [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 - [leaningtech/cheerp-meta](https://github.com/leaningtech/cheerp-meta) - Cheerp - a C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript
 - [mitchellh/libxev](https://github.com/mitchellh/libxev) - libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
@@ -632,6 +643,7 @@
 
 ## c-plus-plus 
 
+- [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly
 - [munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns) - Source repo for the book
@@ -765,6 +777,7 @@
 
 ## compiler 
 
+- [apache/groovy](https://github.com/apache/groovy) - Apache Groovy: A powerful multi-faceted programming language for the JVM platform
 - [sdiehl/typechecker-zoo](https://github.com/sdiehl/typechecker-zoo) - A menagerie of cute implementations of modern typechecking algorithms
 - [i-net-software/JWebAssembly](https://github.com/i-net-software/JWebAssembly) - Java bytecode to WebAssembly compiler
 - [leaningtech/cheerp-meta](https://github.com/leaningtech/cheerp-meta) - Cheerp - a C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript
@@ -988,6 +1001,7 @@
 
 ## data-engineering 
 
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed query engine providing simple and reliable data processing for any modality and scale
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
 
 ## data-science 
@@ -1150,6 +1164,7 @@
 
 ## docker 
 
+- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
@@ -1533,6 +1548,10 @@
 - [ivanperez-keera/dunai](https://github.com/ivanperez-keera/dunai) - Classic FRP, Arrowized FRP, Reactive Programming, and Stream Programming, all via Monadic Stream Functions
 - [chocolate-doom/chocolate-doom](https://github.com/chocolate-doom/chocolate-doom) - Chocolate Doom is a Doom source port that is minimalist and historically accurate.
 
+## gaming 
+
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
+
 ## git 
 
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
@@ -1750,11 +1769,13 @@
 
 ## gradle 
 
+- [graalvm/native-build-tools](https://github.com/graalvm/native-build-tools) - Native-image plugins for various build tools
 - [scala-steward-org/scala-steward](https://github.com/scala-steward-org/scala-steward) - :robot: A bot that helps you keep your projects up-to-date
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 
 ## graphql 
 
+- [oxide-byte/rust-berlin-leptos](https://github.com/oxide-byte/rust-berlin-leptos) - Rust Hack and Learn in Berlin Challenge to implement a Site in as many Frameworks as possible. This implementation is : Leptos - Axum - SurrealDB - GraphQL
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [manifold-systems/manifold](https://github.com/manifold-systems/manifold) - Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more.
 - [graphql-rust/juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust
@@ -1786,6 +1807,12 @@
 
 ## hacktoberfest 
 
+- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [pact-foundation/pact-jvm](https://github.com/pact-foundation/pact-jvm) - JVM version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
+- [pivovarit/more-gatherers](https://github.com/pivovarit/more-gatherers) - Missing Stream API functionality you always longed for - provided via Stream API Gatherers
+- [pivovarit/throwing-function](https://github.com/pivovarit/throwing-function) - Checked Exceptions-enabled Java 8+ functional interfaces + adapters
+- [pivovarit/parallel-collectors](https://github.com/pivovarit/parallel-collectors) - Parallel Collectors is a toolkit easing parallel collection processing in Java using Stream API.
+- [vavr-io/vavr-jackson](https://github.com/vavr-io/vavr-jackson) - Jackson datatype module for Vavr
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
@@ -1851,7 +1878,7 @@
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-- [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) - Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+- [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) - Official Haskell IDE support via the language server protocol (LSP)
 - [Canop/termimad](https://github.com/Canop/termimad) - A library to display rich (Markdown) snippets and texts in a rust terminal application
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 - [co-log/co-log](https://github.com/co-log/co-log) - 📓 Flexible and configurable modern #Haskell logging framework
@@ -1890,7 +1917,6 @@
 - [emberjs/ember.js](https://github.com/emberjs/ember.js) - Ember.js - A JavaScript framework for creating ambitious web applications
 - [emberjs/ember-inspector](https://github.com/emberjs/ember-inspector) - Adds an Ember tab to the browser's Developer Tools that allows you to inspect Ember objects in your application.
 - [ChrisPenner/slick](https://github.com/ChrisPenner/slick) - Static site generator built on Shake configured in Haskell
-- [FairwindsOps/rok8s-scripts](https://github.com/FairwindsOps/rok8s-scripts) - Opinionated scripts for managing application deployment lifecycle in Kubernetes
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
@@ -1963,7 +1989,7 @@
 - [cardano-scaling/hydra](https://github.com/cardano-scaling/hydra) - Implementation of the Hydra Head protocol
 - [chshersh/iris](https://github.com/chshersh/iris) - 🌈 Haskell CLI Framework supporting Command Line Interface Guidelines
 - [haskellfoundation/error-message-index](https://github.com/haskellfoundation/error-message-index) - A community-driven collection of documentation for Haskell error messages and warnings
-- [eashanhatti/peridot](https://github.com/eashanhatti/peridot) - A fast functional language based on two level type theory
+- [ehatti/peridot](https://github.com/ehatti/peridot) - A fast functional language based on two level type theory
 - [grin-compiler/ghc-whole-program-compiler-project](https://github.com/grin-compiler/ghc-whole-program-compiler-project) - GHC Whole Program Compiler and External STG IR tooling
 - [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
 - [gergoerdi/mos6502-kansas-lava](https://github.com/gergoerdi/mos6502-kansas-lava) - Kansas Lava implementation of MOS 6502 microprocessor
@@ -2033,7 +2059,7 @@
 - [taffybar/taffybar](https://github.com/taffybar/taffybar) - A gtk based status bar for tiling window managers such as XMonad
 - [composewell/streaming-benchmarks](https://github.com/composewell/streaming-benchmarks) - Benchmarks to compare Haskell streaming library performance
 - [chrisdone-archive/duet](https://github.com/chrisdone-archive/duet) - A tiny language, a subset of Haskell aimed at aiding teachers teach Haskell
-- [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) - Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+- [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) - Official Haskell IDE support via the language server protocol (LSP)
 - [koka-lang/koka](https://github.com/koka-lang/koka) - Koka language compiler and interpreter
 - [amuletml/amulet](https://github.com/amuletml/amulet) - An ML-like functional programming language
 - [fakedata-haskell/fakedata](https://github.com/fakedata-haskell/fakedata) - Haskell Library for producing quality fake data
@@ -2092,7 +2118,6 @@
 - [domenkozar/hie-nix](https://github.com/domenkozar/hie-nix) - Nix packages for Haskell IDE Engine
 - [haskelly-dev/Haskelly](https://github.com/haskelly-dev/Haskelly) - Haskelly is a VS Code extension that provides complete support for casual and expert Haskell development.
 - [haskell-cryptography/HsOpenSSL](https://github.com/haskell-cryptography/HsOpenSSL) - OpenSSL binding for Haskell
-- [steshaw/language-swift2-quote](https://github.com/steshaw/language-swift2-quote) - 💫 Swift 2.1 parser and pretty-printer 🚧💔😢
 - [ChrisPenner/void-space](https://github.com/ChrisPenner/void-space) - Well-Typed Typing Tutor where you Type Types... in space... yup, you heard me
 - [tmcgilchrist/airship](https://github.com/tmcgilchrist/airship) - Helium + Webmachine = Airship. A toolkit for building declarative, RESTful web apps.
 - [cachix/cachix](https://github.com/cachix/cachix) - Command line client for Nix binary cache hosting:
@@ -2326,7 +2351,6 @@
 - [dsward2/macSVG](https://github.com/dsward2/macSVG) - macSVG - An open-source macOS app for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view ➤➤➤
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [ConfettiFX/The-Forge](https://github.com/ConfettiFX/The-Forge) - The Forge Cross-Platform Framework PC Windows, Steamdeck (native), Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2
-- [OpenSmalltalk/opensmalltalk-vm](https://github.com/OpenSmalltalk/opensmalltalk-vm) - Cross-platform virtual machine for Squeak, Pharo, Cuis, and Newspeak.
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [irccloud/ios](https://github.com/irccloud/ios) - IRCCloud iOS App
@@ -2345,6 +2369,10 @@
 
 ## java 
 
+- [graalvm/native-build-tools](https://github.com/graalvm/native-build-tools) - Native-image plugins for various build tools
+- [pivovarit/more-gatherers](https://github.com/pivovarit/more-gatherers) - Missing Stream API functionality you always longed for - provided via Stream API Gatherers
+- [oracle/javavscode](https://github.com/oracle/javavscode) - Java platform support for Visual Studio Code for full featured Java development (edit-compile-debug & test cycle)
+- [embabel/embabel-agent](https://github.com/embabel/embabel-agent) - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 - [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core) - Micronaut Application Framework
 - [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors
 - [derive4j/derive4j](https://github.com/derive4j/derive4j) - Java 8 annotation processor and framework for deriving algebraic data types constructors, pattern-matching, folds, optics and typeclasses.
@@ -2550,6 +2578,7 @@
 
 ## json 
 
+- [vavr-io/vavr-jackson](https://github.com/vavr-io/vavr-jackson) - Jackson datatype module for Vavr
 - [plokhotnyuk/jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of safe and ultra-fast JSON codecs + circe booster
 - [manifold-systems/manifold](https://github.com/manifold-systems/manifold) - Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more.
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
@@ -2582,6 +2611,7 @@
 
 ## kotlin 
 
+- [embabel/embabel-agent](https://github.com/embabel/embabel-agent) - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 - [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core) - Micronaut Application Framework
 - [typealias-studios/kotlin-illustrated-guide](https://github.com/typealias-studios/kotlin-illustrated-guide) - Source code for the book, Kotlin: An Illustrated Guide
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
@@ -2600,6 +2630,7 @@
 
 ## kubernetes 
 
+- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
@@ -2699,6 +2730,7 @@
 
 ## language 
 
+- [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [racket/rhombus](https://github.com/racket/rhombus) - Rhombus programming language
 - [jfecher/ante](https://github.com/jfecher/ante) - A safe, easy systems language
@@ -2793,6 +2825,7 @@
 
 ## linux 
 
+- [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
 - [arecarn/dploy](https://github.com/arecarn/dploy) - Provides the functionality of GNU Stow in a cross platform CLI tool and python module
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [tokio-rs/io-uring](https://github.com/tokio-rs/io-uring) - The `io_uring` library for Rust
@@ -2829,7 +2862,7 @@
 - [kondrak/vkQuake2](https://github.com/kondrak/vkQuake2) - id Software's Quake 2 v3.21 with mission packs and Vulkan support (Windows, Linux, macOS, FreeBSD, Raspberry Pi 4)
 - [ConfettiFX/The-Forge](https://github.com/ConfettiFX/The-Forge) - The Forge Cross-Platform Framework PC Windows, Steamdeck (native), Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2
 - [Cuis-Smalltalk/Cuis-Smalltalk-Dev](https://github.com/Cuis-Smalltalk/Cuis-Smalltalk-Dev) - Active development of Cuis Smalltalk
-- [OpenSmalltalk/opensmalltalk-vm](https://github.com/OpenSmalltalk/opensmalltalk-vm) - Cross-platform virtual machine for Squeak, Pharo, Cuis, and Newspeak.
+- [OpenSmalltalk/opensmalltalk-vm](https://github.com/OpenSmalltalk/opensmalltalk-vm) - Cross-platform virtual machine for Squeak, Cuis, Newspeak, and Pharo
 - [solus-project/budgie-desktop](https://github.com/solus-project/budgie-desktop) - I Tawt I Taw A Purdy Desktop
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -2877,6 +2910,7 @@
 
 ## machine-learning 
 
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed query engine providing simple and reliable data processing for any modality and scale
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [icicle-lang/icicle](https://github.com/icicle-lang/icicle) - Icicle Streaming Query Language
 - [googleapis/nodejs-speech](https://github.com/googleapis/nodejs-speech) - This repository is deprecated. All of its content and history has been moved to googleapis/google-cloud-node.
@@ -2894,6 +2928,7 @@
 
 ## macos 
 
+- [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
@@ -2926,7 +2961,7 @@
 - [kondrak/vkQuake2](https://github.com/kondrak/vkQuake2) - id Software's Quake 2 v3.21 with mission packs and Vulkan support (Windows, Linux, macOS, FreeBSD, Raspberry Pi 4)
 - [ConfettiFX/The-Forge](https://github.com/ConfettiFX/The-Forge) - The Forge Cross-Platform Framework PC Windows, Steamdeck (native), Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2
 - [Cuis-Smalltalk/Cuis-Smalltalk-Dev](https://github.com/Cuis-Smalltalk/Cuis-Smalltalk-Dev) - Active development of Cuis Smalltalk
-- [OpenSmalltalk/opensmalltalk-vm](https://github.com/OpenSmalltalk/opensmalltalk-vm) - Cross-platform virtual machine for Squeak, Pharo, Cuis, and Newspeak.
+- [OpenSmalltalk/opensmalltalk-vm](https://github.com/OpenSmalltalk/opensmalltalk-vm) - Cross-platform virtual machine for Squeak, Cuis, Newspeak, and Pharo
 - [sequelpro/sequelpro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -2974,6 +3009,7 @@
 
 ## maven 
 
+- [graalvm/native-build-tools](https://github.com/graalvm/native-build-tools) - Native-image plugins for various build tools
 - [scala-steward-org/scala-steward](https://github.com/scala-steward-org/scala-steward) - :robot: A bot that helps you keep your projects up-to-date
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 
@@ -3221,6 +3257,10 @@
 
 ## others 
 
+- [ocramz/thih](https://github.com/ocramz/thih) - typing haskell in haskell
+- [bazel-contrib/bazel-gazelle](https://github.com/bazel-contrib/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
+- [pniederw/expecty](https://github.com/pniederw/expecty) - Power assertions (as known from Groovy and Spock) for the Scala language.
+- [async-profiler/async-profiler](https://github.com/async-profiler/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
 - [micronaut-projects/micronaut-crac](https://github.com/micronaut-projects/micronaut-crac) - Coordinated Restore at Checkpoint support for the Micronaut Framework
 - [google/auto](https://github.com/google/auto) - A collection of source code generators for Java.
 - [highj/highj](https://github.com/highj/highj) - Higher kinded types for Java
@@ -3314,7 +3354,7 @@
 - [UnkindPartition/lexer-applicative](https://github.com/UnkindPartition/lexer-applicative) - Applicative lexer
 - [mpu/gthreads](https://github.com/mpu/gthreads) - Toy Green Threads for C.
 - [AugustNagro/magnum](https://github.com/AugustNagro/magnum) - A 'new look' for database access in Scala
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Modern Authentication—On Your Terms. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Privacy-first authentication and user management for B2C and B2B. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
 - [NorfairKing/opt-env-conf](https://github.com/NorfairKing/opt-env-conf) - 
 - [jonhoo/rust-ci-conf](https://github.com/jonhoo/rust-ci-conf) - Collection of CI configuration files for Rust projects
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
@@ -3333,7 +3373,7 @@
 - [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [jonsterling/ocaml-forester](https://github.com/jonsterling/ocaml-forester) - Mirror of ocaml-forester
-- [iu-parfunc/gibbon](https://github.com/iu-parfunc/gibbon) - A compiler for functional programs on serialized data
+- [gibbon-compiler/gibbon](https://github.com/gibbon-compiler/gibbon) - A compiler for functional programs on serialized data
 - [dcreager/expression-problem-rust](https://github.com/dcreager/expression-problem-rust) - Exploring the "expression problem" in Rust
 - [softwaremill/realworld-tapir-zio](https://github.com/softwaremill/realworld-tapir-zio) - RealWorld.io with tapir and ZIO
 - [plt-amy/dep](https://github.com/plt-amy/dep) - A very small implementation of the Calculus of Constructions for experimentation purposes
@@ -5948,6 +5988,7 @@
 
 ## python 
 
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed query engine providing simple and reliable data processing for any modality and scale
 - [arecarn/dploy](https://github.com/arecarn/dploy) - Provides the functionality of GNU Stow in a cross platform CLI tool and python module
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
@@ -6046,7 +6087,7 @@
 
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [Cuis-Smalltalk/Cuis-Smalltalk-Dev](https://github.com/Cuis-Smalltalk/Cuis-Smalltalk-Dev) - Active development of Cuis Smalltalk
-- [OpenSmalltalk/opensmalltalk-vm](https://github.com/OpenSmalltalk/opensmalltalk-vm) - Cross-platform virtual machine for Squeak, Pharo, Cuis, and Newspeak.
+- [OpenSmalltalk/opensmalltalk-vm](https://github.com/OpenSmalltalk/opensmalltalk-vm) - Cross-platform virtual machine for Squeak, Cuis, Newspeak, and Pharo
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 
 ## react 
@@ -6192,6 +6233,11 @@
 
 ## rust 
 
+- [oxide-byte/rust-berlin-leptos](https://github.com/oxide-byte/rust-berlin-leptos) - Rust Hack and Learn in Berlin Challenge to implement a Site in as many Frameworks as possible. This implementation is : Leptos - Axum - SurrealDB - GraphQL
+- [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
+- [LGUG2Z/whkd](https://github.com/LGUG2Z/whkd) - A simple hotkey daemon for Windows
+- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed query engine providing simple and reliable data processing for any modality and scale
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [tower-lsp-community/tower-lsp-server](https://github.com/tower-lsp-community/tower-lsp-server) - Language Server Protocol implementation for Rust based on Tower
@@ -6531,6 +6577,10 @@
 
 - [wsdjeg/SpaceVim](https://github.com/wsdjeg/SpaceVim) - A modular configuration of Vim and Neovim
 
+## spring 
+
+- [embabel/embabel-agent](https://github.com/embabel/embabel-agent) - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
+
 ## spring-boot 
 
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
@@ -6611,7 +6661,6 @@
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [dsward2/macSVG](https://github.com/dsward2/macSVG) - macSVG - An open-source macOS app for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view ➤➤➤
 - [andybest/linenoise-swift](https://github.com/andybest/linenoise-swift) - A pure Swift replacement for readline
-- [steshaw/language-swift2-quote](https://github.com/steshaw/language-swift2-quote) - 💫 Swift 2.1 parser and pretty-printer 🚧💔😢
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [steshaw/language-swift-quote](https://github.com/steshaw/language-swift-quote) - 💫 Quasiquotation for Swift in Haskell 🚧💔😢
@@ -6979,6 +7028,12 @@
 
 ## windows 
 
+- [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
+- [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
+- [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
+- [LGUG2Z/whkd](https://github.com/LGUG2Z/whkd) - A simple hotkey daemon for Windows
+- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
+- [agent-kilo/jwno](https://github.com/agent-kilo/jwno) - A tiling window manager for Windows 10/11, built with Janet and ❤️.
 - [arecarn/dploy](https://github.com/arecarn/dploy) - Provides the functionality of GNU Stow in a cross platform CLI tool and python module
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
