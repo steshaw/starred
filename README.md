@@ -1147,6 +1147,7 @@
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
 - [NixOS/nixos-weekly](https://github.com/NixOS/nixos-weekly) - NixOS Weekly Newsletter
+- [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [mmai/Category-Theory-for-the-Sciences](https://github.com/mmai/Category-Theory-for-the-Sciences) - ebook versions of the book "Category Theory for the Sciences" by David I. Spivak
 - [jbeda/eightypercent](https://github.com/jbeda/eightypercent) - 
 - [slashsbin/styleguide-git-commit-message](https://github.com/slashsbin/styleguide-git-commit-message) - /sBin/StyleGuide/Git/CommitMessage
@@ -2465,7 +2466,6 @@
 - [Linuxbrew/linuxbrew-lambda](https://github.com/Linuxbrew/linuxbrew-lambda) - 💀 Used to transfer bottles from CircleCI to BinTray and GitHub
 - [skaes/logjam_app](https://github.com/skaes/logjam_app) - A rails application wrapper for the logjam plugin.
 - [b1f6c1c4/no-evil-eol-newline](https://github.com/b1f6c1c4/no-evil-eol-newline) - Hide the last 'new line' in Atom, just like vim does.
-- [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
 - [sindresorhus/cli-spinners](https://github.com/sindresorhus/cli-spinners) - Spinners for use in the terminal
@@ -2710,7 +2710,7 @@
 
 ## Jupyter Notebook 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
 - [nfmcclure/tensorflow_cookbook](https://github.com/nfmcclure/tensorflow_cookbook) - Code for Tensorflow Machine Learning Cookbook
 - [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
@@ -3919,6 +3919,7 @@
 
 ## Scala 
 
+- [getkyo/kyo](https://github.com/getkyo/kyo) - Toolkit for Scala Development
 - [pniederw/expecty](https://github.com/pniederw/expecty) - Power assertions (as known from Groovy and Spock) for the Scala language.
 - [hkust-taco/mlstruct](https://github.com/hkust-taco/mlstruct) - Codebase for the paper "MLstruct: Principal Type Inference in a Boolean Algebra of Structural Types"
 - [rcardin/yaes](https://github.com/rcardin/yaes) - An experimental effect system in Scala that tracks effects through context functions
@@ -4155,7 +4156,7 @@
 - [gabrielmoreira/craftman](https://github.com/gabrielmoreira/craftman) - Craft CMS Manager
 - [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
 - [mfine/heroku-buildpack-stack](https://github.com/mfine/heroku-buildpack-stack) - Haskell Stack support for Heroku
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
+- [nikitavoloboev/myworkflow](https://github.com/nikitavoloboev/myworkflow) - Place to share what you use. Apps/CLIs/Libraries/Configs/..
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [johanhaleby/kubetail](https://github.com/johanhaleby/kubetail) - Bash script to tail Kubernetes logs from multiple pods at the same time
 - [tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
