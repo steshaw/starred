@@ -37,6 +37,7 @@
 - [Erlang](#erlang)
 - [F#](#f#)
 - [F*](#f*)
+- [Flix](#flix)
 - [Frege](#frege)
 - [Go](#go)
 - [Gosu](#gosu)
@@ -831,6 +832,10 @@
 
 - [FStarLang/FStar](https://github.com/FStarLang/FStar) - A Proof-oriented Programming Language
 
+## Flix 
+
+- [flix/flix](https://github.com/flix/flix) - The Flix Programming Language
+
 ## Frege 
 
 - [Frege/frege](https://github.com/Frege/frege) - Frege is a Haskell for the JVM. It brings purely functional programing to the Java platform.
@@ -1201,6 +1206,8 @@
 
 ## Haskell 
 
+- [mchav/dataframe](https://github.com/mchav/dataframe) - A fast, safe, and intuitive DataFrame library.
+- [MercuryTechnologies/hs-temporal-sdk](https://github.com/MercuryTechnologies/hs-temporal-sdk) - Unofficial Temporal Haskell SDK
 - [augustss/MicroCabal](https://github.com/augustss/MicroCabal) - Reimplementation of a subset of Cabal
 - [mchav/granite](https://github.com/mchav/granite) - A library for producing terminal plots.
 - [ocramz/thih](https://github.com/ocramz/thih) - typing haskell in haskell
@@ -2937,6 +2944,7 @@
 
 ## OCaml 
 
+- [rossberg/boulder-dash](https://github.com/rossberg/boulder-dash) - A Boulder Dash clone in OCaml
 - [dhil/ocaml-multicont](https://github.com/dhil/ocaml-multicont) - multi-shot continuations in OCaml
 - [ocaml-wasm/wasm_of_ocaml](https://github.com/ocaml-wasm/wasm_of_ocaml) - 
 - [jonsterling/ocaml-forester](https://github.com/jonsterling/ocaml-forester) - Mirror of ocaml-forester
@@ -3942,7 +3950,6 @@
 - [b-studios/cats-reflect](https://github.com/b-studios/cats-reflect) - Monadic reflection for cats
 - [lampepfl/monadic-reflection](https://github.com/lampepfl/monadic-reflection) - 
 - [AugustNagro/magnum](https://github.com/AugustNagro/magnum) - A 'new look' for database access in Scala
-- [flix/flix](https://github.com/flix/flix) - The Flix Programming Language
 - [databricks/sjsonnet](https://github.com/databricks/sjsonnet) - 
 - [softwaremill/realworld-tapir-zio](https://github.com/softwaremill/realworld-tapir-zio) - RealWorld.io with tapir and ZIO
 - [slamdata/truffled-purescript](https://github.com/slamdata/truffled-purescript) - 
@@ -4184,7 +4191,7 @@
 - [commercialhaskell/lts-haskell](https://github.com/commercialhaskell/lts-haskell) - LTS Haskell build plans
 - [zendesk/helm-secrets](https://github.com/zendesk/helm-secrets) - DEPRECATED A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [FairwindsOps/rok8s-scripts](https://github.com/FairwindsOps/rok8s-scripts) - Opinionated scripts for managing application deployment lifecycle in Kubernetes
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 400 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 425 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [pbiggar/rash](https://github.com/pbiggar/rash) - Rebourne Again Shell
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
@@ -4389,6 +4396,7 @@
 
 ## TypeScript 
 
+- [stomp-js/stompjs](https://github.com/stomp-js/stompjs) - Javascript and Typescript Stomp client for Web browsers and node.js apps
 - [oracle/javavscode](https://github.com/oracle/javavscode) - Java platform support for Visual Studio Code for full featured Java development (edit-compile-debug & test cycle)
 - [davidfou/conventionalcomments-web-extension](https://github.com/davidfou/conventionalcomments-web-extension) - 
 - [re-rxjs/react-rxjs](https://github.com/re-rxjs/react-rxjs) - React bindings for RxJS
