@@ -581,6 +581,7 @@
 
 ## CSS 
 
+- [openjdk/valhalla-docs](https://github.com/openjdk/valhalla-docs) - https://openjdk.org/projects/valhalla
 - [tlcsrc/tlcsrc.github.io](https://github.com/tlcsrc/tlcsrc.github.io) - TLC SRC — The software industry is broken — let's reboot the industry instead of our programs!
 - [Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font](https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font) - Ligaturized Source Code Pro Nerd Font Complete Edition
 - [dracula/gtk](https://github.com/dracula/gtk) - 🧛🏻‍♂️ Dark theme for GTK
@@ -868,7 +869,7 @@
 - [GoogleContainerTools/container-diff](https://github.com/GoogleContainerTools/container-diff) - container-diff: Diff your Docker containers
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [bazelbuild/remote-apis](https://github.com/bazelbuild/remote-apis) - An API for caching and execution of actions on a remote system.
@@ -2234,6 +2235,11 @@
 
 ## Janet 
 
+- [janet-lang/jpm](https://github.com/janet-lang/jpm) - Janet Project Manager
+- [pepe/janet-playground](https://github.com/pepe/janet-playground) - Janet programming language playground
+- [janet-lang/pkgs](https://github.com/janet-lang/pkgs) - A package listing for Janet.
+- [janet-lang/spork](https://github.com/janet-lang/spork) - Various Janet utility modules - the official "Contrib" library.
+- [agent-kilo/juno](https://github.com/agent-kilo/juno) - 
 - [agent-kilo/jwno](https://github.com/agent-kilo/jwno) - A tiling window manager for Windows 10/11, built with Janet and ❤️.
 
 ## Java 
@@ -2736,6 +2742,7 @@
 
 ## Kotlin 
 
+- [JetBrains/java-annotations](https://github.com/JetBrains/java-annotations) - Annotations for JVM-based languages.
 - [pact-foundation/pact-jvm](https://github.com/pact-foundation/pact-jvm) - JVM version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
 - [embabel/embabel-agent](https://github.com/embabel/embabel-agent) - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 - [ExoQuery/ExoQuery](https://github.com/ExoQuery/ExoQuery) - Language Integrated Query for Kotlin
@@ -2767,7 +2774,6 @@
 
 ## Lean 
 
-- [LucDuponcheelAtGitHub/PSBP](https://github.com/LucDuponcheelAtGitHub/PSBP) - PSBP implemented using Lean
 - [leanprover-community/mathlib4](https://github.com/leanprover-community/mathlib4) - The math library of Lean 4
 - [NethermindEth/EVMYulLean](https://github.com/NethermindEth/EVMYulLean) - Executable formal model of the EVM and Yul in Lean 4.
 - [avigad/qpf](https://github.com/avigad/qpf) - Datatypes as quotients of polynomial functors
@@ -3399,6 +3405,7 @@
 
 ## Python 
 
+- [apache/buildstream](https://github.com/apache/buildstream) - BuildStream, the software integration tool
 - [xorq-labs/xorq](https://github.com/xorq-labs/xorq) - multi-engine batch transformation framework
 - [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
 - [arecarn/dploy](https://github.com/arecarn/dploy) - Provides the functionality of GNU Stow in a cross platform CLI tool and python module
@@ -3657,6 +3664,9 @@
 
 ## Rust 
 
+- [pawurb/hotpath](https://github.com/pawurb/hotpath) - A simple Rust profiler that shows exactly where your code spends time and allocates
+- [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk) - Deterministic workflow engine
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
 - [oxide-byte/rust-berlin-leptos](https://github.com/oxide-byte/rust-berlin-leptos) - Rust Hack and Learn in Berlin Challenge to implement a Site in as many Frameworks as possible. This implementation is : Leptos - Axum - SurrealDB - GraphQL
 - [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
