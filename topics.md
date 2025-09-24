@@ -42,6 +42,7 @@
 - [code-review](#code-review)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
+- [computer-vision](#computer-vision)
 - [config](#config)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
@@ -181,6 +182,7 @@
 - [privacy](#privacy)
 - [productivity](#productivity)
 - [programming](#programming)
+- [programming-language](#programming-language)
 - [publishing](#publishing)
 - [pwa](#pwa)
 - [python](#python)
@@ -252,6 +254,7 @@
 - [xcode](#xcode)
 - [xml](#xml)
 - [zig](#zig)
+- [zsh](#zsh)
 
 ## 3d 
 
@@ -870,6 +873,10 @@
 - [idris-hackers/software-foundations](https://github.com/idris-hackers/software-foundations) - Software Foundations in Idris
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 
+## computer-vision 
+
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
+
 ## config 
 
 - [google/jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
@@ -895,6 +902,7 @@
 
 ## cpp 
 
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
 - [leaningtech/cheerp-meta](https://github.com/leaningtech/cheerp-meta) - Cheerp - a C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
@@ -1035,7 +1043,7 @@
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
 - [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
 - [zio/zio-quill](https://github.com/zio/zio-quill) - Compile-time Language Integrated Queries for Scala
 - [lnx-search/lnx](https://github.com/lnx-search/lnx) - A flexible, performant and reliable search database without the AI bullshit.
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
@@ -1633,7 +1641,7 @@
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [samber/mo](https://github.com/samber/mo) - 🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...)
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [fatih/gomodifytags](https://github.com/fatih/gomodifytags) - Go tool to modify struct field tags
@@ -1937,7 +1945,6 @@
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [xmonad/xmonad](https://github.com/xmonad/xmonad) - The core of xmonad, a small but functional ICCCM-compliant tiling window manager
 - [xmonad/X11](https://github.com/xmonad/X11) - A Haskell binding to the X11 graphics library.
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
@@ -3260,12 +3267,19 @@
 
 ## others 
 
+- [apache/buildstream](https://github.com/apache/buildstream) - BuildStream, the software integration tool
+- [JetBrains/java-annotations](https://github.com/JetBrains/java-annotations) - Annotations for JVM-based languages.
+- [janet-lang/jpm](https://github.com/janet-lang/jpm) - Janet Project Manager
+- [pepe/janet-playground](https://github.com/pepe/janet-playground) - Janet programming language playground
+- [janet-lang/pkgs](https://github.com/janet-lang/pkgs) - A package listing for Janet.
+- [janet-lang/spork](https://github.com/janet-lang/spork) - Various Janet utility modules - the official "Contrib" library.
+- [openjdk/valhalla-docs](https://github.com/openjdk/valhalla-docs) - https://openjdk.org/projects/valhalla
+- [agent-kilo/juno](https://github.com/agent-kilo/juno) - 
 - [rossberg/boulder-dash](https://github.com/rossberg/boulder-dash) - A Boulder Dash clone in OCaml
 - [mchav/dataframe](https://github.com/mchav/dataframe) - A fast, safe, and intuitive DataFrame library.
 - [stomp-js/stompjs](https://github.com/stomp-js/stompjs) - Javascript and Typescript Stomp client for Web browsers and node.js apps
 - [getkyo/kyo](https://github.com/getkyo/kyo) - Toolkit for Scala Development
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-- [LucDuponcheelAtGitHub/PSBP](https://github.com/LucDuponcheelAtGitHub/PSBP) - PSBP implemented using Lean
 - [augustss/MicroCabal](https://github.com/augustss/MicroCabal) - Reimplementation of a subset of Cabal
 - [mchav/granite](https://github.com/mchav/granite) - A library for producing terminal plots.
 - [vimichael/make-windows-pretty](https://github.com/vimichael/make-windows-pretty) - Some tools I used for making Windows 11 look nice.
@@ -3620,7 +3634,6 @@
 - [well-typed/gp-zurihac-2020](https://github.com/well-typed/gp-zurihac-2020) - Repository accompanying the ZuriHac Advanced Track lecture on Datatype-Generic Programming
 - [argoproj-labs/argocd-autopilot](https://github.com/argoproj-labs/argocd-autopilot) - Argo-CD Autopilot
 - [frasertweedale/hs-tax-ato](https://github.com/frasertweedale/hs-tax-ato) - Tax types and computations for Australia
-- [b9org/b9](https://github.com/b9org/b9) - An educational JS virtual machine based on Eclipse OMR
 - [haskellfoundation/matchmaker](https://github.com/haskellfoundation/matchmaker) - Find your open-soulmate &lt;💜&gt;
 - [haskellfoundation/tech-proposals](https://github.com/haskellfoundation/tech-proposals) - The Haskell Foundation Tech Proposal Process
 - [github/codeql](https://github.com/github/codeql) - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security
@@ -3924,8 +3937,6 @@
 - [madjar/nox](https://github.com/madjar/nox) - Tools to make nix nicer to use
 - [lucas-flowers/gnu2bsd](https://github.com/lucas-flowers/gnu2bsd) - Convert GNU LS_COLORS to BSD LSCOLORS for use with BSD ls
 - [PistonDevelopers/glfw-rs](https://github.com/PistonDevelopers/glfw-rs) - GLFW3 bindings and idiomatic wrapper for Rust.
-- [owo-lang/voile-rs](https://github.com/owo-lang/voile-rs) - Dependently-typed row-polymorphic programming language, evolved from minitt-rs
-- [owo-lang/minitt-rs](https://github.com/owo-lang/minitt-rs) - Dependently-typed lambda calculus, Mini-TT, extended and implemented in Rust
 - [owo-lang/intellij-dtlc](https://github.com/owo-lang/intellij-dtlc) - IntelliJ plugin for several experimental programming languages here
 - [AndrasKovacs/SemanticsWithApplications](https://github.com/AndrasKovacs/SemanticsWithApplications) - Formal semantics in Agda.
 - [tel/serv](https://github.com/tel/serv) - Kind-safe framework for type-safe APIs
@@ -4281,7 +4292,6 @@
 - [fizruk/lxc](https://github.com/fizruk/lxc) - High level Haskell bindings to LXC (Linux containers).
 - [kitlang/kit](https://github.com/kitlang/kit) - Kit: a magical, high performance programming language, designed for game development.
 - [servo/webrender](https://github.com/servo/webrender) - A GPU-based renderer for the web
-- [cedille/cedille](https://github.com/cedille/cedille) - Cedille, a dependently typed programming languages based on the Calculus of Dependent Lambda Eliminations
 - [ocharles/zero-to-quake-3](https://github.com/ocharles/zero-to-quake-3) - Implementing Quake 3 in Haskell & Vulkan
 - [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 - [egalpin/apt-vim](https://github.com/egalpin/apt-vim) - Fully-automated, Cross-platform Plugin Manager for Vim
@@ -4728,7 +4738,6 @@
 - [mbrcknl/spacemacs-coq](https://github.com/mbrcknl/spacemacs-coq) - A simple spacemacs layer for Coq including Company-Coq and Proof General
 - [olivierverdier/spacemacs-coq](https://github.com/olivierverdier/spacemacs-coq) - A very simple coq layer for spacemacs
 - [ezyang/lr-agda](https://github.com/ezyang/lr-agda) - Logical relations proof in Agda
-- [dafny-lang/dafny](https://github.com/dafny-lang/dafny) - Dafny is a verification-aware programming language
 - [namin/dafny-sandbox](https://github.com/namin/dafny-sandbox) - Dafny for Metatheory of Programming Languages
 - [marcomaggi/vicare](https://github.com/marcomaggi/vicare) - A native compiler for Scheme compliant with R6RS
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
@@ -4883,7 +4892,6 @@
 - [jmars/Records](https://github.com/jmars/Records) - Dependently Typed Extensible Records with Prototypal Inheritance
 - [gasche/icfp2016-papers](https://github.com/gasche/icfp2016-papers) - Link to preprints for ICFP'16 and co-located events
 - [yoricksijsling/ornaments-thesis](https://github.com/yoricksijsling/ornaments-thesis) - My master thesis about generic programming and ornaments
-- [ditto/ditto](https://github.com/ditto/ditto) - A Super Kawaii Dependently Typed Programming Language
 - [gspindles/Papers](https://github.com/gspindles/Papers) - A collection of papers, theses, and books (in PDF format) on Haskell, Type Theory, Category Theory, FRP, and other FPs related topics
 - [beerendlauwers/haskell-papers-ereader](https://github.com/beerendlauwers/haskell-papers-ereader) - Haskell papers optimized for my e-reader.
 - [cgswords/sgc](https://github.com/cgswords/sgc) - Scheme-to-x86-64 Compiler with Garbage Collection
@@ -4919,7 +4927,6 @@
 - [mietek/total-fp](https://github.com/mietek/total-fp) - Total functional programming (ESFP) literature
 - [pbl64k/gpif-idris](https://github.com/pbl64k/gpif-idris) - Translation of Agda code in A. Löh and J. P. Magalhães *Generic Programming with Indexed Functors* to Idris.
 - [ahmadsalim/MSc-Thesis](https://github.com/ahmadsalim/MSc-Thesis) - MSc Thesis on practical levitation
-- [agda/agda](https://github.com/agda/agda) - Agda is a dependently typed programming language / interactive theorem prover.
 - [uhub/awesome-coq](https://github.com/uhub/awesome-coq) - A curated list of awesome Coq frameworks, libraries and software.
 - [type-theory/learn-tt](https://github.com/type-theory/learn-tt) - A collection of resources for learning type theory.
 - [BNFC/bnfc](https://github.com/BNFC/bnfc) - BNF Converter
@@ -5334,7 +5341,6 @@
 - [haskell-nix/hnix](https://github.com/haskell-nix/hnix) - A Haskell re-implementation of the Nix expression language
 - [analytics/analytics](https://github.com/analytics/analytics) - 
 - [facebook/Haxl](https://github.com/facebook/Haxl) - A Haskell library that simplifies access to remote data, such as databases or web-based services.
-- [leanprover/lean3](https://github.com/leanprover/lean3) - Lean Theorem Prover
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [ekmett/categories](https://github.com/ekmett/categories) - categories from category-extras
 - [tonymorris/parametricity](https://github.com/tonymorris/parametricity) - A talk on parametricity
@@ -5345,7 +5351,6 @@
 - [dysinger/khartes](https://github.com/dysinger/khartes) - An Experiment with Both Haskell & Idris JS FFI interface to AWS
 - [raymontag/keepassc](https://github.com/raymontag/keepassc) - KeePassC is a curses-based password manager compatible to KeePass v.1.x and KeePassX
 - [keigoi/ocaml](https://github.com/keigoi/ocaml) - OCaml on iOS http://psellos.com/ocaml/ upgraded to OCaml 4.00.1 and fixed to work with the latest iOS SDK 6.1
-- [lamdu/lamdu](https://github.com/lamdu/lamdu) - lamdu - towards the next generation IDE
 - [nathanmarz/storm](https://github.com/nathanmarz/storm) - Distributed and fault-tolerant realtime computation: stream processing, continuous computation, distributed RPC, and more
 - [maximecb/Gradient](https://github.com/maximecb/Gradient) - A JavaScript/HTML5 artificial life experiment involving agents that live in a 2D grid world.
 - [maximecb/Turing-Tunes](https://github.com/maximecb/Turing-Tunes) - Procedural music generation engine using Turing machines.
@@ -5414,7 +5419,6 @@
 - [prezi/spaghetti](https://github.com/prezi/spaghetti) - Type-safe APIs for compile-to-JavaScript modules
 - [haskell-CI/haskell-ci](https://github.com/haskell-CI/haskell-ci) - Scripts and instructions for using CI services (e.g. Travis CI or Appveyor) with multiple GHC configurations
 - [np/hlatex](https://github.com/np/hlatex) - LaTeX document builder for Haskell
-- [FStarLang/FStar](https://github.com/FStarLang/FStar) - A Proof-oriented Programming Language
 - [larrytheliquid/leveling-up](https://github.com/larrytheliquid/leveling-up) - Source code accompanying the paper "Leveling Up Dependent Types"
 - [spire/spire](https://github.com/spire/spire) - The Spire Programming Language
 - [lukaszx0/queues.io](https://github.com/lukaszx0/queues.io) - Queues, all of them.
@@ -5982,6 +5986,63 @@
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [felix-lang/felix](https://github.com/felix-lang/felix) - The Felix Programming Language
 
+## programming-language 
+
+- [apache/groovy](https://github.com/apache/groovy) - Apache Groovy: A powerful multi-faceted programming language for the JVM platform
+- [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
+- [dlang/dmd](https://github.com/dlang/dmd) - dmd D Programming Language compiler
+- [flix/flix](https://github.com/flix/flix) - The Flix Programming Language
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
+- [titzer/virgil](https://github.com/titzer/virgil) - A fast and lightweight native programming language
+- [aripiprazole/lura](https://github.com/aripiprazole/lura) - 🍞 | IDE focused programming language study
+- [ThakeeNathees/pocketlang](https://github.com/ThakeeNathees/pocketlang) - A lightweight, fast embeddable scripting language.
+- [zesterer/tao](https://github.com/zesterer/tao) - A statically-typed functional language with generics, typeclasses, sum types, pattern-matching, first-class functions, currying, algebraic effects, associated types, good diagnostics, etc.
+- [ChessMax/awesome-programming-languages](https://github.com/ChessMax/awesome-programming-languages) - The list of awesome programming languages that you might be interested in.
+- [ehatti/peridot](https://github.com/ehatti/peridot) - A fast functional language based on two level type theory
+- [hirrolot/metalang99](https://github.com/hirrolot/metalang99) - Full-blown preprocessor metaprogramming
+- [Gabriella439/grace](https://github.com/Gabriella439/grace) - A prompt engineering functional programming language
+- [sampsyo/bril](https://github.com/sampsyo/bril) - an educational compiler intermediate representation
+- [marcobambini/gravity](https://github.com/marcobambini/gravity) - Gravity Programming Language
+- [daniele-rapagnani/melon](https://github.com/daniele-rapagnani/melon) - The Melon programming language
+- [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
+- [b9org/b9](https://github.com/b9org/b9) - An educational JS virtual machine based on Eclipse OMR
+- [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
+- [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.
+- [yeslogic/fathom](https://github.com/yeslogic/fathom) - 🚧 (Alpha stage software) A declarative data definition language for formally specifying binary data formats. 🚧
+- [reasonml/reason](https://github.com/reasonml/reason) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
+- [gfngfn/SATySFi](https://github.com/gfngfn/SATySFi) - A statically-typed, functional typesetting system
+- [owo-lang/voile-rs](https://github.com/owo-lang/voile-rs) - Dependently-typed row-polymorphic programming language, evolved from minitt-rs
+- [owo-lang/minitt-rs](https://github.com/owo-lang/minitt-rs) - Dependently-typed lambda calculus, Mini-TT, extended and implemented in Rust
+- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
+- [dibyendumajumdar/ravi](https://github.com/dibyendumajumdar/ravi) - Ravi is a dialect of Lua, featuring limited optional static typing, JIT and AOT compilers
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
+- [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
+- [ekmett/coda](https://github.com/ekmett/coda) - A language experiment -- irc.freenode.net ##coda
+- [cedille/cedille](https://github.com/cedille/cedille) - Cedille, a dependently typed programming languages based on the Calculus of Dependent Lambda Eliminations
+- [pikelet-lang/pikelet](https://github.com/pikelet-lang/pikelet) - A friendly little systems language with first-class types. Very WIP! 🚧 🚧 🚧
+- [supercollider/supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
+- [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
+- [red/red](https://github.com/red/red) - Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cros
+- [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
+- [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
+- [charly-lang/charly](https://github.com/charly-lang/charly) - 🐈 The Charly Programming Language | Written by @KCreate
+- [dafny-lang/dafny](https://github.com/dafny-lang/dafny) - Dafny is a verification-aware programming language
+- [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
+- [IntersectMBO/plutus](https://github.com/IntersectMBO/plutus) - The Plutus language implementation and tools
+- [gluon-lang/gluon](https://github.com/gluon-lang/gluon) - A static, type inferred and embeddable language written in Rust.
+- [golang/go](https://github.com/golang/go) - The Go programming language
+- [HaxeFoundation/haxe](https://github.com/HaxeFoundation/haxe) - Haxe - The Cross-Platform Toolkit
+- [ditto/ditto](https://github.com/ditto/ditto) - A Super Kawaii Dependently Typed Programming Language
+- [agda/agda](https://github.com/agda/agda) - Agda is a dependently typed programming language / interactive theorem prover.
+- [CakeML/cakeml](https://github.com/CakeML/cakeml) - CakeML: A Verified Implementation of ML
+- [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
+- [ocaml-community/awesome-ocaml](https://github.com/ocaml-community/awesome-ocaml) - A curated collection of awesome OCaml tools, frameworks, libraries and articles.
+- [kfl/mosml](https://github.com/kfl/mosml) - Moscow ML is a light-weight implementation of Standard ML (SML), a strict functional language widely used in teaching and research.
+- [leanprover/lean3](https://github.com/leanprover/lean3) - Lean Theorem Prover
+- [lamdu/lamdu](https://github.com/lamdu/lamdu) - lamdu - towards the next generation IDE
+- [FStarLang/FStar](https://github.com/FStarLang/FStar) - A Proof-oriented Programming Language
+- [felix-lang/felix](https://github.com/felix-lang/felix) - The Felix Programming Language
+
 ## publishing 
 
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec
@@ -6000,6 +6061,7 @@
 
 ## python 
 
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed query engine providing simple and reliable data processing for any modality and scale
 - [xorq-labs/xorq](https://github.com/xorq-labs/xorq) - multi-engine batch transformation framework
 - [arecarn/dploy](https://github.com/arecarn/dploy) - Provides the functionality of GNU Stow in a cross platform CLI tool and python module
@@ -6216,6 +6278,7 @@
 
 ## robotics 
 
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
 - [nasa/ogma](https://github.com/nasa/ogma) - Generator of runtime monitors for flight and robotics applications.
 - [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3) - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
 
@@ -6246,6 +6309,9 @@
 
 ## rust 
 
+- [pawurb/hotpath](https://github.com/pawurb/hotpath) - A simple Rust profiler that shows exactly where your code spends time and allocates
+- [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk) - Deterministic workflow engine
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
 - [oxide-byte/rust-berlin-leptos](https://github.com/oxide-byte/rust-berlin-leptos) - Rust Hack and Learn in Berlin Challenge to implement a Site in as many Frameworks as possible. This implementation is : Leptos - Axum - SurrealDB - GraphQL
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
 - [LGUG2Z/whkd](https://github.com/LGUG2Z/whkd) - A simple hotkey daemon for Windows
@@ -6611,7 +6677,7 @@
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
 - [zio/zio-protoquill](https://github.com/zio/zio-protoquill) - Quill for Scala 3
 - [circuithub/rel8](https://github.com/circuithub/rel8) - Hey! Hey! Can u rel8?
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
@@ -6642,7 +6708,7 @@
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
@@ -7091,6 +7157,22 @@
 
 - [mitchellh/libxev](https://github.com/mitchellh/libxev) - libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+
+## zsh 
+
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [steshaw/shelly](https://github.com/steshaw/shelly) - 🐚 Dotfiles and shell utilities
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+- [bjeanes/dotfiles](https://github.com/bjeanes/dotfiles) - 🏠
+- [liquidprompt/liquidprompt](https://github.com/liquidprompt/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+- [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 
 
 ## License
