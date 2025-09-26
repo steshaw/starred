@@ -2950,6 +2950,7 @@
 
 ## OCaml 
 
+- [ott-lang/ott](https://github.com/ott-lang/ott) - The Ott tool for writing definitions of programming languages and calculi
 - [rossberg/boulder-dash](https://github.com/rossberg/boulder-dash) - A Boulder Dash clone in OCaml
 - [dhil/ocaml-multicont](https://github.com/dhil/ocaml-multicont) - multi-shot continuations in OCaml
 - [ocaml-wasm/wasm_of_ocaml](https://github.com/ocaml-wasm/wasm_of_ocaml) - 
