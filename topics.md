@@ -33,6 +33,7 @@
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
 - [chatbot](#chatbot)
+- [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -88,6 +89,7 @@
 - [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
+- [flask](#flask)
 - [flutter](#flutter)
 - [font](#font)
 - [framework](#framework)
@@ -240,6 +242,7 @@
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
 - [visual-studio-code](#visual-studio-code)
+- [visualization](#visualization)
 - [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -289,6 +292,7 @@
 
 ## analytics 
 
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - The transactional Elasticsearch alternative built on Postgres
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
@@ -369,6 +373,7 @@
 
 ## automation 
 
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
@@ -389,6 +394,7 @@
 
 ## awesome 
 
+- [JCTools/JCTools](https://github.com/JCTools/JCTools) - 
 - [mojoaxel/awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing) - 🕶️ A curated list of resources around the topic: visual regression testing
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
@@ -414,7 +420,7 @@
 - [learn-anything/programming-languages](https://github.com/learn-anything/programming-languages) - Awesome Programming Languages
 - [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
 - [learn-anything/courses](https://github.com/learn-anything/courses) - Awesome Courses
-- [nikitavoloboev/myworkflow](https://github.com/nikitavoloboev/myworkflow) - Place to share what you use. Apps/CLIs/Libraries/Configs/..
+- [nikitavoloboev/myflow](https://github.com/nikitavoloboev/myflow) - Place to share & store what you use
 - [joaomilho/awesome-idris](https://github.com/joaomilho/awesome-idris) - 𝛌 Awesome Idris resources
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [src-d/awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) - Cool links & research papers related to Machine Learning applied to source code (MLonCode)
@@ -515,6 +521,8 @@
 
 ## backend 
 
+- [apache/solr](https://github.com/apache/solr) - Apache Solr open-source search software
+- [apache/lucene](https://github.com/apache/lucene) - Apache Lucene open-source search software
 - [kowainik/issue-wanted](https://github.com/kowainik/issue-wanted) - 🏷 Web application to help beginners to start contributing into Haskell projects
 - [juicycleff/ultimate-backend](https://github.com/juicycleff/ultimate-backend) - Multi tenant SaaS starter kit with cqrs graphql microservice architecture, apollo federation, event source and authentication
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
@@ -590,6 +598,7 @@
 
 ## c 
 
+- [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 - [leaningtech/cheerp-meta](https://github.com/leaningtech/cheerp-meta) - Cheerp - a C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript
 - [mitchellh/libxev](https://github.com/mitchellh/libxev) - libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI
@@ -642,6 +651,7 @@
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [namin/inc](https://github.com/namin/inc) - an incremental approach to compiler construction
 - [bdwgc/bdwgc](https://github.com/bdwgc/bdwgc) - The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (bdwgc, also known as bdw-gc, boehm-gc, libgc)
+- [bdwgc/libatomic_ops](https://github.com/bdwgc/libatomic_ops) - The atomic_ops project (Atomic memory update operations portable implementation)
 - [apache/activemq-apollo](https://github.com/apache/activemq-apollo) - Mirror of Apache ActiveMQ Apollo
 - [danmar/cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
 
@@ -673,6 +683,10 @@
 ## chatbot 
 
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
+
+## chatgpt 
+
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 
 ## chrome 
 
@@ -799,6 +813,7 @@
 
 ## compiler 
 
+- [mirkosertic/MetaIR](https://github.com/mirkosertic/MetaIR) - A showcase for the MetaIR and JVM bytecode reverse engineering
 - [apache/groovy](https://github.com/apache/groovy) - Apache Groovy: A powerful multi-faceted programming language for the JVM platform
 - [sdiehl/typechecker-zoo](https://github.com/sdiehl/typechecker-zoo) - A menagerie of cute implementations of modern typechecking algorithms
 - [i-net-software/JWebAssembly](https://github.com/i-net-software/JWebAssembly) - Java bytecode to WebAssembly compiler
@@ -921,6 +936,7 @@
 
 ## cpp 
 
+- [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
 - [leaningtech/cheerp-meta](https://github.com/leaningtech/cheerp-meta) - Cheerp - a C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
@@ -965,6 +981,7 @@
 
 ## csharp 
 
+- [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [dotnet/csharplang](https://github.com/dotnet/csharplang) - The official repo for the design of the C# programming language
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
@@ -1024,15 +1041,20 @@
 
 ## data-analysis 
 
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [nstack/nstack](https://github.com/nstack/nstack) - Type-safe, composable microservices for data analytics
 
 ## data-engineering 
 
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed query engine providing simple and reliable data processing for any modality and scale
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
 
 ## data-science 
 
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [grailbio/reflow](https://github.com/grailbio/reflow) - A language and runtime for distributed, incremental data processing in the cloud
 - [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
@@ -1040,6 +1062,7 @@
 
 ## data-structures 
 
+- [JCTools/JCTools](https://github.com/JCTools/JCTools) - 
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [aol/cyclops](https://github.com/aol/cyclops) - An advanced, but easy to use, platform for writing functional applications in Java 8.
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -1047,6 +1070,8 @@
 
 ## data-visualization 
 
+- [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [c3js/c3](https://github.com/c3js/c3) - :bar_chart: A D3-based reusable chart library
@@ -1054,6 +1079,9 @@
 
 ## database 
 
+- [apache/hive](https://github.com/apache/hive) - Apache Hive
+- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
+- [apache/zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
@@ -1152,6 +1180,7 @@
 
 ## devops 
 
+- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
@@ -1277,7 +1306,6 @@
 - [srid/nix-config](https://github.com/srid/nix-config) - My NixOS configuration (DEPRECATED)
 - [jkachmar/dotnix](https://github.com/jkachmar/dotnix) - Shackled within an elaborate prison of my own design.
 - [malob/nixpkgs](https://github.com/malob/nixpkgs) - My Nix system configs!
-- [nikitavoloboev/myworkflow](https://github.com/nikitavoloboev/myworkflow) - Place to share what you use. Apps/CLIs/Libraries/Configs/..
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [yurrriq/dotfiles](https://github.com/yurrriq/dotfiles) - My (semi-)literate dotfiles for Nix, Emacs, fish, etc, managed with home-manager and GNU Stow
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
@@ -1450,6 +1478,10 @@
 - [wilfredwee/photon-australis](https://github.com/wilfredwee/photon-australis) - Bringing sexy curves back to Firefox Photon.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 
+## flask 
+
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+
 ## flutter 
 
 - [bamboo/idris2dart](https://github.com/bamboo/idris2dart) - The Dart backend for Idris 2.
@@ -1468,7 +1500,9 @@
 
 ## framework 
 
+- [apache/dubbo](https://github.com/apache/dubbo) - The java implementation of Apache Dubbo. An RPC and microservice framework.
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [chshersh/iris](https://github.com/chshersh/iris) - 🌈 Haskell CLI Framework supporting Command Line Interface Guidelines
 - [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp) - 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
 - [aantron/dream](https://github.com/aantron/dream) - Tidy, feature-complete Web framework
@@ -1661,6 +1695,7 @@
 - [samber/mo](https://github.com/samber/mo) - 🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...)
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
+- [dnaeon/go-vcr](https://github.com/dnaeon/go-vcr) - Record and replay your HTTP interactions for fast, deterministic and accurate tests
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [fatih/gomodifytags](https://github.com/fatih/gomodifytags) - Go tool to modify struct field tags
@@ -1725,6 +1760,7 @@
 
 ## golang 
 
+- [apache/beam](https://github.com/apache/beam) - Apache Beam is a unified programming model for Batch and Streaming data processing.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -1737,6 +1773,7 @@
 - [grailbio/reflow](https://github.com/grailbio/reflow) - A language and runtime for distributed, incremental data processing in the cloud
 - [earthboundkid/requests](https://github.com/earthboundkid/requests) - HTTP requests for Gophers
 - [leanovate/gopter](https://github.com/leanovate/gopter) - GOlang Property TestER
+- [dnaeon/go-vcr](https://github.com/dnaeon/go-vcr) - Record and replay your HTTP interactions for fast, deterministic and accurate tests
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [golang/vscode-go](https://github.com/golang/vscode-go) - Go extension for Visual Studio Code
@@ -1834,6 +1871,10 @@
 
 ## hacktoberfest 
 
+- [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+- [apache/iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg
+- [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg
+- [apache/zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [pact-foundation/pact-jvm](https://github.com/pact-foundation/pact-jvm) - JVM version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
 - [pivovarit/more-gatherers](https://github.com/pivovarit/more-gatherers) - Missing Stream API functionality you always longed for - provided via Stream API Gatherers
@@ -1856,6 +1897,7 @@
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [dlang/dmd](https://github.com/dlang/dmd) - dmd D Programming Language compiler
 - [redeclipse/base](https://github.com/redeclipse/base) - Base environment for Red Eclipse and associated source files.
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [flix/flix](https://github.com/flix/flix) - The Flix Programming Language
 - [bow-swift/bow](https://github.com/bow-swift/bow) - 🏹 Bow is a cross-platform library for Typed Functional Programming in Swift
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
@@ -1876,6 +1918,7 @@
 - [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - The official Sentry SDK for Rust
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [Netflix-Skunkworks/stethoscope-app](https://github.com/Netflix-Skunkworks/stethoscope-app) - A desktop application that checks security-related settings and makes recommendations for improvements without requiring central device management or automated reporting.
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes
@@ -1954,14 +1997,13 @@
 - [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with 
 - [eclipse-omr/omr](https://github.com/eclipse-omr/omr) - Eclipse OMR™ Cross platform components for building reliable, high performance language runtimes
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-- [oracle/truffleruby](https://github.com/oracle/truffleruby) - A high performance implementation of the Ruby programming language, built on GraalVM.
+- [truffleruby/truffleruby](https://github.com/truffleruby/truffleruby) - A high performance implementation of the Ruby programming language, built on GraalVM.
 - [diku-dk/futhark](https://github.com/diku-dk/futhark) - :boom::computer::boom: A data-parallel functional programming language
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [ember-bootstrap/ember-bootstrap](https://github.com/ember-bootstrap/ember-bootstrap) - Ember-cli addon for using Bootstrap as native Ember components.
 - [stackbuilders/dotenv-hs](https://github.com/stackbuilders/dotenv-hs) - Load environment variables from dotenv files for Haskell
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [opencats/OpenCATS](https://github.com/opencats/OpenCATS) - Applicant Tracking System (maintained code base)
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [xmonad/xmonad](https://github.com/xmonad/xmonad) - The core of xmonad, a small but functional ICCCM-compliant tiling window manager
 - [xmonad/X11](https://github.com/xmonad/X11) - A Haskell binding to the X11 graphics library.
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
@@ -1984,7 +2026,6 @@
 - [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing S3 compatible storage services (including Amazon S3 and CloudFront).
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
 - [haskell-servant/servant](https://github.com/haskell-servant/servant) - Servant is a Haskell DSL for describing, serving, querying, mocking, documenting web applications and more!
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
@@ -2328,6 +2369,7 @@
 
 ## http 
 
+- [apache/dubbo](https://github.com/apache/dubbo) - The java implementation of Apache Dubbo. An RPC and microservice framework.
 - [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [CardanoSolutions/kupo](https://github.com/CardanoSolutions/kupo) - 🐹 Fast, lightweight & configurable chain-index for Cardano.
@@ -2373,7 +2415,6 @@
 - [keera-studios/keera-hails](https://github.com/keera-studios/keera-hails) - Keera Hails: Haskell on Rails - Reactive Programming Framework for Interactive Haskell applications
 - [ivanperez-keera/Yampa](https://github.com/ivanperez-keera/Yampa) - Functional Reactive Programming domain-specific language  for efficient hybrid systems
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
-- [nikitavoloboev/myworkflow](https://github.com/nikitavoloboev/myworkflow) - Place to share what you use. Apps/CLIs/Libraries/Configs/..
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
 - [dsward2/macSVG](https://github.com/dsward2/macSVG) - macSVG - An open-source macOS app for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view ➤➤➤
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -2396,6 +2437,16 @@
 
 ## java 
 
+- [mirkosertic/flight-recorder-starter](https://github.com/mirkosertic/flight-recorder-starter) - This is a Spring Boot 2/3 Starter exposing the JDK Flight Recorder as a Spring Boot Actuator Endpoint.
+- [apache/dubbo](https://github.com/apache/dubbo) - The java implementation of Apache Dubbo. An RPC and microservice framework.
+- [apache/hive](https://github.com/apache/hive) - Apache Hive
+- [apache/zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper
+- [apache/solr](https://github.com/apache/solr) - Apache Solr open-source search software
+- [apache/lucene](https://github.com/apache/lucene) - Apache Lucene open-source search software
+- [apache/flink](https://github.com/apache/flink) - Apache Flink
+- [apache/beam](https://github.com/apache/beam) - Apache Beam is a unified programming model for Batch and Streaming data processing.
+- [JCTools/JCTools](https://github.com/JCTools/JCTools) - 
+- [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [graalvm/native-build-tools](https://github.com/graalvm/native-build-tools) - Native-image plugins for various build tools
 - [pivovarit/more-gatherers](https://github.com/pivovarit/more-gatherers) - Missing Stream API functionality you always longed for - provided via Stream API Gatherers
 - [oracle/javavscode](https://github.com/oracle/javavscode) - Java platform support for Visual Studio Code for full featured Java development (edit-compile-debug & test cycle)
@@ -2469,6 +2520,7 @@
 
 ## javascript 
 
+- [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [leaningtech/cheerp-meta](https://github.com/leaningtech/cheerp-meta) - Cheerp - a C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
@@ -2657,6 +2709,7 @@
 
 ## kubernetes 
 
+- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
@@ -2757,6 +2810,7 @@
 
 ## language 
 
+- [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [racket/rhombus](https://github.com/racket/rhombus) - Rhombus programming language
@@ -2849,9 +2903,11 @@
 - [apache/mahout](https://github.com/apache/mahout) - Mirror of Apache Mahout
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [bdwgc/bdwgc](https://github.com/bdwgc/bdwgc) - The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (bdwgc, also known as bdw-gc, boehm-gc, libgc)
+- [bdwgc/libatomic_ops](https://github.com/bdwgc/libatomic_ops) - The atomic_ops project (Atomic memory update operations portable implementation)
 
 ## linux 
 
+- [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
 - [arecarn/dploy](https://github.com/arecarn/dploy) - Provides the functionality of GNU Stow in a cross platform CLI tool and python module
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -2938,6 +2994,7 @@
 
 ## machine-learning 
 
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed query engine providing simple and reliable data processing for any modality and scale
 - [xorq-labs/xorq](https://github.com/xorq-labs/xorq) - multi-engine batch transformation framework
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
@@ -2957,6 +3014,7 @@
 
 ## macos 
 
+- [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
@@ -2978,7 +3036,6 @@
 - [jkachmar/dotnix](https://github.com/jkachmar/dotnix) - Shackled within an elaborate prison of my own design.
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
-- [nikitavoloboev/myworkflow](https://github.com/nikitavoloboev/myworkflow) - Place to share what you use. Apps/CLIs/Libraries/Configs/..
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [kccqzy/no-aslr](https://github.com/kccqzy/no-aslr) - Run program without ASLR (supports Linux and macOS)
@@ -3110,6 +3167,7 @@
 
 ## neovim 
 
+- [sonph/onehalf](https://github.com/sonph/onehalf) - Clean, vibrant and pleasing color schemes for Vim, Sublime Text, iTerm, gnome-terminal and more.
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [steshaw/shelly](https://github.com/steshaw/shelly) - 🐚 Dotfiles and shell utilities
 - [mrcjkb/haskell-tools.nvim](https://github.com/mrcjkb/haskell-tools.nvim) - 🦥 Supercharge your Haskell experience in neovim!
@@ -3213,6 +3271,8 @@
 
 ## nosql 
 
+- [apache/solr](https://github.com/apache/solr) - Apache Solr open-source search software
+- [apache/lucene](https://github.com/apache/lucene) - Apache Lucene open-source search software
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
@@ -3245,6 +3305,7 @@
 
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [Chevrotain/chevrotain](https://github.com/Chevrotain/chevrotain) - Parser Building Toolkit for JavaScript
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [budgetzero/budgetzero](https://github.com/budgetzero/budgetzero) - Open-source, self-hosted, zero-based budgeting.
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
@@ -3286,6 +3347,11 @@
 
 ## others 
 
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
+- [uutils/uutils-term-grid](https://github.com/uutils/uutils-term-grid) - 
+- [uutils/parse_datetime](https://github.com/uutils/parse_datetime) - Parses a relative time string and returns a jiff::Zoned object
+- [uutils/ansi-width](https://github.com/uutils/ansi-width) - Calculate the width of a string when printed to the terminal
+- [apache/geode](https://github.com/apache/geode) - Apache Geode
 - [ott-lang/ott](https://github.com/ott-lang/ott) - The Ott tool for writing definitions of programming languages and calculi
 - [apache/buildstream](https://github.com/apache/buildstream) - BuildStream, the software integration tool
 - [JetBrains/java-annotations](https://github.com/JetBrains/java-annotations) - Annotations for JVM-based languages.
@@ -3325,7 +3391,6 @@
 - [nbrown02/Capacity-Planning-Feature-Monte-Carlo](https://github.com/nbrown02/Capacity-Planning-Feature-Monte-Carlo) - A Power BI template that provides fast and easy means of understand typical feature size, capacity planning and forecasting feature delivery.  Works for Jira (Cloud) and Azure DevOps (as well as Azure
 - [reportmill/SnapKit](https://github.com/reportmill/SnapKit) - A Java UI toolkit
 - [reportmill/SnapTea](https://github.com/reportmill/SnapTea) - A SnapKit adapter for TeaVM
-- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication feature
 - [rcardin/yaes](https://github.com/rcardin/yaes) - An experimental effect system in Scala that tracks effects through context functions
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
@@ -3572,7 +3637,6 @@
 - [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK
 - [inkandswitch/peritext](https://github.com/inkandswitch/peritext) - A CRDT for asynchronous rich-text collaboration, where authors can work independently and then merge their changes.
 - [cockroachdb/copyist](https://github.com/cockroachdb/copyist) - Mocking your SQL database in Go tests has never been easier.
-- [dnaeon/go-vcr](https://github.com/dnaeon/go-vcr) - Record and replay your HTTP interactions for fast, deterministic and accurate tests
 - [facebook/starlark-rust](https://github.com/facebook/starlark-rust) - A Rust implementation of the Starlark language
 - [Manishearth/rust-gc](https://github.com/Manishearth/rust-gc) - Simple tracing (mark and sweep) garbage collector for Rust
 - [thoughtstream/Damian-Conway-s-Vim-Setup](https://github.com/thoughtstream/Damian-Conway-s-Vim-Setup) - Snapshots of my Vim setup. Open source, but utterly unsupported...and probably dangerous.
@@ -3948,6 +4012,7 @@
 - [input-output-hk/hackage.nix](https://github.com/input-output-hk/hackage.nix) - Automatically generated Nix expressions for Hackage
 - [worldofpeace/events](https://github.com/worldofpeace/events) - Current documentation for NixOS Office Hours
 - [adamgundry/type-inference](https://github.com/adamgundry/type-inference) - Unification and type inference algorithms
+- [nikitavoloboev/ts](https://github.com/nikitavoloboev/ts) - TS tools, libraries and other code
 - [cachix/ghcide-nix](https://github.com/cachix/ghcide-nix) - Nix installation for ghcide
 - [haskell/ghcide](https://github.com/haskell/ghcide) - A library for building Haskell IDE tooling
 - [pigworker/SSGEP-DataData](https://github.com/pigworker/SSGEP-DataData) - being the materials for "Datatypes of Datatypes" at the Summer School on Generic and Effectful Programming, Oxford
@@ -4206,7 +4271,6 @@
 - [ocaml/tuareg](https://github.com/ocaml/tuareg) - Emacs OCaml mode
 - [ocaml/odoc](https://github.com/ocaml/odoc) - Documentation compiler for OCaml and Reason
 - [ocaml/dune](https://github.com/ocaml/dune) - A composable build system for OCaml.
-- [feenkcom/gtoolkit](https://github.com/feenkcom/gtoolkit) - Glamorous Toolkit is the Moldable Development Environment. It empowers you to make systems explainable through contextual micro tools.
 - [AltGr/opam-bundle](https://github.com/AltGr/opam-bundle) - A tool that creates stand-alone source bundles from opam packages
 - [aspiwack/treemachine](https://github.com/aspiwack/treemachine) - 
 - [tweag/linear-types](https://github.com/tweag/linear-types) - Drafts, notes and resources for adding linear typing to GHC.
@@ -5289,7 +5353,6 @@
 - [NICTA/t3as-pat-clas](https://github.com/NICTA/t3as-pat-clas) - Web services and associated functionality for doing Patent Classification Search and Lookups of the CPC, IPC, and USPC patent classification systems.
 - [opencb-bigdata-viz/genome-maps](https://github.com/opencb-bigdata-viz/genome-maps) - A new web-based HTML5 genome browser. Genome Maps can also browse BAM and VCFs files among other formats.
 - [Tokutek/mongo](https://github.com/Tokutek/mongo) - TokuMX is a high-performance, concurrent, compressing, drop-in replacement engine for MongoDB | Issue tracker: https://tokutek.atlassian.net/browse/MX/ |
-- [dc-js/dc.js](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
 - [denizk/genome-maps](https://github.com/denizk/genome-maps) - HTML5 genomic browser
 - [opencb/jsorolla](https://github.com/opencb/jsorolla) - JSorolla is a JavaScript Library for biological and genomic data visualization. Found a bug or have an idea for a new feature? Let us know at https://zettagenomics.com/academic/
 - [Matt-Esch/underbar](https://github.com/Matt-Esch/underbar) - Modular underscore - require("underbar/function")
@@ -5663,7 +5726,6 @@
 - [dozed/fink](https://github.com/dozed/fink) - fink -- a scala based cms
 - [manuel/schampignon](https://github.com/manuel/schampignon) - Lisp interpreter with fexprs and delimited control written in JavaScript
 - [robsimmons/levy](https://github.com/robsimmons/levy) - A fork of Levy, originally by Bauer and Pretnar. The 'master' branch has some minor code fixes, more examples, and a top-level 'do' notation, the 'modprec' branch fiddles with the parser, and the 'dat
-- [bdwgc/libatomic_ops](https://github.com/bdwgc/libatomic_ops) - The atomic_ops project (Atomic memory update operations portable implementation)
 - [scalagwt/scalagwt-gwt](https://github.com/scalagwt/scalagwt-gwt) - Temporary fork of GWT where we add hooks to support Scala
 - [scalagwt/scalagwt-jribble](https://github.com/scalagwt/scalagwt-jribble) - Jribble library
 - [dagit/Cyclone-Language](https://github.com/dagit/Cyclone-Language) - My branch of the Cyclone programming language
@@ -5939,6 +6001,7 @@
 
 ## postgresql 
 
+- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - The transactional Elasticsearch alternative built on Postgres
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
@@ -5973,6 +6036,7 @@
 
 ## powershell 
 
+- [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
@@ -6008,6 +6072,7 @@
 
 ## programming-language 
 
+- [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [apache/groovy](https://github.com/apache/groovy) - Apache Groovy: A powerful multi-faceted programming language for the JVM platform
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 - [dlang/dmd](https://github.com/dlang/dmd) - dmd D Programming Language compiler
@@ -6081,6 +6146,11 @@
 
 ## python 
 
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [apache/flink](https://github.com/apache/flink) - Apache Flink
+- [apache/beam](https://github.com/apache/beam) - Apache Beam is a unified programming model for Batch and Streaming data processing.
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed query engine providing simple and reliable data processing for any modality and scale
 - [xorq-labs/xorq](https://github.com/xorq-labs/xorq) - multi-engine batch transformation framework
@@ -6187,6 +6257,7 @@
 
 ## react 
 
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [re-rxjs/react-rxjs](https://github.com/re-rxjs/react-rxjs) - React bindings for RxJS
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
@@ -6215,6 +6286,7 @@
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted), share parts of it to global network of topics with deep AI integration
+- [nikitavoloboev/myflow](https://github.com/nikitavoloboev/myflow) - Place to share & store what you use
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [reasonml/reason-react](https://github.com/reasonml/reason-react) - Reason bindings for ReactJS
 - [stereobooster/react-snap](https://github.com/stereobooster/react-snap) - 👻 Zero-configuration framework-agnostic static prerendering for SPAs
@@ -6313,7 +6385,7 @@
 - [resque/resque](https://github.com/resque/resque) - Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 - [tfausak/lackey](https://github.com/tfausak/lackey) - :gem: A Haskell library for generating Ruby consumers of Servant APIs.
-- [oracle/truffleruby](https://github.com/oracle/truffleruby) - A high performance implementation of the Ruby programming language, built on GraalVM.
+- [truffleruby/truffleruby](https://github.com/truffleruby/truffleruby) - A high performance implementation of the Ruby programming language, built on GraalVM.
 - [rubygems/rubygems.org](https://github.com/rubygems/rubygems.org) - The Ruby community's gem hosting service.
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
@@ -6329,6 +6401,10 @@
 
 ## rust 
 
+- [apache/iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
+- [uutils/platform-info](https://github.com/uutils/platform-info) - A cross-platform way to get information about your machine
+- [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [pawurb/hotpath](https://github.com/pawurb/hotpath) - A simple Rust profiler that shows exactly where your code spends time and allocates
 - [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk) - Deterministic workflow engine
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
@@ -6502,6 +6578,8 @@
 
 ## scala 
 
+- [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
+- [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [scalawithcats/scala-with-cats](https://github.com/scalawithcats/scala-with-cats) - Source code for Scala with Cats
 - [monix/monix](https://github.com/monix/monix) - Asynchronous, Reactive Programming for Scala and Scala.js.
 - [plokhotnyuk/jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of safe and ultra-fast JSON codecs + circe booster
@@ -6643,6 +6721,7 @@
 
 ## shell 
 
+- [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [mchav/with](https://github.com/mchav/with) - Command prefixing for continuous workflow using a single tool.
 - [steshaw/shelly](https://github.com/steshaw/shelly) - 🐚 Dotfiles and shell utilities
 - [adoyle-h/lobash](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility/library for Bash script development.
@@ -6683,11 +6762,17 @@
 
 ## spring-boot 
 
+- [mirkosertic/flight-recorder-starter](https://github.com/mirkosertic/flight-recorder-starter) - This is a Spring Boot 2/3 Starter exposing the JDK Flight Recorder as a Spring Boot Actuator Endpoint.
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) - Event Driven WebSockets Framework  with Cross-Browser Fallbacks
 
 ## sql 
 
+- [apache/hive](https://github.com/apache/hive) - Apache Hive
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
+- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
+- [apache/flink](https://github.com/apache/flink) - Apache Flink
+- [apache/beam](https://github.com/apache/beam) - Apache Beam is a unified programming model for Batch and Streaming data processing.
 - [xorq-labs/xorq](https://github.com/xorq-labs/xorq) - multi-engine batch transformation framework
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
@@ -6796,6 +6881,7 @@
 
 ## terminal 
 
+- [sonph/onehalf](https://github.com/sonph/onehalf) - Clean, vibrant and pleasing color schemes for Vim, Sublime Text, iTerm, gnome-terminal and more.
 - [akermu/emacs-libvterm](https://github.com/akermu/emacs-libvterm) - Emacs libvterm integration
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
@@ -6850,6 +6936,7 @@
 
 - [mojoaxel/awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing) - 🕶️ A curated list of resources around the topic: visual regression testing
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
+- [dnaeon/go-vcr](https://github.com/dnaeon/go-vcr) - Record and replay your HTTP interactions for fast, deterministic and accurate tests
 - [c-cube/qcheck](https://github.com/c-cube/qcheck) - QuickCheck inspired property-based testing for OCaml.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [google/syzkaller](https://github.com/google/syzkaller) - syzkaller is an unsupervised coverage-guided kernel fuzzer
@@ -6884,6 +6971,7 @@
 
 ## typescript 
 
+- [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [re-rxjs/react-rxjs](https://github.com/re-rxjs/react-rxjs) - React bindings for RxJS
 - [leaningtech/cheerp-meta](https://github.com/leaningtech/cheerp-meta) - Cheerp - a C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
@@ -6915,8 +7003,6 @@
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted), share parts of it to global network of topics with deep AI integration
-- [nikitavoloboev/ts](https://github.com/nikitavoloboev/ts) - TS tools, libraries and other code
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
@@ -6979,6 +7065,7 @@
 
 ## vim 
 
+- [sonph/onehalf](https://github.com/sonph/onehalf) - Clean, vibrant and pleasing color schemes for Vim, Sublime Text, iTerm, gnome-terminal and more.
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [steshaw/shelly](https://github.com/steshaw/shelly) - 🐚 Dotfiles and shell utilities
@@ -7027,6 +7114,16 @@
 - [mswift42/themecreator](https://github.com/mswift42/themecreator) - https://mswift42.github.io/themecreator/ create themes for intellij, textmate, textadept, atom, emacs, vim and gnome terminal.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
+## visualization 
+
+- [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
+- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
+- [feenkcom/gtoolkit](https://github.com/feenkcom/gtoolkit) - Glamorous Toolkit is the Moldable Development Environment. It empowers you to make systems explainable through contextual micro tools.
+- [spencertipping/ni](https://github.com/spencertipping/ni) - Say "ni" to data of any size
+- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
+- [dc-js/dc.js](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
+
 ## vpn 
 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
@@ -7062,6 +7159,8 @@
 
 ## web 
 
+- [apache/dubbo](https://github.com/apache/dubbo) - The java implementation of Apache Dubbo. An RPC and microservice framework.
+- [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [graphql-rust/juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust
@@ -7129,6 +7228,7 @@
 
 ## windows 
 
+- [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
@@ -7162,6 +7262,7 @@
 
 ## xcode 
 
+- [sonph/onehalf](https://github.com/sonph/onehalf) - Clean, vibrant and pleasing color schemes for Vim, Sublime Text, iTerm, gnome-terminal and more.
 - [microsoft/BuildXL](https://github.com/microsoft/BuildXL) - Microsoft Build Accelerator
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [MikeMcQuaid/strap](https://github.com/MikeMcQuaid/strap) - 👢 Bootstrap your macOS development system.
