@@ -291,7 +291,7 @@
 - [antirez/rax](https://github.com/antirez/rax) - A radix tree implementation in ANSI C
 - [grimfang4/SDL_FontCache](https://github.com/grimfang4/SDL_FontCache) - A generic font caching C library with loading and rendering support for SDL.
 - [antirez/otree](https://github.com/antirez/otree) - a simple btree implementation with automatic space reclaiming
-- [OpenSmalltalk/opensmalltalk-vm](https://github.com/OpenSmalltalk/opensmalltalk-vm) - Cross-platform virtual machine for Squeak, Cuis, Newspeak, and Pharo
+- [OpenSmalltalk/opensmalltalk-vm](https://github.com/OpenSmalltalk/opensmalltalk-vm) - Cross-platform virtual machine for the Smalltalk implementations Squeak and Cuis
 - [dibyendumajumdar/ravi](https://github.com/dibyendumajumdar/ravi) - Ravi is a dialect of Lua, featuring limited optional static typing, JIT and AOT compilers
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
 - [libressl-zz/libressl](https://github.com/libressl-zz/libressl) - An unofficial mirror of the OpenBSD team's LibreSSL project (a fork of OpenSSL)
@@ -462,6 +462,8 @@
 
 ## C++ 
 
+- [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
+- [ONLYOFFICE/core](https://github.com/ONLYOFFICE/core) - Server core components which are a part of ONLYOFFICE Document Server
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [async-profiler/async-profiler](https://github.com/async-profiler/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
 - [ultravnc/UltraVNC](https://github.com/ultravnc/UltraVNC) - 👁️ UltraVNC Server, UltraVNC Viewer, UltraVNC Repeater and UltraVNC SC | Official repository: https://github.com/ultravnc/UltraVNC
@@ -1192,7 +1194,6 @@
 - [SMLFamily/SMLFamily.github.io](https://github.com/SMLFamily/SMLFamily.github.io) - Web site for standardml.org.
 - [joseph/Monocle](https://github.com/joseph/Monocle) - A silky, tactile browser-based ebook JavaScript library.
 - [readium/readium-js-viewer](https://github.com/readium/readium-js-viewer) - 👁 ReadiumJS viewer: default web app for Readium.js library
-- [apache/mahout](https://github.com/apache/mahout) - Mirror of Apache Mahout
 - [blitz-research/blitz3d](https://github.com/blitz-research/blitz3d) - 
 - [NICTA/t3as-pat-clas](https://github.com/NICTA/t3as-pat-clas) - Web services and associated functionality for doing Patent Classification Search and Lookups of the CPC, IPC, and USPC patent classification systems.
 - [mixu/distsysbook](https://github.com/mixu/distsysbook) - The book Distributed systems: for fun and profit
@@ -2247,6 +2248,8 @@
 
 ## Java 
 
+- [apache/druid](https://github.com/apache/druid) - Apache Druid: a high performance real-time analytics database.
+- [apache/karaf](https://github.com/apache/karaf) - Apache Karaf, the enterprise modulith runtime
 - [mirkosertic/MetaIR](https://github.com/mirkosertic/MetaIR) - A showcase for the MetaIR and JVM bytecode reverse engineering
 - [mirkosertic/flight-recorder-starter](https://github.com/mirkosertic/flight-recorder-starter) - This is a Spring Boot 2/3 Starter exposing the JDK Flight Recorder as a Spring Boot Actuator Endpoint.
 - [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg
@@ -2273,7 +2276,7 @@
 - [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors
 - [highj/highj](https://github.com/highj/highj) - Higher kinded types for Java
 - [derive4j/derive4j](https://github.com/derive4j/derive4j) - Java 8 annotation processor and framework for deriving algebraic data types constructors, pattern-matching, folds, optics and typeclasses.
-- [immutables/immutables](https://github.com/immutables/immutables) - Annotation processor to create immutable objects and builders. Feels like Guava's immutable collections but for regular value objects.
+- [immutables/immutables](https://github.com/immutables/immutables) - Annotation processor to create immutable objects and builders. Sweeps boilerplate code under the rug since 2013!
 - [mapstruct/mapstruct](https://github.com/mapstruct/mapstruct) - An annotation processor for generating type-safe bean mappers
 - [eventuate-tram/eventuate-tram-core](https://github.com/eventuate-tram/eventuate-tram-core) - Transactional messaging for microservices
 - [i-net-software/JWebAssembly](https://github.com/i-net-software/JWebAssembly) - Java bytecode to WebAssembly compiler
@@ -3503,7 +3506,7 @@
 - [solus-project/ypkg](https://github.com/solus-project/ypkg) - Modern, declarative, structured build format
 - [apenwarr/redo](https://github.com/apenwarr/redo) - Smaller, easier, more powerful, and more reliable than make.  An implementation of djb's redo.
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [egalpin/apt-vim](https://github.com/egalpin/apt-vim) - Fully-automated, Cross-platform Plugin Manager for Vim
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
 - [egh/ledger-autosync](https://github.com/egh/ledger-autosync) - Synchronize your ledger-cli files with your bank.
@@ -3543,6 +3546,7 @@
 - [okfn/website](https://github.com/okfn/website) - The code behind okfn.org
 - [hypothesis/h](https://github.com/hypothesis/h) - Annotate with anyone, anywhere.
 - [okfn/vdm](https://github.com/okfn/vdm) - Versioned domain model. Python library for revisioning/versioning of databases.
+- [apache/mahout](https://github.com/apache/mahout) - Mirror of Apache Mahout
 - [elastic/curator](https://github.com/elastic/curator) - Curator: Tending your Elasticsearch indices
 - [fogleman/Quads](https://github.com/fogleman/Quads) - Computer art based on quadtrees.
 - [raymontag/keepassc](https://github.com/raymontag/keepassc) - KeePassC is a curses-based password manager compatible to KeePass v.1.x and KeePassX
