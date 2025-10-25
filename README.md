@@ -464,6 +464,7 @@
 
 ## C++ 
 
+- [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
 - [ONLYOFFICE/core](https://github.com/ONLYOFFICE/core) - Server core components which are a part of ONLYOFFICE Document Server
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
@@ -596,6 +597,7 @@
 - [csstools/sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [FrankConijn/Firefox-Quantum-Rounded-Tabs](https://github.com/FrankConijn/Firefox-Quantum-Rounded-Tabs) - Re-shapes the default square tabs of Firefox Quantum and beautifies a couple more things.
+- [validator/validator](https://github.com/validator/validator) - The Nu Html Checker (vnu)
 - [jagregory/abrash-black-book](https://github.com/jagregory/abrash-black-book) - Markdown source for Michael Abrash's Graphics Programming Black Book
 - [BinRoot/Haskell-Lectures](https://github.com/BinRoot/Haskell-Lectures) - Introduction to Haskell, CS 1501 Lecture slides
 - [widget-/slack-black-theme](https://github.com/widget-/slack-black-theme) - A darker, more contrasty, Slack theme.
@@ -2328,7 +2330,6 @@
 - [JetBrains/Arend](https://github.com/JetBrains/Arend) - The Arend Proof Assistant
 - [JetBrains/arend-lib](https://github.com/JetBrains/arend-lib) - 
 - [enso-org/enso](https://github.com/enso-org/enso) - Enso Analytics is a self-service data prep and analysis platform designed for data teams.
-- [validator/validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA & IntelliJ Platform
 - [Mojang/DataFixerUpper](https://github.com/Mojang/DataFixerUpper) - A set of utilities designed for incremental building, merging and optimization of data transformations.
 - [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with 
@@ -3442,7 +3443,6 @@
 ## Python 
 
 - [Wirasm/PRPs-agentic-eng](https://github.com/Wirasm/PRPs-agentic-eng) - Prompts, workflows and more for agentic engineering
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [apache/buildstream](https://github.com/apache/buildstream) - BuildStream, the software integration tool
@@ -3707,6 +3707,7 @@
 
 ## Rust 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [symposium-dev/symposium](https://github.com/symposium-dev/symposium) - Collaborative AI built collaboratively
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
@@ -4171,7 +4172,7 @@
 - [jorgeortiz85/scala-javautils](https://github.com/jorgeortiz85/scala-javautils) - An set of utilities for dealing with Java and Scala collections.
 - [jboner/skalman](https://github.com/jboner/skalman) - The Skalman Container: A minimalistic JEE container for Scala
 - [slick/slick](https://github.com/slick/slick) - Slick (Scala Language Integrated Connection Kit) is a modern database query and access library for Scala
-- [akka/akka](https://github.com/akka/akka) - A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
+- [akka/akka-core](https://github.com/akka/akka-core) - A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
 - [bmc/grizzled-scala](https://github.com/bmc/grizzled-scala) - A general-purpose library of miscellaneous stuff for Scala.
 
 ## Scheme 
@@ -4195,6 +4196,7 @@
 
 ## Shell 
 
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [mchav/with](https://github.com/mchav/with) - Command prefixing for continuous workflow using a single tool.
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 - [twpayne/dotfiles](https://github.com/twpayne/dotfiles) - My dotfiles, managed with https://chezmoi.io.
@@ -4458,6 +4460,7 @@
 
 ## TypeScript 
 
+- [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [microsoft/vscode-mssql](https://github.com/microsoft/vscode-mssql) - Visual Studio Code SQL Server extension.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -4534,7 +4537,7 @@
 - [neoclide/coc-rls](https://github.com/neoclide/coc-rls) - Rust language server support for coc.nvim
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted), share parts of it to global network of topics with deep AI integration
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted). Share parts of it to global network of topics with deep AI integration.
 - [nikivdev/myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use
 - [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries and other code
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
