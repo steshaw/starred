@@ -273,7 +273,7 @@
 
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [embabel/embabel-agent](https://github.com/embabel/embabel-agent) - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Gabriella439/grace](https://github.com/Gabriella439/grace) - A prompt engineering functional programming language
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
@@ -285,7 +285,7 @@
 ## ai-agents 
 
 - [embabel/embabel-agent](https://github.com/embabel/embabel-agent) - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 
 ## ajax 
 
@@ -694,7 +694,7 @@
 
 ## chatgpt 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 
 ## chrome 
 
@@ -782,6 +782,7 @@
 
 ## cloud 
 
+- [apache/ignite](https://github.com/apache/ignite) - Apache Ignite
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
@@ -832,7 +833,7 @@
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [grain-lang/grain](https://github.com/grain-lang/grain) - The Grain compiler toolchain and CLI. Home of the modern web staple. 🌾
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
-- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [dlang/dmd](https://github.com/dlang/dmd) - dmd D Programming Language compiler
 - [google/j2cl](https://github.com/google/j2cl) - Java to Closure JavaScript transpiler
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
@@ -1094,6 +1095,7 @@
 
 ## database 
 
+- [apache/ignite](https://github.com/apache/ignite) - Apache Ignite
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [apache/hive](https://github.com/apache/hive) - Apache Hive
@@ -1522,7 +1524,7 @@
 
 - [apache/dubbo](https://github.com/apache/dubbo) - The java implementation of Apache Dubbo. An RPC and microservice framework.
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [chshersh/iris](https://github.com/chshersh/iris) - 🌈 Haskell CLI Framework supporting Command Line Interface Guidelines
 - [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp) - 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
 - [camlworks/dream](https://github.com/camlworks/dream) - Tidy, feature-complete Web framework
@@ -2451,6 +2453,7 @@
 
 ## iot 
 
+- [apache/ignite](https://github.com/apache/ignite) - Apache Ignite
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of infrastructure and applications at scale.
@@ -2994,7 +2997,7 @@
 
 ## llm 
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [Gabriella439/grace](https://github.com/Gabriella439/grace) - A prompt engineering functional programming language
 
 ## low-code 
@@ -3339,7 +3342,7 @@
 
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [Chevrotain/chevrotain](https://github.com/Chevrotain/chevrotain) - Parser Building Toolkit for JavaScript
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [budgetzero/budgetzero](https://github.com/budgetzero/budgetzero) - Open-source, self-hosted, zero-based budgeting.
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
@@ -3354,7 +3357,7 @@
 ## openai 
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 
 ## opengl 
@@ -3381,6 +3384,10 @@
 
 ## others 
 
+- [substrait-io/substrait](https://github.com/substrait-io/substrait) - A cross platform way to express data transformation, relational algebra, standardized record expression and plans.
+- [hindsight-es/hindsight](https://github.com/hindsight-es/hindsight) - Type-safe event sourcing system for Haskell
+- [acondolu/vague](https://github.com/acondolu/vague) - Hobby functional programming language
+- [antlr4rust/antlr4](https://github.com/antlr4rust/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
@@ -3670,7 +3677,7 @@
 - [janestreet/patdiff](https://github.com/janestreet/patdiff) - File Diff using the Patience Diff algorithm. https://opensource.janestreet.com/patdiff/
 - [ocurrent/ocurrent](https://github.com/ocurrent/ocurrent) - Keeps things up-to-date (a CI/CD pipeline OCaml eDSL)
 - [bgamari/io-uring](https://github.com/bgamari/io-uring) - A simple set of io-uring bindings in Haskell
-- [edolstra/flake-compat](https://github.com/edolstra/flake-compat) - 
+- [NixOS/flake-compat](https://github.com/NixOS/flake-compat) - 
 - [JonathanLorimer/core-warn](https://github.com/JonathanLorimer/core-warn) - Provide warnings for unexpected Core generation
 - [melange-re/melange](https://github.com/melange-re/melange) - A mixture of tooling combined to produce JavaScript from OCaml & Reason
 - [serokell/nix-templates](https://github.com/serokell/nix-templates) - Nix Flake templates for various languages
@@ -6196,6 +6203,7 @@
 
 ## python 
 
+- [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache DataFusion Ballista Distributed Query Engine
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
 - [apache/fory](https://github.com/apache/fory) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
@@ -6211,7 +6219,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
@@ -6454,6 +6462,7 @@
 
 ## rust 
 
+- [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache DataFusion Ballista Distributed Query Engine
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [apache/fory](https://github.com/apache/fory) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 - [apache/iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg
@@ -6825,6 +6834,8 @@
 
 ## sql 
 
+- [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache DataFusion Ballista Distributed Query Engine
+- [apache/ignite](https://github.com/apache/ignite) - Apache Ignite
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [apache/hive](https://github.com/apache/hive) - Apache Hive
