@@ -3216,6 +3216,7 @@
 - [haskell-perf/checklist](https://github.com/haskell-perf/checklist) - The Haskell performance checklist
 - [yallop/haskell2014-papers](https://github.com/yallop/haskell2014-papers) - Accepted papers for Haskell 2014
 - [datasciencemasters/go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
+- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [Homebrew/homebrew-services](https://github.com/Homebrew/homebrew-services) - 💀 Homebrew Services (deprecated)
 - [libuv/leps](https://github.com/libuv/leps) - Libuv Enhancement Proposals
@@ -3447,6 +3448,7 @@
 
 ## Python 
 
+- [substrait-io/substrait](https://github.com/substrait-io/substrait) - A cross platform way to express data transformation, relational algebra, standardized record expression and plans.
 - [Wirasm/PRPs-agentic-eng](https://github.com/Wirasm/PRPs-agentic-eng) - Prompts, workflows and more for agentic engineering
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
@@ -4586,7 +4588,6 @@
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
-- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [jscoq/jscoq](https://github.com/jscoq/jscoq) - A port of Coq to Javascript -- Run Coq in your Browser
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
