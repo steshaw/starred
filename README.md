@@ -2252,6 +2252,7 @@
 
 ## Java 
 
+- [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for
 - [apache/ignite](https://github.com/apache/ignite) - Apache Ignite
 - [antlr4rust/antlr4](https://github.com/antlr4rust/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
@@ -3720,6 +3721,7 @@
 
 ## Rust 
 
+- [substrait-io/substrait-rs](https://github.com/substrait-io/substrait-rs) - Rust crate for Substrait: Cross-Language Serialization for Relational Algebra
 - [txpipe/dolos](https://github.com/txpipe/dolos) - Cardano Data Node
 - [txpipe/pallas](https://github.com/txpipe/pallas) - Rust-native building blocks for the Cardano blockchain ecosystem
 - [tansu-io/tansu](https://github.com/tansu-io/tansu) - Apache Kafka® compatible broker with S3, PostgreSQL, SQLite, Apache Iceberg and Delta Lake
