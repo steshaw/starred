@@ -2293,7 +2293,7 @@
 - [reportmill/SnapKit](https://github.com/reportmill/SnapKit) - A Java UI toolkit
 - [reportmill/SnapTea](https://github.com/reportmill/SnapTea) - A SnapKit adapter for TeaVM
 - [softwaremill/jox](https://github.com/softwaremill/jox) - Virtual-thread based safe concurrency & streaming
-- [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-21 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
+- [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-22 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
 - [jhipster/prettier-java](https://github.com/jhipster/prettier-java) - Prettier Java Plugin
 - [eclipse-xtext/xtext](https://github.com/eclipse-xtext/xtext) - Eclipse Xtext™ is a language development framework
 - [perwendel/spark](https://github.com/perwendel/spark) - A simple expressive web framework for java. Spark has a kotlin DSL https://github.com/perwendel/spark-kotlin
@@ -3742,7 +3742,7 @@
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [pawurb/hotpath](https://github.com/pawurb/hotpath) - A simple Rust profiler that shows exactly where your code spends time and allocates
 - [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk) - Deterministic workflow engine
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
 - [oxide-byte/rust-berlin-leptos](https://github.com/oxide-byte/rust-berlin-leptos) - Rust Hack and Learn in Berlin Challenge to implement a Site in as many Frameworks as possible. This implementation is : Leptos - Axum - SurrealDB - GraphQL
 - [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
@@ -4401,7 +4401,6 @@
 
 ## TeX 
 
-- [scalawithcats/scala-with-cats](https://github.com/scalawithcats/scala-with-cats) - Source code for Scala with Cats
 - [underscoreio/shapeless-guide](https://github.com/underscoreio/shapeless-guide) - The Type Astronaut's Guide to Shapeless
 - [AndrasKovacs/cctt](https://github.com/AndrasKovacs/cctt) - high-performance cubical evaluation
 - [benediktahrens/CT4P](https://github.com/benediktahrens/CT4P) - 
@@ -4483,6 +4482,7 @@
 
 ## TypeScript 
 
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [microsoft/vscode-mssql](https://github.com/microsoft/vscode-mssql) - Visual Studio Code SQL Server extension.
@@ -4624,6 +4624,7 @@
 ## Typst 
 
 - [cottand/resume](https://github.com/cottand/resume) - My resume, in latex
+- [scalawithcats/scala-with-cats](https://github.com/scalawithcats/scala-with-cats) - Source code for Scala with Cats
 
 ## UrWeb 
 
