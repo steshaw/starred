@@ -4533,7 +4533,7 @@
 - [egh/ledger-autosync](https://github.com/egh/ledger-autosync) - Synchronize your ledger-cli files with your bank.
 - [yallop/fomega](https://github.com/yallop/fomega) - System Fω interpreter for use in Advanced Functional Programming course
 - [edwinb/Ivor](https://github.com/edwinb/Ivor) - A type theory based theorem proving library
-- [agda/agda-spec](https://github.com/agda/agda-spec) - Specification of Agda.
+- [agda-attic/agda-spec](https://github.com/agda-attic/agda-spec) - Specification of Agda.
 - [epsrc-abcd/session-types-use-cases](https://github.com/epsrc-abcd/session-types-use-cases) - This is a common repository for the ABCD team to share use-cases of session types.
 - [VictorTaelin/Caramel](https://github.com/VictorTaelin/Caramel) - A modern syntax for the λ-calculus.
 - [VictorTaelin/Cedille-Core](https://github.com/VictorTaelin/Cedille-Core) - A minimal proof language.
