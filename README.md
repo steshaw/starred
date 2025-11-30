@@ -4434,7 +4434,7 @@
 - [tweag/linear-types](https://github.com/tweag/linear-types) - Drafts, notes and resources for adding linear typing to GHC.
 - [learnyou/lysa](https://github.com/learnyou/lysa) - A fun, easy-to-read, open-source math textbook
 - [snowleopard/build](https://github.com/snowleopard/build) - Build Systems à la Carte
-- [agda/agda-spec](https://github.com/agda/agda-spec) - Specification of Agda.
+- [agda-attic/agda-spec](https://github.com/agda-attic/agda-spec) - Specification of Agda.
 - [epsrc-abcd/session-types-use-cases](https://github.com/epsrc-abcd/session-types-use-cases) - This is a common repository for the ABCD team to share use-cases of session types.
 - [OpenLogicProject/OpenLogic](https://github.com/OpenLogicProject/OpenLogic) - An open-source, customizable intermediate logic textbook
 - [pennal/LinAlgNotes](https://github.com/pennal/LinAlgNotes) - Repo containing all notes from Prof. Pivkin's class
