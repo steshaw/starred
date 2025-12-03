@@ -1452,7 +1452,6 @@
 - [fused-effects/fused-effects](https://github.com/fused-effects/fused-effects) - A fast, flexible, fused effect system for Haskell
 - [acw/time-units](https://github.com/acw/time-units) - A basic library for type-described units of time in Haskell
 - [seanparsons/glue](https://github.com/seanparsons/glue) - Building Better Services And Clients
-- [iijlab/postgresql-pure](https://github.com/iijlab/postgresql-pure) - a PostgreSQL client library implemented with pure Haskell
 - [postgres-haskell/postgres-wire](https://github.com/postgres-haskell/postgres-wire) - A native Haskell driver for PostgreSQL
 - [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official formatter for Nix code
 - [adamgundry/type-inference](https://github.com/adamgundry/type-inference) - Unification and type inference algorithms
@@ -3739,7 +3738,7 @@
 - [uutils/parse_datetime](https://github.com/uutils/parse_datetime) - Parses a relative time string and returns a jiff::Zoned object
 - [uutils/ansi-width](https://github.com/uutils/ansi-width) - Calculate the width of a string when printed to the terminal
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
-- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Rust performance debug toolkit. Live profiling for allocations, timings, threads, and channel/stream data flows.
+- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Rust performance debug toolkit. Live profiling for allocations, timings, threads, and channel/stream/futures data flow.
 - [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk) - Durable & Deterministic Workflow Engine
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
 - [oxide-byte/rust-berlin-leptos](https://github.com/oxide-byte/rust-berlin-leptos) - Rust Hack and Learn in Berlin Challenge to implement a Site in as many Frameworks as possible. This implementation is : Leptos - Axum - SurrealDB - GraphQL (Bonus + Ratatui)
