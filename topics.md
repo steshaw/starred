@@ -1434,6 +1434,7 @@
 
 ## emacs 
 
+- [meow-edit/meow](https://github.com/meow-edit/meow) - Yet another modal editing on Emacs / 猫态编辑
 - [akermu/emacs-libvterm](https://github.com/akermu/emacs-libvterm) - Emacs libvterm integration
 - [steshaw/shelly](https://github.com/steshaw/shelly) - 🐚 Dotfiles and shell utilities
 - [alhassy/next-700-module-systems](https://github.com/alhassy/next-700-module-systems) - PhD research ;; What's the difference between a typeclass/trait and a record/class/struct? Nothing really, or so I argue.
