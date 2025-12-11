@@ -104,6 +104,7 @@
 - [gamedev](#gamedev)
 - [games](#games)
 - [gaming](#gaming)
+- [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -1679,6 +1680,11 @@
 
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 
+## generative-ai 
+
+- [embabel/embabel-agent](https://github.com/embabel/embabel-agent) - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+
 ## git 
 
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
@@ -2541,7 +2547,7 @@
 - [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core) - Micronaut Application Framework
 - [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors
 - [derive4j/derive4j](https://github.com/derive4j/derive4j) - Java 8 annotation processor and framework for deriving algebraic data types constructors, pattern-matching, folds, optics and typeclasses.
-- [immutables/immutables](https://github.com/immutables/immutables) - Java annotation processor to create immutable objects and builders, for records too. Sweeps boilerplate code under the rug since 2013!
+- [immutables/immutables](https://github.com/immutables/immutables) - Java annotation processor to create immutable objects and builders, for records too. Sweep boilerplate code under the rug!
 - [mapstruct/mapstruct](https://github.com/mapstruct/mapstruct) - An annotation processor for generating type-safe bean mappers
 - [i-net-software/JWebAssembly](https://github.com/i-net-software/JWebAssembly) - Java bytecode to WebAssembly compiler
 - [softwaremill/jox](https://github.com/softwaremill/jox) - Virtual-thread based safe concurrency & streaming
@@ -3950,8 +3956,8 @@
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [shmish111/smoke-hill](https://github.com/shmish111/smoke-hill) - A package set of Idris libraries
 - [Mic92/nix-build-uncached](https://github.com/Mic92/nix-build-uncached) - A CI friendly wrapper around nix-build.
-- [koekeishiya/skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
-- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+- [asmvik/skhd](https://github.com/asmvik/skhd) - Simple hotkey daemon for macOS
+- [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [regolith-linux/regolith-desktop](https://github.com/regolith-linux/regolith-desktop) - Meta package for the Regolith Desktop Environment
 - [mightybyte/zeus](https://github.com/mightybyte/zeus) - 
 - [purcell/envrc](https://github.com/purcell/envrc) - Emacs support for direnv which operates buffer-locally
@@ -6543,7 +6549,7 @@
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
 - [uutils/platform-info](https://github.com/uutils/platform-info) - A cross-platform way to get information about your machine
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
-- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Rust performance debug toolkit. Live profiling for allocations, timings, threads, and channel/stream/futures data flow.
+- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Simple Rust profiler with memory and async data-flow insights - quickly find and debug performance bottlenecks.
 - [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk) - Durable & Deterministic Workflow Engine
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
 - [oxide-byte/rust-berlin-leptos](https://github.com/oxide-byte/rust-berlin-leptos) - Rust Hack and Learn in Berlin Challenge to implement a Site in as many Frameworks as possible. This implementation is : Leptos - Axum - SurrealDB - GraphQL (Bonus + Ratatui)
@@ -6563,7 +6569,7 @@
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [y-crdt/y-crdt](https://github.com/y-crdt/y-crdt) - Rust port of Yjs
-- [infinyon/fluvio](https://github.com/infinyon/fluvio) - 🦀 event stream processing for developers to collect and transform data in motion to power responsive data intensive applications.
+- [fluvio-community/fluvio](https://github.com/fluvio-community/fluvio) - 🦀 event stream processing for developers to collect and transform data in motion to power responsive data intensive applications.
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -6842,7 +6848,7 @@
 
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core) - Micronaut Application Framework
-- [infinyon/fluvio](https://github.com/infinyon/fluvio) - 🦀 event stream processing for developers to collect and transform data in motion to power responsive data intensive applications.
+- [fluvio-community/fluvio](https://github.com/fluvio-community/fluvio) - 🦀 event stream processing for developers to collect and transform data in motion to power responsive data intensive applications.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
 - [oam-dev/spec](https://github.com/oam-dev/spec) - Open Application Model (OAM).
