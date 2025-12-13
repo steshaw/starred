@@ -5033,7 +5033,6 @@
 - [llvm-hs/llvm-hs](https://github.com/llvm-hs/llvm-hs) - Haskell bindings for LLVM
 - [lexi-lambda/higher-rank](https://github.com/lexi-lambda/higher-rank) - A small Haskell implementation of Complete and Easy Bidirectional Typechecking for Higher-Rank Polymorphism
 - [acowley/Frames](https://github.com/acowley/Frames) - Data frames for tabular data.
-- [IntelLabs/flrc](https://github.com/IntelLabs/flrc) - Haskell Research Compiler
 - [yesodweb/yesodweb.com-content](https://github.com/yesodweb/yesodweb.com-content) - Content for the www.yesodweb.com site
 - [yesodweb/shakespeare](https://github.com/yesodweb/shakespeare) - Haml-like template files that are compile-time checked
 - [yesodweb/wai](https://github.com/yesodweb/wai) - Haskell Web Application Interface
