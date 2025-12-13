@@ -4346,7 +4346,6 @@
 - [SMLFamily/BasisLibrary](https://github.com/SMLFamily/BasisLibrary) - Repository and Wiki for enriching the Standard ML Basis Library
 - [rossberg/mixml](https://github.com/rossberg/mixml) - MixML prototype interpreter
 - [rossberg/hamlet](https://github.com/rossberg/hamlet) - SML reference interpreter
-- [IntelLabs/flrc](https://github.com/IntelLabs/flrc) - Haskell Research Compiler
 - [melsman/mlkit](https://github.com/melsman/mlkit) - Standard ML Compiler and Toolkit
 - [urweb/urweb](https://github.com/urweb/urweb) - The Ur/Web programming language
 - [jonsterling/JonPRL](https://github.com/jonsterling/JonPRL) - An proof refinement logic for computational type theory. Inspired by Nuprl. [For up-to-date development, see JonPRL's successor, RedPRL: https://github.com/redprl/sml-redprl]
