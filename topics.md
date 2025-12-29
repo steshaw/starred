@@ -6047,7 +6047,7 @@
 - [davetron5000/gli](https://github.com/davetron5000/gli) - Make awesome command-line applications the easy way
 - [steshaw/playground](https://github.com/steshaw/playground) - 👨🏻‍🎓 Playground for learning programming languages
 - [munificent/magpie](https://github.com/munificent/magpie) - The Magpie programming language
-- [xomboverlord/xomb](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D
+- [xomboverlord/xomb-legacy](https://github.com/xomboverlord/xomb-legacy) - An exokernel operating system written in D
 - [stevedekorte/garbagecollector](https://github.com/stevedekorte/garbagecollector) - Incremental garbage collector library in C for use by high level language implementions.
 - [stevedekorte/basekit](https://github.com/stevedekorte/basekit) - C based OO portable data structure library
 - [mojombo/mojombo.github.io](https://github.com/mojombo/mojombo.github.io) - Jekyll source for my personal blog.
