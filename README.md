@@ -702,7 +702,7 @@
 - [dlang/dmd](https://github.com/dlang/dmd) - dmd D Programming Language compiler
 - [ldc-developers/ldc](https://github.com/ldc-developers/ldc) - The LLVM-based D Compiler.
 - [gnunn1/tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
-- [xomboverlord/xomb](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D
+- [xomboverlord/xomb-legacy](https://github.com/xomboverlord/xomb-legacy) - An exokernel operating system written in D
 - [azizk/dil](https://github.com/azizk/dil) - DIL is a hand-written compiler for the D programming language.
 
 ## Dafny 
