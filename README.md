@@ -3454,6 +3454,7 @@
 
 ## Python 
 
+- [byztxt/byzantine-majority-text](https://github.com/byztxt/byzantine-majority-text) - Byzantine Majority Greek New Testament text edited by Robinson and Pierpont, with morphological parsing tags and Strong's numbers
 - [substrait-io/substrait](https://github.com/substrait-io/substrait) - A cross platform way to express data transformation, relational algebra, standardized record expression and plans.
 - [Wirasm/PRPs-agentic-eng](https://github.com/Wirasm/PRPs-agentic-eng) - Prompts, workflows and more for agentic engineering
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
@@ -3730,7 +3731,7 @@
 - [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache DataFusion Ballista Distributed Query Engine
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
-- [symposium-dev/symposium](https://github.com/symposium-dev/symposium) - Collaborative AI built collaboratively
+- [symposium-dev/symposium](https://github.com/symposium-dev/symposium) - AI the Rust Way
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [apache/iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
