@@ -3470,6 +3470,7 @@
 
 ## others 
 
+- [byztxt/byzantine-majority-text](https://github.com/byztxt/byzantine-majority-text) - Byzantine Majority Greek New Testament text edited by Robinson and Pierpont, with morphological parsing tags and Strong's numbers
 - [substrait-io/substrait-rs](https://github.com/substrait-io/substrait-rs) - Rust crate for Substrait: Cross-Language Serialization for Relational Algebra
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [txpipe/dolos](https://github.com/txpipe/dolos) - Cardano Data Node
@@ -3486,7 +3487,7 @@
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [Wirasm/PRPs-agentic-eng](https://github.com/Wirasm/PRPs-agentic-eng) - Prompts, workflows and more for agentic engineering
 - [apple/pkl-k8s-examples](https://github.com/apple/pkl-k8s-examples) - Examples for using Pkl with Kubernetes
-- [symposium-dev/symposium](https://github.com/symposium-dev/symposium) - Collaborative AI built collaboratively
+- [symposium-dev/symposium](https://github.com/symposium-dev/symposium) - AI the Rust Way
 - [nushell/awesome-nu](https://github.com/nushell/awesome-nu) - A curated list of awesome tools that work within the nu language ecosystem e.g. nushell, scripts, nana, etc.
 - [nushell/this_week_in_nu](https://github.com/nushell/this_week_in_nu) - A weekly update on Nushell
 - [nushell/nu_scripts](https://github.com/nushell/nu_scripts) - A place to share Nushell scripts with each other
