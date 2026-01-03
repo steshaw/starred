@@ -247,6 +247,7 @@
 - [ui](#ui)
 - [ui-design](#ui-design)
 - [unreal-engine](#unreal-engine)
+- [userscript](#userscript)
 - [vagrant](#vagrant)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
@@ -3609,8 +3610,8 @@
 - [rosefromthedead/effing-mad](https://github.com/rosefromthedead/effing-mad) - Algebraic effects for Rust
 - [axboe/liburing](https://github.com/axboe/liburing) - Library providing helpers for the Linux kernel io_uring support
 - [NethermindEth/EVMYulLean](https://github.com/NethermindEth/EVMYulLean) - Executable formal model of the EVM and Yul in Lean 4.
-- [sst/ion](https://github.com/sst/ion) - Moved to https://github.com/sst/sst
-- [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
+- [anomalyco/ion](https://github.com/anomalyco/ion) - Moved to https://github.com/sst/sst
+- [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 - [UnkindPartition/lexer-applicative](https://github.com/UnkindPartition/lexer-applicative) - Applicative lexer
 - [mpu/gthreads](https://github.com/mpu/gthreads) - Toy Green Threads for C.
 - [AugustNagro/magnum](https://github.com/AugustNagro/magnum) - A 'new look' for database access in Scala
@@ -7247,6 +7248,10 @@
 ## unreal-engine 
 
 - [nxrighthere/UnrealCLR](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET 6 integration
+
+## userscript 
+
+- [DarkThemeHub/GithubDarkTheme](https://github.com/DarkThemeHub/GithubDarkTheme) - Dark Theme for Github
 
 ## vagrant 
 
