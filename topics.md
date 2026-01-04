@@ -154,6 +154,7 @@
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [maven](#maven)
+- [mcp](#mcp)
 - [microservices](#microservices)
 - [microsoft](#microsoft)
 - [mobile](#mobile)
@@ -2684,7 +2685,7 @@
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
-- [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2024: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
+- [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2025: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
@@ -3202,6 +3203,11 @@
 - [graalvm/native-build-tools](https://github.com/graalvm/native-build-tools) - Native-image plugins for various build tools
 - [scala-steward-org/scala-steward](https://github.com/scala-steward-org/scala-steward) - :robot: A bot that helps you keep your projects up-to-date
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
+
+## mcp 
+
+- [Aaronontheweb/mssql-mcp](https://github.com/Aaronontheweb/mssql-mcp) - MSSQL Server MCP implementation written in C#
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## microservices 
 
