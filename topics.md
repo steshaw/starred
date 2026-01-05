@@ -3265,6 +3265,7 @@
 
 ## music 
 
+- [andremichelle/openDAW](https://github.com/andremichelle/openDAW) - openDAW is a next-generation web-based Digital Audio Workstation (DAW)
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
 - [supercollider/supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
@@ -7407,6 +7408,7 @@
 
 ## webapp 
 
+- [andremichelle/openDAW](https://github.com/andremichelle/openDAW) - openDAW is a next-generation web-based Digital Audio Workstation (DAW)
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [alexwl/haskell-code-explorer](https://github.com/alexwl/haskell-code-explorer) - Web application for exploring and understanding Haskell codebases
 - [bradparker/servant-beam-realworld-example-app](https://github.com/bradparker/servant-beam-realworld-example-app) - Exemplary fullstack Medium.com clone powered by Servant and Beam
