@@ -2560,7 +2560,7 @@
 - [mapstruct/mapstruct](https://github.com/mapstruct/mapstruct) - An annotation processor for generating type-safe bean mappers
 - [i-net-software/JWebAssembly](https://github.com/i-net-software/JWebAssembly) - Java bytecode to WebAssembly compiler
 - [softwaremill/jox](https://github.com/softwaremill/jox) - Virtual-thread based safe concurrency & streaming
-- [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-24 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
+- [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-25 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [jhipster/prettier-java](https://github.com/jhipster/prettier-java) - Prettier Java Plugin
 - [puniverse/quasar](https://github.com/puniverse/quasar) - Fibers, Channels and Actors for the JVM
@@ -6689,7 +6689,7 @@
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [elastic-rs/elastic](https://github.com/elastic-rs/elastic) - An Elasticsearch REST API client for Rust
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Project level config for insanely fast feedback loops
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
