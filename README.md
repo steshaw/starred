@@ -3164,10 +3164,10 @@
 - [awalterschulze/learning](https://github.com/awalterschulze/learning) - A list of videos, playlists, blog posts, papers, books, etc. that I have learned from and still intend to learn from.
 - [input-output-hk/nix-tools](https://github.com/input-output-hk/nix-tools) - Translate Cabals Generic Package Description to a Nix expression
 - [worldofpeace/events](https://github.com/worldofpeace/events) - Current documentation for NixOS Office Hours
-- [linsa-io/research-papers](https://github.com/linsa-io/research-papers) - Awesome Research Papers
-- [linsa-io/programming-languages](https://github.com/linsa-io/programming-languages) - Awesome Programming Languages
-- [linsa-io/books](https://github.com/linsa-io/books) - Awesome Books
-- [linsa-io/courses](https://github.com/linsa-io/courses) - Awesome Courses
+- [learn-anything/research-papers](https://github.com/learn-anything/research-papers) - Awesome Research Papers
+- [learn-anything/programming-languages](https://github.com/learn-anything/programming-languages) - Awesome Programming Languages
+- [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
+- [learn-anything/courses](https://github.com/learn-anything/courses) - Awesome Courses
 - [psibi/rust-book-summary](https://github.com/psibi/rust-book-summary) - Summary of the Rust book
 - [ligurio/practical-fm](https://github.com/ligurio/practical-fm) - A gently curated list of companies using verification formal methods in industry
 - [jhedev/awesome-nix](https://github.com/jhedev/awesome-nix) - List of resource about Nix/NixOS
@@ -3861,7 +3861,7 @@
 - [sampsyo/bril](https://github.com/sampsyo/bril) - an educational compiler intermediate representation
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
 - [rbakbashev/elfcat](https://github.com/rbakbashev/elfcat) - ELF visualizer. Generates HTML files from ELF binaries.
-- [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
+- [nickel-lang/nickel](https://github.com/nickel-lang/nickel) - Better configuration for less
 - [formoon/realworld-warp](https://github.com/formoon/realworld-warp) - Rust/Warp backend of realworld demo
 - [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
@@ -4560,7 +4560,7 @@
 - [neoclide/coc-rls](https://github.com/neoclide/coc-rls) - Rust language server support for coc.nvim
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything. Share, sell or collaborate. Privately.
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Learn and keep track of any topic
 - [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries and other code
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
