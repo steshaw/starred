@@ -251,6 +251,7 @@
 - [unreal-engine](#unreal-engine)
 - [userscript](#userscript)
 - [vagrant](#vagrant)
+- [video](#video)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
 - [visual-studio-code](#visual-studio-code)
@@ -450,10 +451,10 @@
 - [weaveworks/awesome-gitops](https://github.com/weaveworks/awesome-gitops) - A curated list for awesome GitOps resources
 - [posquit0/hugo-awesome-identity](https://github.com/posquit0/hugo-awesome-identity) - 😤 Awesome Identity is a single-page Hugo theme to introduce yourself.
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
-- [linsa-io/research-papers](https://github.com/linsa-io/research-papers) - Awesome Research Papers
-- [linsa-io/programming-languages](https://github.com/linsa-io/programming-languages) - Awesome Programming Languages
-- [linsa-io/books](https://github.com/linsa-io/books) - Awesome Books
-- [linsa-io/courses](https://github.com/linsa-io/courses) - Awesome Courses
+- [learn-anything/research-papers](https://github.com/learn-anything/research-papers) - Awesome Research Papers
+- [learn-anything/programming-languages](https://github.com/learn-anything/programming-languages) - Awesome Programming Languages
+- [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
+- [learn-anything/courses](https://github.com/learn-anything/courses) - Awesome Courses
 - [joaomilho/awesome-idris](https://github.com/joaomilho/awesome-idris) - 𝛌 Awesome Idris resources
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [src-d/awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) - Cool links & research papers related to Machine Learning applied to source code (MLonCode)
@@ -495,10 +496,10 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [weaveworks/awesome-gitops](https://github.com/weaveworks/awesome-gitops) - A curated list for awesome GitOps resources
-- [linsa-io/research-papers](https://github.com/linsa-io/research-papers) - Awesome Research Papers
-- [linsa-io/programming-languages](https://github.com/linsa-io/programming-languages) - Awesome Programming Languages
-- [linsa-io/books](https://github.com/linsa-io/books) - Awesome Books
-- [linsa-io/courses](https://github.com/linsa-io/courses) - Awesome Courses
+- [learn-anything/research-papers](https://github.com/learn-anything/research-papers) - Awesome Research Papers
+- [learn-anything/programming-languages](https://github.com/learn-anything/programming-languages) - Awesome Programming Languages
+- [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
+- [learn-anything/courses](https://github.com/learn-anything/courses) - Awesome Courses
 - [joaomilho/awesome-idris](https://github.com/joaomilho/awesome-idris) - 𝛌 Awesome Idris resources
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [src-d/awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) - Cool links & research papers related to Machine Learning applied to source code (MLonCode)
@@ -1410,8 +1411,8 @@
 
 - [brownplt/pyret-lang](https://github.com/brownplt/pyret-lang) - The Pyret language.
 - [google/codeworld](https://github.com/google/codeworld) - Educational computer programming environment using Haskell
-- [linsa-io/books](https://github.com/linsa-io/books) - Awesome Books
-- [linsa-io/courses](https://github.com/linsa-io/courses) - Awesome Courses
+- [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
+- [learn-anything/courses](https://github.com/learn-anything/courses) - Awesome Courses
 - [sjsyrek/haskell-study-startup](https://github.com/sjsyrek/haskell-study-startup) - Launch your own Haskell study group. Now.
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
@@ -2987,9 +2988,9 @@
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [dwyl/learn-elm](https://github.com/dwyl/learn-elm) - :rainbow: discover the beautiful programming language that makes front-end web apps a joy to build and maintain!
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-- [linsa-io/programming-languages](https://github.com/linsa-io/programming-languages) - Awesome Programming Languages
-- [linsa-io/books](https://github.com/linsa-io/books) - Awesome Books
-- [linsa-io/courses](https://github.com/linsa-io/courses) - Awesome Courses
+- [learn-anything/programming-languages](https://github.com/learn-anything/programming-languages) - Awesome Programming Languages
+- [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
+- [learn-anything/courses](https://github.com/learn-anything/courses) - Awesome Courses
 - [scala-exercises/scala-exercises](https://github.com/scala-exercises/scala-exercises) - The easy way to learn Scala.
 - [soupi/haskell-study-plan](https://github.com/soupi/haskell-study-plan) - An opinionated list of resources for learning Haskell
 - [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
@@ -3669,7 +3670,6 @@
 - [jsiek/abstract-binding-trees](https://github.com/jsiek/abstract-binding-trees) - Abstract binding trees (abstract syntax trees plus binders), as a library in Agda
 - [smlnj/smlnj](https://github.com/smlnj/smlnj) - Standard ML of New Jersey
 - [microsoft/verona](https://github.com/microsoft/verona) - Research programming language for concurrent ownership
-- [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - A complete web conferencing system for virtual classes and more!
 - [gelisam/klister](https://github.com/gelisam/klister) - an implementation of stuck macros
 - [rkuhn/acto](https://github.com/rkuhn/acto) - Actor library for Rust
 - [swlaschin/fsharpforfunandprofit.com](https://github.com/swlaschin/fsharpforfunandprofit.com) - Source for fsharpforfunandprofit.com. For typos, please send a PR or create an issue. Thanks!
@@ -6455,7 +6455,7 @@
 - [jaredpalmer/after.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything. Share, sell or collaborate. Privately.
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Learn and keep track of any topic
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [reasonml/reason-react](https://github.com/reasonml/reason-react) - Reason bindings for ReactJS
 - [stereobooster/react-snap](https://github.com/stereobooster/react-snap) - 👻 Zero-configuration framework-agnostic static prerendering for SPAs
@@ -6641,7 +6641,7 @@
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [srid/rust-nix-template](https://github.com/srid/rust-nix-template) - Rust project template with Nix (Flakes) and VSCode support
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
-- [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
+- [nickel-lang/nickel](https://github.com/nickel-lang/nickel) - Better configuration for less
 - [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -7271,6 +7271,12 @@
 ## vagrant 
 
 - [chef/bento](https://github.com/chef/bento) - Packer templates for building minimal Vagrant baseboxes for multiple platforms
+
+## video 
+
+- [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - A complete web conferencing system for virtual classes and more!
+- [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 
 ## vim 
 
