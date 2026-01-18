@@ -848,6 +848,8 @@
 
 ## Go 
 
+- [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
+- [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
@@ -1772,7 +1774,7 @@
 - [kosmikus/kaleidoscope-regensburg](https://github.com/kosmikus/kaleidoscope-regensburg) - toy implementation of Kaleidoscope language developed during Haskell Regensburg meetups
 - [jfischoff/gdiff-th](https://github.com/jfischoff/gdiff-th) - Template Haskell code to generate gdiff GADTs and class instances
 - [byorgey/thesis](https://github.com/byorgey/thesis) - Brent's PhD thesis.
-- [Twinside/Juicy.Pixels](https://github.com/Twinside/Juicy.Pixels) - Haskell library to load & save pictures
+- [haskell-github-trust/Juicy.Pixels](https://github.com/haskell-github-trust/Juicy.Pixels) - Haskell library to load & save pictures
 - [nomeata/ghc-heap-view](https://github.com/nomeata/ghc-heap-view) - Extract the heap representation of Haskell values and thunks
 - [xmonad/xmonad](https://github.com/xmonad/xmonad) - The core of xmonad, a small but functional ICCCM-compliant tiling window manager
 - [xmonad/X11](https://github.com/xmonad/X11) - A Haskell binding to the X11 graphics library.
@@ -2446,7 +2448,6 @@
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [HigherOrderCO/FormCoreJS](https://github.com/HigherOrderCO/FormCoreJS) - A minimal pure functional language based on self dependent types.
 - [VictorTaelin/optimul](https://github.com/VictorTaelin/optimul) - Multiplication on optimal λ-calculus reducers
-- [ayu-theme/ayu-colors](https://github.com/ayu-theme/ayu-colors) - The ayu color scheme as a color palette
 - [necolas/react-native-web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [clinicjs/node-clinic](https://github.com/clinicjs/node-clinic) - Clinic.js diagnoses your Node.js performance issues
@@ -2546,7 +2547,6 @@
 - [krausest/js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the performance of a few popular javascript frameworks
 - [s-a/license](https://github.com/s-a/license) - Central permanent hosted license details under your control
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [tylergaw/day-player](https://github.com/tylergaw/day-player) - A Sketch Plugin for creating placeholder images from online services.
 - [prose/prose](https://github.com/prose/prose) - A Content Editor for GitHub.
 - [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
@@ -2929,7 +2929,7 @@
 - [jmpunkt/nixos-conf](https://github.com/jmpunkt/nixos-conf) - 
 - [NixOS/nixpkgs-channels](https://github.com/NixOS/nixpkgs-channels) - DEPRECATED! Use NixOS/nixpkgs repository instead.
 - [Gabriella439/simple-twitter](https://github.com/Gabriella439/simple-twitter) - A bare-bones Twitter clone implemented in a single file
-- [malob/nixpkgs](https://github.com/malob/nixpkgs) - My Nix system configs!
+- [malob/nix-config](https://github.com/malob/nix-config) - My Nix system configs!
 - [xtruder/kubenix](https://github.com/xtruder/kubenix) - Replaced by https://github.com/hall/kubenix
 - [cleverca22/not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
 - [input-output-hk/stackage.nix](https://github.com/input-output-hk/stackage.nix) - Automatically generated Nix expressions of Stackage snapshots
@@ -2979,6 +2979,7 @@
 ## Nunjucks 
 
 - [la-rache/la-rache.com](https://github.com/la-rache/la-rache.com) - Site web
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [jamstack/jamstack.org](https://github.com/jamstack/jamstack.org) - The official Jamstack site
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 
@@ -3092,7 +3093,6 @@
 - [fedefrappi/AePubReader](https://github.com/fedefrappi/AePubReader) - Another ePub Reader for iPad
 - [rsms/kod](https://github.com/rsms/kod) - Programmers' editor for OS X [DEAD PROJECT]
 - [schacon/ShowOffPad](https://github.com/schacon/ShowOffPad) - ShowOff Presenter on the iPad
-- [MacIrssi/MacIrssi](https://github.com/MacIrssi/MacIrssi) - Irssi but with a Cocoa interface
 - [programming-nu/nu](https://github.com/programming-nu/nu) - Nu is an interpreted Lisp that builds on the Objective-C runtime and Foundation framework.
 
 ## Objective-C++ 
@@ -3164,10 +3164,10 @@
 - [awalterschulze/learning](https://github.com/awalterschulze/learning) - A list of videos, playlists, blog posts, papers, books, etc. that I have learned from and still intend to learn from.
 - [input-output-hk/nix-tools](https://github.com/input-output-hk/nix-tools) - Translate Cabals Generic Package Description to a Nix expression
 - [worldofpeace/events](https://github.com/worldofpeace/events) - Current documentation for NixOS Office Hours
-- [learn-anything/research-papers](https://github.com/learn-anything/research-papers) - Awesome Research Papers
-- [learn-anything/programming-languages](https://github.com/learn-anything/programming-languages) - Awesome Programming Languages
-- [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
-- [learn-anything/courses](https://github.com/learn-anything/courses) - Awesome Courses
+- [linsa-io/research-papers](https://github.com/linsa-io/research-papers) - Awesome Research Papers
+- [linsa-io/programming-languages](https://github.com/linsa-io/programming-languages) - Awesome Programming Languages
+- [linsa-io/books](https://github.com/linsa-io/books) - Awesome Books
+- [linsa-io/courses](https://github.com/linsa-io/courses) - Awesome Courses
 - [psibi/rust-book-summary](https://github.com/psibi/rust-book-summary) - Summary of the Rust book
 - [ligurio/practical-fm](https://github.com/ligurio/practical-fm) - A gently curated list of companies using verification formal methods in industry
 - [jhedev/awesome-nix](https://github.com/jhedev/awesome-nix) - List of resource about Nix/NixOS
@@ -3343,6 +3343,7 @@
 - [ymasory/PublicFlashcards](https://github.com/ymasory/PublicFlashcards) - Flashup format flashcards for public consumption
 - [jwill/geecon-demos](https://github.com/jwill/geecon-demos) - Demo code from Geecon 2010
 - [schacon/showoff](https://github.com/schacon/showoff) - moved to puppetlabs/showoff!
+- [MacIrssi/MacIrssi](https://github.com/MacIrssi/MacIrssi) - Irssi but with a Cocoa interface
 - [amyaecci/jmaps](https://github.com/amyaecci/jmaps) - jMaps is a jQuery plugin that provides a really easy API to create and manage multiple google maps on any page.
 - [Homebrew/legacy-homebrew](https://github.com/Homebrew/legacy-homebrew) - 💀 The former home of Homebrew/homebrew (deprecated)
 - [pgregory/haxe_games](https://github.com/pgregory/haxe_games) - Experiments and ultimately real game titles developed with HaXe/Flash
@@ -4536,6 +4537,7 @@
 - [juicycleff/ultimate-backend](https://github.com/juicycleff/ultimate-backend) - Multi tenant SaaS starter kit with cqrs graphql microservice architecture, apollo federation, event source and authentication
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
+- [ayu-theme/ayu-colors](https://github.com/ayu-theme/ayu-colors) - The ayu color scheme as a color palette
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [google/gts](https://github.com/google/gts) - ☂️ TypeScript style guide, formatter, and linter.
@@ -4560,7 +4562,7 @@
 - [neoclide/coc-rls](https://github.com/neoclide/coc-rls) - Rust language server support for coc.nvim
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Learn and keep track of any topic
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything. Share, chat, sell or collaborate. Privately.
 - [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries and other code
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
