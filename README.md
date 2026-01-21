@@ -3644,7 +3644,6 @@
 ## Roff 
 
 - [DataDog/docker-dd-agent](https://github.com/DataDog/docker-dd-agent) - Datadog Agent Dockerfile for Trusted Builds.
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## Ruby 
 
@@ -4317,6 +4316,7 @@
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [mietek/haskell-on-heroku](https://github.com/mietek/haskell-on-heroku) - Buildpack for deploying Haskell apps
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [begriffs/heroku-buildpack-ghc](https://github.com/begriffs/heroku-buildpack-ghc) - Deploy Haskell apps to Heroku
 - [mietek/halcyon](https://github.com/mietek/halcyon) - System for installing Haskell apps
 - [webcrank/webcrank-clientsession.scala](https://github.com/webcrank/webcrank-clientsession.scala) - Primitive building blocks for implementing a cookie based session store.
