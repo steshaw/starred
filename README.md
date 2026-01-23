@@ -1222,7 +1222,7 @@
 - [carlohamalainen/serializotron](https://github.com/carlohamalainen/serializotron) - Multi-language serialization library
 - [hindsight-es/hindsight](https://github.com/hindsight-es/hindsight) - Type-safe event sourcing system for Haskell
 - [acondolu/vague](https://github.com/acondolu/vague) - Hobby functional programming language
-- [mchav/dataframe](https://github.com/mchav/dataframe) - A fast, safe, and intuitive DataFrame library.
+- [DataHaskell/dataframe](https://github.com/DataHaskell/dataframe) - A fast, safe, and intuitive DataFrame library.
 - [MercuryTechnologies/hs-temporal-sdk](https://github.com/MercuryTechnologies/hs-temporal-sdk) - Unofficial Temporal Haskell SDK
 - [augustss/MicroCabal](https://github.com/augustss/MicroCabal) - Reimplementation of a subset of Cabal
 - [mchav/granite](https://github.com/mchav/granite) - A library for producing terminal plots.
@@ -1499,7 +1499,7 @@
 - [haskell/lsp](https://github.com/haskell/lsp) - Haskell library for the Microsoft Language Server Protocol
 - [justinwoo/purp](https://github.com/justinwoo/purp) - Some kind of CLI for building PureScript projects with Psc-Package
 - [purescript/psc-package](https://github.com/purescript/psc-package) - A package manager for PureScript based on package sets
-- [wz1000/HieDb](https://github.com/wz1000/HieDb) - Generates a references DB from .hie files
+- [haskell/HieDb](https://github.com/haskell/HieDb) - Generates a references DB from .hie files
 - [zenhack/haskell-capnp](https://github.com/zenhack/haskell-capnp) - Cap'n Proto for Haskell
 - [ndmitchell/rexe](https://github.com/ndmitchell/rexe) - .exe forwarder, to allow replacing binaries on PATH
 - [NorfairKing/smos](https://github.com/NorfairKing/smos) - A comprehensive self-management System
@@ -3637,7 +3637,7 @@
 
 ## Rocq Prover 
 
-- [formal-land/rocq-of-rust](https://github.com/formal-land/rocq-of-rust) - Formal verification tool for Rust: check 100% of execution cases of your programs to make safe applications for demanding domains. 🇬🇱
+- [formal-land/rocq-of-rust](https://github.com/formal-land/rocq-of-rust) - Formal verification tool for Rust: check 100% of execution cases of your programs to make safe applications for demanding domains.
 - [jwiegley/category-theory](https://github.com/jwiegley/category-theory) - An axiom-free formalization of category theory in Coq for personal study and practical work
 - [HoTT/Coq-HoTT](https://github.com/HoTT/Coq-HoTT) - A Coq library for Homotopy Type Theory
 
