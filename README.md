@@ -1240,7 +1240,6 @@
 - [gelisam/klister](https://github.com/gelisam/klister) - an implementation of stuck macros
 - [CardanoSolutions/kupo](https://github.com/CardanoSolutions/kupo) - 🐹 Fast, lightweight & configurable chain-index for Cardano.
 - [input-output-hk/marconi](https://github.com/input-output-hk/marconi) - 
-- [BartoszMilewski/Publications](https://github.com/BartoszMilewski/Publications) - Misc. publications, conference slides, etc. For more, go to http://BartoszMilewski.com
 - [IntersectMBO/cardano-ledger](https://github.com/IntersectMBO/cardano-ledger) - The ledger implementation and specifications of the Cardano blockchain.
 - [cardano-scaling/hydra](https://github.com/cardano-scaling/hydra) - Implementation of the Hydra Head protocol
 - [chshersh/iris](https://github.com/chshersh/iris) - 🌈 Haskell CLI Framework supporting Command Line Interface Guidelines
@@ -3125,6 +3124,7 @@
 - [shining1984/PL-Compiler-Resource](https://github.com/shining1984/PL-Compiler-Resource) - 程序语言与编译技术相关资料（持续更新中）
 - [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 - [tweag/awesome-learning-haskell](https://github.com/tweag/awesome-learning-haskell) - A collection of resources which were useful to Tweagers for learning Haskell and its various aspects
+- [BartoszMilewski/Publications](https://github.com/BartoszMilewski/Publications) - Misc. publications, conference slides, etc. For more, go to http://BartoszMilewski.com
 - [rust-lang/types-team](https://github.com/rust-lang/types-team) - Home of the "types team", affiliated with the compiler and lang teams.
 - [j-mueller/language-agda](https://github.com/j-mueller/language-agda) - Agda language support for VSCode, based on https://github.com/mokus0/Agda.tmbundle
 - [visual-systems/philosophy](https://github.com/visual-systems/philosophy) - Overall philosophical documentation of what this system will aim to achieve and how it will be constructed.
