@@ -3536,7 +3536,7 @@
 - [openjdk/valhalla-docs](https://github.com/openjdk/valhalla-docs) - https://openjdk.org/projects/valhalla
 - [agent-kilo/juno](https://github.com/agent-kilo/juno) - 
 - [rossberg/boulder-dash](https://github.com/rossberg/boulder-dash) - A Boulder Dash clone in OCaml
-- [mchav/dataframe](https://github.com/mchav/dataframe) - A fast, safe, and intuitive DataFrame library.
+- [DataHaskell/dataframe](https://github.com/DataHaskell/dataframe) - A fast, safe, and intuitive DataFrame library.
 - [stomp-js/stompjs](https://github.com/stomp-js/stompjs) - Javascript and Typescript Stomp client for Web browsers and node.js apps
 - [getkyo/kyo](https://github.com/getkyo/kyo) - Toolkit for Scala Development
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
@@ -4289,7 +4289,7 @@
 - [purescript-react/purescript-lumi-components](https://github.com/purescript-react/purescript-lumi-components) - Library of our UI components
 - [purescript-react/purescript-react-basic-hooks](https://github.com/purescript-react/purescript-react-basic-hooks) - An implementation of React hooks on top of purescript-react-basic
 - [purescript-react/purescript-react-basic](https://github.com/purescript-react/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases
-- [wz1000/HieDb](https://github.com/wz1000/HieDb) - Generates a references DB from .hie files
+- [haskell/HieDb](https://github.com/haskell/HieDb) - Generates a references DB from .hie files
 - [eeeeeta/glitch-in-the-matrix](https://github.com/eeeeeta/glitch-in-the-matrix) - A set of Matrix.org bindings for Rust.
 - [capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust) - Cap'n Proto for Rust
 - [ndmitchell/rexe](https://github.com/ndmitchell/rexe) - .exe forwarder, to allow replacing binaries on PATH
@@ -6587,7 +6587,7 @@
 ## rust 
 
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
-- [formal-land/rocq-of-rust](https://github.com/formal-land/rocq-of-rust) - Formal verification tool for Rust: check 100% of execution cases of your programs to make safe applications for demanding domains. 🇬🇱
+- [formal-land/rocq-of-rust](https://github.com/formal-land/rocq-of-rust) - Formal verification tool for Rust: check 100% of execution cases of your programs to make safe applications for demanding domains.
 - [txpipe/pallas](https://github.com/txpipe/pallas) - Rust-native building blocks for the Cardano blockchain ecosystem
 - [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
