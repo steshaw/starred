@@ -4297,7 +4297,6 @@
 - [ComboStrikeHQ/docker-rails](https://github.com/ComboStrikeHQ/docker-rails) - An opinionated docker image for running Rails apps in production.
 - [bitnami/minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
 - [deepfire/nh](https://github.com/deepfire/nh) - Manage Nix Haskell override sets
-- [seiji/dotfiles](https://github.com/seiji/dotfiles) - 
 - [domenkozar/snabb-openstack-testing](https://github.com/domenkozar/snabb-openstack-testing) - Snabb Switch functional testing suite for OpenStack integration using NixOS
 - [yogsototh/ymetapost](https://github.com/yogsototh/ymetapost) - A better interface to metapost for generating graphs for the web
 - [GoogleCloudPlatform/kube-jenkins-imager](https://github.com/GoogleCloudPlatform/kube-jenkins-imager) - 
