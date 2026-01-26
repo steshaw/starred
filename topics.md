@@ -4796,7 +4796,6 @@
 - [ku-fpg/remote-monad](https://github.com/ku-fpg/remote-monad) - 
 - [fxdpntthm/h-lem1](https://github.com/fxdpntthm/h-lem1) - LEM1 Data mining algorithm in Haskell
 - [ervandew/dotfiles](https://github.com/ervandew/dotfiles) - 
-- [seiji/dotfiles](https://github.com/seiji/dotfiles) - 
 - [eclipse-archived/orion.client](https://github.com/eclipse-archived/orion.client) - The Orion Client, "Your IDE in the Cloud"
 - [ChrisPenner/purescript-flow](https://github.com/ChrisPenner/purescript-flow) - A redux-style application framework
 - [ChrisPenner/Firefly](https://github.com/ChrisPenner/Firefly) - Simple Haskell http framework
