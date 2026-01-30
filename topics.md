@@ -3728,7 +3728,7 @@
 - [dracula/gtk](https://github.com/dracula/gtk) - 🧛🏻‍♂️ Dark theme for GTK
 - [leanprover-community/lean4-metaprogramming-book](https://github.com/leanprover-community/lean4-metaprogramming-book) - 
 - [NorfairKing/autodocodec](https://github.com/NorfairKing/autodocodec) - self(auto)- documenting encoders and decoders
-- [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
+- [HigherOrderCO/HVM2](https://github.com/HigherOrderCO/HVM2) - A massively parallel, optimal functional runtime in Rust
 - [proglangdesign/proglangdesign.github.io](https://github.com/proglangdesign/proglangdesign.github.io) - A website for the #proglangdesign community on freenode
 - [grin-compiler/ghc-wpc](https://github.com/grin-compiler/ghc-wpc) - GHC-WPC is an extended GHC that exports the STG and other IR (.modpak) for the compiled modules and linker metadata (.ghc_stgapp) at application link time.
 - [mattpolzin/harmony](https://github.com/mattpolzin/harmony) - Harmonize with coworkers around GitHub reviewing.
@@ -3909,7 +3909,7 @@
 - [louthy/language-ext](https://github.com/louthy/language-ext) - C# pure functional programming framework - come and get declarative!
 - [larcenists/larceny](https://github.com/larcenists/larceny) - Larceny Scheme implementation
 - [wenkokke/wenkokke](https://github.com/wenkokke/wenkokke) - 
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [rtfeldman/elm-spa-example](https://github.com/rtfeldman/elm-spa-example) - A Single Page Application written in Elm
 - [raphlinus/crochet](https://github.com/raphlinus/crochet) - Explorations in reactive UI patterns
 - [typelevel/fs2-chat](https://github.com/typelevel/fs2-chat) - Sample project demonstrating use of fs2-io to build a chat client and server
@@ -3936,7 +3936,7 @@
 - [microsoft/snmalloc](https://github.com/microsoft/snmalloc) - Message passing based allocator
 - [jeanqasaur/pltalk](https://github.com/jeanqasaur/pltalk) - Schedule for the #PLTalk livestream. On Twitch here: https://www.twitch.tv/jeanqasaur
 - [stripe/stripe-go](https://github.com/stripe/stripe-go) - Go library for the Stripe API.
-- [HigherOrderCO/FormCoreJS](https://github.com/HigherOrderCO/FormCoreJS) - A minimal pure functional language based on self dependent types.
+- [HigherOrderCO-archive/FormCoreJS](https://github.com/HigherOrderCO-archive/FormCoreJS) - A minimal pure functional language based on self dependent types.
 - [koka-lang/madoko](https://github.com/koka-lang/madoko) - Madoko is a fast markdown processor for high quality academic and technical articles
 - [VictorTaelin/optimul](https://github.com/VictorTaelin/optimul) - Multiplication on optimal λ-calculus reducers
 - [uber-go/goleak](https://github.com/uber-go/goleak) - Goroutine leak detector
