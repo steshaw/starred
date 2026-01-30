@@ -698,7 +698,7 @@
 
 ## Cuda 
 
-- [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
+- [HigherOrderCO/HVM2](https://github.com/HigherOrderCO/HVM2) - A massively parallel, optimal functional runtime in Rust
 
 ## D 
 
@@ -2449,7 +2449,7 @@
 - [brownplt/pyret-lang](https://github.com/brownplt/pyret-lang) - The Pyret language.
 - [varkor/quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web.
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
-- [HigherOrderCO/FormCoreJS](https://github.com/HigherOrderCO/FormCoreJS) - A minimal pure functional language based on self dependent types.
+- [HigherOrderCO-archive/FormCoreJS](https://github.com/HigherOrderCO-archive/FormCoreJS) - A minimal pure functional language based on self dependent types.
 - [VictorTaelin/optimul](https://github.com/VictorTaelin/optimul) - Multiplication on optimal λ-calculus reducers
 - [necolas/react-native-web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
@@ -4540,7 +4540,7 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [haskell/vscode-haskell](https://github.com/haskell/vscode-haskell) - VS Code extension for Haskell, powered by haskell-language-server
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [juicycleff/ultimate-backend](https://github.com/juicycleff/ultimate-backend) - Multi tenant SaaS starter kit with cqrs graphql microservice architecture, apollo federation, event source and authentication
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
