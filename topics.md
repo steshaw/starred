@@ -2610,7 +2610,6 @@
 - [scribejava/scribejava](https://github.com/scribejava/scribejava) - Simple OAuth library for Java
 - [JabRef/jabref](https://github.com/JabRef/jabref) - Graphical Java application for managing BibTeX and BibLaTeX (.bib) databases
 - [DigitalPebble/behemoth](https://github.com/DigitalPebble/behemoth) - Behemoth is an open source platform for large scale document analysis based on Apache Hadoop.
-- [apache/mahout](https://github.com/apache/mahout) - Mirror of Apache Mahout
 - [undertow-io/undertow](https://github.com/undertow-io/undertow) - High performance non-blocking webserver
 - [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
@@ -3016,7 +3015,6 @@
 - [attractivechaos/klib](https://github.com/attractivechaos/klib) - A standalone and lightweight C library
 - [serokell/universum](https://github.com/serokell/universum) - :milky_way: Prelude written in @Serokell
 - [lpereira/lwan](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server
-- [apache/mahout](https://github.com/apache/mahout) - Mirror of Apache Mahout
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [bdwgc/bdwgc](https://github.com/bdwgc/bdwgc) - The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (bdwgc, also known as bdw-gc, boehm-gc, libgc)
 - [bdwgc/libatomic_ops](https://github.com/bdwgc/libatomic_ops) - The atomic_ops project (Atomic memory update operations portable implementation)
@@ -6393,6 +6391,7 @@
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [hypothesis/h](https://github.com/hypothesis/h) - Annotate with anyone, anywhere.
+- [apache/mahout](https://github.com/apache/mahout) - Apache Mahout - an environment for quickly creating scalable, performant machine learning applications.
 - [snare/voltron](https://github.com/snare/voltron) - A hacky debugger UI for hackers
 - [facebook/buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
 - [apache/qpid](https://github.com/apache/qpid) - Mirror of Apache Qpid
@@ -6756,6 +6755,7 @@
 - [harpocrates/language-rust](https://github.com/harpocrates/language-rust) - Parser and pretty-printer for the Rust language
 - [gluon-lang/gluon](https://github.com/gluon-lang/gluon) - A static, type inferred and embeddable language written in Rust.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
+- [apache/mahout](https://github.com/apache/mahout) - Apache Mahout - an environment for quickly creating scalable, performant machine learning applications.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
