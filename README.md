@@ -1885,7 +1885,7 @@
 - [Gabriella439/bench](https://github.com/Gabriella439/bench) - Command-line benchmark tool
 - [krispo/awesome-haskell](https://github.com/krispo/awesome-haskell) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [quchen/stgi](https://github.com/quchen/stgi) - A user-centric visual STG implementation to help understand GHC/Haskell's execution model.
-- [quchen/prettyprinter](https://github.com/quchen/prettyprinter) - A modern, extensible and well-documented prettyprinter.
+- [haskell-prettyprinter/prettyprinter](https://github.com/haskell-prettyprinter/prettyprinter) - A modern, extensible and well-documented prettyprinter.
 - [tamarin-prover/tamarin-prover](https://github.com/tamarin-prover/tamarin-prover) - Main source code repository of the Tamarin prover for security protocol verification.
 - [serokell/universum](https://github.com/serokell/universum) - :milky_way: Prelude written in @Serokell
 - [input-output-hk/cardano-sl](https://github.com/input-output-hk/cardano-sl) - Cryptographic currency implementing Ouroboros PoS protocol
@@ -3652,7 +3652,7 @@
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [nix-community/nix-unstable-installer](https://github.com/nix-community/nix-unstable-installer) - A place to host Nix unstable releases [unmaintained]
 - [rtomayko/ronn](https://github.com/rtomayko/ronn) - the opposite of roff
-- [ruby/rbs](https://github.com/ruby/rbs) - Type Signature for Ruby
+- [ruby/rbs](https://github.com/ruby/rbs) - The type signature language for Ruby
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [zendesk/samson](https://github.com/zendesk/samson) - Web interface for deployments, with plugin architecture and kubernetes support
 - [Shopify/shipit-engine](https://github.com/Shopify/shipit-engine) - Deployment coordination
