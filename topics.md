@@ -2378,7 +2378,7 @@
 - [takenobu-hs/commandline-haskell](https://github.com/takenobu-hs/commandline-haskell) - command-line Haskell with 'ghc -e'
 - [nstack/nstack](https://github.com/nstack/nstack) - Type-safe, composable microservices for data analytics
 - [takenobu-hs/haskell-ghc-illustrated](https://github.com/takenobu-hs/haskell-ghc-illustrated) - haskell ghc-illustrated
-- [quchen/prettyprinter](https://github.com/quchen/prettyprinter) - A modern, extensible and well-documented prettyprinter.
+- [haskell-prettyprinter/prettyprinter](https://github.com/haskell-prettyprinter/prettyprinter) - A modern, extensible and well-documented prettyprinter.
 - [serokell/universum](https://github.com/serokell/universum) - :milky_way: Prelude written in @Serokell
 - [input-output-hk/cardano-sl](https://github.com/input-output-hk/cardano-sl) - Cryptographic currency implementing Ouroboros PoS protocol
 - [hercules-ci/legacy-old-hercules](https://github.com/hercules-ci/legacy-old-hercules) - Abandoned
@@ -6560,7 +6560,7 @@
 ## ruby 
 
 - [jruby/jruby](https://github.com/jruby/jruby) - JRuby, an implementation of Ruby on the JVM
-- [ruby/rbs](https://github.com/ruby/rbs) - Type Signature for Ruby
+- [ruby/rbs](https://github.com/ruby/rbs) - The type signature language for Ruby
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [ruby/rake](https://github.com/ruby/rake) - A make-like build utility for Ruby.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
