@@ -1351,6 +1351,7 @@
 - [TOTBWF/muprl](https://github.com/TOTBWF/muprl) - A small NuPRL style proof assistant
 - [ocharles/weeder](https://github.com/ocharles/weeder) - A re-implementation of weeder using HIE files
 - [ndmitchell/rattle](https://github.com/ndmitchell/rattle) - Forward build system with speculation and caching
+- [digital-asset/daml](https://github.com/digital-asset/daml) - The Daml smart contract language
 - [bradparker/servant-beam-realworld-example-app](https://github.com/bradparker/servant-beam-realworld-example-app) - Exemplary fullstack Medium.com clone powered by Servant and Beam
 - [serras/hinc](https://github.com/serras/hinc) - Haskell In New Clothes
 - [srid/rib](https://github.com/srid/rib) - Haskell static site generator based on Shake (superseded by https://github.com/srid/ema)
@@ -4063,7 +4064,6 @@
 - [tek/splain](https://github.com/tek/splain) - better implicit errors for scala
 - [deanwampler/programming-scala-book-code-examples](https://github.com/deanwampler/programming-scala-book-code-examples) - The code examples used in Programming Scala, 2nd and 3rd Editions (O'Reilly)
 - [circe/circe-golden](https://github.com/circe/circe-golden) - Golden testing for Circe
-- [digital-asset/daml](https://github.com/digital-asset/daml) - The Daml smart contract language
 - [johnynek/bosatsu](https://github.com/johnynek/bosatsu) - A python-ish pure and total functional programming language
 - [jdegoes/functional-effects](https://github.com/jdegoes/functional-effects) - The exercises for the Functional Effects workshop
 - [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
