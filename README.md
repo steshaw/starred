@@ -917,6 +917,7 @@
 - [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
 - [adonovan/gopl.io](https://github.com/adonovan/gopl.io) - Example programs from "The Go Programming Language"
 - [openservicemesh/osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microser
+- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [stripe/stripe-go](https://github.com/stripe/stripe-go) - Go library for the Stripe API.
 - [uber-go/goleak](https://github.com/uber-go/goleak) - Goroutine leak detector
 - [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) - The One CD for All {applications, platforms, operations}
@@ -3142,7 +3143,6 @@
 - [aphyr/distsys-class](https://github.com/aphyr/distsys-class) - Class materials for a distributed systems lecture series
 - [skerkour/bloom](https://github.com/skerkour/bloom) - 
 - [jeanqasaur/pltalk](https://github.com/jeanqasaur/pltalk) - Schedule for the #PLTalk livestream. On Twitch here: https://www.twitch.tv/jeanqasaur
-- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [stoeffel/awesome-fp-js](https://github.com/stoeffel/awesome-fp-js) - :sunglasses: A curated list of awesome functional programming stuff in js
 - [jakeday/linux-surface](https://github.com/jakeday/linux-surface) - Linux Kernel for Surface Devices
 - [googleapis/nodejs-speech](https://github.com/googleapis/nodejs-speech) - This repository is deprecated. All of its content and history has been moved to googleapis/google-cloud-node.
