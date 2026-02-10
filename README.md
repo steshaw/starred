@@ -1032,7 +1032,7 @@
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [kubernetes/ingress-gce](https://github.com/kubernetes/ingress-gce) - Ingress controller for Google Cloud
 - [jwilder/dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers
-- [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens.
+- [netlify/gotrue](https://github.com/netlify/gotrue) - An JWT based API for managing users and issuing JWT tokens.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [cncd/pipeline](https://github.com/cncd/pipeline) - Go package implements a container-based pipeline engine
 - [virtual-kubelet/virtual-kubelet](https://github.com/virtual-kubelet/virtual-kubelet) - Virtual Kubelet is an open source Kubernetes kubelet implementation.
