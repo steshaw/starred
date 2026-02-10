@@ -4590,7 +4590,7 @@
 - [williamdemeo/TypeFunc](https://github.com/williamdemeo/TypeFunc) - Resources for type theory, functional programming, etc.
 - [treeowl/stm-queues](https://github.com/treeowl/stm-queues) - Experimental TQueue variants
 - [snoyberg/monad-logger](https://github.com/snoyberg/monad-logger) - A class of monads which can log messages
-- [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens.
+- [netlify/gotrue](https://github.com/netlify/gotrue) - An JWT based API for managing users and issuing JWT tokens.
 - [cncd/pipeline](https://github.com/cncd/pipeline) - Go package implements a container-based pipeline engine
 - [microsoft/bond](https://github.com/microsoft/bond) - Bond was a cross-platform framework for working with schematized data. The open-source project ended on March 31, 2025.
 - [ocharles/haskell-opentracing](https://github.com/ocharles/haskell-opentracing) - Haskell libraries for OpenTracing.io
