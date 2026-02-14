@@ -4440,7 +4440,7 @@
 - [antirez/otree](https://github.com/antirez/otree) - a simple btree implementation with automatic space reclaiming
 - [twitter/rsc](https://github.com/twitter/rsc) - Experimental Scala compiler focused on compilation speed
 - [ocaml/tuareg](https://github.com/ocaml/tuareg) - Emacs OCaml mode
-- [ocaml/odoc](https://github.com/ocaml/odoc) - Documentation compiler for OCaml and Reason
+- [ocaml/odoc](https://github.com/ocaml/odoc) - Documentation compiler for OCaml
 - [ocaml/dune](https://github.com/ocaml/dune) - A composable build system for OCaml.
 - [AltGr/opam-bundle](https://github.com/AltGr/opam-bundle) - A tool that creates stand-alone source bundles from opam packages
 - [aspiwack/treemachine](https://github.com/aspiwack/treemachine) - 
@@ -6878,6 +6878,7 @@
 
 ## self-hosted 
 
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [attila-lendvai/maru](https://github.com/attila-lendvai/maru) - Maru - a tiny self-hosting lisp dialect
 - [skerkour/bloom](https://github.com/skerkour/bloom) - 
@@ -7201,6 +7202,7 @@
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [astashov/liftosaur](https://github.com/astashov/liftosaur) - Weightlifting tracker app for coders
 - [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [Chevrotain/chevrotain](https://github.com/Chevrotain/chevrotain) - Parser Building Toolkit for JavaScript
 - [eclipse-langium/langium](https://github.com/eclipse-langium/langium) - Next-gen language engineering / DSL framework
