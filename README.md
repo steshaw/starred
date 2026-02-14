@@ -14,6 +14,7 @@
 - [Bikeshed](#bikeshed)
 - [Boo](#boo)
 - [Boogie](#boogie)
+- [Bru](#bru)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -215,6 +216,10 @@
 ## Boogie 
 
 - [boogie-org/boogie](https://github.com/boogie-org/boogie) - Boogie
+
+## Bru 
+
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 
 ## C 
 
@@ -3035,7 +3040,7 @@
 - [rossberg/1ml](https://github.com/rossberg/1ml) - 1ML prototype interpreter
 - [nrnrnr/qc--](https://github.com/nrnrnr/qc--) - Quick C-- compiler (no longer maintained)
 - [jozefg/nbe-for-mltt](https://github.com/jozefg/nbe-for-mltt) - Normalization by Evaluation for Martin-Löf Type Theory
-- [ocaml/odoc](https://github.com/ocaml/odoc) - Documentation compiler for OCaml and Reason
+- [ocaml/odoc](https://github.com/ocaml/odoc) - Documentation compiler for OCaml
 - [ocaml/dune](https://github.com/ocaml/dune) - A composable build system for OCaml.
 - [ocaml/merlin](https://github.com/ocaml/merlin) - Context sensitive completion for OCaml in Vim and Emacs
 - [janestreet/incremental](https://github.com/janestreet/incremental) - A library for incremental computations
@@ -4540,7 +4545,6 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [haskell/vscode-haskell](https://github.com/haskell/vscode-haskell) - VS Code extension for Haskell, powered by haskell-language-server
-- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [juicycleff/ultimate-backend](https://github.com/juicycleff/ultimate-backend) - Multi tenant SaaS starter kit with cqrs graphql microservice architecture, apollo federation, event source and authentication
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
