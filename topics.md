@@ -4652,7 +4652,7 @@
 - [snoyberg/foreach](https://github.com/snoyberg/foreach) - First class stream fusion
 - [kadena-io/masala](https://github.com/kadena-io/masala) - Standalone Ethereum Virtual Machine
 - [fpco/cache-s3](https://github.com/fpco/cache-s3) - 
-- [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
+- [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.  See documentation for contribution instructions.
 - [NixOS/rfcs](https://github.com/NixOS/rfcs) - The Nix community RFCs
 - [chrisokasaki/scads](https://github.com/chrisokasaki/scads) - Scala Algorithms and Data Structures
 - [openbsd/src](https://github.com/openbsd/src) - Read-only git conversion of OpenBSD's official CVS src repository. Pull requests not accepted - send diffs to the tech@ mailing list.
@@ -5595,7 +5595,6 @@
 - [ekmett/categories](https://github.com/ekmett/categories) - categories from category-extras
 - [tonymorris/parametricity](https://github.com/tonymorris/parametricity) - A talk on parametricity
 - [cask/cask](https://github.com/cask/cask) - Project management tool for Emacs
-- [thezerobit/green-threads](https://github.com/thezerobit/green-threads) - A lightweight thread / cooperative multitasking library for Common Lisp.
 - [numberten/pixel_party](https://github.com/numberten/pixel_party) - udp server and accompanying chrome app client for a simple networked game
 - [cloudfoundry-community-attic/bosh-cloudfoundry](https://github.com/cloudfoundry-community-attic/bosh-cloudfoundry) - Create, scale and upgrade your company's own Cloud Foundry
 - [dysinger/khartes](https://github.com/dysinger/khartes) - An Experiment with Both Haskell & Idris JS FFI interface to AWS
