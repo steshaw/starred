@@ -532,7 +532,7 @@
 - [eclipse-omr/omr](https://github.com/eclipse-omr/omr) - Eclipse OMR™ Cross platform components for building reliable, high performance language runtimes
 - [smfrpc/smf](https://github.com/smfrpc/smf) - Fastest RPC in the west
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-- [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
+- [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.  See documentation for contribution instructions.
 - [supercollider/supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
@@ -673,7 +673,6 @@
 - [rtoy/cmucl](https://github.com/rtoy/cmucl) - This is a mirror of the official cmucl repo at gitlab.common-lisp.net
 - [sbcl/sbcl](https://github.com/sbcl/sbcl) - Mirror of Steel Bank Common Lisp (SBCL)'s official repository
 - [slime/slime](https://github.com/slime/slime) - The Superior Lisp Interaction Mode for Emacs
-- [thezerobit/green-threads](https://github.com/thezerobit/green-threads) - A lightweight thread / cooperative multitasking library for Common Lisp.
 - [damelang/nile](https://github.com/damelang/nile) - 
 
 ## Component Pascal 
