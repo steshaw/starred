@@ -3898,7 +3898,6 @@
 - [afsalthaj/scala3-generic](https://github.com/afsalthaj/scala3-generic) - 
 - [mgrabmueller/harpy](https://github.com/mgrabmueller/harpy) - Runtime code generation for x86 machine code
 - [mgrabmueller/AlgorithmW](https://github.com/mgrabmueller/AlgorithmW) - Example implementation of Algorithm W for Hindley-Milner type inference
-- [ir-regular/coding-retreat-2020](https://github.com/ir-regular/coding-retreat-2020) - Materials for a solo coding retreat, Jan - Feb 2020
 - [stefan-hoeck/idris2-elab-util](https://github.com/stefan-hoeck/idris2-elab-util) - Utilities and documentation for exploring idirs2's new elaborator reflection.
 - [idris-community/idris2-lsp](https://github.com/idris-community/idris2-lsp) - Language Server for Idris2
 - [bellissimogiorno/nominal](https://github.com/bellissimogiorno/nominal) - Haskell implementation of nominal datatypes and functions
