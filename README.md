@@ -1329,7 +1329,6 @@
 - [haskellfoundation/tech-proposals](https://github.com/haskellfoundation/tech-proposals) - The Haskell Foundation Tech Proposal Process
 - [kritzcreek/fby19](https://github.com/kritzcreek/fby19) - Type inference from scratch - Material for my talk at F(by)19
 - [mgrabmueller/harpy](https://github.com/mgrabmueller/harpy) - Runtime code generation for x86 machine code
-- [ir-regular/coding-retreat-2020](https://github.com/ir-regular/coding-retreat-2020) - Materials for a solo coding retreat, Jan - Feb 2020
 - [bellissimogiorno/nominal](https://github.com/bellissimogiorno/nominal) - Haskell implementation of nominal datatypes and functions
 - [google/codeworld](https://github.com/google/codeworld) - Educational computer programming environment using Haskell
 - [ocharles/what-it-do](https://github.com/ocharles/what-it-do) - Automatically trace all (showable) binds in do expressions
