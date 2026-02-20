@@ -2023,7 +2023,6 @@
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
-- [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [Netflix-Skunkworks/stethoscope-app](https://github.com/Netflix-Skunkworks/stethoscope-app) - A desktop application that checks security-related settings and makes recommendations for improvements without requiring central device management or automated reporting.
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes
 - [ChrisPenner/lens-csv](https://github.com/ChrisPenner/lens-csv) - Lensy interface for parsing CSV's
@@ -3942,7 +3941,7 @@
 - [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
 - [microsoft/mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
 - [mankyKitty/cautious-sniffle](https://github.com/mankyKitty/cautious-sniffle) - Haskell implementation of W3C Webdriver Protocol (wip) https://w3c.github.io/webdriver/
-- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
+- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are disabled. Please only use release tarballs from the QEMU website.
 - [KhaosT/ACVM](https://github.com/KhaosT/ACVM) - 
 - [armory/spinnaker-operator](https://github.com/armory/spinnaker-operator) - Open Source Spinnaker Kubernetes Operator source code
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
