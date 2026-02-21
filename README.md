@@ -1991,7 +1991,7 @@
 - [DanielG/ghc-mod](https://github.com/DanielG/ghc-mod) - Happy Haskell Hacking for editors. DEPRECATED
 - [WhereSoftwareGoesToDie/retcon](https://github.com/WhereSoftwareGoesToDie/retcon) - Retroactive continuity for mostly disparate data sources
 - [christian-marie/roundtrip-aeson](https://github.com/christian-marie/roundtrip-aeson) - Parse/unparse JSON with roundtrip invertible syntax descriptions.
-- [ozanmakes/markup.rocks](https://github.com/ozanmakes/markup.rocks) - Pandoc based document editor and converter in your browser.
+- [ozanvos/markup.rocks](https://github.com/ozanvos/markup.rocks) - Pandoc based document editor and converter in your browser.
 - [reflex-frp/reflex-dom](https://github.com/reflex-frp/reflex-dom) - Web applications without callbacks or side-effects. Reflex-DOM brings the power of functional reactive programming (FRP) to the web. Build HTML and other Document Object Model (DOM) data with a pure f
 - [leksah/leksah-server](https://github.com/leksah/leksah-server) - Server part of leksah
 - [leksah/leksah](https://github.com/leksah/leksah) - Haskell IDE
@@ -2410,7 +2410,7 @@
 - [functionaljava/functionaljava](https://github.com/functionaljava/functionaljava) - Functional programming in Java
 - [seph-lang/seph](https://github.com/seph-lang/seph) - Seph is a language experiment for the slightly crazy lunatic
 - [robheittman/scalagwt-sample](https://github.com/robheittman/scalagwt-sample) - Sample Scala+GWT project
-- [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) - Event Driven WebSockets Framework  with Cross-Browser Fallbacks
+- [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) - Stream Real Time and LLM response data over WebSocket, SSE, and the MCP protocol
 - [mbien/jake2](https://github.com/mbien/jake2) - Jake2 is a port of the Quake2 game engine to java.
 - [lexspoon/scalagwt-gwt](https://github.com/lexspoon/scalagwt-gwt) - This repository holds a temporary fork of GWT to add support for Scala.
 - [hraberg/enumerable](https://github.com/hraberg/enumerable) - Ruby/Smalltalk style internal iterators for Java 5 using bytecode transformation to capture expressions as closures.
