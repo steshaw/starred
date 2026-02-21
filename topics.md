@@ -300,6 +300,7 @@
 - [thomasahle/sunfish](https://github.com/thomasahle/sunfish) - Sunfish: a Python Chess Engine in 111 lines of code
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [JabRef/jabref](https://github.com/JabRef/jabref) - Graphical Java application for managing BibTeX and BibLaTeX (.bib) databases
+- [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) - Stream Real Time and LLM response data over WebSocket, SSE, and the MCP protocol
 
 ## ai-agents 
 
@@ -2395,7 +2396,7 @@
 - [chrisdone-archive/intero](https://github.com/chrisdone-archive/intero) - 
 - [haskell/cabal](https://github.com/haskell/cabal) - Official upstream development repository for Cabal and cabal-install
 - [steshaw/language-swift-quote](https://github.com/steshaw/language-swift-quote) - 💫 Quasiquotation for Swift in Haskell 🚧💔😢
-- [ozanmakes/markup.rocks](https://github.com/ozanmakes/markup.rocks) - Pandoc based document editor and converter in your browser.
+- [ozanvos/markup.rocks](https://github.com/ozanvos/markup.rocks) - Pandoc based document editor and converter in your browser.
 - [reflex-frp/reflex-dom](https://github.com/reflex-frp/reflex-dom) - Web applications without callbacks or side-effects. Reflex-DOM brings the power of functional reactive programming (FRP) to the web. Build HTML and other Document Object Model (DOM) data with a pure f
 - [reflex-frp/reflex-platform](https://github.com/reflex-frp/reflex-platform) - A curated package set and set of tools that let you build Haskell packages so they can run on a variety of platforms. reflex-platform is built on top of the nix package manager.
 - [reflex-frp/reflex](https://github.com/reflex-frp/reflex) - Interactive programs without callbacks or side-effects. Functional Reactive Programming (FRP) uses composable events and time-varying values to describe interactive systems as pure functions. Just lik
@@ -2619,7 +2620,7 @@
 - [apache/activemq-apollo](https://github.com/apache/activemq-apollo) - Mirror of Apache ActiveMQ Apollo
 - [dropwizard/dropwizard](https://github.com/dropwizard/dropwizard) - A damn simple library for building production-ready RESTful web services.
 - [functionaljava/functionaljava](https://github.com/functionaljava/functionaljava) - Functional programming in Java
-- [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) - Event Driven WebSockets Framework  with Cross-Browser Fallbacks
+- [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) - Stream Real Time and LLM response data over WebSocket, SSE, and the MCP protocol
 - [dropwizard/metrics](https://github.com/dropwizard/metrics) - :chart_with_upwards_trend: Capturing JVM- and application-level metrics. So you know what's going on.
 
 ## javafx 
@@ -2753,7 +2754,6 @@
 - [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
 - [bower/bower](https://github.com/bower/bower) - A package manager for the web
 - [drojdjou/J3D](https://github.com/drojdjou/J3D) - J3D - WebGL demos & experiments
-- [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) - Event Driven WebSockets Framework  with Cross-Browser Fallbacks
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 
 ## jenkins 
@@ -3197,7 +3197,7 @@
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
-- [ozanmakes/markup.rocks](https://github.com/ozanmakes/markup.rocks) - Pandoc based document editor and converter in your browser.
+- [ozanvos/markup.rocks](https://github.com/ozanvos/markup.rocks) - Pandoc based document editor and converter in your browser.
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
 ## material-design 
@@ -3219,6 +3219,7 @@
 - [Aaronontheweb/mssql-mcp](https://github.com/Aaronontheweb/mssql-mcp) - MSSQL Server MCP implementation written in C#
 - [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Rust Performance Profiler & Channels Monitoring Toolkit (TUI, MCP)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) - Stream Real Time and LLM response data over WebSocket, SSE, and the MCP protocol
 
 ## microservices 
 
@@ -3234,7 +3235,6 @@
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [brikis98/infrastructure-as-code-talk](https://github.com/brikis98/infrastructure-as-code-talk) - Sample code for the talk "Infrastructure-as-code: running microservices on AWS with Docker, ECS, and Terraform"
 - [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
-- [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) - Event Driven WebSockets Framework  with Cross-Browser Fallbacks
 
 ## microsoft 
 
@@ -6960,7 +6960,7 @@
 
 - [mirkosertic/flight-recorder-starter](https://github.com/mirkosertic/flight-recorder-starter) - This is a Spring Boot 2/3/4 Starter exposing the JDK Flight Recorder as a Spring Boot Actuator Endpoint.
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
-- [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) - Event Driven WebSockets Framework  with Cross-Browser Fallbacks
+- [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) - Stream Real Time and LLM response data over WebSocket, SSE, and the MCP protocol
 
 ## sql 
 
