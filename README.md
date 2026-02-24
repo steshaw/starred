@@ -1616,7 +1616,7 @@
 - [nikita-volkov/hasql-transaction](https://github.com/nikita-volkov/hasql-transaction) - A composable abstraction over retriable transactions for Hasql
 - [nikita-volkov/hasql-pool](https://github.com/nikita-volkov/hasql-pool) - A pool of connections for Hasql
 - [nikita-volkov/hasql](https://github.com/nikita-volkov/hasql) - The fastest PostgreSQL libpq-based driver for Haskell
-- [haskell-beam/beam](https://github.com/haskell-beam/beam) - A type-safe, non-TH Haskell SQL library and ORM
+- [haskell-beam/beam](https://github.com/haskell-beam/beam) - A type-safe Haskell SQL library
 - [yamadapc/haskell-ascii-progress](https://github.com/yamadapc/haskell-ascii-progress) - A simple Haskell progress bar for the console. Heavily borrows from TJ Holowaychuk's Node.JS project
 - [ChrisPenner/slick](https://github.com/ChrisPenner/slick) - Static site generator built on Shake configured in Haskell
 - [schell/steeloverseer](https://github.com/schell/steeloverseer) - A file watcher and development tool.
@@ -3127,6 +3127,7 @@
 - [rust-lang/types-team](https://github.com/rust-lang/types-team) - Home of the "types team", affiliated with the compiler and lang teams.
 - [j-mueller/language-agda](https://github.com/j-mueller/language-agda) - Agda language support for VSCode, based on https://github.com/mokus0/Agda.tmbundle
 - [visual-systems/philosophy](https://github.com/visual-systems/philosophy) - Overall philosophical documentation of what this system will aim to achieve and how it will be constructed.
+- [cardano-foundation/CIPs](https://github.com/cardano-foundation/CIPs) - Cardano Improvement Proposals (CIPs)
 - [tonyday567/checklist](https://github.com/tonyday567/checklist) - How I start Haskell.
 - [statebox/awesome-applied-ct](https://github.com/statebox/awesome-applied-ct) - ACT community resources
 - [ocaml-multicore/awesome-multicore-ocaml](https://github.com/ocaml-multicore/awesome-multicore-ocaml) - A collection of libraries, experiments and ideas relating to OCaml 5 (multicore + effects)
@@ -3481,7 +3482,6 @@
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
 - [runtimeverification/k](https://github.com/runtimeverification/k) - K Framework Tools 7.0
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
-- [cardano-foundation/CIPs](https://github.com/cardano-foundation/CIPs) - Cardano Improvement Proposals (CIPs)
 - [djacu/nixos-on-zfs](https://github.com/djacu/nixos-on-zfs) - A collection of setup scripts for installing nixOS on my work laptop.
 - [samuela/nixos-up](https://github.com/samuela/nixos-up) - The fastest NixOS install there is! 🏎️🏁
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
