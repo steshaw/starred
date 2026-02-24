@@ -2301,7 +2301,7 @@
 - [pbrisbin/bugsnag-haskell](https://github.com/pbrisbin/bugsnag-haskell) - Bugsnag error reporter for Haskell
 - [nikita-volkov/hasql-th](https://github.com/nikita-volkov/hasql-th) - Template Haskell utilities for Hasql
 - [nikita-volkov/hasql](https://github.com/nikita-volkov/hasql) - The fastest PostgreSQL libpq-based driver for Haskell
-- [haskell-beam/beam](https://github.com/haskell-beam/beam) - A type-safe, non-TH Haskell SQL library and ORM
+- [haskell-beam/beam](https://github.com/haskell-beam/beam) - A type-safe Haskell SQL library
 - [schell/steeloverseer](https://github.com/schell/steeloverseer) - A file watcher and development tool.
 - [fosskers/scalaz-and-cats](https://github.com/fosskers/scalaz-and-cats) - Usage examples and benchmarks between Scalaz and Cats (w/ Haskell ground-truth).
 - [jtdaugherty/brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI library written in Haskell
@@ -6190,7 +6190,7 @@
 - [sqitchers/sqitch](https://github.com/sqitchers/sqitch) - Sensible database change management
 - [nikita-volkov/hasql-th](https://github.com/nikita-volkov/hasql-th) - Template Haskell utilities for Hasql
 - [nikita-volkov/hasql](https://github.com/nikita-volkov/hasql) - The fastest PostgreSQL libpq-based driver for Haskell
-- [haskell-beam/beam](https://github.com/haskell-beam/beam) - A type-safe, non-TH Haskell SQL library and ORM
+- [haskell-beam/beam](https://github.com/haskell-beam/beam) - A type-safe Haskell SQL library
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [valderman/selda](https://github.com/valderman/selda) - A type-safe, high-level SQL library for Haskell
 - [cocreature/postgresql-named](https://github.com/cocreature/postgresql-named) - Deserialize PostgreSQL rows to Haskell records by matching column names and record field names
@@ -6994,7 +6994,7 @@
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 - [craftcms/query](https://github.com/craftcms/query) - Run SQL queries as an admin from the Craft CMS control panel.
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
-- [haskell-beam/beam](https://github.com/haskell-beam/beam) - A type-safe, non-TH Haskell SQL library and ORM
+- [haskell-beam/beam](https://github.com/haskell-beam/beam) - A type-safe Haskell SQL library
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [valderman/selda](https://github.com/valderman/selda) - A type-safe, high-level SQL library for Haskell
@@ -7023,7 +7023,7 @@
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 - [sqitchers/sqitch](https://github.com/sqitchers/sqitch) - Sensible database change management
-- [haskell-beam/beam](https://github.com/haskell-beam/beam) - A type-safe, non-TH Haskell SQL library and ORM
+- [haskell-beam/beam](https://github.com/haskell-beam/beam) - A type-safe Haskell SQL library
 - [valderman/selda](https://github.com/valderman/selda) - A type-safe, high-level SQL library for Haskell
 
 ## statistics 
