@@ -441,7 +441,7 @@
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
-- [zoidyzoidzoid/awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) - A curated list of awesome projects related to eBPF.
+- [qmonnet/awesome-ebpf](https://github.com/qmonnet/awesome-ebpf) - A curated list of awesome projects related to eBPF.
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [steren/awesome-cloud-run](https://github.com/steren/awesome-cloud-run) - 👓 ⏩ A curated list of resources about all things Cloud Run
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -488,7 +488,7 @@
 - [ChessMax/awesome-programming-languages](https://github.com/ChessMax/awesome-programming-languages) - The list of awesome programming languages that you might be interested in.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
-- [zoidyzoidzoid/awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) - A curated list of awesome projects related to eBPF.
+- [qmonnet/awesome-ebpf](https://github.com/qmonnet/awesome-ebpf) - A curated list of awesome projects related to eBPF.
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [steren/awesome-cloud-run](https://github.com/steren/awesome-cloud-run) - 👓 ⏩ A curated list of resources about all things Cloud Run
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -2028,7 +2028,6 @@
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes
 - [ChrisPenner/lens-csv](https://github.com/ChrisPenner/lens-csv) - Lensy interface for parsing CSV's
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
-- [zoidyzoidzoid/awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) - A curated list of awesome projects related to eBPF.
 - [Avi-D-coder/implicit-hie](https://github.com/Avi-D-coder/implicit-hie) - Auto generate a stack or cabal multi component hie.yaml file
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
@@ -5480,7 +5479,7 @@
 - [kfl/bigish](https://github.com/kfl/bigish) - Example code working with bigish data in the browser. Using crossfilter and other libraries.
 - [kfl/verified-monkey-island](https://github.com/kfl/verified-monkey-island) - 
 - [jpetazzo/nsenter](https://github.com/jpetazzo/nsenter) - 
-- [AshKyd/polar-defense](https://github.com/AshKyd/polar-defense) - A 2d fixed shooter space invaders style on a miniature planet. https://ash.ms/polar-defense
+- [AshKyd/polar-defender](https://github.com/AshKyd/polar-defender) - A 2d fixed shooter space invaders style on a miniature planet. https://polar-defender.kyd.au/polar-defense
 - [vmware-archive/windtunnel](https://github.com/vmware-archive/windtunnel) - A tool for stress testing cloud application platforms.
 - [Ravenbrook/mlworks](https://github.com/Ravenbrook/mlworks) - MLWorks is a Standard ML compiler and development environment.
 - [SMLFamily/The-Definition-of-Standard-ML](https://github.com/SMLFamily/The-Definition-of-Standard-ML) - The Definition of Standard ML (1990)
