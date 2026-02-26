@@ -2586,7 +2586,7 @@
 - [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [MithrilJS/mithril.js](https://github.com/MithrilJS/mithril.js) - A JavaScript Framework for Building Brilliant Applications
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - React-based framework with performance, scalability, and security built in.
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [wereHamster/nauva](https://github.com/wereHamster/nauva) - 
@@ -2642,7 +2642,7 @@
 - [remy/min.js](https://github.com/remy/min.js) - Super minimal selector and event library
 - [remy/jsconsole](https://github.com/remy/jsconsole) - Web based console - for presentations and workshops
 - [kfl/bigish](https://github.com/kfl/bigish) - Example code working with bigish data in the browser. Using crossfilter and other libraries.
-- [AshKyd/polar-defense](https://github.com/AshKyd/polar-defense) - A 2d fixed shooter space invaders style on a miniature planet. https://ash.ms/polar-defense
+- [AshKyd/polar-defender](https://github.com/AshKyd/polar-defender) - A 2d fixed shooter space invaders style on a miniature planet. https://polar-defender.kyd.au/polar-defense
 - [ruipgil/scraperjs](https://github.com/ruipgil/scraperjs) - A complete and versatile web scraper.
 - [internetarchive/bookreader](https://github.com/internetarchive/bookreader) - The Internet Archive BookReader
 - [c3js/c3](https://github.com/c3js/c3) - :bar_chart: A D3-based reusable chart library
@@ -3146,7 +3146,7 @@
 - [googleapis/nodejs-speech](https://github.com/googleapis/nodejs-speech) - This repository is deprecated. All of its content and history has been moved to googleapis/google-cloud-node.
 - [cncf/curriculum](https://github.com/cncf/curriculum) - 📚Open Source Curriculum for CNCF Certification Courses
 - [stakater/til](https://github.com/stakater/til) - :memo: Today I Learned
-- [zoidyzoidzoid/awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) - A curated list of awesome projects related to eBPF.
+- [qmonnet/awesome-ebpf](https://github.com/qmonnet/awesome-ebpf) - A curated list of awesome projects related to eBPF.
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [kowainik/.github](https://github.com/kowainik/.github) - 💊 Default health files
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
