@@ -1151,7 +1151,7 @@
 - [koka-lang/madoko](https://github.com/koka-lang/madoko) - Madoko is a fast markdown processor for high quality academic and technical articles
 - [dwyl/learn-elm](https://github.com/dwyl/learn-elm) - :rainbow: discover the beautiful programming language that makes front-end web apps a joy to build and maintain!
 - [acoustep/ember-cli-foundation-6-sass](https://github.com/acoustep/ember-cli-foundation-6-sass) - 
-- [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template
+- [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template Built for AI-Assisted Development
 - [jespercockx/ohrid19-agda](https://github.com/jespercockx/ohrid19-agda) - Material for the Agda course at the EUTYPES Summer School '19 in Ohrid
 - [jespercockx/popl19-tutorial](https://github.com/jespercockx/popl19-tutorial) - Files for the tutorial "Correct-by-construction programming in Agda" at POPL '19 in Cascais
 - [gfxfundamentals/webgl-fundamentals](https://github.com/gfxfundamentals/webgl-fundamentals) - WebGL lessons that start with the basics
@@ -2464,7 +2464,7 @@
 - [ember-cli/ember-new-output](https://github.com/ember-cli/ember-new-output) - Change history of new Ember-CLI apps
 - [bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
 - [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 5 components
-- [coreui/coreui-free-react-admin-template](https://github.com/coreui/coreui-free-react-admin-template) - Open source admin template based on Bootstrap 5 and React.js
+- [coreui/coreui-free-react-admin-template](https://github.com/coreui/coreui-free-react-admin-template) - Free React Admin & Dashboard Template Built for AI-Assisted Development
 - [redux-saga/redux-saga](https://github.com/redux-saga/redux-saga) - An alternative side effect model for Redux apps
 - [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
 - [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
