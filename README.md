@@ -2405,7 +2405,7 @@
 - [functionaljava/functionaljava](https://github.com/functionaljava/functionaljava) - Functional programming in Java
 - [seph-lang/seph](https://github.com/seph-lang/seph) - Seph is a language experiment for the slightly crazy lunatic
 - [robheittman/scalagwt-sample](https://github.com/robheittman/scalagwt-sample) - Sample Scala+GWT project
-- [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) - Stream Real Time and LLM response data over WebSocket, SSE, and the MCP protocol
+- [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) - The transport-agnostic real-time framework for the JVM. WebSocket, SSE, Long-Polling, gRPC, MCP — one API, any transport.
 - [mbien/jake2](https://github.com/mbien/jake2) - Jake2 is a port of the Quake2 game engine to java.
 - [lexspoon/scalagwt-gwt](https://github.com/lexspoon/scalagwt-gwt) - This repository holds a temporary fork of GWT to add support for Scala.
 - [hraberg/enumerable](https://github.com/hraberg/enumerable) - Ruby/Smalltalk style internal iterators for Java 5 using bytecode transformation to capture expressions as closures.
@@ -3457,6 +3457,7 @@
 
 ## Python 
 
+- [CSSLab/maia-chess](https://github.com/CSSLab/maia-chess) - Maia is a human-like neural network chess engine trained on millions of human games.
 - [byztxt/byzantine-majority-text](https://github.com/byztxt/byzantine-majority-text) - Byzantine Majority Greek New Testament text edited by Robinson and Pierpont, with morphological parsing tags and Strong's numbers
 - [substrait-io/substrait](https://github.com/substrait-io/substrait) - A cross platform way to express data transformation, relational algebra, standardized record expression and plans.
 - [Wirasm/PRPs-agentic-eng](https://github.com/Wirasm/PRPs-agentic-eng) - Prompts, workflows and more for agentic engineering
