@@ -300,7 +300,6 @@
 - [thomasahle/sunfish](https://github.com/thomasahle/sunfish) - Sunfish: a Python Chess Engine in 111 lines of code
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [JabRef/jabref](https://github.com/JabRef/jabref) - Graphical Java application for managing BibTeX and BibLaTeX (.bib) databases
-- [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) - Stream Real Time and LLM response data over WebSocket, SSE, and the MCP protocol
 
 ## ai-agents 
 
@@ -1197,6 +1196,7 @@
 
 ## deep-learning 
 
+- [CSSLab/maia-chess](https://github.com/CSSLab/maia-chess) - Maia is a human-like neural network chess engine trained on millions of human games.
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
@@ -2619,7 +2619,7 @@
 - [apache/activemq-apollo](https://github.com/apache/activemq-apollo) - Mirror of Apache ActiveMQ Apollo
 - [dropwizard/dropwizard](https://github.com/dropwizard/dropwizard) - A damn simple library for building production-ready RESTful web services.
 - [functionaljava/functionaljava](https://github.com/functionaljava/functionaljava) - Functional programming in Java
-- [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) - Stream Real Time and LLM response data over WebSocket, SSE, and the MCP protocol
+- [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) - The transport-agnostic real-time framework for the JVM. WebSocket, SSE, Long-Polling, gRPC, MCP — one API, any transport.
 - [dropwizard/metrics](https://github.com/dropwizard/metrics) - :chart_with_upwards_trend: Capturing JVM- and application-level metrics. So you know what's going on.
 
 ## javafx 
@@ -3108,6 +3108,7 @@
 
 ## machine-learning 
 
+- [CSSLab/maia-chess](https://github.com/CSSLab/maia-chess) - Maia is a human-like neural network chess engine trained on millions of human games.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale
 - [xorq-labs/xorq](https://github.com/xorq-labs/xorq) - A compute manifest and composable tools for data, built on Ibis, DataFusion, and Arrow Flight.
@@ -3218,7 +3219,7 @@
 - [Aaronontheweb/mssql-mcp](https://github.com/Aaronontheweb/mssql-mcp) - MSSQL Server MCP implementation written in C#
 - [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Rust Performance Profiler & Channels Monitoring Toolkit (TUI, MCP)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) - Stream Real Time and LLM response data over WebSocket, SSE, and the MCP protocol
+- [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) - The transport-agnostic real-time framework for the JVM. WebSocket, SSE, Long-Polling, gRPC, MCP — one API, any transport.
 
 ## microservices 
 
@@ -6959,7 +6960,7 @@
 
 - [mirkosertic/flight-recorder-starter](https://github.com/mirkosertic/flight-recorder-starter) - This is a Spring Boot 2/3/4 Starter exposing the JDK Flight Recorder as a Spring Boot Actuator Endpoint.
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
-- [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) - Stream Real Time and LLM response data over WebSocket, SSE, and the MCP protocol
+- [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) - The transport-agnostic real-time framework for the JVM. WebSocket, SSE, Long-Polling, gRPC, MCP — one API, any transport.
 
 ## sql 
 
