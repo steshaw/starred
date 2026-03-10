@@ -40,6 +40,7 @@
 - [Flix](#flix)
 - [Frege](#frege)
 - [Go](#go)
+- [Go Template](#go-template)
 - [Gosu](#gosu)
 - [Groovy](#groovy)
 - [HCL](#hcl)
@@ -944,7 +945,7 @@
 - [jwplayer/buildpipe-buildkite-plugin](https://github.com/jwplayer/buildpipe-buildkite-plugin) - :shipit: Dynamically generate Buildkite pipelines based on project changes
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [Mic92/nix-build-uncached](https://github.com/Mic92/nix-build-uncached) - A CI friendly wrapper around nix-build.
-- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [rhu1/fgg](https://github.com/rhu1/fgg) - Mini prototype of FG/FGG/FGR in Go.
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics.
 - [pulumi/pulumi-kubernetes](https://github.com/pulumi/pulumi-kubernetes) - A Pulumi resource provider for Kubernetes to manage API resources and workloads in running clusters
@@ -1105,6 +1106,10 @@
 - [calavera/active-proxy](https://github.com/calavera/active-proxy) - Dynamic reverse proxy
 - [goraft/raft](https://github.com/goraft/raft) - UNMAINTAINED: A Go implementation of the Raft distributed consensus protocol.
 - [ha/doozerd](https://github.com/ha/doozerd) - A consistent distributed data store.
+
+## Go Template 
+
+- [twpayne/dotfiles](https://github.com/twpayne/dotfiles) - My dotfiles, managed with https://chezmoi.io.
 
 ## Gosu 
 
@@ -2590,7 +2595,6 @@
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [wereHamster/nauva](https://github.com/wereHamster/nauva) - 
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [fpco/ghcjs-react](https://github.com/fpco/ghcjs-react) - React bindings for GHCJS
 - [vuejs/vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0) - HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering
 - [haskell-github-trust/ekg](https://github.com/haskell-github-trust/ekg) - Remote monitoring of running processes over HTTP
@@ -4228,7 +4232,6 @@
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [mchav/with](https://github.com/mchav/with) - Command prefixing for continuous workflow using a single tool.
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
-- [twpayne/dotfiles](https://github.com/twpayne/dotfiles) - My dotfiles, managed with https://chezmoi.io.
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [titzer/virgil](https://github.com/titzer/virgil) - A fast and lightweight native programming language
 - [steshaw/shelly](https://github.com/steshaw/shelly) - 🐚 Dotfiles and shell utilities
@@ -4617,6 +4620,7 @@
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [eclipse-che/che](https://github.com/eclipse-che/che) - Kubernetes based Cloud Development Environments for Enterprise Teams
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [atom-haskell/ide-haskell](https://github.com/atom-haskell/ide-haskell) - Haskell IDE plugin for Atom editor
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
