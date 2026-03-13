@@ -464,6 +464,8 @@
 
 ## C++ 
 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
+- [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
@@ -1174,7 +1176,6 @@
 - [mmai/Category-Theory-for-the-Sciences](https://github.com/mmai/Category-Theory-for-the-Sciences) - ebook versions of the book "Category Theory for the Sciences" by David I. Spivak
 - [jbeda/eightypercent](https://github.com/jbeda/eightypercent) - 
 - [slashsbin/styleguide-git-commit-message](https://github.com/slashsbin/styleguide-git-commit-message) - /sBin/StyleGuide/Git/CommitMessage
-- [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [sordina/compose_melbourne_2017_haskell_workshop](https://github.com/sordina/compose_melbourne_2017_haskell_workshop) - 
 - [WebReflection/hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative
 - [ehmicky/cv-website](https://github.com/ehmicky/cv-website) - Static page with my CV website
@@ -2539,6 +2540,7 @@
 - [sdelements/lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
 - [wallaby-rails/wallaby-rails](https://github.com/wallaby-rails/wallaby-rails) - Autocomplete the resourceful actions and views for ORMs for admin interface and other purposes.
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
+- [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [nottsjs/www.nottsjs.org](https://github.com/nottsjs/www.nottsjs.org) - Source Code for the NottsJS website and part of the Build a Real Website with React Project.
 - [sindresorhus/conduct](https://github.com/sindresorhus/conduct) - 🖖 Generate a Code of Conduct for your project
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
@@ -2595,6 +2597,7 @@
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [wereHamster/nauva](https://github.com/wereHamster/nauva) - 
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [fpco/ghcjs-react](https://github.com/fpco/ghcjs-react) - React bindings for GHCJS
 - [vuejs/vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0) - HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering
 - [haskell-github-trust/ekg](https://github.com/haskell-github-trust/ekg) - Remote monitoring of running processes over HTTP
@@ -3600,6 +3603,7 @@
 
 ## QML 
 
+- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 
 ## Racket 
@@ -4620,7 +4624,6 @@
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [eclipse-che/che](https://github.com/eclipse-che/che) - Kubernetes based Cloud Development Environments for Enterprise Teams
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [atom-haskell/ide-haskell](https://github.com/atom-haskell/ide-haskell) - Haskell IDE plugin for Atom editor
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
