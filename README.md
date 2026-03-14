@@ -1829,7 +1829,6 @@
 - [Daniel-Diaz/HaTeX](https://github.com/Daniel-Diaz/HaTeX) - The Haskell LaTeX library.
 - [bjornbm/dimensional](https://github.com/bjornbm/dimensional) - Dimensional library variant built on Data Kinds, Closed Type Families, TypeNats (GHC 7.8+).
 - [qfpl/applied-fp-course](https://github.com/qfpl/applied-fp-course) - Applied Functional Programming Course - Move from exercises to a working app!
-- [system-f/papa](https://github.com/system-f/papa) - Reasonable Haskell default import
 - [text-utf8/text-utf8](https://github.com/text-utf8/text-utf8) - An efficient packed, immutable UTF8-backed Unicode text type for Haskell
 - [snowleopard/hadrian](https://github.com/snowleopard/hadrian) - Hadrian: a new build system for the Glasgow Haskell Compiler. Now merged into the GHC tree!
 - [haskell-suite/haskell-tc](https://github.com/haskell-suite/haskell-tc) - Haskell typechecker
@@ -2273,7 +2272,7 @@
 - [mirkosertic/flight-recorder-starter](https://github.com/mirkosertic/flight-recorder-starter) - This is a Spring Boot 2/3/4 Starter exposing the JDK Flight Recorder as a Spring Boot Actuator Endpoint.
 - [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg
 - [apache/dubbo](https://github.com/apache/dubbo) - The java implementation of Apache Dubbo. An RPC and microservice framework.
-- [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
+- [apache/kafka](https://github.com/apache/kafka) - Apache Kafka - A distributed event streaming platform
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
 - [apache/hive](https://github.com/apache/hive) - Apache Hive
 - [apache/geode](https://github.com/apache/geode) - Apache Geode
@@ -3237,6 +3236,7 @@
 - [gasche/popl2018-papers](https://github.com/gasche/popl2018-papers) - Link to preprints for POPL'18 and colocated events
 - [DataHaskell/awesome-haskell-ml](https://github.com/DataHaskell/awesome-haskell-ml) - 📚 - Resources for Machine Learning and Haskell
 - [robbinch/Papers](https://github.com/robbinch/Papers) - A collection of papers, theses, and books (in PDF format) on Haskell, Type Theory, Category Theory, FRP, and other FPs related topics
+- [system-f/papa](https://github.com/system-f/papa) - Reasonable Haskell default import
 - [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
 - [xgrommx/awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) - Yet another resource for collecting articles, videos etc. regarding functional programming
 - [aimacode/aima-data](https://github.com/aimacode/aima-data) - Data files to accompany the algorithms from Norvig And Russell's "Artificial Intelligence - A Modern Approach"
@@ -3472,7 +3472,7 @@
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [apache/buildstream](https://github.com/apache/buildstream) - BuildStream, the software integration tool
-- [xorq-labs/xorq](https://github.com/xorq-labs/xorq) - A compute manifest and composable tools for data, built on Ibis, DataFusion, and Arrow Flight.
+- [xorq-labs/xorq](https://github.com/xorq-labs/xorq) - Composable tools for data
 - [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
 - [arecarn/dploy](https://github.com/arecarn/dploy) - Provides the functionality of GNU Stow in a cross platform CLI tool and python module
 - [jython/jython](https://github.com/jython/jython) - Python for the Java Platform
