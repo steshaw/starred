@@ -2936,7 +2936,6 @@
 - [jmpunkt/nixos-conf](https://github.com/jmpunkt/nixos-conf) - 
 - [NixOS/nixpkgs-channels](https://github.com/NixOS/nixpkgs-channels) - DEPRECATED! Use NixOS/nixpkgs repository instead.
 - [Gabriella439/simple-twitter](https://github.com/Gabriella439/simple-twitter) - A bare-bones Twitter clone implemented in a single file
-- [malob/nix-config](https://github.com/malob/nix-config) - My Nix system configs!
 - [xtruder/kubenix](https://github.com/xtruder/kubenix) - Replaced by https://github.com/hall/kubenix
 - [cleverca22/not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
 - [input-output-hk/stackage.nix](https://github.com/input-output-hk/stackage.nix) - Automatically generated Nix expressions of Stackage snapshots
@@ -3216,7 +3215,7 @@
 - [sjsyrek/haskell-study-startup](https://github.com/sjsyrek/haskell-study-startup) - Launch your own Haskell study group. Now.
 - [dannyfritz/commit-message-emoji](https://github.com/dannyfritz/commit-message-emoji) - Every commit is important. So let's celebrate each and every commit with a corresponding emoji! :smile:
 - [nbro/understanding-math](https://github.com/nbro/understanding-math) - Links to resources talking about how to learn & understand mathematics, and mathematical language, terminology and notation.
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL SEPTEMBER]
 - [proudcloud/awesome](https://github.com/proudcloud/awesome) - What makes Proudcloud awesome.
 - [feedbackfruits/seriouspizzas](https://github.com/feedbackfruits/seriouspizzas) - 
 - [yallop/effects-bibliography](https://github.com/yallop/effects-bibliography) - A collaborative bibliography of work related to the theory and practice of computational effects
@@ -3472,7 +3471,7 @@
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [apache/buildstream](https://github.com/apache/buildstream) - BuildStream, the software integration tool
-- [xorq-labs/xorq](https://github.com/xorq-labs/xorq) - Composable tools for data
+- [xorq-labs/xorq](https://github.com/xorq-labs/xorq) - Composable expressions for data pipelines
 - [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
 - [arecarn/dploy](https://github.com/arecarn/dploy) - Provides the functionality of GNU Stow in a cross platform CLI tool and python module
 - [jython/jython](https://github.com/jython/jython) - Python for the Java Platform
@@ -3522,6 +3521,7 @@
 - [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [bear/python-twitter](https://github.com/bear/python-twitter) - A Python wrapper around the Twitter API.
+- [malob/nix-config](https://github.com/malob/nix-config) - My Nix system configs!
 - [bjpop/language-python](https://github.com/bjpop/language-python) - A parser for Python 2.x and 3.x written in Haskell
 - [madjar/nox](https://github.com/madjar/nox) - Tools to make nix nicer to use
 - [lucas-flowers/gnu2bsd](https://github.com/lucas-flowers/gnu2bsd) - Convert GNU LS_COLORS to BSD LSCOLORS for use with BSD ls
