@@ -555,7 +555,6 @@
 - [scylladb/seastar](https://github.com/scylladb/seastar) - High performance server-side application framework
 - [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
-- [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine
 - [intel/idlf](https://github.com/intel/idlf) - Intel® Deep Learning Framework
 - [tanakh/bjne](https://github.com/tanakh/bjne) - Beautiful Japanese NES Emulator
@@ -4406,6 +4405,7 @@
 - [andybest/linenoise-swift](https://github.com/andybest/linenoise-swift) - A pure Swift replacement for readline
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command-line interface
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
+- [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [thoughtbot/Argo](https://github.com/thoughtbot/Argo) - Functional JSON parsing library for Swift
 
 ## Tcl 
