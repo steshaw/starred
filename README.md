@@ -962,7 +962,6 @@
 - [kubermatic/machine-controller](https://github.com/kubermatic/machine-controller) - 
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.
 - [rackn/terraform-provider-drp](https://github.com/rackn/terraform-provider-drp) - Terraform Provider for Digital Rebar Provision
-- [digitalrebar/provision](https://github.com/digitalrebar/provision) - Docs, API bindings, clients and integrations supporting RackN Digital Rebar data center provisioning and workflow system.
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [99designs/keyring](https://github.com/99designs/keyring) - Go library providing a uniform interface across a range of secure credential stores
@@ -4252,7 +4251,6 @@
 - [colhom/coreos-docs](https://github.com/colhom/coreos-docs) - Documentation for CoreOS in markdown
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
 - [fossas/spectrometer](https://github.com/fossas/spectrometer) - Flexible, robust, and performant dependency analysis.
-- [digitalrebar/provision-content](https://github.com/digitalrebar/provision-content) - DigitalRebar Provision Content
 - [fpco/devops-helpers](https://github.com/fpco/devops-helpers) - Devops helper scripts
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [arialdomartini/oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh
@@ -4562,7 +4560,7 @@
 - [reduxjs/reselect](https://github.com/reduxjs/reselect) - Selector library for Redux
 - [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
-- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.
 - [devias-io/material-kit-react](https://github.com/devias-io/material-kit-react) - React Dashboard made with Material UI’s components. Our pro template contains features like TypeScript version, authentication system with Firebase and Auth0 plus many other
 - [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
