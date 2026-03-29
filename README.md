@@ -3003,7 +3003,7 @@
 - [inhabitedtype/angstrom](https://github.com/inhabitedtype/angstrom) - Parser combinators built for speed and memory efficiency
 - [logseq/mldoc](https://github.com/logseq/mldoc) - Another Emacs Org-mode and Markdown parser.
 - [tarides/runtime_events_tools](https://github.com/tarides/runtime_events_tools) - 
-- [ocaml-multicore/ocaml5-tutorial](https://github.com/ocaml-multicore/ocaml5-tutorial) - A hands-on tutorial on the new parallelism features in OCaml 5
+- [ocaml-multicore/ocaml5-parallelism-tutorial](https://github.com/ocaml-multicore/ocaml5-parallelism-tutorial) - A hands-on tutorial on the new parallelism features in OCaml 5
 - [janestreet/patdiff](https://github.com/janestreet/patdiff) - File Diff using the Patience Diff algorithm. https://opensource.janestreet.com/patdiff/
 - [ocurrent/ocurrent](https://github.com/ocurrent/ocurrent) - Keeps things up-to-date (a CI/CD pipeline OCaml eDSL)
 - [melange-re/melange](https://github.com/melange-re/melange) - A mixture of tooling combined to produce JavaScript from OCaml & Reason
@@ -3744,7 +3744,6 @@
 - [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista) - Apache DataFusion Ballista Distributed Query Engine
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
-- [symposium-dev/symposium](https://github.com/symposium-dev/symposium) - AI the Rust Way
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [apache/iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
@@ -3768,7 +3767,7 @@
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [tower-lsp-community/tower-lsp-server](https://github.com/tower-lsp-community/tower-lsp-server) - Language Server Protocol implementation for Rust based on Tower
-- [awslabs/aws-lambda-web-adapter](https://github.com/awslabs/aws-lambda-web-adapter) - Run web applications on AWS Lambda
+- [aws/aws-lambda-web-adapter](https://github.com/aws/aws-lambda-web-adapter) - Run web applications on AWS Lambda
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
 - [morphic-lang/morphic](https://github.com/morphic-lang/morphic) - Pure functional programming with whole-program mutability inference
 - [typst/biblatex](https://github.com/typst/biblatex) - A Rust crate for parsing and writing BibTeX and BibLaTeX files.
@@ -3827,7 +3826,7 @@
 - [dcreager/expression-problem-rust](https://github.com/dcreager/expression-problem-rust) - Exploring the "expression problem" in Rust
 - [facebookexperimental/hermit](https://github.com/facebookexperimental/hermit) - Hermit launches linux x86_64 programs in a special, hermetically isolated sandbox to control their execution. Hermit translates normal, nondeterministic behavior, into deterministic, repeatable behavi
 - [zesterer/tao](https://github.com/zesterer/tao) - A statically-typed functional language with generics, typeclasses, sum types, pattern-matching, first-class functions, currying, algebraic effects, associated types, good diagnostics, etc.
-- [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
+- [zesterer/ariadne](https://github.com/zesterer/ariadne) - [Ariadne has moved to Codeberg!] A fancy diagnostics & error reporting crate
 - [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [rkuhn/acto](https://github.com/rkuhn/acto) - Actor library for Rust
@@ -4031,7 +4030,7 @@
 - [getkyo/kyo](https://github.com/getkyo/kyo) - Toolkit for Scala Development
 - [pniederw/expecty](https://github.com/pniederw/expecty) - Power assertions (as known from Groovy and Spock) for the Scala language.
 - [hkust-taco/mlstruct](https://github.com/hkust-taco/mlstruct) - Codebase for the paper "MLstruct: Principal Type Inference in a Boolean Algebra of Structural Types"
-- [rcardin/yaes](https://github.com/rcardin/yaes) - An experimental effect system in Scala 3 that tracks effects through context functions
+- [rcardin/yaes](https://github.com/rcardin/yaes) - A direct-style effect system in Scala 3 that tracks effects
 - [monix/monix](https://github.com/monix/monix) - Asynchronous, Reactive Programming for Scala and Scala.js.
 - [plokhotnyuk/jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of safe and ultra-fast JSON codecs + circe booster
 - [scalameta/mdoc](https://github.com/scalameta/mdoc) - Typechecked markdown documentation for Scala
@@ -4232,6 +4231,7 @@
 ## Shell 
 
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
+- [symposium-dev/symposium](https://github.com/symposium-dev/symposium) - AI the Rust Way
 - [mchav/with](https://github.com/mchav/with) - Command prefixing for continuous workflow using a single tool.
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
@@ -4690,7 +4690,6 @@
 ## Vue 
 
 - [budgetzero/budgetzero](https://github.com/budgetzero/budgetzero) - Open-source, self-hosted, zero-based budgeting.
-- [palant/pfp](https://github.com/palant/pfp) - A simple and secure browser extension to be used with KeePass databases.
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 
 ## WebAssembly 
