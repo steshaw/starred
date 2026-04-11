@@ -468,7 +468,7 @@
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
-- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
+- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
 - [ONLYOFFICE/core](https://github.com/ONLYOFFICE/core) - Server core components which are a part of ONLYOFFICE Document Server
@@ -2409,7 +2409,7 @@
 - [functionaljava/functionaljava](https://github.com/functionaljava/functionaljava) - Functional programming in Java
 - [seph-lang/seph](https://github.com/seph-lang/seph) - Seph is a language experiment for the slightly crazy lunatic
 - [robheittman/scalagwt-sample](https://github.com/robheittman/scalagwt-sample) - Sample Scala+GWT project
-- [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) - Real-time transport layer for Java AI agents. Build once with @Agent — deliver over WebSocket, SSE, gRPC, MCP, A2A, AG-UI, or any transport. Works with Spring AI, LangChain4j, Google ADK, Embabel, Koo
+- [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) - Real-time transport layer for Java AI agents. Build once with @Agent — deliver over WebSocket, SSE, gRPC, and WebTransport/HTTP3. Talk MCP, A2A and AG-UI.
 - [mbien/jake2](https://github.com/mbien/jake2) - Jake2 is a port of the Quake2 game engine to java.
 - [lexspoon/scalagwt-gwt](https://github.com/lexspoon/scalagwt-gwt) - This repository holds a temporary fork of GWT to add support for Scala.
 - [hraberg/enumerable](https://github.com/hraberg/enumerable) - Ruby/Smalltalk style internal iterators for Java 5 using bytecode transformation to capture expressions as closures.
@@ -3875,7 +3875,7 @@
 - [BurntSushi/fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers.
 - [nix-community/nix-user-chroot](https://github.com/nix-community/nix-user-chroot) - Install & Run nix without root permissions [maintainer=@Mic92]
 - [tox-rs/tox](https://github.com/tox-rs/tox) - toxcore implementation in Rust
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [sampsyo/bril](https://github.com/sampsyo/bril) - an educational compiler intermediate representation
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
 - [rbakbashev/elfcat](https://github.com/rbakbashev/elfcat) - ELF visualizer. Generates HTML files from ELF binaries.
