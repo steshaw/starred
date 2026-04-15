@@ -402,7 +402,6 @@
 - [mjolnirapp/mjolnir](https://github.com/mjolnirapp/mjolnir) - Lightweight automation and productivity app for OS X
 - [penberg/wolf](https://github.com/penberg/wolf) - Wolf, a raycasting engine for pseudo 3D games.
 - [blitz-research/monkey](https://github.com/blitz-research/monkey) - Blitz Research Monkey Source
-- [herbenderbler/algorithms](https://github.com/herbenderbler/algorithms) - A repository of assorted algorithms and data structures.
 - [seL4/seL4](https://github.com/seL4/seL4) - The seL4 microkernel
 - [FreeApophis/TrueCrypt](https://github.com/FreeApophis/TrueCrypt) - This repository applies all Versions of the Original TrueCrypt Source Files in order
 - [aliceml/aliceml-seam-support](https://github.com/aliceml/aliceml-seam-support) - Support files for building the SEAM VM
