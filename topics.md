@@ -1036,7 +1036,7 @@
 - [pstadler/keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) - Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and using it with Git and GitHub.
 - [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
 - [sdiehl/bulletproofs](https://github.com/sdiehl/bulletproofs) - Bulletproofs are short non-interactive zero-knowledge proofs that require no trusted setup
-- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+- [openssl/openssl](https://github.com/openssl/openssl) - General purpose TLS and crypto library
 - [haskell-cryptography/HsOpenSSL](https://github.com/haskell-cryptography/HsOpenSSL) - OpenSSL binding for Haskell
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [libressl/portable](https://github.com/libressl/portable) - LibreSSL Portable itself. This includes the build scaffold and compatibility layer that builds portable LibreSSL from the OpenBSD source code. Pull requests or patches sent to tech@openbsd.org are wel
@@ -1734,7 +1734,7 @@
 - [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 - [mirage/irmin](https://github.com/mirage/irmin) - Irmin is a distributed database that follows the same design principles as Git
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [pieterlange/kube-backup](https://github.com/pieterlange/kube-backup) - :floppy_disk: Kubernetes resource state sync to git
@@ -5568,7 +5568,6 @@
 - [googlearchive/chromedeveditor](https://github.com/googlearchive/chromedeveditor) - Chrome Dev Editor is a developer tool for building apps on the Chrome platform - Chrome Apps and Web Apps, in JavaScript or Dart. (NO LONGER IN ACTIVE DEVELOPMENT)
 - [Matt-Esch/virtual-dom](https://github.com/Matt-Esch/virtual-dom) - A Virtual DOM and diffing algorithm
 - [sweirich/pi-forall](https://github.com/sweirich/pi-forall) - A demo implementation of a simple dependently-typed language
-- [herbenderbler/algorithms](https://github.com/herbenderbler/algorithms) - A repository of assorted algorithms and data structures.
 - [seL4/seL4](https://github.com/seL4/seL4) - The seL4 microkernel
 - [seL4/l4v](https://github.com/seL4/l4v) - seL4 specification and proofs
 - [mesos/chronos](https://github.com/mesos/chronos) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules
@@ -6685,7 +6684,7 @@
 - [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) - AWS SDK for the Rust Programming Language
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [srid/rust-nix-template](https://github.com/srid/rust-nix-template) - Rust project template with Nix (Flakes) and VSCode support
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [nickel-lang/nickel](https://github.com/nickel-lang/nickel) - Better configuration for less
 - [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
