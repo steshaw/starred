@@ -298,7 +298,7 @@
 - [dibyendumajumdar/ravi](https://github.com/dibyendumajumdar/ravi) - Ravi is a dialect of Lua, featuring limited optional static typing, JIT and AOT compilers
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
 - [libressl-zz/libressl](https://github.com/libressl-zz/libressl) - An unofficial mirror of the OpenBSD team's LibreSSL project (a fork of OpenSSL)
-- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+- [openssl/openssl](https://github.com/openssl/openssl) - General purpose TLS and crypto library
 - [googoogaga/goo](https://github.com/googoogaga/goo) - The Goo programming language.
 - [kivikakk/cmark-gfm-hs](https://github.com/kivikakk/cmark-gfm-hs) - Haskell bindings to libcmark-gfm GitHub Flavored Markdown parser
 - [varnishcache/varnish-cache](https://github.com/varnishcache/varnish-cache) - Varnish Cache source code repository
