@@ -1117,6 +1117,7 @@
 
 ## Groovy 
 
+- [pact-foundation/pact-jvm](https://github.com/pact-foundation/pact-jvm) - JVM version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
 - [Annotopia/Annotopia](https://github.com/Annotopia/Annotopia) - Annotopia Main Module
 - [progrium/buildstep](https://github.com/progrium/buildstep) - Buildstep uses Docker and Buildpacks to build applications like Heroku
 - [mperry/functionalgroovy](https://github.com/mperry/functionalgroovy) - Functional programming in Groovy
@@ -2781,7 +2782,6 @@
 
 - [square/wire](https://github.com/square/wire) - gRPC and protocol buffers for Android, Kotlin, Swift and Java.
 - [JetBrains/java-annotations](https://github.com/JetBrains/java-annotations) - Annotations for JVM-based languages.
-- [pact-foundation/pact-jvm](https://github.com/pact-foundation/pact-jvm) - JVM version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
 - [embabel/embabel-agent](https://github.com/embabel/embabel-agent) - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 - [ExoQuery/ExoQuery](https://github.com/ExoQuery/ExoQuery) - Language Integrated Query for Kotlin
 - [Kotlin/kotlin-lsp](https://github.com/Kotlin/kotlin-lsp) - Kotlin Language Server and plugin for Visual Studio Code
