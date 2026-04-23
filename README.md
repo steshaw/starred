@@ -1704,7 +1704,7 @@
 - [kazu-yamamoto/witty](https://github.com/kazu-yamamoto/witty) - A web server to show bottlenecks of GHC
 - [erikd/jenga](https://github.com/erikd/jenga) - Generate a cabal freeze file from a stack.yaml
 - [haskellnews/haskellnews](https://github.com/haskellnews/haskellnews) - An aggregation of all online content related to Haskell.
-- [composewell/streamly](https://github.com/composewell/streamly) - High performance, concurrent functional programming abstractions
+- [composewell/streamly](https://github.com/composewell/streamly) - High performance, streaming and concurrent functional programming abstractions
 - [kosmikus/SSGEP](https://github.com/kosmikus/SSGEP) - 
 - [well-typed/cborg](https://github.com/well-typed/cborg) - Binary serialisation in the CBOR format
 - [bos/pool](https://github.com/bos/pool) - A high-performance striped resource pooling implementation for Haskell
