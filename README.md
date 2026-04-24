@@ -3378,7 +3378,7 @@
 - [ezyang/htmlpurifier](https://github.com/ezyang/htmlpurifier) - Standards compliant HTML filter written in PHP
 - [craftcms/query](https://github.com/craftcms/query) - Run SQL queries as an admin from the Craft CMS control panel.
 - [craftcms/cms](https://github.com/craftcms/cms) - Build bespoke content experiences with Craft.
-- [opencats/OpenCATS](https://github.com/opencats/OpenCATS) - Applicant Tracking System (maintained code base)
+- [opencats/OpenCATS](https://github.com/opencats/OpenCATS) - Open-source applicant tracking system (ATS) and recruitment CRM for staffing agencies and hiring teams.
 - [PANmedia/raptor-editor](https://github.com/PANmedia/raptor-editor) - Raptor, an HTML5 WYSIWYG content editor!
 - [tinymce/tinymce_spellchecker_php](https://github.com/tinymce/tinymce_spellchecker_php) - TinyMCE Spellchecker for PHP
 - [tinymce/tinymce_compressor](https://github.com/tinymce/tinymce_compressor) - TinyMCE GZip Compressor Package
