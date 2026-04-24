@@ -2142,7 +2142,6 @@
 - [ember-bootstrap/ember-bootstrap](https://github.com/ember-bootstrap/ember-bootstrap) - Ember-cli addon for using Bootstrap as native Ember components.
 - [stackbuilders/dotenv-hs](https://github.com/stackbuilders/dotenv-hs) - Load environment variables from dotenv files for Haskell
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
-- [opencats/OpenCATS](https://github.com/opencats/OpenCATS) - Applicant Tracking System (maintained code base)
 - [xmonad/xmonad](https://github.com/xmonad/xmonad) - The core of xmonad, a small but functional ICCCM-compliant tiling window manager
 - [xmonad/X11](https://github.com/xmonad/X11) - A Haskell binding to the X11 graphics library.
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
@@ -2357,7 +2356,7 @@
 - [tweag/rules_haskell](https://github.com/tweag/rules_haskell) - Haskell rules for Bazel.
 - [swr1bm86/Ntha](https://github.com/swr1bm86/Ntha) - The Ntha Programming Language
 - [haskellnews/haskellnews](https://github.com/haskellnews/haskellnews) - An aggregation of all online content related to Haskell.
-- [composewell/streamly](https://github.com/composewell/streamly) - High performance, concurrent functional programming abstractions
+- [composewell/streamly](https://github.com/composewell/streamly) - High performance, streaming and concurrent functional programming abstractions
 - [well-typed/cborg](https://github.com/well-typed/cborg) - Binary serialisation in the CBOR format
 - [vmchale/command-line-tweeter](https://github.com/vmchale/command-line-tweeter) - Tweets in from a pipe
 - [tweag/hyperion](https://github.com/tweag/hyperion) - A lab for future Criterion features.
@@ -3336,6 +3335,7 @@
 - [sqitchers/sqitch](https://github.com/sqitchers/sqitch) - Sensible database change management
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur
+- [opencats/OpenCATS](https://github.com/opencats/OpenCATS) - Open-source applicant tracking system (ATS) and recruitment CRM for staffing agencies and hiring teams.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [twitter/finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system
 
@@ -6190,7 +6190,7 @@
 - [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
 - [craftcms/cms](https://github.com/craftcms/cms) - Build bespoke content experiences with Craft.
 - [wyveo/nginx-php-fpm](https://github.com/wyveo/nginx-php-fpm) - Nginx + PHP-FPM 8.2.x / 8.1.x / 8.0.x / 7.4.x / 7.3.x / 7.2.x / 7.1.x / 7.0.x + Composer built on Debian (Bullseye/Buster) image
-- [opencats/OpenCATS](https://github.com/opencats/OpenCATS) - Applicant Tracking System (maintained code base)
+- [opencats/OpenCATS](https://github.com/opencats/OpenCATS) - Open-source applicant tracking system (ATS) and recruitment CRM for staffing agencies and hiring teams.
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [apache/activemq-apollo](https://github.com/apache/activemq-apollo) - Mirror of Apache ActiveMQ Apollo
 
