@@ -82,6 +82,7 @@
 - [Others](#others)
 - [Oz](#oz)
 - [PHP](#php)
+- [PLpgSQL](#plpgsql)
 - [Pascal](#pascal)
 - [Perl](#perl)
 - [Pkl](#pkl)
@@ -3384,6 +3385,10 @@
 - [tinymce/tinymce_compressor](https://github.com/tinymce/tinymce_compressor) - TinyMCE GZip Compressor Package
 - [igstan/learn-you-some-erlang-kindle](https://github.com/igstan/learn-you-some-erlang-kindle) - Generate your own Kindle version of the "Learn You Some Erlang" book.
 
+## PLpgSQL 
+
+- [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system [maintainers=@dasj,@Ericson2314]
+
 ## Pascal 
 
 - [jrsoftware/issrc](https://github.com/jrsoftware/issrc) - Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its introduction in 1997, Inno Setup has been trusted by developers and organizatio
@@ -3402,7 +3407,6 @@
 - [spencertipping/ni](https://github.com/spencertipping/ni) - Say "ni" to data of any size
 - [sqitchers/sqitch](https://github.com/sqitchers/sqitch) - Sensible database change management
 - [thoughtbot/rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
-- [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system [maintainers=@dasj,@Ericson2314]
 - [mit-pdos/xv6-book](https://github.com/mit-pdos/xv6-book) - Commentary for xv6-public
 - [swcarpentry/DEPRECATED-bc](https://github.com/swcarpentry/DEPRECATED-bc) - DEPRECATED: This repository is now frozen - please see individual lesson repositories.
 - [benbernard/RecordStream](https://github.com/benbernard/RecordStream) - commandline tools for slicing and dicing JSON records.
