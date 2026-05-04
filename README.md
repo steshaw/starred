@@ -992,7 +992,7 @@
 - [powerman/dockerize](https://github.com/powerman/dockerize) - Utility to simplify running applications in docker containers
 - [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
+- [DNSControl/dnscontrol](https://github.com/DNSControl/dnscontrol) - Infrastructure as code for DNS!
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 - [h2non/imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
@@ -1118,7 +1118,6 @@
 
 ## Groovy 
 
-- [pact-foundation/pact-jvm](https://github.com/pact-foundation/pact-jvm) - JVM version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
 - [Annotopia/Annotopia](https://github.com/Annotopia/Annotopia) - Annotopia Main Module
 - [progrium/buildstep](https://github.com/progrium/buildstep) - Buildstep uses Docker and Buildpacks to build applications like Heroku
 - [mperry/functionalgroovy](https://github.com/mperry/functionalgroovy) - Functional programming in Groovy
@@ -2553,6 +2552,7 @@
 - [krausest/js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the performance of a few popular javascript frameworks
 - [s-a/license](https://github.com/s-a/license) - Central permanent hosted license details under your control
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 - [tylergaw/day-player](https://github.com/tylergaw/day-player) - A Sketch Plugin for creating placeholder images from online services.
 - [prose/prose](https://github.com/prose/prose) - A Content Editor for GitHub.
 - [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
@@ -2783,6 +2783,7 @@
 
 - [square/wire](https://github.com/square/wire) - gRPC and protocol buffers for Android, Kotlin, Swift and Java.
 - [JetBrains/java-annotations](https://github.com/JetBrains/java-annotations) - Annotations for JVM-based languages.
+- [pact-foundation/pact-jvm](https://github.com/pact-foundation/pact-jvm) - JVM version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
 - [embabel/embabel-agent](https://github.com/embabel/embabel-agent) - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 - [ExoQuery/ExoQuery](https://github.com/ExoQuery/ExoQuery) - Language Integrated Query for Kotlin
 - [Kotlin/kotlin-lsp](https://github.com/Kotlin/kotlin-lsp) - Kotlin Language Server and plugin for Visual Studio Code
@@ -2925,7 +2926,6 @@
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [codygman/haskell-nix-stack-workflow](https://github.com/codygman/haskell-nix-stack-workflow) - 
 - [shmish111/smoke-hill](https://github.com/shmish111/smoke-hill) - A package set of Idris libraries
-- [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [srid/nix-config](https://github.com/srid/nix-config) - My NixOS configuration (DEPRECATED)
 - [jkachmar/dotnix](https://github.com/jkachmar/dotnix) - Shackled within an elaborate prison of my own design.
 - [utdemir/hs-nix-template](https://github.com/utdemir/hs-nix-template) - A Haskell project template that uses Nix and comes with cabal-install, ghcid, ormolu, haskell-language-server and more.
@@ -2987,7 +2987,6 @@
 ## Nunjucks 
 
 - [la-rache/la-rache.com](https://github.com/la-rache/la-rache.com) - Site web
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 - [jamstack/jamstack.org](https://github.com/jamstack/jamstack.org) - The official Jamstack site
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 
@@ -3217,7 +3216,7 @@
 - [sjsyrek/haskell-study-startup](https://github.com/sjsyrek/haskell-study-startup) - Launch your own Haskell study group. Now.
 - [dannyfritz/commit-message-emoji](https://github.com/dannyfritz/commit-message-emoji) - Every commit is important. So let's celebrate each and every commit with a corresponding emoji! :smile:
 - [nbro/understanding-math](https://github.com/nbro/understanding-math) - Links to resources talking about how to learn & understand mathematics, and mathematical language, terminology and notation.
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL SEPTEMBER]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
 - [proudcloud/awesome](https://github.com/proudcloud/awesome) - What makes Proudcloud awesome.
 - [feedbackfruits/seriouspizzas](https://github.com/feedbackfruits/seriouspizzas) - 
 - [yallop/effects-bibliography](https://github.com/yallop/effects-bibliography) - A collaborative bibliography of work related to the theory and practice of computational effects
@@ -3485,7 +3484,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [dogweather/python-exhaustiveness-adts-monads](https://github.com/dogweather/python-exhaustiveness-adts-monads) - Demo code showing off the new true exhaustiveness checks with Python 3.10 + Pyright
@@ -4253,6 +4252,7 @@
 - [ahmetb/cloud-run-faq](https://github.com/ahmetb/cloud-run-faq) - Unofficial FAQ and everything you've been wondering about Google Cloud Run.
 - [adoyle-h/lobash](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility/library for Bash script development.
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
+- [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [pieterlange/kube-backup](https://github.com/pieterlange/kube-backup) - :floppy_disk: Kubernetes resource state sync to git
 - [colhom/coreos-docs](https://github.com/colhom/coreos-docs) - Documentation for CoreOS in markdown
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
