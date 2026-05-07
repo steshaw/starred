@@ -1704,7 +1704,7 @@
 - [kazu-yamamoto/witty](https://github.com/kazu-yamamoto/witty) - A web server to show bottlenecks of GHC
 - [erikd/jenga](https://github.com/erikd/jenga) - Generate a cabal freeze file from a stack.yaml
 - [haskellnews/haskellnews](https://github.com/haskellnews/haskellnews) - An aggregation of all online content related to Haskell.
-- [composewell/streamly](https://github.com/composewell/streamly) - High performance, streaming and concurrent functional programming abstractions
+- [composewell/streamly](https://github.com/composewell/streamly) - High performance, streaming and concurrent functional programming in Haskell
 - [kosmikus/SSGEP](https://github.com/kosmikus/SSGEP) - 
 - [well-typed/cborg](https://github.com/well-typed/cborg) - Binary serialisation in the CBOR format
 - [bos/pool](https://github.com/bos/pool) - A high-performance striped resource pooling implementation for Haskell
@@ -4322,7 +4322,7 @@
 - [liquidprompt/liquidprompt](https://github.com/liquidprompt/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [mietek/haskell-on-heroku](https://github.com/mietek/haskell-on-heroku) - Buildpack for deploying Haskell apps
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [begriffs/heroku-buildpack-ghc](https://github.com/begriffs/heroku-buildpack-ghc) - Deploy Haskell apps to Heroku
 - [mietek/halcyon](https://github.com/mietek/halcyon) - System for installing Haskell apps
