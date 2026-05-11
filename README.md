@@ -2263,7 +2263,7 @@
 - [apache/ignite](https://github.com/apache/ignite) - Apache Ignite
 - [antlr4rust/antlr4](https://github.com/antlr4rust/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
-- [apache/fory](https://github.com/apache/fory) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
+- [apache/fory](https://github.com/apache/fory) - A blazingly fast multi-language serialization framework for idiomatic domain objects, schema IDL, and cross-language data exchange.
 - [apache/druid](https://github.com/apache/druid) - Apache Druid: a high performance real-time analytics database.
 - [apache/karaf](https://github.com/apache/karaf) - Apache Karaf, the enterprise modulith runtime
 - [mirkosertic/MetaIR](https://github.com/mirkosertic/MetaIR) - A showcase for the MetaIR and JVM bytecode reverse engineering
@@ -2750,7 +2750,6 @@
 
 ## Jsonnet 
 
-- [databricks/sjsonnet](https://github.com/databricks/sjsonnet) - 
 - [google/jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
 
 ## Julia 
@@ -4024,7 +4023,7 @@
 
 ## SCSS 
 
-- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
+- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - The largest curated collection of markdown badges for your personal developer branding, profile, and projects.
 - [waipeng/alltherunning](https://github.com/waipeng/alltherunning) - 
 - [bencodezen/vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
 - [jwiegley/git-from-the-bottom-up](https://github.com/jwiegley/git-from-the-bottom-up) - An introduction to the architecture and design of the Git content manager
@@ -4057,6 +4056,7 @@
 - [b-studios/cats-reflect](https://github.com/b-studios/cats-reflect) - Monadic reflection for cats
 - [lampepfl/monadic-reflection](https://github.com/lampepfl/monadic-reflection) - 
 - [AugustNagro/magnum](https://github.com/AugustNagro/magnum) - A 'new look' for database access in Scala
+- [databricks/sjsonnet](https://github.com/databricks/sjsonnet) - 
 - [softwaremill/realworld-tapir-zio](https://github.com/softwaremill/realworld-tapir-zio) - RealWorld.io with tapir and ZIO
 - [slamdata/truffled-purescript](https://github.com/slamdata/truffled-purescript) - 
 - [Banno/kafka4s](https://github.com/Banno/kafka4s) - Functional programming with Kafka and Scala
