@@ -1473,7 +1473,6 @@
 - [qfpl/state-machine-testing-course](https://github.com/qfpl/state-machine-testing-course) - Course for learning how to apply property-based state-machine testing
 - [system-f/validation](https://github.com/system-f/validation) - A data-type like Either but with an accumulating Applicative
 - [expipiplus1/update-nix-fetchgit](https://github.com/expipiplus1/update-nix-fetchgit) - A program to automatically update fetchgit values in Nix expressions
-- [freeman42x/haskell-editor-setup](https://github.com/freeman42x/haskell-editor-setup) - Easy instructions for setting up Haskell editors / IDEs on any major operating system.
 - [steshaw/zendesk-hs](https://github.com/steshaw/zendesk-hs) - Zendesk client library
 - [mortberg/yacctt](https://github.com/mortberg/yacctt) - yacctt: Yet Another Cartesian Cubical Type Theory
 - [abailly/xxi-century-typed](https://github.com/abailly/xxi-century-typed) - Support code for talk 'XXIst century shall be typed or not be'
@@ -3483,7 +3482,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [dogweather/python-exhaustiveness-adts-monads](https://github.com/dogweather/python-exhaustiveness-adts-monads) - Demo code showing off the new true exhaustiveness checks with Python 3.10 + Pyright
@@ -3760,7 +3759,7 @@
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Quickly find bottlenecks in Rust - one profiler for CPU, time, memory, and async code.
 - [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk) - Durable & Deterministic Workflow Engine
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, viewing and training on multimodal and multi-rate data
 - [oxide-byte/rust-berlin-leptos](https://github.com/oxide-byte/rust-berlin-leptos) - Rust Hack and Learn in Berlin Challenge to implement a Site in as many Frameworks as possible. This implementation is : Leptos - Axum - SurrealDB - GraphQL (Bonus: Keycloak + Ratatui)
 - [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm.
