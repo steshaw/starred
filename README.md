@@ -2498,7 +2498,7 @@
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 - [Experience-Monks/nice-color-palettes](https://github.com/Experience-Monks/nice-color-palettes) - nice colour palettes as JSON
 - [strongloop/node-foreman](https://github.com/strongloop/node-foreman) - A Node.js Version of Foreman
-- [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+- [react/create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
 - [mdn/pwa-examples](https://github.com/mdn/pwa-examples) - Examples for progressive web apps.
 - [markhuot/craftql](https://github.com/markhuot/craftql) - A drop-in GraphQL server for Craft CMS
 - [purifycss/purifycss](https://github.com/purifycss/purifycss) - Remove unused CSS. Also works with single-page apps.
