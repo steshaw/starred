@@ -4439,7 +4439,6 @@
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [latex3/latex2e](https://github.com/latex3/latex2e) - The LaTeX2e kernel
 - [tonymorris/trees-that-grow](https://github.com/tonymorris/trees-that-grow) - Trees That Grow talk
-- [hmemcpy/cv](https://github.com/hmemcpy/cv) - My CV / Resume
 - [ioanluca/real-world-idris](https://github.com/ioanluca/real-world-idris) - Malfunction backend for Idris with a FFI to OCaml
 - [dpndnt/library](https://github.com/dpndnt/library) - Library of the ##dependent distributed research support group
 - [andrejbauer/homotopy-type-theory-course](https://github.com/andrejbauer/homotopy-type-theory-course) - A course on homotopy theory and type theory, taught jointly with Jaka Smrekar
@@ -4645,6 +4644,7 @@
 
 - [cottand/resume](https://github.com/cottand/resume) - My resume, in latex
 - [scalawithcats/scala-with-cats](https://github.com/scalawithcats/scala-with-cats) - Source code for Scala with Cats
+- [hmemcpy/cv](https://github.com/hmemcpy/cv) - My CV / Resume
 
 ## UrWeb 
 
