@@ -319,7 +319,7 @@
 - [Tarsnap/tarsnap](https://github.com/Tarsnap/tarsnap) - Command-line client code for Tarsnap.
 - [laurikari/tre](https://github.com/laurikari/tre) - The approximate regex matching library and agrep command line tool.
 - [klange/ponyos](https://github.com/klange/ponyos) - My Little Unix: Kernels are Magic!
-- [klange/toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network st
+- [klange/toaruos](https://github.com/klange/toaruos) - Complete, independent operating system built by humans.
 - [libtom/tomsfastmath](https://github.com/libtom/tomsfastmath) - TomsFastMath is a fast public domain, open source, large integer arithmetic library written in portable ISO C.
 - [todd1251/ccminer-x16r](https://github.com/todd1251/ccminer-x16r) - CUDA Open Source miner project, for most nvidia cards
 - [tpruvot/cpuminer-multi](https://github.com/tpruvot/cpuminer-multi) - crypto cpuminer (linux + windows)
@@ -3886,7 +3886,7 @@
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [raphlinus/crochet](https://github.com/raphlinus/crochet) - Explorations in reactive UI patterns
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - The official Sentry SDK for Rust
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
