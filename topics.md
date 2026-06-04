@@ -892,6 +892,7 @@
 
 ## compiler 
 
+- [martianoff/gala](https://github.com/martianoff/gala) - Scala on Go. Sealed types, pattern matching, Option/Either/Try/Future, and immutable collections — transpiled to plain Go with full third-party interop, zero-reflection JSON, and a GoLand plugin.
 - [mirkosertic/MetaIR](https://github.com/mirkosertic/MetaIR) - A showcase for the MetaIR and JVM bytecode reverse engineering
 - [apache/groovy](https://github.com/apache/groovy) - Apache Groovy: A powerful multi-faceted programming language for the JVM platform
 - [sdiehl/typechecker-zoo](https://github.com/sdiehl/typechecker-zoo) - A menagerie of cute implementations of modern typechecking algorithms
@@ -1889,6 +1890,7 @@
 
 ## golang 
 
+- [martianoff/gala](https://github.com/martianoff/gala) - Scala on Go. Sealed types, pattern matching, Option/Either/Try/Future, and immutable collections — transpiled to plain Go with full third-party interop, zero-reflection JSON, and a GoLand plugin.
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [apache/fory](https://github.com/apache/fory) - A blazingly fast multi-language serialization framework for idiomatic domain objects, schema IDL, and cross-language data exchange.
@@ -3535,6 +3537,8 @@
 
 ## others 
 
+- [pbiggar/darklang-compiler](https://github.com/pbiggar/darklang-compiler) - A compiler for darklang
+- [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) - Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
@@ -6281,6 +6285,7 @@
 
 ## programming-language 
 
+- [martianoff/gala](https://github.com/martianoff/gala) - Scala on Go. Sealed types, pattern matching, Option/Either/Try/Future, and immutable collections — transpiled to plain Go with full third-party interop, zero-reflection JSON, and a GoLand plugin.
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
