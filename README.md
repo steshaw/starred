@@ -1276,6 +1276,7 @@
 - [iohkedu/haskell-2020](https://github.com/iohkedu/haskell-2020) - Videos and exercises for the Haskell and Cryptocurrencies class.
 - [tweag/pirouette](https://github.com/tweag/pirouette) - Language-generic workbench for building static analysis
 - [iand675/hstate](https://github.com/iand675/hstate) - State machines in Haskell
+- [flora-pm/flora-server](https://github.com/flora-pm/flora-server) - A package index for the Haskell ecosystem
 - [iand675/thread-utils](https://github.com/iand675/thread-utils) - Missing thread tools for Haskell
 - [iand675/hs-opentelemetry](https://github.com/iand675/hs-opentelemetry) - OpenTelemetry support for the Haskell programming language
 - [tonyday567/web-rep](https://github.com/tonyday567/web-rep) - 
@@ -2440,7 +2441,6 @@
 - [rust-lang/lang-team](https://github.com/rust-lang/lang-team) - Home of the Rust lang team
 - [gergoerdi/functional-mos6502-web-performance](https://github.com/gergoerdi/functional-mos6502-web-performance) - https://unsafeperform.io/blog/2022-07-02-a_small_benchmark_for_functional_languages_targeting_web_browsers/
 - [yamayamayamaji/Keyboard-Shortcuts-for-Google-Translate](https://github.com/yamayamayamaji/Keyboard-Shortcuts-for-Google-Translate) - chrome extension Keyboard Shortcuts for Google Translate
-- [flora-pm/flora-server](https://github.com/flora-pm/flora-server) - A package index for the Haskell ecosystem
 - [hasura/graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [amiroff/NextBook](https://github.com/amiroff/NextBook) - NextBook is quick and easy way to build technical books or documentation with markdown that run blazingly fast.
@@ -4396,7 +4396,7 @@
 
 ## Swift 
 
-- [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
+- [openai/tart](https://github.com/openai/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4
