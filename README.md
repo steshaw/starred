@@ -776,7 +776,7 @@
 - [radian-software/straight.el](https://github.com/radian-software/straight.el) - 🍀 Next-generation, purely functional package manager for the Emacs hacker.
 - [emacs-evil/evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs.
 - [titaniumbones/ox-slack](https://github.com/titaniumbones/ox-slack) - Slack export backend for Eamcs org-mode
-- [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
+- [doomemacs/core](https://github.com/doomemacs/core) - An Emacs framework for the stubborn martian hacker
 - [zzamboni/dot-emacs](https://github.com/zzamboni/dot-emacs) - My Emacs configuration files - mirrored from GitLab
 - [unhammer/org-mru-clock](https://github.com/unhammer/org-mru-clock) - ⏲️ Effortlessly clock in/out of org-mode tasks, with completion and persistent history
 - [emacs-slack/emacs-slack](https://github.com/emacs-slack/emacs-slack) - slack client for emacs
@@ -2707,7 +2707,7 @@
 - [mishoo/UglifyJS-old](https://github.com/mishoo/UglifyJS-old) - JavaScript parser / mangler / compressor / beautifier library for NodeJS
 - [component/dom](https://github.com/component/dom) - DOM traversal, manipulation and events aggregate library (like jQuery)
 - [techtangents/fewtile](https://github.com/techtangents/fewtile) - A tiled scoreboard for Jenkins
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [paf31/lambdaconf](https://github.com/paf31/lambdaconf) - LambdaConf Notes
 - [guardian/scribe](https://github.com/guardian/scribe) - DEPRECATED: A rich text editor framework for the web platform
 - [fantasyland/fantasy-promises](https://github.com/fantasyland/fantasy-promises) - 
