@@ -2676,6 +2676,7 @@
 
 ## javascript 
 
+- [dancamma/react-chess-tools](https://github.com/dancamma/react-chess-tools) - A set of React components for building chess apps.
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [apache/fory](https://github.com/apache/fory) - A blazingly fast multi-language serialization framework for idiomatic domain objects, schema IDL, and cross-language data exchange.
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
@@ -3472,6 +3473,7 @@
 
 ## npm 
 
+- [dancamma/react-chess-tools](https://github.com/dancamma/react-chess-tools) - A set of React components for building chess apps.
 - [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
@@ -3614,7 +3616,7 @@
 - [reportmill/SnapTea](https://github.com/reportmill/SnapTea) - A SnapKit adapter for TeaVM
 - [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication feature
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
-- [rcardin/yaes](https://github.com/rcardin/yaes) - A direct-style effect system in Scala 3 that tracks effects
+- [rcardin/yaes](https://github.com/rcardin/yaes) - A direct-style effect system in Scala 3 that tracks effects using context parameters
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
 - [Kotlin/kotlin-lsp](https://github.com/Kotlin/kotlin-lsp) - Kotlin Language Server and plugin for Visual Studio Code
@@ -6485,6 +6487,7 @@
 
 ## react 
 
+- [dancamma/react-chess-tools](https://github.com/dancamma/react-chess-tools) - A set of React components for building chess apps.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -7235,6 +7238,7 @@
 
 ## typescript 
 
+- [dancamma/react-chess-tools](https://github.com/dancamma/react-chess-tools) - A set of React components for building chess apps.
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [re-rxjs/react-rxjs](https://github.com/re-rxjs/react-rxjs) - React bindings for RxJS
 - [leaningtech/cheerp-meta](https://github.com/leaningtech/cheerp-meta) - Cheerp - a C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript
