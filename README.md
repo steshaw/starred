@@ -229,7 +229,6 @@
 - [koka-lang/libmprompt](https://github.com/koka-lang/libmprompt) - Robust multi-prompt delimited control and effect handlers in C/C++
 - [axboe/liburing](https://github.com/axboe/liburing) - Library providing helpers for the Linux kernel io_uring support
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-- [augustss/MicroHs](https://github.com/augustss/MicroHs) - Haskell implemented with combinators
 - [aripiprazole/lura](https://github.com/aripiprazole/lura) - 🍞 | IDE focused programming language study
 - [gibbon-compiler/gibbon](https://github.com/gibbon-compiler/gibbon) - A compiler for functional programs on serialized data
 - [ThakeeNathees/pocketlang](https://github.com/ThakeeNathees/pocketlang) - A lightweight, fast embeddable scripting language.
@@ -1243,6 +1242,7 @@
 - [UnkindPartition/regex-applicative](https://github.com/UnkindPartition/regex-applicative) - Regex-based parsing with an applicative interface
 - [UnkindPartition/lexer-applicative](https://github.com/UnkindPartition/lexer-applicative) - Applicative lexer
 - [NorfairKing/opt-env-conf](https://github.com/NorfairKing/opt-env-conf) - 
+- [augustss/MicroHs](https://github.com/augustss/MicroHs) - Haskell implemented with combinators
 - [freckle/blammo](https://github.com/freckle/blammo) - Batteries-included structured logging library
 - [lukeg101/lplzoo](https://github.com/lukeg101/lplzoo) - Fine-grain implementations of common lambda calculi in Haskell, tested with QuickCheck
 - [gelisam/klister](https://github.com/gelisam/klister) - an implementation of stuck macros
@@ -3945,7 +3945,7 @@
 - [elastic-rs/elastic](https://github.com/elastic-rs/elastic) - An Elasticsearch REST API client for Rust
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Move faster with autonomy
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
@@ -4583,7 +4583,7 @@
 - [neoclide/coc-rls](https://github.com/neoclide/coc-rls) - Rust language server support for coc.nvim
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save. Share. Privately.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
 - [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
