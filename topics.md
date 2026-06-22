@@ -4231,7 +4231,7 @@
 - [input-output-hk/hackage.nix](https://github.com/input-output-hk/hackage.nix) - Automatically generated Nix expressions for Hackage
 - [worldofpeace/events](https://github.com/worldofpeace/events) - Current documentation for NixOS Office Hours
 - [adamgundry/type-inference](https://github.com/adamgundry/type-inference) - Unification and type inference algorithms
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
+- [linsa-io/linsa.io](https://github.com/linsa-io/linsa.io) - Work. Save. Share. Privately.
 - [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries
 - [cachix/ghcide-nix](https://github.com/cachix/ghcide-nix) - Nix installation for ghcide
 - [haskell/ghcide](https://github.com/haskell/ghcide) - A library for building Haskell IDE tooling
