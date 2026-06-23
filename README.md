@@ -4037,7 +4037,7 @@
 - [getkyo/kyo](https://github.com/getkyo/kyo) - Toolkit for Scala Development
 - [pniederw/expecty](https://github.com/pniederw/expecty) - Power assertions (as known from Groovy and Spock) for the Scala language.
 - [hkust-taco/mlstruct](https://github.com/hkust-taco/mlstruct) - Codebase for the paper "MLstruct: Principal Type Inference in a Boolean Algebra of Structural Types"
-- [rcardin/yaes](https://github.com/rcardin/yaes) - A direct-style effect system in Scala 3 that tracks effects using context parameters
+- [yaes-io/yaes](https://github.com/yaes-io/yaes) - A direct-style effect system in Scala 3 that tracks effects using context parameters
 - [monix/monix](https://github.com/monix/monix) - Asynchronous, Reactive Programming for Scala and Scala.js.
 - [plokhotnyuk/jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of safe and ultra-fast JSON codecs + circe booster
 - [scalameta/mdoc](https://github.com/scalameta/mdoc) - Typechecked markdown documentation for Scala
