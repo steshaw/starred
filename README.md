@@ -2625,7 +2625,6 @@
 - [Nurgak/Cube-engine](https://github.com/Nurgak/Cube-engine) - 3D engine completely written in HTML5 without OpenGL
 - [katiejots/wubble](https://github.com/katiejots/wubble) - Simple full-stack Haskell demo app
 - [rufuspollock/s3-bucket-listing](https://github.com/rufuspollock/s3-bucket-listing) - Create nice directory listings for s3 buckets with javascript and HTML.
-- [reignite/burnout.io](https://github.com/reignite/burnout.io) - Burnout.io is a site that provides resources to prevent work-related burnout.
 - [ghcformacosx/ghc-dot-app](https://github.com/ghcformacosx/ghc-dot-app) - Tool to build a relocatable GHC for Mac OS X
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
@@ -3587,6 +3586,7 @@
 - [hay/xml2json](https://github.com/hay/xml2json) - Python script converts XML to JSON or the other way around
 - [stephenmcd/mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework for Django
 - [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing S3 compatible storage services (including Amazon S3 and CloudFront).
+- [reignite/burnout.io](https://github.com/reignite/burnout.io) - Burnout.io is a site that provides resources to prevent work-related burnout.
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [deis/deis](https://github.com/deis/deis) - Deis v1, the CoreOS and Docker PaaS: Your PaaS. Your Rules.
 - [avigad/boole](https://github.com/avigad/boole) - The Boole Interactive Reasoning Assistant
