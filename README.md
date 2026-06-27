@@ -2224,7 +2224,7 @@
 - [QuentinDuval/IdrisReducers](https://github.com/QuentinDuval/IdrisReducers) - Transducers for Idris: a library for composable algorithmic transformation.
 - [jmars/Records](https://github.com/jmars/Records) - Dependently Typed Extensible Records with Prototypal Inheritance
 - [puffnfresh/iridium](https://github.com/puffnfresh/iridium) - xmonad with the X11 abstracted and configured with Idris
-- [mmhelloworld/idris-jvm](https://github.com/mmhelloworld/idris-jvm) - JVM bytecode back end for Idris
+- [mmhelloworld/idris-jvm](https://github.com/mmhelloworld/idris-jvm) - Idris on the JVM
 - [pbl64k/gpif-idris](https://github.com/pbl64k/gpif-idris) - Translation of Agda code in A. Löh and J. P. Magalhães *Generic Programming with Indexed Functors* to Idris.
 - [ziman/lightyear](https://github.com/ziman/lightyear) - Parser combinators for Idris
 - [jfdm/idris-config](https://github.com/jfdm/idris-config) - Parsers for various configuration files written in Idris.
