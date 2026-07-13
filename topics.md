@@ -275,6 +275,7 @@
 - [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
+- [workflow](#workflow)
 - [xcode](#xcode)
 - [xml](#xml)
 - [zig](#zig)
@@ -344,7 +345,7 @@
 
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Search without a second system. One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [YPares/porcupine](https://github.com/YPares/porcupine) - Express parametrable, composable and portable data pipelines
@@ -1185,7 +1186,7 @@
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Search without a second system. One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues.
@@ -2394,7 +2395,7 @@
 - [stackbuilders/dotenv-hs](https://github.com/stackbuilders/dotenv-hs) - Load environment variables from dotenv files for Haskell
 - [lambdacube3d/lambdacube-quake3](https://github.com/lambdacube3d/lambdacube-quake3) - Quake 3 map viewer in Haskell using LambdaCube 3D
 - [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
-- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty web framework
+- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
 - [theam/haskell-do](https://github.com/theam/haskell-do) - :pencil2: :bar_chart: - The Haskell code editor focused on interactive development.
 - [fxdpntthm/h-reversi](https://github.com/fxdpntthm/h-reversi) - Haskell blank canvas reversi game
 - [ChrisPenner/rasa](https://github.com/ChrisPenner/rasa) - Extremely modular text editor built in Haskell
@@ -2758,7 +2759,7 @@
 - [featurist/hyperdom](https://github.com/featurist/hyperdom) - A fast, feature rich and simple framework for building dynamic browser applications.
 - [dfilatov/vidom](https://github.com/dfilatov/vidom) - Library to build UI based on virtual DOM
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
-- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty web framework
+- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [istanbuljs/istanbuljs](https://github.com/istanbuljs/istanbuljs) - monorepo containing the various nuts and bolts that facilitate istanbul.js test instrumentation
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
@@ -3190,6 +3191,7 @@
 
 ## macos 
 
+- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm.
@@ -4171,7 +4173,7 @@
 - [kdheepak/blog](https://github.com/kdheepak/blog) - My personal thoughts and notes
 - [clintonmead/haskell_bits](https://github.com/clintonmead/haskell_bits) - 
 - [traefik/mesh](https://github.com/traefik/mesh) - Traefik Mesh - Simpler Service Mesh
-- [alexcrichton/ssh2-rs](https://github.com/alexcrichton/ssh2-rs) - Rust bindings for libssh2
+- [rust-lang/ssh2-rs](https://github.com/rust-lang/ssh2-rs) - Rust bindings for libssh2
 - [tower-rs/tower-grpc](https://github.com/tower-rs/tower-grpc) - A gRPC client & server implementation.
 - [alexcrichton/rust-ffi-examples](https://github.com/alexcrichton/rust-ffi-examples) - FFI examples written in Rust
 - [widmogrod/typed-config](https://github.com/widmogrod/typed-config) - Experiment with making configuration type-safe, self-domummenting, and dead-simple to use.
@@ -4702,7 +4704,6 @@
 - [brendanhay/terrafomo](https://github.com/brendanhay/terrafomo) - Le Fromage de Terreur - Auto-generated Terraform DSL
 - [grafeas/grafeas](https://github.com/grafeas/grafeas) - Artifact Metadata API
 - [etcd-io/zetcd](https://github.com/etcd-io/zetcd) - Serve the Apache Zookeeper API but back it with an etcd cluster
-- [tweag/funflow](https://github.com/tweag/funflow) - Functional workflows
 - [tweag/terraform-provider-nixos](https://github.com/tweag/terraform-provider-nixos) - Terraform provider for NixOS and NixOps
 - [derekmcloughlin/pearls](https://github.com/derekmcloughlin/pearls) - Pearls of Functional Algorithm Design by Richard Bird - Haskell Code
 - [gperftools/gperftools](https://github.com/gperftools/gperftools) - Main gperftools repository
@@ -6233,7 +6234,7 @@
 - [tansu-io/tansu](https://github.com/tansu-io/tansu) - Apache Kafka® compatible broker with S3, PostgreSQL, SQLite, Apache Iceberg and Delta Lake
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Search without a second system. One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [zio/zio-protoquill](https://github.com/zio/zio-protoquill) - Quill for Scala 3
@@ -7044,7 +7045,7 @@
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Search without a second system. One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python
@@ -7298,7 +7299,7 @@
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [featurist/hyperdom](https://github.com/featurist/hyperdom) - A fast, feature rich and simple framework for building dynamic browser applications.
-- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty web framework
+- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
 - [niieani/typescript-vs-flowtype](https://github.com/niieani/typescript-vs-flowtype) - Differences between Flowtype and TypeScript -- syntax and usability
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
@@ -7330,7 +7331,7 @@
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [jtdaugherty/brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI library written in Haskell
 - [dfilatov/vidom](https://github.com/dfilatov/vidom) - Library to build UI based on virtual DOM
-- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty web framework
+- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
 - [choojs/choo](https://github.com/choojs/choo) - :steam_locomotive::train: - sturdy 4kb frontend framework
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
@@ -7491,7 +7492,7 @@
 
 ## web-assembly 
 
-- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty web framework
+- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
 
 ## web-components 
 
@@ -7559,6 +7560,17 @@
 ## wordpress 
 
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
+
+## workflow 
+
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [kowainik/hit-on](https://github.com/kowainik/hit-on) - :octocat: Kowainik Git Workflow Helper Tool
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
+- [tweag/funflow](https://github.com/tweag/funflow) - Functional workflows
+- [brunch/brunch](https://github.com/brunch/brunch) - 🍴 Web applications made easy. Since 2011.
+- [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
 
 ## xcode 
 
