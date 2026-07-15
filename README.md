@@ -2921,7 +2921,6 @@
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [cmacrae/config](https://github.com/cmacrae/config) - A collection of system configurations, expressed in Nix
 - [LnL7/nix-docker](https://github.com/LnL7/nix-docker) - Docker images for the Nix package manager
-- [jwiegley/nix-config](https://github.com/jwiegley/nix-config) - My local Nix configuration
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [codygman/haskell-nix-stack-workflow](https://github.com/codygman/haskell-nix-stack-workflow) - 
 - [shmish111/smoke-hill](https://github.com/shmish111/smoke-hill) - A package set of Idris libraries
@@ -3507,6 +3506,7 @@
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product.
 - [quickstrom/quickstrom](https://github.com/quickstrom/quickstrom) - High-confidence browser testing
+- [jwiegley/nix-config](https://github.com/jwiegley/nix-config) - My local Nix configuration
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [Aiven-Open/pghoard](https://github.com/Aiven-Open/pghoard) - PostgreSQL® backup and restore service
 - [tssm/up-to-date-real-world-haskell](https://github.com/tssm/up-to-date-real-world-haskell) - I'm trying to update the Real World Haskell book
