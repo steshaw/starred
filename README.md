@@ -3565,7 +3565,6 @@
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [ganeti/ganeti](https://github.com/ganeti/ganeti) - Ganeti is a virtual machine cluster management tool built on top of existing virtualization technologies such as Xen or KVM and other open source software.
 - [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
-- [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 - [graydon/bors](https://github.com/graydon/bors) - Integration robot for buildbot and github
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
@@ -4004,6 +4003,7 @@
 - [bitemyapp/lefortovo](https://github.com/bitemyapp/lefortovo) - безграмотный gitignore and makefile fetcher in Rust
 - [pikelet-lang/pikelet](https://github.com/pikelet-lang/pikelet) - A friendly little systems language with first-class types. Very WIP! 🚧 🚧 🚧
 - [cgag/loc](https://github.com/cgag/loc) - Count lines of code quickly.
+- [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 - [faern/rips-old](https://github.com/faern/rips-old) - Rust IP Stack - A userspace IP stack written in Rust (Work in progress)
 - [droundy/fac](https://github.com/droundy/fac) - Fac is a general-purpose build system that runs on Linux only, which automatically tracks dependencies by observing the build commands in operation.
 - [ckkashyap/rustix](https://github.com/ckkashyap/rustix) - Unix kernel in rust
