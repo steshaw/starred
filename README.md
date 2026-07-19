@@ -744,7 +744,7 @@
 - [dwyl/hits](https://github.com/dwyl/hits) - :chart_with_upwards_trend: General purpose hits (page views) counter
 - [healthlocker/healthlocker](https://github.com/healthlocker/healthlocker) - Inspire and motivate people to stay well.
 - [firestormforum/firestorm](https://github.com/firestormforum/firestorm) - An open-source forum engine, with an Elixir+Phoenix backend and an Elm frontend.
-- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Simple from zero to scale
 
 ## Elm 
 
@@ -3276,7 +3276,6 @@
 - [jozefg/learn-tt](https://github.com/jozefg/learn-tt) - A collection of resources for learning type theory and type theory adjacent fields.
 - [sellout/recursion-scheme-talk](https://github.com/sellout/recursion-scheme-talk) - A talk on using recursion schemes in FP.
 - [type-theory/type-theory-study-group](https://github.com/type-theory/type-theory-study-group) - Resources for the online Type Theory Study Group
-- [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [Gabriella439/post-rfc](https://github.com/Gabriella439/post-rfc) - Blog post previews in need of peer review
 - [thenewstack/docker-and-containers-ebooks](https://github.com/thenewstack/docker-and-containers-ebooks) - A series of ebooks on Docker and the container ecosystem.
 - [Experience-Monks/math-as-code](https://github.com/Experience-Monks/math-as-code) - a cheat-sheet for mathematical notation in code form
@@ -3469,6 +3468,7 @@
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [apache/buildstream](https://github.com/apache/buildstream) - BuildStream, the software integration tool
 - [xorq-labs/xorq](https://github.com/xorq-labs/xorq) - Executable memory system for tabular data that works in your harness.
 - [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
@@ -3575,6 +3575,7 @@
 - [scotartt/clean_bib](https://github.com/scotartt/clean_bib) - Delete Unwanted Bibliography fields from bibtex (.bib) files
 - [mist64/c64ref](https://github.com/mist64/c64ref) - Ultimate Commodore 64 Reference: ROM Disassembly, Memory Map, ...
 - [thomasahle/sunfish](https://github.com/thomasahle/sunfish) - Sunfish: a Python Chess Engine in 111 lines of code
+- [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [larsenwork/monoid](https://github.com/larsenwork/monoid) - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/
 - [i-tu/Hasklig](https://github.com/i-tu/Hasklig) - Hasklig - a code font with monospaced ligatures
 - [mpickering/icfp2015-papers](https://github.com/mpickering/icfp2015-papers) - Accepted papers for ICFP 2015
@@ -3604,6 +3605,7 @@
 ## QML 
 
 - [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 
 ## Racket 
 
@@ -3747,7 +3749,7 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [symposium-dev/symposium](https://github.com/symposium-dev/symposium) - AI the Rust Way
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now speaking Postgres. The LLVM of databases.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 - [apache/iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
 - [uutils/uutils-term-grid](https://github.com/uutils/uutils-term-grid) - 
@@ -4236,7 +4238,6 @@
 
 ## Shell 
 
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [mchav/with](https://github.com/mchav/with) - Command prefixing for continuous workflow using a single tool.
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [titzer/virgil](https://github.com/titzer/virgil) - A fast and lightweight native programming language
@@ -4508,7 +4509,6 @@
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [microsoft/vscode-mssql](https://github.com/microsoft/vscode-mssql) - Visual Studio Code SQL Server extension.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [stomp-js/stompjs](https://github.com/stomp-js/stompjs) - Javascript and Typescript Stomp client for Web browsers and node.js apps
 - [oracle/javavscode](https://github.com/oracle/javavscode) - Java platform support for Visual Studio Code for full featured Java development (edit-compile-debug & test cycle)
 - [davidfou/conventionalcomments-web-extension](https://github.com/davidfou/conventionalcomments-web-extension) - 
