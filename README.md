@@ -1149,6 +1149,7 @@
 - [EsotericSoftware/kryo](https://github.com/EsotericSoftware/kryo) - Java binary serialization and cloning: fast, efficient, automatic
 - [rust-lang/compiler-team](https://github.com/rust-lang/compiler-team) - A home for compiler team planning documents, meeting minutes, and other such things.
 - [proglangdesign/proglangdesign.github.io](https://github.com/proglangdesign/proglangdesign.github.io) - A website for the #proglangdesign community on freenode
+- [tonyday567/chart-svg](https://github.com/tonyday567/chart-svg) - 
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [Icelandjack/deriving-via](https://github.com/Icelandjack/deriving-via) - Deriving via
 - [sampsyo/cs6120](https://github.com/sampsyo/cs6120) - advanced compilers
@@ -1289,7 +1290,6 @@
 - [archive567/research-hackage](https://github.com/archive567/research-hackage) - 
 - [tonyday567/dotparse](https://github.com/tonyday567/dotparse) - 
 - [archive567/color-adjust](https://github.com/archive567/color-adjust) - 
-- [tonyday567/chart-svg](https://github.com/tonyday567/chart-svg) - 
 - [AndrasKovacs/flatparse](https://github.com/AndrasKovacs/flatparse) - Fast parsing from bytestrings
 - [YPares/porcupine](https://github.com/YPares/porcupine) - Express parametrable, composable and portable data pipelines
 - [input-output-hk/foliage](https://github.com/input-output-hk/foliage) - 🌿 Foliage is a tool to create custom Haskell package repositories, in a fully reproducible way.
