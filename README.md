@@ -852,7 +852,7 @@
 
 ## Go 
 
-- [martianoff/gala](https://github.com/martianoff/gala) - Scala on Go. Sealed types, pattern matching, Option/Either/Try/Future, and immutable collections — transpiled to plain Go with full third-party interop, zero-reflection JSON, and a GoLand plugin.
+- [martianoff/gala](https://github.com/martianoff/gala) - Scala on Go. Sealed types, exhaustive pattern matching, Option/Either/Try, bind/also do-notation, and compile-time data-race safety — transpiled to plain Go with full third-party module interop, zero-
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
