@@ -899,7 +899,7 @@
 
 ## compiler 
 
-- [martianoff/gala](https://github.com/martianoff/gala) - Scala on Go. Sealed types, pattern matching, Option/Either/Try/Future, and immutable collections — transpiled to plain Go with full third-party interop, zero-reflection JSON, and a GoLand plugin.
+- [martianoff/gala](https://github.com/martianoff/gala) - Scala on Go. Sealed types, exhaustive pattern matching, Option/Either/Try, bind/also do-notation, and compile-time data-race safety — transpiled to plain Go with full third-party module interop, zero-
 - [mirkosertic/MetaIR](https://github.com/mirkosertic/MetaIR) - A showcase for the MetaIR and JVM bytecode reverse engineering
 - [apache/groovy](https://github.com/apache/groovy) - Apache Groovy: A powerful multi-faceted programming language for the JVM platform
 - [sdiehl/typechecker-zoo](https://github.com/sdiehl/typechecker-zoo) - A menagerie of cute implementations of modern typechecking algorithms
@@ -1901,7 +1901,7 @@
 
 ## golang 
 
-- [martianoff/gala](https://github.com/martianoff/gala) - Scala on Go. Sealed types, pattern matching, Option/Either/Try/Future, and immutable collections — transpiled to plain Go with full third-party interop, zero-reflection JSON, and a GoLand plugin.
+- [martianoff/gala](https://github.com/martianoff/gala) - Scala on Go. Sealed types, exhaustive pattern matching, Option/Either/Try, bind/also do-notation, and compile-time data-race safety — transpiled to plain Go with full third-party module interop, zero-
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [apache/fory](https://github.com/apache/fory) - A blazingly fast multi-language serialization framework for idiomatic domain objects, schema IDL, and cross-language data exchange.
@@ -6303,7 +6303,7 @@
 
 ## programming-language 
 
-- [martianoff/gala](https://github.com/martianoff/gala) - Scala on Go. Sealed types, pattern matching, Option/Either/Try/Future, and immutable collections — transpiled to plain Go with full third-party interop, zero-reflection JSON, and a GoLand plugin.
+- [martianoff/gala](https://github.com/martianoff/gala) - Scala on Go. Sealed types, exhaustive pattern matching, Option/Either/Try, bind/also do-notation, and compile-time data-race safety — transpiled to plain Go with full third-party module interop, zero-
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
@@ -6833,7 +6833,7 @@
 
 ## scala 
 
-- [martianoff/gala](https://github.com/martianoff/gala) - Scala on Go. Sealed types, pattern matching, Option/Either/Try/Future, and immutable collections — transpiled to plain Go with full third-party interop, zero-reflection JSON, and a GoLand plugin.
+- [martianoff/gala](https://github.com/martianoff/gala) - Scala on Go. Sealed types, exhaustive pattern matching, Option/Either/Try, bind/also do-notation, and compile-time data-race safety — transpiled to plain Go with full third-party module interop, zero-
 - [apache/kafka](https://github.com/apache/kafka) - Apache Kafka - A distributed event streaming platform
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [scalawithcats/scala-with-cats](https://github.com/scalawithcats/scala-with-cats) - Source code for Scala with Cats
