@@ -109,7 +109,6 @@
 - [Smalltalk](#smalltalk)
 - [Standard ML](#standard-ml)
 - [Starlark](#starlark)
-- [Svelte](#svelte)
 - [Swift](#swift)
 - [Tcl](#tcl)
 - [TeX](#tex)
@@ -720,7 +719,6 @@
 
 ## Dhall 
 
-- [EarnestResearch/dhall-packages](https://github.com/EarnestResearch/dhall-packages) - Collection of dhall packages
 - [dhall-lang/dhall-haskell](https://github.com/dhall-lang/dhall-haskell) - Maintainable configuration files
 - [purescript/package-sets](https://github.com/purescript/package-sets) - PureScript packages for Spago and Psc-Package
 - [dhall-lang/dhall-kubernetes](https://github.com/dhall-lang/dhall-kubernetes) - Typecheck, template and modularize your Kubernetes definitions with Dhall
@@ -1886,7 +1884,6 @@
 - [merijn/lambda-except](https://github.com/merijn/lambda-except) - 
 - [Gabriella439/Haskell-Nix-Derivation-Library](https://github.com/Gabriella439/Haskell-Nix-Derivation-Library) - Parse and render *.drv files
 - [Gabriella439/bench](https://github.com/Gabriella439/bench) - Command-line benchmark tool
-- [krispo/awesome-haskell](https://github.com/krispo/awesome-haskell) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [quchen/stgi](https://github.com/quchen/stgi) - A user-centric visual STG implementation to help understand GHC/Haskell's execution model.
 - [haskell-prettyprinter/prettyprinter](https://github.com/haskell-prettyprinter/prettyprinter) - A modern, extensible and well-documented prettyprinter.
 - [tamarin-prover/tamarin-prover](https://github.com/tamarin-prover/tamarin-prover) - Main source code repository of the Tamarin prover for security protocol verification.
@@ -2427,6 +2424,7 @@
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [pullpo-io/conventional-comments](https://github.com/pullpo-io/conventional-comments) - Chrome and Firefox extension for Conventional Comments in GitHub UI.
 - [leaningtech/cheerp-meta](https://github.com/leaningtech/cheerp-meta) - Cheerp - a C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for optimal privacy and security. Your favorite browser, but better.
 - [slevithan/xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions
@@ -2486,7 +2484,6 @@
 - [dolfelt/color-svg](https://github.com/dolfelt/color-svg) - A revolutionary way for users to choose color in your application. Now 100% SVG.
 - [jgthms/minireset.css](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [svgdotjs/svgdom](https://github.com/svgdotjs/svgdom) - Straightforward DOM implementation to make SVG.js run headless on Node.js
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [peterbe/minimalcss](https://github.com/peterbe/minimalcss) - Extract the minimal CSS used in a set of URLs with puppeteer
@@ -3470,7 +3467,7 @@
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [apache/buildstream](https://github.com/apache/buildstream) - BuildStream, the software integration tool
-- [xorq-labs/xorq](https://github.com/xorq-labs/xorq) - Executable memory system for tabular data that works in your harness.
+- [xorq-labs/xorq](https://github.com/xorq-labs/xorq) - Git-native executable memory for agentic data work.
 - [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
 - [arecarn/dploy](https://github.com/arecarn/dploy) - Provides the functionality of GNU Stow in a cross platform CLI tool and python module
 - [jython/jython](https://github.com/jython/jython) - Python for the Java Platform
@@ -3570,6 +3567,7 @@
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
+- [krispo/awesome-haskell](https://github.com/krispo/awesome-haskell) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [remarshal-project/remarshal](https://github.com/remarshal-project/remarshal) - Convert between CBOR, JSON, MessagePack, TOML, and YAML 1.1 & 1.2
 - [foremast/foremast](https://github.com/foremast/foremast) - Spinnaker Pipeline/Infrastructure Configuration and Templating Tool - Pipelines as Code.
 - [scotartt/clean_bib](https://github.com/scotartt/clean_bib) - Delete Unwanted Bibliography fields from bibtex (.bib) files
@@ -3740,7 +3738,7 @@
 - [substrait-io/substrait-rs](https://github.com/substrait-io/substrait-rs) - Rust crate for Substrait: Cross-Language Serialization for Relational Algebra
 - [txpipe/dolos](https://github.com/txpipe/dolos) - Cardano Data Node
 - [txpipe/pallas](https://github.com/txpipe/pallas) - Rust-native building blocks for the Cardano blockchain ecosystem
-- [tansu-io/tansu](https://github.com/tansu-io/tansu) - Apache Kafka® compatible broker with S3, PostgreSQL, SQLite, Apache Iceberg and Delta Lake
+- [nisshi-io/nisshi](https://github.com/nisshi-io/nisshi) - Apache Kafka® compatible broker with S3, PostgreSQL, SQLite, Apache Iceberg and Delta Lake
 - [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
@@ -4389,10 +4387,6 @@
 - [TokTok/toktok-stack](https://github.com/TokTok/toktok-stack) - A snapshot of the complete software stack (excluding some external libraries and programs)
 - [tweag/rules_haskell](https://github.com/tweag/rules_haskell) - Haskell rules for Bazel.
 - [bazelbuild/rules_k8s](https://github.com/bazelbuild/rules_k8s) - This repository contains rules for interacting with Kubernetes configurations / clusters.
-
-## Svelte 
-
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## Swift 
 
