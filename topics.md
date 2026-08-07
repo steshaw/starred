@@ -1203,7 +1203,7 @@
 - [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb) - rust wrapper for rocksdb
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [sqitchers/sqitch](https://github.com/sqitchers/sqitch) - Sensible database change management
-- [nikita-volkov/hasql](https://github.com/nikita-volkov/hasql) - The fastest PostgreSQL libpq-based driver for Haskell
+- [nikita-volkov/hasql](https://github.com/nikita-volkov/hasql) - Reliable and fast PostgreSQL driver for Haskell
 - [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 - [syndtr/goleveldb](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur
@@ -2357,7 +2357,7 @@
 - [joelburget/easytest](https://github.com/joelburget/easytest) - Simple testing toolkit
 - [pbrisbin/bugsnag-haskell](https://github.com/pbrisbin/bugsnag-haskell) - Bugsnag error reporter for Haskell
 - [nikita-volkov/hasql-th](https://github.com/nikita-volkov/hasql-th) - Template Haskell utilities for Hasql
-- [nikita-volkov/hasql](https://github.com/nikita-volkov/hasql) - The fastest PostgreSQL libpq-based driver for Haskell
+- [nikita-volkov/hasql](https://github.com/nikita-volkov/hasql) - Reliable and fast PostgreSQL driver for Haskell
 - [haskell-beam/beam](https://github.com/haskell-beam/beam) - A type-safe Haskell SQL library
 - [schell/steeloverseer](https://github.com/schell/steeloverseer) - A file watcher and development tool.
 - [fosskers/scalaz-and-cats](https://github.com/fosskers/scalaz-and-cats) - Usage examples and benchmarks between Scalaz and Cats (w/ Haskell ground-truth).
@@ -6253,7 +6253,7 @@
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [sqitchers/sqitch](https://github.com/sqitchers/sqitch) - Sensible database change management
 - [nikita-volkov/hasql-th](https://github.com/nikita-volkov/hasql-th) - Template Haskell utilities for Hasql
-- [nikita-volkov/hasql](https://github.com/nikita-volkov/hasql) - The fastest PostgreSQL libpq-based driver for Haskell
+- [nikita-volkov/hasql](https://github.com/nikita-volkov/hasql) - Reliable and fast PostgreSQL driver for Haskell
 - [haskell-beam/beam](https://github.com/haskell-beam/beam) - A type-safe Haskell SQL library
 - [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [valderman/selda](https://github.com/valderman/selda) - A type-safe, high-level SQL library for Haskell
