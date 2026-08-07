@@ -1618,7 +1618,7 @@
 - [nikita-volkov/hasql-cursor-query](https://github.com/nikita-volkov/hasql-cursor-query) - A declarative abstraction over PostgreSQL Cursor
 - [nikita-volkov/hasql-transaction](https://github.com/nikita-volkov/hasql-transaction) - A composable abstraction over retriable transactions for Hasql
 - [nikita-volkov/hasql-pool](https://github.com/nikita-volkov/hasql-pool) - A pool of connections for Hasql
-- [nikita-volkov/hasql](https://github.com/nikita-volkov/hasql) - The fastest PostgreSQL libpq-based driver for Haskell
+- [nikita-volkov/hasql](https://github.com/nikita-volkov/hasql) - Reliable and fast PostgreSQL driver for Haskell
 - [haskell-beam/beam](https://github.com/haskell-beam/beam) - A type-safe Haskell SQL library
 - [yamadapc/haskell-ascii-progress](https://github.com/yamadapc/haskell-ascii-progress) - A simple Haskell progress bar for the console. Heavily borrows from TJ Holowaychuk's Node.JS project
 - [ChrisPenner/slick](https://github.com/ChrisPenner/slick) - Static site generator built on Shake configured in Haskell
