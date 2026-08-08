@@ -42,6 +42,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [claude-code](#claude-code)
+- [claude-skills](#claude-skills)
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
@@ -767,6 +768,10 @@
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 
 ## claude-code 
+
+- [malob/nix-config](https://github.com/malob/nix-config) - My Nix system configs!
+
+## claude-skills 
 
 - [malob/nix-config](https://github.com/malob/nix-config) - My Nix system configs!
 
