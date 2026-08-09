@@ -2414,7 +2414,6 @@
 - [tinkerpop/gremlin](https://github.com/tinkerpop/gremlin) - A Graph Traversal Language (no longer active - see Apache TinkerPop)
 - [trifork/erjang](https://github.com/trifork/erjang) - A JVM-based Erlang VM
 - [richhickey/clojure](https://github.com/richhickey/clojure) - NOTE: This repo (The Clojure programming language) has moved:
-- [benwazza/hammer](https://github.com/benwazza/hammer) - Pure Java build framework with awesome Ant integration.
 - [mth/yeti](https://github.com/mth/yeti) - Functional programming language for JVM.
 
 ## JavaScript 
@@ -3680,7 +3679,7 @@
 - [pivotal/LicenseFinder](https://github.com/pivotal/LicenseFinder) - Find licenses for your project's dependencies.
 - [Linuxbrew/brew](https://github.com/Linuxbrew/brew) - :beer::penguin: The Homebrew package manager for Linux
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
-- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
+- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere
 - [vito/atomy](https://github.com/vito/atomy) - a modular, macro-ular, totally tubular language for the Rubinius VM. #atomo @ freenode
 - [tmspzz/danger-hlint](https://github.com/tmspzz/danger-hlint) - A Danger plugin for Hlint - https://rubygems.org/gems/danger-hlint
 - [thoughtbot/neat](https://github.com/thoughtbot/neat) - A fluid and flexible grid Sass framework
@@ -3711,7 +3710,7 @@
 - [cloudfoundry-community-attic/bosh-cloudfoundry](https://github.com/cloudfoundry-community-attic/bosh-cloudfoundry) - Create, scale and upgrade your company's own Cloud Foundry
 - [vjoel/tupelo](https://github.com/vjoel/tupelo) - A distributed, transactional tuplespace for polyglot computation and storage.
 - [haileys/rustboot](https://github.com/haileys/rustboot) - A tiny 32 bit kernel written in Rust
-- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 Default casks (upstream binary packages) for the package manager for everywhere
 - [newmana/rtree](https://github.com/newmana/rtree) - Implementing in memory rtrees
 - [adrahon/vagrant-kvm](https://github.com/adrahon/vagrant-kvm) - This project is dead, please use vagrant-libvirt instead! A Vagrant 1.4+ plugin that adds a KVM provider to Vagrant, allowing Vagrant to control and provision KVM/QEMU VM.
 - [cloudfoundry-community-attic/LEGACY-bosh-getting-started](https://github.com/cloudfoundry-community-attic/LEGACY-bosh-getting-started) - LEGACY documentation - please go here...
