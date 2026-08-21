@@ -258,7 +258,6 @@
 - [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [bpftools/linux-observability-with-bpf](https://github.com/bpftools/linux-observability-with-bpf) - Code snippets from the O'Reilly book
 - [strace/strace](https://github.com/strace/strace) - strace is a diagnostic, debugging and instructional userspace utility for Linux
-- [droundy/bigbro](https://github.com/droundy/bigbro) - library (and utility) for tracking filesystem changes
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [politza/pdf-tools](https://github.com/politza/pdf-tools) - Emacs support library for PDF files.
@@ -1079,6 +1078,7 @@
 - [WhereSoftwareGoesToDie/chevalier](https://github.com/WhereSoftwareGoesToDie/chevalier) - A search engine for vaultaire
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [appc/spec](https://github.com/appc/spec) - App Container Specification and Tooling (archived, see https://github.com/rkt/rkt/issues/4024)
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [rkt/rkt](https://github.com/rkt/rkt) - [Project ended] rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
 - [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
@@ -2406,7 +2406,7 @@
 - [functionaljava/functionaljava](https://github.com/functionaljava/functionaljava) - Functional programming in Java
 - [seph-lang/seph](https://github.com/seph-lang/seph) - Seph is a language experiment for the slightly crazy lunatic
 - [robheittman/scalagwt-sample](https://github.com/robheittman/scalagwt-sample) - Sample Scala+GWT project
-- [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) - Real-time transport layer for Java AI agents. Build once with @Agent — deliver over WebSocket, SSE, gRPC, and WebTransport/HTTP3. Talk MCP, A2A and AG-UI.
+- [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) - Portable AI agent runtime for the JVM. One @Agent class runs on Spring AI, LangChain4j, Anthropic, or 9 more behind one SPI. Token streaming, tool calls, human approvals, and governance over WebSocket
 - [mbien/jake2](https://github.com/mbien/jake2) - Jake2 is a port of the Quake2 game engine to java.
 - [lexspoon/scalagwt-gwt](https://github.com/lexspoon/scalagwt-gwt) - This repository holds a temporary fork of GWT to add support for Scala.
 - [hraberg/enumerable](https://github.com/hraberg/enumerable) - Ruby/Smalltalk style internal iterators for Java 5 using bytecode transformation to capture expressions as closures.
@@ -3560,6 +3560,7 @@
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [ganeti/ganeti](https://github.com/ganeti/ganeti) - Ganeti is a virtual machine cluster management tool built on top of existing virtualization technologies such as Xen or KVM and other open source software.
 - [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
+- [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 - [graydon/bors](https://github.com/graydon/bors) - Integration robot for buildbot and github
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
@@ -3999,9 +4000,7 @@
 - [bitemyapp/lefortovo](https://github.com/bitemyapp/lefortovo) - безграмотный gitignore and makefile fetcher in Rust
 - [pikelet-lang/pikelet](https://github.com/pikelet-lang/pikelet) - A friendly little systems language with first-class types. Very WIP! 🚧 🚧 🚧
 - [cgag/loc](https://github.com/cgag/loc) - Count lines of code quickly.
-- [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 - [faern/rips-old](https://github.com/faern/rips-old) - Rust IP Stack - A userspace IP stack written in Rust (Work in progress)
-- [droundy/fac](https://github.com/droundy/fac) - Fac is a general-purpose build system that runs on Linux only, which automatically tracks dependencies by observing the build commands in operation.
 - [ckkashyap/rustix](https://github.com/ckkashyap/rustix) - Unix kernel in rust
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust
@@ -4631,7 +4630,6 @@
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [baconjs/bacon.js](https://github.com/baconjs/bacon.js) - Functional reactive programming library for TypeScript and JavaScript
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
-- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
 - [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
