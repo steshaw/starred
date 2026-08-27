@@ -258,6 +258,7 @@
 - [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [bpftools/linux-observability-with-bpf](https://github.com/bpftools/linux-observability-with-bpf) - Code snippets from the O'Reilly book
 - [strace/strace](https://github.com/strace/strace) - strace is a diagnostic, debugging and instructional userspace utility for Linux
+- [droundy/bigbro](https://github.com/droundy/bigbro) - library (and utility) for tracking filesystem changes
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [politza/pdf-tools](https://github.com/politza/pdf-tools) - Emacs support library for PDF files.
@@ -1737,7 +1738,7 @@
 - [jberryman/unagi-chan](https://github.com/jberryman/unagi-chan) - A haskell library implementing fast and scalable concurrent queues for x86, with a Chan-like API
 - [stackbuilders/dotenv-hs](https://github.com/stackbuilders/dotenv-hs) - Load environment variables from dotenv files for Haskell
 - [lambdacube3d/lambdacube-quake3](https://github.com/lambdacube3d/lambdacube-quake3) - Quake 3 map viewer in Haskell using LambdaCube 3D
-- [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+- [plaintextaccounting/hledger](https://github.com/plaintextaccounting/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [TaktInc/freer](https://github.com/TaktInc/freer) - 
 - [Soostone/safecopy-hunit](https://github.com/Soostone/safecopy-hunit) - Tests compatibility of safecopy values
 - [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
@@ -4000,6 +4001,7 @@
 - [pikelet-lang/pikelet](https://github.com/pikelet-lang/pikelet) - A friendly little systems language with first-class types. Very WIP! 🚧 🚧 🚧
 - [cgag/loc](https://github.com/cgag/loc) - Count lines of code quickly.
 - [faern/rips-old](https://github.com/faern/rips-old) - Rust IP Stack - A userspace IP stack written in Rust (Work in progress)
+- [droundy/fac](https://github.com/droundy/fac) - Fac is a general-purpose build system that runs on Linux only, which automatically tracks dependencies by observing the build commands in operation.
 - [ckkashyap/rustix](https://github.com/ckkashyap/rustix) - Unix kernel in rust
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust
