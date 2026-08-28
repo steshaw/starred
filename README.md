@@ -94,7 +94,6 @@
 - [QML](#qml)
 - [Racket](#racket)
 - [Raku](#raku)
-- [ReScript](#rescript)
 - [Reason](#reason)
 - [Red](#red)
 - [Rocq Prover](#rocq-prover)
@@ -1229,7 +1228,7 @@
 - [hindsight-es/hindsight](https://github.com/hindsight-es/hindsight) - Type-safe event sourcing system for Haskell
 - [acondolu/vague](https://github.com/acondolu/vague) - Hobby functional programming language
 - [DataHaskell/dataframe](https://github.com/DataHaskell/dataframe) - A fast, safe, and intuitive DataFrame library.
-- [MercuryTechnologies/hs-temporal-sdk](https://github.com/MercuryTechnologies/hs-temporal-sdk) - Unofficial Temporal Haskell SDK
+- [mercury/hs-temporal-sdk](https://github.com/mercury/hs-temporal-sdk) - Unofficial Temporal Haskell SDK
 - [augustss/MicroCabal](https://github.com/augustss/MicroCabal) - Reimplementation of a subset of Cabal
 - [mchav/granite](https://github.com/mchav/granite) - A library for producing terminal plots.
 - [ocramz/thih](https://github.com/ocramz/thih) - typing haskell in haskell
@@ -3050,6 +3049,7 @@
 - [janestreet/incr_dom](https://github.com/janestreet/incr_dom) - A library for building dynamic webapps, using Js_of_ocaml.
 - [janestreet/virtual_dom](https://github.com/janestreet/virtual_dom) - OCaml bindings for the virtual-dom library
 - [LexiFi/ocaml-vdom](https://github.com/LexiFi/ocaml-vdom) - Elm architecture and (V)DOM for OCaml
+- [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
 - [ocaml-multicore/ocaml-multicore](https://github.com/ocaml-multicore/ocaml-multicore) - Multicore OCaml
 - [stedolan/malfunction](https://github.com/stedolan/malfunction) - Malfunctional Programming
 - [andrejbauer/plzoo](https://github.com/andrejbauer/plzoo) - Programming Languages Zoo
@@ -3621,10 +3621,6 @@
 ## Raku 
 
 - [rakudo/rakudo](https://github.com/rakudo/rakudo) - 🦋 Rakudo – Raku on MoarVM, JVM, and JS
-
-## ReScript 
-
-- [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
 
 ## Reason 
 
