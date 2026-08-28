@@ -2215,7 +2215,7 @@
 
 ## haskell 
 
-- [MercuryTechnologies/hs-temporal-sdk](https://github.com/MercuryTechnologies/hs-temporal-sdk) - Unofficial Temporal Haskell SDK
+- [mercury/hs-temporal-sdk](https://github.com/mercury/hs-temporal-sdk) - Unofficial Temporal Haskell SDK
 - [haskell-effectful/effectful](https://github.com/haskell-effectful/effectful) - An easy to use, fast extensible effects library with seamless integration with the existing Haskell ecosystem.
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [mrcjkb/haskell-tools.nvim](https://github.com/mrcjkb/haskell-tools.nvim) - 🦥 Supercharge your Haskell experience in neovim!
