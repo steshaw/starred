@@ -11,7 +11,6 @@
 - [Agda](#agda)
 - [Assembly](#assembly)
 - [Astro](#astro)
-- [Bikeshed](#bikeshed)
 - [Boo](#boo)
 - [Boogie](#boogie)
 - [C](#c)
@@ -204,10 +203,6 @@
 
 - [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2025: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
 - [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
-
-## Bikeshed 
-
-- [gpuweb/gpuweb](https://github.com/gpuweb/gpuweb) - Where the GPU for the Web work happens!
 
 ## Boo 
 
@@ -3117,6 +3112,7 @@
 - [leostera/awesome-alt-langs](https://github.com/leostera/awesome-alt-langs) - Just a list of Awesome Alt Langs to check out
 - [mpu/gthreads](https://github.com/mpu/gthreads) - Toy Green Threads for C.
 - [jonhoo/rust-ci-conf](https://github.com/jonhoo/rust-ci-conf) - Collection of CI configuration files for Rust projects
+- [gpuweb/gpuweb](https://github.com/gpuweb/gpuweb) - Where the GPU for the Web work happens!
 - [mattearnshaw/lawvere](https://github.com/mattearnshaw/lawvere) - The collected works of F. W. Lawvere
 - [shining1984/PL-Compiler-Resource](https://github.com/shining1984/PL-Compiler-Resource) - 程序语言与编译技术相关资料（持续更新中）
 - [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
@@ -4572,7 +4568,7 @@
 - [neoclide/coc-rls](https://github.com/neoclide/coc-rls) - Rust language server support for coc.nvim
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - TinaCMS is the leading open-source headless CMS that supports Markdown and Visual Editing. Your content is stored in your own GitHub repo 🦙 ❤️
-- [linsa-io/linsa.io](https://github.com/linsa-io/linsa.io) - Work. Save. Share. Privately.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
 - [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
