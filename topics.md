@@ -2596,6 +2596,7 @@
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of infrastructure and applications at scale.
+- [eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 
 ## ipfs 
@@ -4301,7 +4302,6 @@
 - [mrakgr/The-Spiral-Language](https://github.com/mrakgr/The-Spiral-Language) - Functional language with intensional polymorphism and first-class staging.
 - [well-typed/optics](https://github.com/well-typed/optics) - Optics as an abstract interface
 - [typedefs/typedefs](https://github.com/typedefs/typedefs) - Programming language agnostic type construction language based on polynomials.
-- [eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 - [svanderburg/node2nix](https://github.com/svanderburg/node2nix) - Generate Nix expressions to build NPM packages
 - [target/lorri](https://github.com/target/lorri) - Your project's nix-env
 - [deech/shen-elisp](https://github.com/deech/shen-elisp) - 
@@ -4912,7 +4912,7 @@
 - [drh/lcc](https://github.com/drh/lcc) - The lcc retargetable ANSI C compiler
 - [snabbco/snabb](https://github.com/snabbco/snabb) - Snabb: Simple and fast packet networking
 - [jwasham/computer-science-flash-cards](https://github.com/jwasham/computer-science-flash-cards) - Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
-- [NextBSD/NextBSD](https://github.com/NextBSD/NextBSD) - FreeBSD src tree
+- [NextBSD-classic/NextBSD-classic](https://github.com/NextBSD-classic/NextBSD-classic) - FreeBSD src tree
 - [psibi/how-to-prove](https://github.com/psibi/how-to-prove) - My Solution to Velleman's book
 - [facebook/proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
 - [h2o/h2o](https://github.com/h2o/h2o) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
