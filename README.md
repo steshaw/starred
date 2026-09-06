@@ -2414,7 +2414,6 @@
 
 - [rooklift/nibbler](https://github.com/rooklift/nibbler) - Chess analysis GUI for UCI engines, with extra features for Leela (Lc0) in particular.
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
-- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [pullpo-io/conventional-comments](https://github.com/pullpo-io/conventional-comments) - Chrome and Firefox extension for Conventional Comments in GitHub UI.
 - [leaningtech/cheerp-meta](https://github.com/leaningtech/cheerp-meta) - Cheerp - a C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
@@ -3202,7 +3201,7 @@
 - [sjsyrek/haskell-study-startup](https://github.com/sjsyrek/haskell-study-startup) - Launch your own Haskell study group. Now.
 - [dannyfritz/commit-message-emoji](https://github.com/dannyfritz/commit-message-emoji) - Every commit is important. So let's celebrate each and every commit with a corresponding emoji! :smile:
 - [nbro/understanding-math](https://github.com/nbro/understanding-math) - Links to resources talking about how to learn & understand mathematics, and mathematical language, terminology and notation.
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]
 - [proudcloud/awesome](https://github.com/proudcloud/awesome) - What makes Proudcloud awesome.
 - [feedbackfruits/seriouspizzas](https://github.com/feedbackfruits/seriouspizzas) - 
 - [yallop/effects-bibliography](https://github.com/yallop/effects-bibliography) - A collaborative bibliography of work related to the theory and practice of computational effects
@@ -3456,6 +3455,7 @@
 - [CSSLab/maia-chess](https://github.com/CSSLab/maia-chess) - Maia is a human-like neural network chess engine trained on millions of human games.
 - [byztxt/byzantine-majority-text](https://github.com/byztxt/byzantine-majority-text) - Byzantine Majority Greek New Testament text edited by Robinson and Pierpont, with morphological parsing tags and Strong's numbers
 - [substrait-io/substrait](https://github.com/substrait-io/substrait) - A cross platform way to express data transformation, relational algebra, standardized record expression and plans.
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [Wirasm/prp](https://github.com/Wirasm/prp) - Prompts, workflows and more for agentic engineering
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
