@@ -877,6 +877,7 @@
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [bazelbuild/remote-apis](https://github.com/bazelbuild/remote-apis) - An API for caching and execution of actions on a remote system.
 - [grailbio/reflow](https://github.com/grailbio/reflow) - A language and runtime for distributed, incremental data processing in the cloud
@@ -3119,7 +3120,6 @@
 - [j-mueller/language-agda](https://github.com/j-mueller/language-agda) - Agda language support for VSCode, based on https://github.com/mokus0/Agda.tmbundle
 - [visual-systems/philosophy](https://github.com/visual-systems/philosophy) - Overall philosophical documentation of what this system will aim to achieve and how it will be constructed.
 - [cardano-foundation/CIPs](https://github.com/cardano-foundation/CIPs) - Cardano Improvement Proposals (CIPs)
-- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [tonyday567/haskell-agent](https://github.com/tonyday567/haskell-agent) - How I start Haskell.
 - [statebox/awesome-applied-ct](https://github.com/statebox/awesome-applied-ct) - ACT community resources
 - [ocaml-multicore/awesome-multicore-ocaml](https://github.com/ocaml-multicore/awesome-multicore-ocaml) - A collection of libraries, experiments and ideas relating to OCaml 5 (multicore + effects)
