@@ -308,6 +308,7 @@
 
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [embabel/embabel-agent](https://github.com/embabel/embabel-agent) - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
@@ -3586,7 +3587,6 @@
 - [antlr4rust/antlr4](https://github.com/antlr4rust/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
-- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [Wirasm/prp](https://github.com/Wirasm/prp) - Prompts, workflows and more for agentic engineering
 - [apple/pkl-k8s-examples](https://github.com/apple/pkl-k8s-examples) - Examples for using Pkl with Kubernetes
 - [symposium-dev/symposium](https://github.com/symposium-dev/symposium) - AI the Rust Way
@@ -3806,7 +3806,7 @@
 - [dracula/gtk](https://github.com/dracula/gtk) - 🧛🏻‍♂️ Dark theme for GTK
 - [leanprover-community/lean4-metaprogramming-book](https://github.com/leanprover-community/lean4-metaprogramming-book) - 
 - [NorfairKing/autodocodec](https://github.com/NorfairKing/autodocodec) - self(auto)- documenting encoders and decoders
-- [HigherOrderCO/HVM2](https://github.com/HigherOrderCO/HVM2) - A massively parallel, optimal functional runtime in Rust
+- [HigherOrderCO/HVM1](https://github.com/HigherOrderCO/HVM1) - HVM1 (2022): a massively parallel, optimal functional runtime in Rust
 - [proglangdesign/proglangdesign.github.io](https://github.com/proglangdesign/proglangdesign.github.io) - A website for the #proglangdesign community on freenode
 - [grin-compiler/ghc-wpc](https://github.com/grin-compiler/ghc-wpc) - GHC-WPC is an extended GHC that exports the STG and other IR (.modpak) for the compiled modules and linker metadata (.ghc_stgapp) at application link time.
 - [mattpolzin/harmony](https://github.com/mattpolzin/harmony) - Harmonize with coworkers around GitHub reviewing.
@@ -4061,7 +4061,6 @@
 - [dillonkearns/elm-pages](https://github.com/dillonkearns/elm-pages) - Hybrid Elm framework with full-stack and static routes.
 - [digital-asset/daml](https://github.com/digital-asset/daml) - The Daml smart contract language
 - [mwand/eopl3](https://github.com/mwand/eopl3) - Code from the book "Essentials of Programming Languages", 3rd ed. by Friedman and Wand
-- [jwiegley/nix-config](https://github.com/jwiegley/nix-config) - My local Nix configuration
 - [tomasbjerre/git-changelog-lib](https://github.com/tomasbjerre/git-changelog-lib) - Generate changelog, and/or next version, with, or without, conventional commits from a GIT repository
 - [ahmetb/cloud-run-faq](https://github.com/ahmetb/cloud-run-faq) - Unofficial FAQ and everything you've been wondering about Google Cloud Run.
 - [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
