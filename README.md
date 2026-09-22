@@ -1169,7 +1169,6 @@
 - [msp-strath/MSPweb](https://github.com/msp-strath/MSPweb) - being the shared sources and generated html for the MSP website
 - [launchaco/logo_builder](https://github.com/launchaco/logo_builder) - Free AI powered logo builder
 - [Logomator/logomator](https://github.com/Logomator/logomator) - An online logo maker that uses machine learning to make you feel like you're working with a real designer.
-- [MikeMcQuaid/strap](https://github.com/MikeMcQuaid/strap) - 👢 Bootstrap your macOS development system.
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
 - [NixOS/nixos-weekly](https://github.com/NixOS/nixos-weekly) - NixOS Weekly Newsletter
@@ -4272,6 +4271,7 @@
 - [QBayLogic/benchmark-compilation](https://github.com/QBayLogic/benchmark-compilation) - 
 - [wfxr/tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - 🚀 Quickly open urls on your terminal screen!
 - [dennyzhang/cheatsheet-kubernetes-A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) - :book: Kubernetes CheatSheets In A4
+- [MikeMcQuaid/strap](https://github.com/MikeMcQuaid/strap) - 👢 Bootstrap your macOS development system.
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [egen/scriptcast](https://github.com/egen/scriptcast) - An application that automates Command-Line Interface (CLI) screencast output.
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
@@ -4591,7 +4591,7 @@
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [editorconfig/editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode) - EditorConfig extension for Visual Studio Code
-- [lichess-org/api](https://github.com/lichess-org/api) - Lichess API documentation and examples
+- [lichess-org/api](https://github.com/lichess-org/api) - Lichess API documentation
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
 - [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
