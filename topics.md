@@ -4050,7 +4050,7 @@
 - [peterlefanulumsdaine/general-type-theories](https://github.com/peterlefanulumsdaine/general-type-theories) - A (formalised) general definition of type theories
 - [circe/circe-golden](https://github.com/circe/circe-golden) - Golden testing for Circe
 - [gambit/gambit](https://github.com/gambit/gambit) - Gambit is an efficient implementation of the Scheme programming language.
-- [mighty-gerbils/gerbil](https://github.com/mighty-gerbils/gerbil) - Gerbil Scheme
+- [mighty-gerbils/gerbil](https://github.com/mighty-gerbils/gerbil) - Gerbil Scheme public release mirror; development happens at https://gerbil.cons.io
 - [FormationAI/dhall-bhat](https://github.com/FormationAI/dhall-bhat) - Tasty meal of Dhall
 - [danielpeach/hello-pulumi](https://github.com/danielpeach/hello-pulumi) - Sample Pulumi + Spinnaker application
 - [TOTBWF/muprl](https://github.com/TOTBWF/muprl) - A small NuPRL style proof assistant
