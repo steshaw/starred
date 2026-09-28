@@ -4216,7 +4216,7 @@
 - [manuel-serrano/bigloo](https://github.com/manuel-serrano/bigloo) - a practical Scheme compiler
 - [larcenists/larceny](https://github.com/larcenists/larceny) - Larceny Scheme implementation
 - [gambit/gambit](https://github.com/gambit/gambit) - Gambit is an efficient implementation of the Scheme programming language.
-- [mighty-gerbils/gerbil](https://github.com/mighty-gerbils/gerbil) - Gerbil Scheme
+- [mighty-gerbils/gerbil](https://github.com/mighty-gerbils/gerbil) - Gerbil Scheme public release mirror; development happens at https://gerbil.cons.io
 - [mwand/eopl3](https://github.com/mwand/eopl3) - Code from the book "Essentials of Programming Languages", 3rd ed. by Friedman and Wand
 - [marcomaggi/vicare](https://github.com/marcomaggi/vicare) - A native compiler for Scheme compliant with R6RS
 - [nanopass/nanopass-framework-scheme](https://github.com/nanopass/nanopass-framework-scheme) - The new nanopass framework; an embedded DSL for writing compilers in Scheme
