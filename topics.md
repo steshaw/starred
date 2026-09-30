@@ -4416,7 +4416,7 @@
 - [Logomator/logomator](https://github.com/Logomator/logomator) - An online logo maker that uses machine learning to make you feel like you're working with a real designer.
 - [barrelstrength/sprout-seo](https://github.com/barrelstrength/sprout-seo) - Content-focused SEO. Control every detail of your online visibility.
 - [anuyts/agda-sessions](https://github.com/anuyts/agda-sessions) - Learn the Agda basics in three 2-hour sessions.
-- [verbb/super-table](https://github.com/verbb/super-table) - Super-charge your Craft workflow using Super Table.
+- [verbb/super-table](https://github.com/verbb/super-table) - A Craft CMS migration plugin for converting Super Table fields and content to native Matrix.
 - [spicywebau/craft-neo](https://github.com/spicywebau/craft-neo) - A Matrix-like field type for Craft CMS that uses existing fields
 - [rui314/9cc](https://github.com/rui314/9cc) - A Small C Compiler
 - [rui314/8cc](https://github.com/rui314/8cc) - A Small C Compiler
