@@ -3361,7 +3361,7 @@
 - [craftcms/anchors](https://github.com/craftcms/anchors) - Add anchor links to headings in your Craft CMS website content.
 - [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 - [barrelstrength/sprout-seo](https://github.com/barrelstrength/sprout-seo) - Content-focused SEO. Control every detail of your online visibility.
-- [verbb/super-table](https://github.com/verbb/super-table) - Super-charge your Craft workflow using Super Table.
+- [verbb/super-table](https://github.com/verbb/super-table) - A Craft CMS migration plugin for converting Super Table fields and content to native Matrix.
 - [spicywebau/craft-neo](https://github.com/spicywebau/craft-neo) - A Matrix-like field type for Craft CMS that uses existing fields
 - [putyourlightson/craft-blitz](https://github.com/putyourlightson/craft-blitz) - Intelligent static page caching for creating lightning-fast sites with Craft CMS.
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
