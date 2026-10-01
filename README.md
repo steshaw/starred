@@ -3220,7 +3220,7 @@
 - [haskell-perf/checklist](https://github.com/haskell-perf/checklist) - The Haskell performance checklist
 - [yallop/haskell2014-papers](https://github.com/yallop/haskell2014-papers) - Accepted papers for Haskell 2014
 - [datasciencemasters/go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
-- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
+- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - The Cloud Native AI Platform
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [Homebrew/homebrew-services](https://github.com/Homebrew/homebrew-services) - 💀 Homebrew Services (deprecated)
 - [libuv/leps](https://github.com/libuv/leps) - Libuv Enhancement Proposals
