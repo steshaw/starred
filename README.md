@@ -718,7 +718,6 @@
 
 ## Dhall 
 
-- [dhall-lang/dhall-haskell](https://github.com/dhall-lang/dhall-haskell) - Maintainable configuration files
 - [purescript/package-sets](https://github.com/purescript/package-sets) - PureScript packages for Spago and Psc-Package
 - [dhall-lang/dhall-kubernetes](https://github.com/dhall-lang/dhall-kubernetes) - Typecheck, template and modularize your Kubernetes definitions with Dhall
 - [dhall-lang/dhall-lang](https://github.com/dhall-lang/dhall-lang) - Maintainable configuration files
@@ -849,7 +848,7 @@
 
 ## Go 
 
-- [martianoff/gala](https://github.com/martianoff/gala) - Scala on Go. Sealed types, exhaustive pattern matching, Option/Either/Try, bind/also do-notation, and compile-time data-race safety — transpiled to plain Go with full third-party module interop, zero-
+- [martianoff/gala](https://github.com/martianoff/gala) - Go, the functional way. Inspired by Scala: sealed types, exhaustive pattern matching, Option/Either/Try, bind/also do-notation, and compile-time data-race safety — transpiled to plain Go with full thi
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
@@ -3083,7 +3082,6 @@
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [dsward2/macSVG](https://github.com/dsward2/macSVG) - macSVG - An open-source macOS app for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view ➤➤➤
 - [sequelpro/sequelpro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS
-- [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
 - [jigish/slate](https://github.com/jigish/slate) - A window management application (replacement for Divvy/SizeUp/ShiftIt)
@@ -3513,6 +3511,7 @@
 - [ncm2/ncm2](https://github.com/ncm2/ncm2) - :heart: Slim, Fast and Hackable Completion Framework for Neovim
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of infrastructure and applications at scale.
+- [dhall-lang/dhall-haskell](https://github.com/dhall-lang/dhall-haskell) - Maintainable configuration files
 - [purplesyringa/PijulGit](https://github.com/purplesyringa/PijulGit) - Pijul &lt;-&gt; Git proxy
 - [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
@@ -4396,6 +4395,7 @@
 - [r-thomson/Nightfall](https://github.com/r-thomson/Nightfall) - A macOS menu bar utility for quickly toggling dark mode, written in Swift.
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [andybest/linenoise-swift](https://github.com/andybest/linenoise-swift) - A pure Swift replacement for readline
+- [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command-line interface
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
