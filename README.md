@@ -821,7 +821,6 @@
 
 ## F# # 
 
-- [pbiggar/darklang-compiler](https://github.com/pbiggar/darklang-compiler) - A compiler for darklang
 - [project-everest/vale](https://github.com/project-everest/vale) - Verified Assembly Language for Everest
 - [swlaschin/fsharpforfunandprofit.com](https://github.com/swlaschin/fsharpforfunandprofit.com) - Source for fsharpforfunandprofit.com. For typos, please send a PR or create an issue. Thanks!
 - [swlaschin/DomainModelingMadeFunctional](https://github.com/swlaschin/DomainModelingMadeFunctional) - Extended code samples related to the book "Domain Modeling Made Functional". Buy the book here: https://pragprog.com/book/swdddf/domain-modeling-made-functional or here https://fsharpforfunandprofit.c
@@ -2987,6 +2986,7 @@
 
 ## OCaml 
 
+- [pbiggar/darklang-compiler](https://github.com/pbiggar/darklang-compiler) - A compiler for darklang
 - [ott-lang/ott](https://github.com/ott-lang/ott) - The Ott tool for writing definitions of programming languages and calculi
 - [rossberg/boulder-dash](https://github.com/rossberg/boulder-dash) - A Boulder Dash clone in OCaml
 - [dhil/ocaml-multicont](https://github.com/dhil/ocaml-multicont) - multi-shot continuations in OCaml
@@ -4287,7 +4287,7 @@
 - [commercialhaskell/lts-haskell](https://github.com/commercialhaskell/lts-haskell) - LTS Haskell build plans
 - [zendesk/helm-secrets](https://github.com/zendesk/helm-secrets) - DEPRECATED A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [FairwindsOps/rok8s-scripts](https://github.com/FairwindsOps/rok8s-scripts) - Opinionated scripts for managing application deployment lifecycle in Kubernetes
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 600 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, 
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 700 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, 
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [pbiggar/rash](https://github.com/pbiggar/rash) - Rebourne Again Shell
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
