@@ -311,6 +311,7 @@
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
 - [embabel/embabel-agent](https://github.com/embabel/embabel-agent) - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Gabriella439/grace](https://github.com/Gabriella439/grace) - A prompt engineering functional programming language
@@ -981,7 +982,7 @@
 - [melsman/mlkit](https://github.com/melsman/mlkit) - Standard ML Compiler and Toolkit
 - [ocaml/ocaml](https://github.com/ocaml/ocaml) - The core OCaml system: compilers, runtime system, base libraries
 - [CakeML/cakeml](https://github.com/CakeML/cakeml) - CakeML: A Verified Implementation of ML
-- [sdiehl/write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell) - Building a modern functional compiler from first principles. (http://dev.stephendiehl.com/fun/)
+- [sdiehl/write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell) - Building a modern functional compiler from first principles.
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [valderman/haste-compiler](https://github.com/valderman/haste-compiler) - A GHC-based Haskell to JavaScript compiler
 - [kfl/mosml](https://github.com/kfl/mosml) - Moscow ML is a light-weight implementation of Standard ML (SML), a strict functional language widely used in teaching and research.
@@ -1672,7 +1673,6 @@
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [agrafix/Spock](https://github.com/agrafix/Spock) - Another Haskell web framework for rapid development
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
-- [marionettejs/backbone.marionette](https://github.com/marionettejs/backbone.marionette) - Marionette v4 for Backbone applications. Maintenance fixes; new development continues in marionettejs/marionette.
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project
 
@@ -1689,7 +1689,6 @@
 - [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-- [marionettejs/backbone.marionette](https://github.com/marionettejs/backbone.marionette) - Marionette v4 for Backbone applications. Maintenance fixes; new development continues in marionettejs/marionette.
 - [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 
 ## game 
@@ -1762,6 +1761,7 @@
 ## generative-ai 
 
 - [embabel/embabel-agent](https://github.com/embabel/embabel-agent) - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 
 ## git 
@@ -2236,7 +2236,7 @@
 - [Copilot-Language/copilot](https://github.com/Copilot-Language/copilot) - A stream-based runtime-verification framework for generating hard real-time C code.
 - [fumieval/extensible](https://github.com/fumieval/extensible) - Extensible records, variants, structs, effects, tangles
 - [tweag/pirouette](https://github.com/tweag/pirouette) - Language-generic workbench for building static analysis
-- [flora-pm/flora-server](https://github.com/flora-pm/flora-server) - A package index for the Haskell ecosystem
+- [flora-pm/flora-server](https://github.com/flora-pm/flora-server) - A modern package index for the Haskell ecosystem
 - [iand675/hs-opentelemetry](https://github.com/iand675/hs-opentelemetry) - OpenTelemetry support for the Haskell programming language
 - [YPares/porcupine](https://github.com/YPares/porcupine) - Express parametrable, composable and portable data pipelines
 - [input-output-hk/foliage](https://github.com/input-output-hk/foliage) - 🌿 Foliage is a tool to create custom Haskell package repositories, in a fully reproducible way.
@@ -2473,6 +2473,7 @@
 - [atom-haskell/ide-haskell](https://github.com/atom-haskell/ide-haskell) - Haskell IDE plugin for Atom editor
 - [haskell-game/sdl2](https://github.com/haskell-game/sdl2) - Haskell bindings to the SDL2 library
 - [brendanhay/amazonka](https://github.com/brendanhay/amazonka) - A comprehensive Amazon Web Services SDK for Haskell.
+- [sdiehl/write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell) - Building a modern functional compiler from first principles.
 - [pcapriotti/optparse-applicative](https://github.com/pcapriotti/optparse-applicative) - Applicative option parser
 - [sdiehl/wiwinwlh](https://github.com/sdiehl/wiwinwlh) - What I Wish I Knew When Learning Haskell
 - [mthom/shentong](https://github.com/mthom/shentong) - A Haskell implementation of the Shen programming language.
@@ -2805,7 +2806,7 @@
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [lebesnec/island.js](https://github.com/lebesnec/island.js) - Island map generator in JavaScript
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [marionettejs/backbone.marionette](https://github.com/marionettejs/backbone.marionette) - Marionette v4 for Backbone applications. Maintenance fixes; new development continues in marionettejs/marionette.
+- [marionettejs/marionette](https://github.com/marionettejs/marionette) - A JavaScript library for structured interfaces, with explicit ownership and lifecycle. Built for agent-led development. Canonical Marionette repository; v4 history is preserved on the v4 branch.
 - [HeinrichApfelmus/threepenny-gui](https://github.com/HeinrichApfelmus/threepenny-gui) - GUI framework that uses the web browser as a display.
 - [readium/readium-js](https://github.com/readium/readium-js) - EPUB processing engine written in Javascript
 - [pump-io/pump.io](https://github.com/pump-io/pump.io) - Social server with an ActivityStreams API
@@ -3622,7 +3623,7 @@
 - [vimichael/make-windows-pretty](https://github.com/vimichael/make-windows-pretty) - Some tools I used for making Windows 11 look nice.
 - [leanprover-community/mathlib4](https://github.com/leanprover-community/mathlib4) - The math library of Lean 4
 - [ocramz/thih](https://github.com/ocramz/thih) - typing haskell in haskell
-- [bazel-contrib/bazel-gazelle](https://github.com/bazel-contrib/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
+- [bazel-contrib/bazel-gazelle](https://github.com/bazel-contrib/bazel-gazelle) - Gazelle generates and updates Bazel BUILD files. It supports Go and protobuf natively and many more languages and rule sets through extensions.
 - [pniederw/expecty](https://github.com/pniederw/expecty) - Power assertions (as known from Groovy and Spock) for the Scala language.
 - [async-profiler/async-profiler](https://github.com/async-profiler/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
 - [micronaut-projects/micronaut-crac](https://github.com/micronaut-projects/micronaut-crac) - Coordinated Restore at Checkpoint support for the Micronaut Framework
@@ -4517,7 +4518,7 @@
 - [ocaml/tuareg](https://github.com/ocaml/tuareg) - Emacs OCaml mode
 - [ocaml/odoc](https://github.com/ocaml/odoc) - Documentation compiler for OCaml
 - [ocaml/dune](https://github.com/ocaml/dune) - A composable build system for OCaml.
-- [AltGr/opam-bundle](https://github.com/AltGr/opam-bundle) - A tool that creates stand-alone source bundles from opam packages
+- [OCamlPro/opam-bundle](https://github.com/OCamlPro/opam-bundle) - A tool that creates stand-alone source bundles from opam packages
 - [aspiwack/treemachine](https://github.com/aspiwack/treemachine) - 
 - [tweag/linear-types](https://github.com/tweag/linear-types) - Drafts, notes and resources for adding linear typing to GHC.
 - [google/brotli](https://github.com/google/brotli) - Brotli compression format
@@ -6825,6 +6826,7 @@
 - [mmstick/parallel](https://github.com/mmstick/parallel) - This project now lives on in a rewrite at https://gitlab.redox-os.org/redox-os/parallel
 - [harpocrates/language-rust](https://github.com/harpocrates/language-rust) - Parser and pretty-printer for the Rust language
 - [gluon-lang/gluon](https://github.com/gluon-lang/gluon) - A static, type inferred and embeddable language written in Rust.
+- [sdiehl/write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell) - Building a modern functional compiler from first principles.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [apache/mahout](https://github.com/apache/mahout) - Apache Mahout - an environment for quickly creating scalable, performant machine learning applications.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
@@ -7182,7 +7184,7 @@
 - [cirocosta/asciinema-edit](https://github.com/cirocosta/asciinema-edit) - asciinema casts post-production tools
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [jtdaugherty/brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI library written in Haskell
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 600 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, 
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 750 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [gnunn1/tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
@@ -7314,6 +7316,7 @@
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [marionettejs/marionette](https://github.com/marionettejs/marionette) - A JavaScript library for structured interfaces, with explicit ownership and lifecycle. Built for agent-led development. Canonical Marionette repository; v4 history is preserved on the v4 branch.
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 
@@ -7345,6 +7348,7 @@
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [purescript-halogen/purescript-halogen](https://github.com/purescript-halogen/purescript-halogen) - A declarative, type-safe UI library for PureScript.
+- [marionettejs/marionette](https://github.com/marionettejs/marionette) - A JavaScript library for structured interfaces, with explicit ownership and lifecycle. Built for agent-led development. Canonical Marionette repository; v4 history is preserved on the v4 branch.
 - [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 
 ## ui-design 
