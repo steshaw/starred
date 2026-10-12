@@ -94,6 +94,7 @@
 - [QML](#qml)
 - [Racket](#racket)
 - [Raku](#raku)
+- [ReScript](#rescript)
 - [Reason](#reason)
 - [Red](#red)
 - [Rocq Prover](#rocq-prover)
@@ -853,7 +854,7 @@
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - The most popular Kubernetes Operator for PostgreSQL.
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
-- [bazel-contrib/bazel-gazelle](https://github.com/bazel-contrib/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
+- [bazel-contrib/bazel-gazelle](https://github.com/bazel-contrib/bazel-gazelle) - Gazelle generates and updates Bazel BUILD files. It supports Go and protobuf natively and many more languages and rule sets through extensions.
 - [cottand/ile](https://github.com/cottand/ile) - 
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
@@ -1273,7 +1274,7 @@
 - [iohkedu/haskell-2020](https://github.com/iohkedu/haskell-2020) - Videos and exercises for the Haskell and Cryptocurrencies class.
 - [tweag/pirouette](https://github.com/tweag/pirouette) - Language-generic workbench for building static analysis
 - [iand675/hstate](https://github.com/iand675/hstate) - State machines in Haskell
-- [flora-pm/flora-server](https://github.com/flora-pm/flora-server) - A package index for the Haskell ecosystem
+- [flora-pm/flora-server](https://github.com/flora-pm/flora-server) - A modern package index for the Haskell ecosystem
 - [iand675/thread-utils](https://github.com/iand675/thread-utils) - Missing thread tools for Haskell
 - [iand675/hs-opentelemetry](https://github.com/iand675/hs-opentelemetry) - OpenTelemetry support for the Haskell programming language
 - [tonyday567/web-rep](https://github.com/tonyday567/web-rep) - 
@@ -2015,7 +2016,6 @@
 - [silkapp/rest](https://github.com/silkapp/rest) - Packages for defining APIs, running them, generating client code and documentation.
 - [thoughtbot/carnival](https://github.com/thoughtbot/carnival) - An unobtrusive, developer-friendly way to add comments
 - [ghc/ghc](https://github.com/ghc/ghc) - Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the n
-- [sdiehl/write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell) - Building a modern functional compiler from first principles. (http://dev.stephendiehl.com/fun/)
 - [palexand/interpreters](https://github.com/palexand/interpreters) - Experiments wring interpreters with Haskell.
 - [commandodev/oHm](https://github.com/commandodev/oHm) - Om with Haskell in it
 - [pcapriotti/optparse-applicative](https://github.com/pcapriotti/optparse-applicative) - Applicative option parser
@@ -2633,7 +2633,7 @@
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [lebesnec/island.js](https://github.com/lebesnec/island.js) - Island map generator in JavaScript
 - [zedapp/zed](https://github.com/zedapp/zed) - Rethinking code editing.
-- [marionettejs/backbone.marionette](https://github.com/marionettejs/backbone.marionette) - Marionette v4 for Backbone applications. Maintenance fixes; new development continues in marionettejs/marionette.
+- [marionettejs/marionette](https://github.com/marionettejs/marionette) - A JavaScript library for structured interfaces, with explicit ownership and lifecycle. Built for agent-led development. Canonical Marionette repository; v4 history is preserved on the v4 branch.
 - [remy/min.js](https://github.com/remy/min.js) - Super minimal selector and event library
 - [remy/jsconsole](https://github.com/remy/jsconsole) - Web based console - for presentations and workshops
 - [foundation/yeti](https://github.com/foundation/yeti) - A CSS-first, native, zero-build layout and styling framework for web designers.
@@ -3047,7 +3047,6 @@
 - [janestreet/incr_dom](https://github.com/janestreet/incr_dom) - A library for building dynamic webapps, using Js_of_ocaml.
 - [janestreet/virtual_dom](https://github.com/janestreet/virtual_dom) - OCaml bindings for the virtual-dom library
 - [LexiFi/ocaml-vdom](https://github.com/LexiFi/ocaml-vdom) - Elm architecture and (V)DOM for OCaml
-- [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
 - [ocaml-multicore/ocaml-multicore](https://github.com/ocaml-multicore/ocaml-multicore) - Multicore OCaml
 - [stedolan/malfunction](https://github.com/stedolan/malfunction) - Malfunctional Programming
 - [andrejbauer/plzoo](https://github.com/andrejbauer/plzoo) - Programming Languages Zoo
@@ -3621,6 +3620,10 @@
 - [OCamlPro/opam-bundle](https://github.com/OCamlPro/opam-bundle) - A tool that creates stand-alone source bundles from opam packages
 - [rakudo/rakudo](https://github.com/rakudo/rakudo) - 🦋 Rakudo – Raku on MoarVM, JVM, and JS
 
+## ReScript 
+
+- [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
+
 ## Reason 
 
 - [grain-lang/grain](https://github.com/grain-lang/grain) - The Grain compiler toolchain and CLI. Home of the modern web staple. 🌾
@@ -4007,6 +4010,7 @@
 - [habitat-sh/habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 - [mmstick/parallel](https://github.com/mmstick/parallel) - This project now lives on in a rewrite at https://gitlab.redox-os.org/redox-os/parallel
 - [gluon-lang/gluon](https://github.com/gluon-lang/gluon) - A static, type inferred and embeddable language written in Rust.
+- [sdiehl/write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell) - Building a modern functional compiler from first principles.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [apache/mahout](https://github.com/apache/mahout) - Apache Mahout - an environment for quickly creating scalable, performant machine learning applications.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
@@ -4287,7 +4291,7 @@
 - [commercialhaskell/lts-haskell](https://github.com/commercialhaskell/lts-haskell) - LTS Haskell build plans
 - [zendesk/helm-secrets](https://github.com/zendesk/helm-secrets) - DEPRECATED A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [FairwindsOps/rok8s-scripts](https://github.com/FairwindsOps/rok8s-scripts) - Opinionated scripts for managing application deployment lifecycle in Kubernetes
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 700 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, 
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 750 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [pbiggar/rash](https://github.com/pbiggar/rash) - Rebourne Again Shell
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
