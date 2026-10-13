@@ -1892,7 +1892,6 @@
 - [IntersectMBO/plutus](https://github.com/IntersectMBO/plutus) - The Plutus language implementation and tools
 - [ndmitchell/bake](https://github.com/ndmitchell/bake) - UNMAINTAINED: Continuous integration server
 - [hercules-ci/legacy-old-hercules](https://github.com/hercules-ci/legacy-old-hercules) - Abandoned
-- [chrisdone/lucid](https://github.com/chrisdone/lucid) - Clear to write, read and edit DSL for writing HTML
 - [snoyberg/conduit](https://github.com/snoyberg/conduit) - A streaming data library
 - [jwiegley/simple-conduit](https://github.com/jwiegley/simple-conduit) - 
 - [ocramz/xeno](https://github.com/ocramz/xeno) - Fast Haskell XML parser
@@ -2102,7 +2101,6 @@
 - [paf31/language-typescript](https://github.com/paf31/language-typescript) - Haskell library for working with TypeScript Definition files
 - [ekmett/ersatz](https://github.com/ekmett/ersatz) - A monad for interfacing with external SAT solvers
 - [travitch/datalog](https://github.com/travitch/datalog) - A pure Haskell implementation of Datalog
-- [chrisdone/hell](https://github.com/chrisdone/hell) - Haskell-based shell scripting language
 - [bitemyapp/bloodhound](https://github.com/bitemyapp/bloodhound) - Haskell Elasticsearch client and query DSL
 - [sol/doctest](https://github.com/sol/doctest) - An implementation of Python's doctest for Haskell
 - [system-f/fp-course](https://github.com/system-f/fp-course) - Functional Programming Course
