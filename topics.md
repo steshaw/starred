@@ -5136,7 +5136,6 @@
 - [tamarin-prover/tamarin-prover](https://github.com/tamarin-prover/tamarin-prover) - Main source code repository of the Tamarin prover for security protocol verification.
 - [ndmitchell/bake](https://github.com/ndmitchell/bake) - UNMAINTAINED: Continuous integration server
 - [Ericson2314/nixos-configuration](https://github.com/Ericson2314/nixos-configuration) - Much better than a .dotfiles repo
-- [chrisdone/lucid](https://github.com/chrisdone/lucid) - Clear to write, read and edit DSL for writing HTML
 - [snoyberg/conduit](https://github.com/snoyberg/conduit) - A streaming data library
 - [jwiegley/simple-conduit](https://github.com/jwiegley/simple-conduit) - 
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
@@ -5822,7 +5821,6 @@
 - [HaskellDC/Meetup-Materials](https://github.com/HaskellDC/Meetup-Materials) - 
 - [travitch/datalog](https://github.com/travitch/datalog) - A pure Haskell implementation of Datalog
 - [projectional-haskell/structured-haskell-mode](https://github.com/projectional-haskell/structured-haskell-mode) - Structured editing minor mode for Haskell in Emacs
-- [chrisdone/hell](https://github.com/chrisdone/hell) - Haskell-based shell scripting language
 - [apenwarr/sshuttle](https://github.com/apenwarr/sshuttle) - Wrong project!  You should head over to http://github.com/sshuttle/sshuttle
 - [frenetic-lang/frenetic](https://github.com/frenetic-lang/frenetic) - The Frenetic Programming Language and Runtime System
 - [bitemyapp/bloodhound](https://github.com/bitemyapp/bloodhound) - Haskell Elasticsearch client and query DSL
