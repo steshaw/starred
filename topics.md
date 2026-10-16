@@ -300,7 +300,7 @@
 ## agents 
 
 - [embabel/embabel-agent](https://github.com/embabel/embabel-agent) - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
-- [xorq-labs/xorq](https://github.com/xorq-labs/xorq) - Git-native executable catalog for agentic data work.
+- [xorq-labs/xorq](https://github.com/xorq-labs/xorq) - Git-native executable ledger for agentic data work.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [nikivdev/code](https://github.com/nikivdev/code) - 
 
@@ -7049,7 +7049,7 @@
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - The most popular Kubernetes Operator for PostgreSQL.
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [apache/beam](https://github.com/apache/beam) - Apache Beam is a unified programming model for Batch and Streaming data processing.
-- [xorq-labs/xorq](https://github.com/xorq-labs/xorq) - Git-native executable catalog for agentic data work.
+- [xorq-labs/xorq](https://github.com/xorq-labs/xorq) - Git-native executable ledger for agentic data work.
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
