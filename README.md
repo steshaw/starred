@@ -2414,6 +2414,7 @@
 
 ## JavaScript 
 
+- [denialromeo/4462-chess-problems](https://github.com/denialromeo/4462-chess-problems) - Porting Laszlo Polgar's work to web.
 - [rooklift/nibbler](https://github.com/rooklift/nibbler) - Chess analysis GUI for UCI engines, with extra features for Leela (Lc0) in particular.
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 - [pullpo-io/conventional-comments](https://github.com/pullpo-io/conventional-comments) - Chrome and Firefox extension for Conventional Comments in GitHub UI.
@@ -3744,7 +3745,7 @@
 - [uutils/parse_datetime](https://github.com/uutils/parse_datetime) - Parses a relative time string and returns a jiff::Zoned object
 - [uutils/ansi-width](https://github.com/uutils/ansi-width) - Calculate the width of a string when printed to the terminal
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
-- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Rust profiler for CPU, memory, SQL, HTTP, and async performance, with Prometheus and Grafana support.
+- [hotpath-rs/hotpath](https://github.com/hotpath-rs/hotpath) - Rust profiler for CPU, memory, SQL, HTTP, and async performance, with Prometheus and Grafana support.
 - [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk) - Durable & Deterministic Workflow Engine
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize, query, and stream to train on multimodal robotics data.
 - [oxide-byte/rust-berlin-leptos](https://github.com/oxide-byte/rust-berlin-leptos) - Rust Hack and Learn in Berlin Challenge to implement a Site in as many Frameworks as possible. This implementation is : Leptos - Axum - SurrealDB - GraphQL (Bonus: Keycloak + Ratatui)
@@ -4484,6 +4485,7 @@
 
 ## TypeScript 
 
+- [jhlywa/chess.js](https://github.com/jhlywa/chess.js) - A TypeScript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection
 - [dancamma/react-chess-tools](https://github.com/dancamma/react-chess-tools) - A set of React components for building chess apps.
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
 - [andremichelle/openDAW](https://github.com/andremichelle/openDAW) - openDAW is a next-generation web-based Digital Audio Workstation (DAW)
