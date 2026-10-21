@@ -482,7 +482,7 @@
 - [dirkwhoffmann/virtualc64](https://github.com/dirkwhoffmann/virtualc64) - VirtualC64 is a cycle-accurate C64 emulator for macOS
 - [dirkwhoffmann/vAmiga](https://github.com/dirkwhoffmann/vAmiga) - vAmiga is a user-friendly Amiga 500, 1000, 2000 emulator for macOS
 - [Gecode/gecode](https://github.com/Gecode/gecode) - Generic Constraint Development Environment
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is a high-performance analytical database system
 - [redeclipse/base](https://github.com/redeclipse/base) - Base environment for Red Eclipse and associated source files.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [microsoft/verona](https://github.com/microsoft/verona) - Research programming language for concurrent ownership
@@ -3459,7 +3459,7 @@
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [apache/buildstream](https://github.com/apache/buildstream) - BuildStream, the software integration tool
-- [xorq-labs/xorq](https://github.com/xorq-labs/xorq) - Git-native execution ledger for agentic data work.
+- [xorq-labs/xorq](https://github.com/xorq-labs/xorq) - Deterministic computation ledger for agentic data work.
 - [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
 - [arecarn/dploy](https://github.com/arecarn/dploy) - Provides the functionality of GNU Stow in a cross platform CLI tool and python module
 - [jython/jython](https://github.com/jython/jython) - Python for the Java Platform
@@ -3595,7 +3595,7 @@
 
 ## QML 
 
-- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
+- [duxlabs-dev/dux-shell](https://github.com/duxlabs-dev/dux-shell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
 
 ## Racket 
 
