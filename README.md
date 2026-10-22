@@ -1288,7 +1288,7 @@
 - [archive567/color-adjust](https://github.com/archive567/color-adjust) - 
 - [AndrasKovacs/flatparse](https://github.com/AndrasKovacs/flatparse) - Fast parsing from bytestrings
 - [YPares/porcupine](https://github.com/YPares/porcupine) - Express parametrable, composable and portable data pipelines
-- [input-output-hk/foliage](https://github.com/input-output-hk/foliage) - 🌿 Foliage is a tool to create custom Haskell package repositories, in a fully reproducible way.
+- [ican-group/foliage](https://github.com/ican-group/foliage) - 🌿 Foliage is a tool to create custom Haskell package repositories, in a fully reproducible way.
 - [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp) - 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
 - [freckle/stackctl](https://github.com/freckle/stackctl) - Manage CloudFormation Stacks through specifications
 - [Gabriella439/grace](https://github.com/Gabriella439/grace) - A prompt engineering functional programming language
@@ -2933,7 +2933,7 @@
 - [nix-community/nix-bundle](https://github.com/nix-community/nix-bundle) - Bundle Nix derivations to run anywhere! [maintainer=@matthewbauer, @Artturin]
 - [svanderburg/node2nix](https://github.com/svanderburg/node2nix) - Generate Nix expressions to build NPM packages
 - [yurrriq/dotfiles](https://github.com/yurrriq/dotfiles) - My (semi-)literate dotfiles for Nix, Emacs, fish, etc, managed with home-manager and GNU Stow
-- [input-output-hk/haskell.nix](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
+- [ican-group/haskell.nix](https://github.com/ican-group/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs
 - [mpickering/old-ghc-nix](https://github.com/mpickering/old-ghc-nix) - Old and New GHC
 - [kalbasit/nur-packages](https://github.com/kalbasit/nur-packages) - NUR - https://github.com/nix-community/NUR
 - [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell
@@ -3459,7 +3459,7 @@
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [apache/buildstream](https://github.com/apache/buildstream) - BuildStream, the software integration tool
-- [xorq-labs/xorq](https://github.com/xorq-labs/xorq) - Deterministic computation ledger for agentic data work.
+- [xorq-labs/xorq](https://github.com/xorq-labs/xorq) - Deterministic ledger for agentic data work.
 - [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
 - [arecarn/dploy](https://github.com/arecarn/dploy) - Provides the functionality of GNU Stow in a cross platform CLI tool and python module
 - [jython/jython](https://github.com/jython/jython) - Python for the Java Platform
@@ -3724,6 +3724,7 @@
 
 ## Rust 
 
+- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 - [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) - Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [substrait-io/substrait-rs](https://github.com/substrait-io/substrait-rs) - Rust crate for Substrait: Cross-Language Serialization for Relational Algebra
