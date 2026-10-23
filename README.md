@@ -597,7 +597,7 @@
 - [Mrcuve0/Aritim-Dark](https://github.com/Mrcuve0/Aritim-Dark) - A Dark theme for both KDE and GTK based DEs, deeply inspired by the Ayu Dark color palette
 - [remy/mit-license](https://github.com/remy/mit-license) - Hosted MIT License with details controlled through this repo
 - [csstools/sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
-- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
+- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style with custom syntax themes for code, editors and notebooks
 - [FrankConijn/Firefox-Quantum-Rounded-Tabs](https://github.com/FrankConijn/Firefox-Quantum-Rounded-Tabs) - Re-shapes the default square tabs of Firefox Quantum and beautifies a couple more things.
 - [jagregory/abrash-black-book](https://github.com/jagregory/abrash-black-book) - Markdown source for Michael Abrash's Graphics Programming Black Book
 - [BinRoot/Haskell-Lectures](https://github.com/BinRoot/Haskell-Lectures) - Introduction to Haskell, CS 1501 Lecture slides
@@ -2137,9 +2137,6 @@
 - [bobatkey/foveran](https://github.com/bobatkey/foveran) - A Dependently Typed Programming Language
 - [batterseapower/openshake](https://github.com/batterseapower/openshake) - An open source reimplementation of Neil Mitchell's Shake build system
 - [valderman/lambdascript](https://github.com/valderman/lambdascript) - Ugly prototype language for strongly typed, lazy, purely functional client side web scripting
-- [archhaskell/archlinux-web](https://github.com/archhaskell/archlinux-web) - 
-- [archhaskell/archlinux](https://github.com/archhaskell/archlinux) - 
-- [archhaskell/cabal2arch](https://github.com/archhaskell/cabal2arch) - 
 - [ghcjs/ghcjs](https://github.com/ghcjs/ghcjs) - Haskell to JavaScript compiler, based on GHC
 - [intoverflow/Potential](https://github.com/intoverflow/Potential) - x86-64 assembly as a Haskell EDSL
 - [edwinb/Idris-old](https://github.com/edwinb/Idris-old) - A language with dependent types
@@ -4336,7 +4333,6 @@
 - [progrium/buildpack-nginx](https://github.com/progrium/buildpack-nginx) - nginx buildpack
 - [phusion/open-vagrant-boxes](https://github.com/phusion/open-vagrant-boxes) - Docker-compatible Vagrant base boxes
 - [progrium/gitreceive](https://github.com/progrium/gitreceive) - Easily accept and handle arbitrary git pushes
-- [archhaskell/habs](https://github.com/archhaskell/habs) - Arch Haskell ABS tree
 
 ## Shen 
 
