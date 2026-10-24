@@ -83,6 +83,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [downloader](#downloader)
 - [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
@@ -480,7 +481,7 @@
 - [linsa-io/books](https://github.com/linsa-io/books) - Awesome Books
 - [linsa-io/courses](https://github.com/linsa-io/courses) - Awesome Courses
 - [joaomilho/awesome-idris](https://github.com/joaomilho/awesome-idris) - 𝛌 Awesome Idris resources
-- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
+- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style with custom syntax themes for code, editors and notebooks
 - [src-d/awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) - Cool links & research papers related to Machine Learning applied to source code (MLonCode)
 - [lotz84/haskell](https://github.com/lotz84/haskell) - A curated list of awesome things related to Haskell.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
@@ -1107,7 +1108,7 @@
 - [csstools/sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
 - [jgthms/minireset.css](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset
-- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
+- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style with custom syntax themes for code, editors and notebooks
 - [DarkThemeHub/GithubDarkTheme](https://github.com/DarkThemeHub/GithubDarkTheme) - Dark Theme for Github
 - [jgthms/marksheet](https://github.com/jgthms/marksheet) - Free tutorial to learn HTML and CSS
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
@@ -1474,6 +1475,10 @@
 - [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, release notes, and more!
 - [dotnet/coreclr](https://github.com/dotnet/coreclr) - CoreCLR is the runtime for .NET Core. It includes the garbage collector, JIT compiler, primitive data types and low-level classes.
 
+## downloader 
+
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+
 ## education 
 
 - [brownplt/pyret-lang](https://github.com/brownplt/pyret-lang) - The Pyret language.
@@ -1816,7 +1821,7 @@
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
 - [kowainik/hit-on](https://github.com/kowainik/hit-on) - :octocat: Kowainik Git Workflow Helper Tool
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
+- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style with custom syntax themes for code, editors and notebooks
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [DarkThemeHub/GithubDarkTheme](https://github.com/DarkThemeHub/GithubDarkTheme) - Dark Theme for Github
 - [47degrees/org](https://github.com/47degrees/org) - Easily create a webpage with your organization's open source projects
@@ -2186,7 +2191,6 @@
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [EbookFoundation/free-science-books](https://github.com/EbookFoundation/free-science-books) - Inspired by free-programming-books, here's free-science-books
 - [niieani/typescript-vs-flowtype](https://github.com/niieani/typescript-vs-flowtype) - Differences between Flowtype and TypeScript -- syntax and usability
-- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [cdepillabout/pretty-simple](https://github.com/cdepillabout/pretty-simple) - pretty-printer for Haskell data types that have a Show instance
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [erlang/rebar3](https://github.com/erlang/rebar3) - Erlang build tool that makes it easy to compile and test Erlang applications and releases.
@@ -4257,8 +4261,8 @@
 - [gpg/gnupg](https://github.com/gpg/gnupg) - The GNU Privacy Guard. NOTE: Maintainers are not tracking this mirror. Do not make pull requests here, nor comment any commits, submit them usual way to bug tracker (https://www.gnupg.org/documentatio
 - [cleverca22/not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
-- [input-output-hk/stackage.nix](https://github.com/input-output-hk/stackage.nix) - Automatically generated Nix expressions of Stackage snapshots
-- [input-output-hk/hackage.nix](https://github.com/input-output-hk/hackage.nix) - Automatically generated Nix expressions for Hackage
+- [ican-group/stackage.nix](https://github.com/ican-group/stackage.nix) - Automatically generated Nix expressions of Stackage snapshots
+- [ican-group/hackage.nix](https://github.com/ican-group/hackage.nix) - Automatically generated Nix expressions for Hackage
 - [worldofpeace/events](https://github.com/worldofpeace/events) - Current documentation for NixOS Office Hours
 - [adamgundry/type-inference](https://github.com/adamgundry/type-inference) - Unification and type inference algorithms
 - [linsa-io/linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
@@ -4798,7 +4802,6 @@
 - [kosmikus/SSGEP](https://github.com/kosmikus/SSGEP) - 
 - [bos/pool](https://github.com/bos/pool) - A high-performance striped resource pooling implementation for Haskell
 - [MichaelXavier/Angel](https://github.com/MichaelXavier/Angel) - Process Monitoring/Management, Like Daemontools
-- [feedbackfruits/seriouspizzas](https://github.com/feedbackfruits/seriouspizzas) - 
 - [vmchale/linkedin-madlibs](https://github.com/vmchale/linkedin-madlibs) - Source for linkedin article generator
 - [vmchale/recursion-schemata](https://github.com/vmchale/recursion-schemata) - Generate fake recursion schemes
 - [vmchale/ats-format](https://github.com/vmchale/ats-format) - ATS source code formatter
@@ -6040,11 +6043,7 @@
 - [ymasory/Lang-Chart](https://github.com/ymasory/Lang-Chart) - Comparison of programming languages
 - [domrein/FlxInvaders-Haxe](https://github.com/domrein/FlxInvaders-Haxe) - Port of FlxInvaders to Haxe to run on iOS
 - [domrein/Flixel-Haxe](https://github.com/domrein/Flixel-Haxe) - Port of Flixel game engine to haXe with a focus on iOS development
-- [archhaskell/archlinux-web](https://github.com/archhaskell/archlinux-web) - 
-- [archhaskell/archlinux](https://github.com/archhaskell/archlinux) - 
 - [jdegoes/blueeyes](https://github.com/jdegoes/blueeyes) - A lightweight Web 3.0 framework for Scala, featuring a purely asynchronous architecture, extremely high-performance, massive scalability, high usability, and a functional, composable design.
-- [archhaskell/habs](https://github.com/archhaskell/habs) - Arch Haskell ABS tree
-- [archhaskell/cabal2arch](https://github.com/archhaskell/cabal2arch) - 
 - [steshaw/hello](https://github.com/steshaw/hello) - Hello repo for learning Git
 - [steshaw/calcc](https://github.com/steshaw/calcc) - A tiny compiler for a toy C-like language
 - [senko/calcc](https://github.com/senko/calcc) - A tiny compiler for a toy C-like language
@@ -7185,7 +7184,7 @@
 - [cirocosta/asciinema-edit](https://github.com/cirocosta/asciinema-edit) - asciinema casts post-production tools
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [jtdaugherty/brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI library written in Haskell
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 750 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 850 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [gnunn1/tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
