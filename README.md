@@ -2921,8 +2921,8 @@
 - [Gabriella439/simple-twitter](https://github.com/Gabriella439/simple-twitter) - A bare-bones Twitter clone implemented in a single file
 - [xtruder/kubenix](https://github.com/xtruder/kubenix) - Replaced by https://github.com/hall/kubenix
 - [cleverca22/not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
-- [input-output-hk/stackage.nix](https://github.com/input-output-hk/stackage.nix) - Automatically generated Nix expressions of Stackage snapshots
-- [input-output-hk/hackage.nix](https://github.com/input-output-hk/hackage.nix) - Automatically generated Nix expressions for Hackage
+- [ican-group/stackage.nix](https://github.com/ican-group/stackage.nix) - Automatically generated Nix expressions of Stackage snapshots
+- [ican-group/hackage.nix](https://github.com/ican-group/hackage.nix) - Automatically generated Nix expressions for Hackage
 - [cachix/ghcide-nix](https://github.com/cachix/ghcide-nix) - Nix installation for ghcide
 - [infinisil/all-hies](https://github.com/infinisil/all-hies) - Cached Haskell IDE Engine Nix builds for all GHC versions
 - [nh2/static-haskell-nix](https://github.com/nh2/static-haskell-nix) - easily build most Haskell programs into fully static Linux executables
@@ -3198,7 +3198,6 @@
 - [nbro/understanding-math](https://github.com/nbro/understanding-math) - Links to resources talking about how to learn & understand mathematics, and mathematical language, terminology and notation.
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]
 - [proudcloud/awesome](https://github.com/proudcloud/awesome) - What makes Proudcloud awesome.
-- [feedbackfruits/seriouspizzas](https://github.com/feedbackfruits/seriouspizzas) - 
 - [yallop/effects-bibliography](https://github.com/yallop/effects-bibliography) - A collaborative bibliography of work related to the theory and practice of computational effects
 - [sporto/awesome-elm](https://github.com/sporto/awesome-elm) - A curated list of useful Elm tutorials, libraries and software. Inspired by awesome list. Feel free to contribute. :rocket:
 - [NataliaLKB/learn-git-basics](https://github.com/NataliaLKB/learn-git-basics) - A Beginner's Guide to Git
@@ -4282,7 +4281,7 @@
 - [commercialhaskell/lts-haskell](https://github.com/commercialhaskell/lts-haskell) - LTS Haskell build plans
 - [zendesk/helm-secrets](https://github.com/zendesk/helm-secrets) - DEPRECATED A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [FairwindsOps/rok8s-scripts](https://github.com/FairwindsOps/rok8s-scripts) - Opinionated scripts for managing application deployment lifecycle in Kubernetes
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 750 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 850 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [pbiggar/rash](https://github.com/pbiggar/rash) - Rebourne Again Shell
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
