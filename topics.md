@@ -5437,7 +5437,7 @@
 - [thoughtbot/Argo](https://github.com/thoughtbot/Argo) - Functional JSON parsing library for Swift
 - [mietek/haskell-on-heroku](https://github.com/mietek/haskell-on-heroku) - Buildpack for deploying Haskell apps
 - [mikeizbicki/HLearn](https://github.com/mikeizbicki/HLearn) - Homomorphic machine learning
-- [atsky/haskell-idea-plugin](https://github.com/atsky/haskell-idea-plugin) - IntelliJ IDEA plugin for Haskell
+- [kurbatsky/haskell-idea-plugin](https://github.com/kurbatsky/haskell-idea-plugin) - IntelliJ IDEA plugin for Haskell
 - [jroesch/290c-reading-list](https://github.com/jroesch/290c-reading-list) - A reading list with citations for UCSB's CS 290G
 - [jaspervdj/hakyll](https://github.com/jaspervdj/hakyll) - A static website compiler library in Haskell
 - [prowdsponsor/esqueleto](https://github.com/prowdsponsor/esqueleto) - Bare bones, type-safe EDSL for SQL queries on persistent backends.
