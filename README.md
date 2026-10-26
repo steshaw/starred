@@ -134,7 +134,6 @@
 - [xanadu-lang/xanadu](https://github.com/xanadu-lang/xanadu) - This repository is supposed to hold a released version of Xanadu
 - [xanadu-lang/xinterp](https://github.com/xanadu-lang/xinterp) - An interpreter for the D3-level syntax of ATS3/Xanadu
 - [githwxi/ATS-Temptory](https://github.com/githwxi/ATS-Temptory) - For supporting template-based programming
-- [githwxi/ATS-Xanadu](https://github.com/githwxi/ATS-Xanadu) - Bootstrapping ATS3
 - [vmchale/polyglot](https://github.com/vmchale/polyglot) - Tool to count lines of source code.
 - [githwxi/ATS-Postiats](https://github.com/githwxi/ATS-Postiats) - ATS2: Unleashing the Potentials of Types and Templates
 
@@ -2783,7 +2782,7 @@
 - [arrow-kt/arrow](https://github.com/arrow-kt/arrow) - The perfect companion for your Kotlin journey - Inspired by functional, data-oriented and concurrent programming
 - [MarioAriasC/funKTionale](https://github.com/MarioAriasC/funKTionale) - Functional constructs for Kotlin
 - [swr1bm86/intellij-rainbow](https://github.com/swr1bm86/intellij-rainbow) - Rainbow highlighting identifiers and delimiters for IntelliJ IDEA-based IDEs
-- [atsky/haskell-idea-plugin](https://github.com/atsky/haskell-idea-plugin) - IntelliJ IDEA plugin for Haskell
+- [kurbatsky/haskell-idea-plugin](https://github.com/kurbatsky/haskell-idea-plugin) - IntelliJ IDEA plugin for Haskell
 - [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
 
 ## LLVM 
@@ -3536,6 +3535,7 @@
 - [apenwarr/redo](https://github.com/apenwarr/redo) - Smaller, easier, more powerful, and more reliable than make.  An implementation of djb's redo.
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
+- [githwxi/ATS-Xanadu](https://github.com/githwxi/ATS-Xanadu) - Bootstrapping ATS3
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
 - [egh/ledger-autosync](https://github.com/egh/ledger-autosync) - Synchronize your ledger-cli files with your bank.
 - [weaveworks/kubediff](https://github.com/weaveworks/kubediff) - Kubediff: a tool for Kubernetes to show differences between running state and version controlled configuration.
