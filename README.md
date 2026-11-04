@@ -224,6 +224,7 @@
 - [jart/sectorlisp](https://github.com/jart/sectorlisp) - Bootstrapping LISP in a Boot Sector
 - [koka-lang/libmprompt](https://github.com/koka-lang/libmprompt) - Robust multi-prompt delimited control and effect handlers in C/C++
 - [axboe/liburing](https://github.com/axboe/liburing) - Library providing helpers for the Linux kernel io_uring support
+- [redeclipse/base](https://github.com/redeclipse/base) - Base environment for Red Eclipse and associated source files.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [aripiprazole/lura](https://github.com/aripiprazole/lura) - 🍞 | IDE focused programming language study
 - [gibbon-compiler/gibbon](https://github.com/gibbon-compiler/gibbon) - A compiler for functional programs on serialized data
@@ -482,7 +483,6 @@
 - [dirkwhoffmann/vAmiga](https://github.com/dirkwhoffmann/vAmiga) - vAmiga is a user-friendly Amiga 500, 1000, 2000 emulator for macOS
 - [Gecode/gecode](https://github.com/Gecode/gecode) - Generic Constraint Development Environment
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is a high-performance analytical database system
-- [redeclipse/base](https://github.com/redeclipse/base) - Base environment for Red Eclipse and associated source files.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [microsoft/verona](https://github.com/microsoft/verona) - Research programming language for concurrent ownership
 - [pisa-engine/pisa](https://github.com/pisa-engine/pisa) - PISA: Performant Indexes and Search for Academia
