@@ -267,6 +267,7 @@
 - [visual-studio-code](#visual-studio-code)
 - [visualization](#visualization)
 - [vpn](#vpn)
+- [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -3959,7 +3960,6 @@
 - [nomeata/inspection-testing](https://github.com/nomeata/inspection-testing) - Inspection Testing for Haskell
 - [Gabriella439/list-transformer](https://github.com/Gabriella439/list-transformer) - List monad transformer
 - [ashleydavis/getting-started-with-microservices](https://github.com/ashleydavis/getting-started-with-microservices) - Example code created during live coding at my talk "Getting Started with Microservices" at London Code Skill Buddy.
-- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [sampsyo/cs6120](https://github.com/sampsyo/cs6120) - advanced compilers
 - [zio-archive/zio-flow](https://github.com/zio-archive/zio-flow) - Resilient, distributed applications powered by ZIO
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
@@ -7446,6 +7446,19 @@
 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+
+## vscode 
+
+- [eclipse-langium/langium](https://github.com/eclipse-langium/langium) - Next-gen language engineering / DSL framework
+- [xtruder/nix-devcontainer](https://github.com/xtruder/nix-devcontainer) - Swiss army knife container for vscode development environments
+- [golang/vscode-go](https://github.com/golang/vscode-go) - Go extension for Visual Studio Code
+- [srid/rust-nix-template](https://github.com/srid/rust-nix-template) - Rust project template with Nix (Flakes) and VSCode support
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
+- [haskell/vscode-haskell](https://github.com/haskell/vscode-haskell) - VS Code extension for Haskell, powered by haskell-language-server
+- [vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) - Emacs Org Mode for Visual Studio Code
+- [haskelly-dev/Haskelly](https://github.com/haskelly-dev/Haskelly) - Haskelly is a VS Code extension that provides complete support for casual and expert Haskell development.
+- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 
 ## vue 
 
