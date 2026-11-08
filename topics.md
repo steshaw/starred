@@ -165,6 +165,7 @@
 - [material-design](#material-design)
 - [maven](#maven)
 - [mcp](#mcp)
+- [mcp-server](#mcp-server)
 - [microservices](#microservices)
 - [microsoft](#microsoft)
 - [mobile](#mobile)
@@ -484,10 +485,10 @@
 - [weaveworks/awesome-gitops](https://github.com/weaveworks/awesome-gitops) - A curated list for awesome GitOps resources
 - [posquit0/hugo-awesome-identity](https://github.com/posquit0/hugo-awesome-identity) - 😤 Awesome Identity is a single-page Hugo theme to introduce yourself.
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
-- [linsa-io/research-papers](https://github.com/linsa-io/research-papers) - Awesome Research Papers
-- [linsa-io/programming-languages](https://github.com/linsa-io/programming-languages) - Awesome Programming Languages
-- [linsa-io/books](https://github.com/linsa-io/books) - Awesome Books
-- [linsa-io/courses](https://github.com/linsa-io/courses) - Awesome Courses
+- [gendotnew/research-papers](https://github.com/gendotnew/research-papers) - Awesome Research Papers
+- [gendotnew/programming-languages](https://github.com/gendotnew/programming-languages) - Awesome Programming Languages
+- [gendotnew/books](https://github.com/gendotnew/books) - Awesome Books
+- [gendotnew/courses](https://github.com/gendotnew/courses) - Awesome Courses
 - [joaomilho/awesome-idris](https://github.com/joaomilho/awesome-idris) - 𝛌 Awesome Idris resources
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style with custom syntax themes for code, editors and notebooks
 - [src-d/awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) - Cool links & research papers related to Machine Learning applied to source code (MLonCode)
@@ -530,10 +531,10 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [weaveworks/awesome-gitops](https://github.com/weaveworks/awesome-gitops) - A curated list for awesome GitOps resources
-- [linsa-io/research-papers](https://github.com/linsa-io/research-papers) - Awesome Research Papers
-- [linsa-io/programming-languages](https://github.com/linsa-io/programming-languages) - Awesome Programming Languages
-- [linsa-io/books](https://github.com/linsa-io/books) - Awesome Books
-- [linsa-io/courses](https://github.com/linsa-io/courses) - Awesome Courses
+- [gendotnew/research-papers](https://github.com/gendotnew/research-papers) - Awesome Research Papers
+- [gendotnew/programming-languages](https://github.com/gendotnew/programming-languages) - Awesome Programming Languages
+- [gendotnew/books](https://github.com/gendotnew/books) - Awesome Books
+- [gendotnew/courses](https://github.com/gendotnew/courses) - Awesome Courses
 - [joaomilho/awesome-idris](https://github.com/joaomilho/awesome-idris) - 𝛌 Awesome Idris resources
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [src-d/awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) - Cool links & research papers related to Machine Learning applied to source code (MLonCode)
@@ -1491,8 +1492,8 @@
 
 - [brownplt/pyret-lang](https://github.com/brownplt/pyret-lang) - The Pyret language.
 - [google/codeworld](https://github.com/google/codeworld) - Educational computer programming environment using Haskell
-- [linsa-io/books](https://github.com/linsa-io/books) - Awesome Books
-- [linsa-io/courses](https://github.com/linsa-io/courses) - Awesome Courses
+- [gendotnew/books](https://github.com/gendotnew/books) - Awesome Books
+- [gendotnew/courses](https://github.com/gendotnew/courses) - Awesome Courses
 - [sjsyrek/haskell-study-startup](https://github.com/sjsyrek/haskell-study-startup) - Launch your own Haskell study group. Now.
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
@@ -3078,9 +3079,9 @@
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [dwyl/learn-elm](https://github.com/dwyl/learn-elm) - :rainbow: discover the beautiful programming language that makes front-end web apps a joy to build and maintain!
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-- [linsa-io/programming-languages](https://github.com/linsa-io/programming-languages) - Awesome Programming Languages
-- [linsa-io/books](https://github.com/linsa-io/books) - Awesome Books
-- [linsa-io/courses](https://github.com/linsa-io/courses) - Awesome Courses
+- [gendotnew/programming-languages](https://github.com/gendotnew/programming-languages) - Awesome Programming Languages
+- [gendotnew/books](https://github.com/gendotnew/books) - Awesome Books
+- [gendotnew/courses](https://github.com/gendotnew/courses) - Awesome Courses
 - [scala-exercises/scala-exercises](https://github.com/scala-exercises/scala-exercises) - The easy way to learn Scala.
 - [soupi/haskell-study-plan](https://github.com/soupi/haskell-study-plan) - An opinionated list of resources for learning Haskell
 - [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
@@ -3310,6 +3311,14 @@
 - [hotpath-rs/hotpath](https://github.com/hotpath-rs/hotpath) - Rust profiler for CPU, memory, SQL, HTTP, and async performance, with Prometheus and Grafana support.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) - Portable AI agent runtime for the JVM. One @Agent class runs on Spring AI, LangChain4j, Anthropic, or 9 more behind one SPI. Token streaming, tool calls, human approvals, and governance over WebSocket
+
+## mcp-server 
+
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [Aaronontheweb/mssql-mcp](https://github.com/Aaronontheweb/mssql-mcp) - MSSQL Server MCP implementation written in C#
+- [modelcontextprotocol/csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk) - The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration with Microsoft.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 
 ## microservices 
 
@@ -4259,7 +4268,7 @@
 - [bjpop/ministg](https://github.com/bjpop/ministg) - Ministg is an interpreter for a high-level, small-step, operational semantics for the STG machine.
 - [bjpop/blip](https://github.com/bjpop/blip) - A bytecode compiler for Python 3
 - [ocharles/tasty-rerun](https://github.com/ocharles/tasty-rerun) - Rerun previous test suite runs to run only failing tests
-- [awalterschulze/learning](https://github.com/awalterschulze/learning) - A list of videos, playlists, blog posts, papers, books, etc. that I have learned from and still intend to learn from.
+- [awalterschulze/learning](https://github.com/awalterschulze/learning) - Moved to https://git.awalterschulze.org/learning
 - [mightybyte/fake](https://github.com/mightybyte/fake) - Generate realistic looking fake data
 - [matt-noonan/gdp](https://github.com/matt-noonan/gdp) - Ghosts of Departed Proofs
 - [fumieval/xml-lens](https://github.com/fumieval/xml-lens) - Lenses and traversals for xml-conduit
@@ -4273,7 +4282,7 @@
 - [ican-group/hackage.nix](https://github.com/ican-group/hackage.nix) - Automatically generated Nix expressions for Hackage
 - [worldofpeace/events](https://github.com/worldofpeace/events) - Current documentation for NixOS Office Hours
 - [adamgundry/type-inference](https://github.com/adamgundry/type-inference) - Unification and type inference algorithms
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
+- [gendotnew/ai](https://github.com/gendotnew/ai) - 
 - [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries
 - [cachix/ghcide-nix](https://github.com/cachix/ghcide-nix) - Nix installation for ghcide
 - [haskell/ghcide](https://github.com/haskell/ghcide) - A library for building Haskell IDE tooling
