@@ -56,6 +56,7 @@
 - [Jsonnet](#jsonnet)
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Just](#just)
 - [Kit](#kit)
 - [Koka](#koka)
 - [Kotlin](#kotlin)
@@ -463,7 +464,6 @@
 
 ## C++ 
 
-- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland.
@@ -1182,7 +1182,7 @@
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc) — browse & search it at tpn.github.io/pdfs
 - [jwasham/computer-science-flash-cards](https://github.com/jwasham/computer-science-flash-cards) - Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
 - [haskell/haddock](https://github.com/haskell/haddock) - Haskell Documentation Tool
-- [neoascetic/rawgithack](https://github.com/neoascetic/rawgithack) - Serves files from github, bitbucket and gitlab, but with the correct content types
+- [neoascetic/rawgithack](https://github.com/neoascetic/rawgithack) - Serves files from code hosting services but with the correct content types
 - [tpolecat/cofree](https://github.com/tpolecat/cofree) - Fun and Games with Fix, Cofree, and Doobie
 - [foundation/foundation-emails](https://github.com/foundation/foundation-emails) - Quickly create responsive HTML emails that work on any device and client. Even Outlook.
 - [thoughtbot/bitters](https://github.com/thoughtbot/bitters) - Add a dash of pre-defined style to your Bourbon.
@@ -2747,6 +2747,10 @@
 - [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
 - [deanwampler/spark-scala-tutorial](https://github.com/deanwampler/spark-scala-tutorial) - A free tutorial for Apache Spark.
 
+## Just 
+
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
+
 ## Kit 
 
 - [bendmorris/krit-kit](https://github.com/bendmorris/krit-kit) - [deprecated] 2D game engine, written in Kit, using SDL/OpenGL. See more recent C++ version at https://github.com/bendmorris/krit
@@ -3716,6 +3720,7 @@
 
 - [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 - [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) - Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel.
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [substrait-io/substrait-rs](https://github.com/substrait-io/substrait-rs) - Rust crate for Substrait: Cross-Language Serialization for Relational Algebra
 - [txpipe/dolos](https://github.com/txpipe/dolos) - Cardano Data Node
@@ -4220,7 +4225,6 @@
 
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [mchav/with](https://github.com/mchav/with) - Command prefixing for continuous workflow using a single tool.
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 - [omacom/omakub](https://github.com/omacom/omakub) - Retired — the story lives at https://omarchy.org/omakub, the thread continues at https://omabuntu.omakasui.org
 - [titzer/virgil](https://github.com/titzer/virgil) - A fast and lightweight native programming language
 - [steshaw/shelly](https://github.com/steshaw/shelly) - 🐚 Dotfiles and shell utilities
