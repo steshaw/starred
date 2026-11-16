@@ -642,7 +642,6 @@
 - [riemann/riemann](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure.
 - [mankyKitty/clojure-othello](https://github.com/mankyKitty/clojure-othello) - Clojure Powered Othello Board Game
 - [omcljs/om](https://github.com/omcljs/om) - ClojureScript interface to Facebook's React
-- [abedra/yow-2012](https://github.com/abedra/yow-2012) - My talk for Yow! 2012
 - [nathanmarz/cascalog](https://github.com/nathanmarz/cascalog) - Data processing on Hadoop without the hassle.
 - [richhickey/clojure-contrib](https://github.com/richhickey/clojure-contrib) - NOTE - the contrib libraries have moved to individual repos under Clojure:
 
@@ -4278,7 +4277,7 @@
 - [commercialhaskell/lts-haskell](https://github.com/commercialhaskell/lts-haskell) - LTS Haskell build plans
 - [zendesk/helm-secrets](https://github.com/zendesk/helm-secrets) - DEPRECATED A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [FairwindsOps/rok8s-scripts](https://github.com/FairwindsOps/rok8s-scripts) - Opinionated scripts for managing application deployment lifecycle in Kubernetes
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 950 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 1000 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [pbiggar/rash](https://github.com/pbiggar/rash) - Rebourne Again Shell
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
