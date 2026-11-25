@@ -4427,7 +4427,7 @@
 - [snowleopard/build](https://github.com/snowleopard/build) - Build Systems à la Carte
 - [agda-attic/agda-spec](https://github.com/agda-attic/agda-spec) - Specification of Agda.
 - [epsrc-abcd/session-types-use-cases](https://github.com/epsrc-abcd/session-types-use-cases) - This is a common repository for the ABCD team to share use-cases of session types.
-- [OpenLogicProject/OpenLogic](https://github.com/OpenLogicProject/OpenLogic) - An open-source, customizable intermediate logic textbook
+- [OpenLogicProject/OpenLogic](https://github.com/OpenLogicProject/OpenLogic) - An open-source, customizable teaching resource for intermediate and advanced logic, including several open textbooks.
 - [pennal/LinAlgNotes](https://github.com/pennal/LinAlgNotes) - Repo containing all notes from Prof. Pivkin's class
 - [scheinerman/SampleMathPaper](https://github.com/scheinerman/SampleMathPaper) - A sample mathematics paper to illustrate basic ideas in LaTeX
 - [wilbowma/mttex](https://github.com/wilbowma/mttex) - A LaTeX package for formatting meta-theory.
