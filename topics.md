@@ -4712,7 +4712,7 @@
 - [epsrc-abcd/session-types-use-cases](https://github.com/epsrc-abcd/session-types-use-cases) - This is a common repository for the ABCD team to share use-cases of session types.
 - [VictorTaelin/Caramel](https://github.com/VictorTaelin/Caramel) - A modern syntax for the λ-calculus.
 - [VictorTaelin/Cedille-Core](https://github.com/VictorTaelin/Cedille-Core) - A minimal proof language.
-- [OpenLogicProject/OpenLogic](https://github.com/OpenLogicProject/OpenLogic) - An open-source, customizable intermediate logic textbook
+- [OpenLogicProject/OpenLogic](https://github.com/OpenLogicProject/OpenLogic) - An open-source, customizable teaching resource for intermediate and advanced logic, including several open textbooks.
 - [patrikja/AFPcourse](https://github.com/patrikja/AFPcourse) - http://www.cse.chalmers.se/edu/course/afp/
 - [williamdemeo/TypeFunc](https://github.com/williamdemeo/TypeFunc) - Resources for type theory, functional programming, etc.
 - [treeowl/stm-queues](https://github.com/treeowl/stm-queues) - Experimental TQueue variants
