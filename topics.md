@@ -4052,7 +4052,7 @@
 - [edwinb/SPLV20](https://github.com/edwinb/SPLV20) - SPLV20 course notes
 - [channingwalton/typeclassopedia](https://github.com/channingwalton/typeclassopedia) - My tinkering to understand the typeclassopedia.
 - [zilberstein/system-fc-coq](https://github.com/zilberstein/system-fc-coq) - 
-- [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
+- [pass-extension/pass-import](https://github.com/pass-extension/pass-import) - A pass extension for importing data from most existing password managers
 - [kitlangton/zio-magic](https://github.com/kitlangton/zio-magic) - Construct ZLayers automagically (w/ helpful compile-time errors)
 - [ZHaskell/z-io](https://github.com/ZHaskell/z-io) - IO lib for haskell
 - [ZHaskell/z-data](https://github.com/ZHaskell/z-data) - array, slices and text
