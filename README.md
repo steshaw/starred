@@ -1093,6 +1093,7 @@
 - [heroku/hk](https://github.com/heroku/hk) - DEPRECATED: see
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [mankyKitty/creeper](https://github.com/mankyKitty/creeper) - Super light weight IF file_changed THEN run_this cli app written in Go. :)
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [goraft/raftd](https://github.com/goraft/raftd) - A reference implementation for using the go-raft library for distributed consensus.
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
@@ -4300,7 +4301,7 @@
 - [liquidprompt/liquidprompt](https://github.com/liquidprompt/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [mietek/haskell-on-heroku](https://github.com/mietek/haskell-on-heroku) - Buildpack for deploying Haskell apps
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,600+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [begriffs/heroku-buildpack-ghc](https://github.com/begriffs/heroku-buildpack-ghc) - Deploy Haskell apps to Heroku
 - [mietek/halcyon](https://github.com/mietek/halcyon) - System for installing Haskell apps
@@ -4319,7 +4320,6 @@
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [gcmurphy/golang-openshift](https://github.com/gcmurphy/golang-openshift) - Template for running Go programs on OpenShift
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [bitemyapp/dotfiles](https://github.com/bitemyapp/dotfiles) - My .emacs, .screenrc, etc.
 - [progrium/buildpack-nginx](https://github.com/progrium/buildpack-nginx) - nginx buildpack
 - [phusion/open-vagrant-boxes](https://github.com/phusion/open-vagrant-boxes) - Docker-compatible Vagrant base boxes
